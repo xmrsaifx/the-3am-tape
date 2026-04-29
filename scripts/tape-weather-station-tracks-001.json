@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-weather-station-tracks-001",
+  "character": "narrator",
+  "topic": "I worked at a remote weather station and something started leaving footprints in the snow",
+  "title": "I Worked at a Remote Weather Station and Something Started Leaving Footprints in the Snow | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Something walked around my weather station every night for two months. I never saw it.", "image_prompt": "wide shot of a small remote weather observation hut in a snowy clearing at dawn, a single line of dark footprints in the snow circling the building, no person visible, dense pine forest beyond, vertical 9:16 framing"},
+    {"id": 2, "narration": "I was the winter caretaker at a station in northern Maine.", "image_prompt": "wide exterior shot of a small weather station building with antennas and instrument towers, deep snow on the ground and roof, dim grey afternoon light, no visible road, vertical 9:16 framing"},
+    {"id": 3, "narration": "Two hundred miles from the nearest town. No road in winter.", "image_prompt": "wide aerial-style shot of a single small structure in a vast snow field, evergreen forest stretching in all directions, late afternoon light, no roads or paths visible from this distance, vertical 9:16 framing"},
+    {"id": 4, "narration": "First morning I noticed the tracks. Bare feet. Adult sized.", "image_prompt": "extreme close shot of a single bare human footprint in fresh deep snow, the toes clearly defined, morning light catching the edges of the print, no other prints visible nearby, vertical 9:16 framing"},
+    {"id": 5, "narration": "I assumed a hiker.", "image_prompt": "close shot of a hand wearing a thick winter glove holding a flashlight pointed at the snow, the beam illuminating a single trail of bare footprints leading away, dim pre-dawn light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The temperature was minus eighteen that night.", "image_prompt": "close shot of an outdoor mercury thermometer mounted on a weathered wooden post, the dial clearly showing a temperature well below freezing, frost on the glass cover, soft daylight, vertical 9:16 framing"},
+    {"id": 7, "narration": "Tracks circled the station. Six full laps.", "image_prompt": "wide shot of a weather station building from above the roof line, multiple concentric rings of footprints in the snow circling the structure, no figure present, the morning light long across the snow, vertical 9:16 framing"},
+    {"id": 8, "narration": "Then they stopped at my door.", "image_prompt": "close shot of a wooden cabin door from the outside, deep snow around the threshold, a clear set of bare footprints in the snow leading directly up to the door and ending there, dim grey daylight, vertical 9:16 framing"},
+    {"id": 9, "narration": "I checked the security camera feed. Nothing recorded that night.", "image_prompt": "close shot of a small CRT monitor showing a static-filled black and white camera feed, scan lines, the feed showing the weather station exterior with no figure visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "It happened sixty three nights in a row. I counted.", "image_prompt": "close shot of a notebook page on a wooden table, a calendar grid drawn in pencil with sixty three days marked with small tally marks, dim cabin lamp light, the pencil resting on the page, vertical 9:16 framing"},
+    {"id": 11, "narration": "I left in April when the road thawed.", "image_prompt": "wide shot of a snowmobile parked outside a small weather station, a man in winter gear loading a duffel bag onto it from behind, no face visible, late afternoon light, dirty melting snow on the ground, vertical 9:16 framing"},
+    {"id": 12, "narration": "The new caretaker quit after six weeks. He saw who was making them.", "image_prompt": "wide exterior shot of the small weather station at dusk in late spring, the snow mostly melted around the foundation, the door closed, no figure in frame, the surrounding forest dark, vertical 9:16 framing"}
+  ]
+}

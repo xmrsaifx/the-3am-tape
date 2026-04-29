@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-imaginary-friend-daughter-001",
+  "character": "narrator",
+  "topic": "My imaginary friend from when I was four has started visiting my own daughter",
+  "title": "My Imaginary Friend from When I Was Four Has Started Visiting My Own Daughter | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My imaginary friend from when I was four has started visiting my own daughter.", "image_prompt": "wide interior shot of a child's bedroom at evening, a small bed with floral sheets, a single nightlight glowing dimly, two empty chairs at a small table, no people, vertical 9:16 framing"},
+    {"id": 2, "narration": "I had an imaginary friend named Mr. Peet from age four to six.", "image_prompt": "close shot of an old crayon drawing taped inside a faded photo album, the drawing showing a child stick figure standing next to a much taller stick figure with a hat, ambient afternoon light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I told my parents about him. They worried for a while. I forgot about him.", "image_prompt": "close shot of an empty child's chair at a small wooden play table, a tea set arranged on the table for two, dim afternoon light through a curtain, no people, vertical 9:16 framing"},
+    {"id": 4, "narration": "My daughter Maya is four. She started talking about her new friend last month.", "image_prompt": "close shot of a child's drawing pinned to a refrigerator with magnets, the image showing a small figure next to a tall figure in a hat, in colored pencil, ambient kitchen light, vertical 9:16 framing"},
+    {"id": 5, "narration": "She called him Mr. Peet.", "image_prompt": "extreme close up of a child's crayon drawing on construction paper, two figures clearly visible, the taller figure with a triangular hat, the name MR PEET written in messy block letters above, vertical 9:16 framing"},
+    {"id": 6, "narration": "I never told her that name. I had not thought of him in thirty years.", "image_prompt": "close shot of an old crayon drawing in a dusty photo album on a closet shelf, the album hidden behind boxes, dim closet light from a single bulb, vertical 9:16 framing"},
+    {"id": 7, "narration": "I asked her what he looks like.", "image_prompt": "close shot of a child's bedroom doorway from the hallway side at night, the door slightly ajar, the nightlight glow faintly visible inside, no figure in the gap, vertical 9:16 framing"},
+    {"id": 8, "narration": "Tall man. Wears a black hat. Smiles too much.", "image_prompt": "wide interior shot of a quiet child's bedroom at night, the small bed visible, a tall narrow shadow cast on the wall behind the bed shaped like a figure with a hat, dim nightlight glow, no actual person visible, vertical 9:16 framing"},
+    {"id": 9, "narration": "Same description I gave my parents in nineteen ninety four.", "image_prompt": "close shot of an old yellowed sheet of lined paper with childhood handwriting, a description of a tall man with a hat clearly written, the paper aged and creased, ambient lamp light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week she drew him.", "image_prompt": "close shot of a child's crayon drawing on white paper held in a small hand, the image showing a tall figure with a hat standing beside a small figure, a smile drawn too wide on the tall figure, ambient afternoon light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Same drawing I made when I was four. Found it in my old box.", "image_prompt": "close shot of two crayon drawings placed side by side on a kitchen table, both showing nearly identical figures of a child and a tall hatted man, both clearly drawn by different small hands but the figures nearly mirrored, ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "She told me Mr. Peet says it is my turn to forget about him.", "image_prompt": "wide interior shot of an empty child's bedroom at night, the bed neatly made, the nightlight glowing softly, a child's drawing on the wall, no figures present, deep shadows in the corners, vertical 9:16 framing"}
+  ]
+}

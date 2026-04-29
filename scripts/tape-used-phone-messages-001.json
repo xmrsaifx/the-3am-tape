@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-used-phone-messages-001",
+  "character": "narrator",
+  "topic": "I bought a used phone online and someone is still receiving messages on it",
+  "title": "I Bought a Used Phone Online and Someone Is Still Receiving Messages on It | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "I bought a used iPhone online. Someone is still sending messages to its previous owner. He died.", "image_prompt": "close shot of a smartphone screen showing a text message conversation in progress, the most recent message a few words long visible, the rest of the screen interface dim, the phone resting on a wooden desk, vertical 9:16 framing"},
+    {"id": 2, "narration": "Bought it for one hundred and fifty dollars. Online marketplace. Factory reset.", "image_prompt": "close shot of a refurbished smartphone in its original packaging on a desk, a small white card with handwritten price visible, ambient lamp light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Set it up with my own iCloud. New SIM. Should have been clean.", "image_prompt": "close shot of a smartphone screen showing the welcome setup screen, a hand at the bottom of the frame about to tap continue, dim home office light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First week was fine. Second week the messages started.", "image_prompt": "close shot of a smartphone notification banner across the top of a lock screen showing a new message from an unknown contact, dim evening light, the rest of the device interface in shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "All to a contact named Kevin. Old conversations from before I owned the phone.", "image_prompt": "close shot of a smartphone screen showing a text conversation thread with the contact name Kevin at the top, multiple message bubbles visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "I checked. Phone records showed no incoming messages.", "image_prompt": "close shot of a printed phone bill on a kitchen table, a section highlighted in pencil showing zero incoming messages for the dates in question, ambient lamp light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I asked the seller about Kevin.", "image_prompt": "close shot of a laptop screen showing an online marketplace messaging interface, an outgoing message visible asking about the previous owner, dim home office light, vertical 9:16 framing"},
+    {"id": 8, "narration": "He replied. Kevin was his brother. Died ten months ago.", "image_prompt": "close shot of a laptop screen showing a reply message from a marketplace seller, a photo attached but minimized to a small thumbnail, dim screen glow on a desk, vertical 9:16 framing"},
+    {"id": 9, "narration": "I read the messages I had been getting.", "image_prompt": "close shot of a smartphone screen showing a thread of text messages, the messages dated within the last week but addressed to the deceased contact, ambient evening light, vertical 9:16 framing"},
+    {"id": 10, "narration": "His mother. Daily updates. She did not know he was gone.", "image_prompt": "close shot of a smartphone showing a series of messages from a contact labeled MOM with timestamps from the past week, daily messages visible in the thread, dim ambient bedroom light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I called the seller back. Asked for her number to tell her.", "image_prompt": "close shot of a hand holding a smartphone with a call screen visible to a marketplace seller contact, dim home office light, the rest of the desk in shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "His mother died eight years ago. He had been sending the messages himself. Then he died too.", "image_prompt": "close shot of a smartphone resting on a bedside table at night, the screen briefly lighting up with a new message notification, the rest of the bedroom in deep shadow, vertical 9:16 framing"}
+  ]
+}

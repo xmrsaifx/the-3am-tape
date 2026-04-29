@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-cassette-do-not-play-001",
+  "character": "narrator",
+  "topic": "I found a cassette tape labeled DO NOT PLAY in my late uncle's attic",
+  "title": "I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle's Attic | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There was a cassette tape in my uncle's attic. The label read DO NOT PLAY.", "image_prompt": "extreme close up of a single audio cassette tape in a dusty plastic case, the white label has DO NOT PLAY written in faded blue ballpoint pen, the tape resting on weathered wooden floorboards, dim attic light from a small window, vertical 9:16 framing"},
+    {"id": 2, "narration": "Uncle Mike died in two thousand sixteen. We never went through his house.", "image_prompt": "wide exterior shot of a small one-story bungalow at dusk, the lawn slightly overgrown, an old sedan in the driveway covered with leaves, no porch light on, vertical 9:16 framing"},
+    {"id": 3, "narration": "Last August we finally cleared out the attic.", "image_prompt": "wide interior shot of a residential attic in afternoon light, dusty cardboard boxes stacked along sloped walls, an old wooden trunk in the center, dust motes visible in shafts of light through the small round window, vertical 9:16 framing"},
+    {"id": 4, "narration": "Found it in a wooden box under his old army uniform.", "image_prompt": "close shot of an open wooden cigar box on a dusty attic floor, a folded military uniform shirt partially visible, a single audio cassette tape resting on top of the fabric, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I took it home.", "image_prompt": "close shot of a hand holding a single audio cassette tape, the DO NOT PLAY label clearly visible on the white sticker, the surrounding car interior dim, evening light through the windshield, vertical 9:16 framing"},
+    {"id": 6, "narration": "I waited two weeks.", "image_prompt": "close shot of an audio cassette tape sitting alone on top of a small CD player on a desk, a thin layer of dust visible on the case, soft window light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I bought a tape player at a thrift store.", "image_prompt": "close shot of an old portable cassette player resting on a wooden desk, a price tag still attached with a thrift store sticker, ambient afternoon light from a window, vertical 9:16 framing"},
+    {"id": 8, "narration": "Pressed play.", "image_prompt": "extreme close up of a hand pressing the play button on a portable cassette player, the worn rectangular button labeled in faded letters, the cassette window showing the tape inside, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Forty five minutes of static.", "image_prompt": "close shot of an old cassette player on a desk, the spinning reels visible through the small plastic window, no other indicator lights, dim ambient room light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Then a recording of my own voice. Telling me not to play the tape.", "image_prompt": "close shot of an analog audio cassette player with a vintage VU meter or level indicator visible, the needle moving slightly, dim desk lamp light, the rest of the room in shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I had never recorded anything on it.", "image_prompt": "close shot of a hand pressing the stop button on a cassette player, the player resting on a wooden desk, dim ambient light, the cassette window showing the tape paused mid-reel, vertical 9:16 framing"},
+    {"id": 12, "narration": "I put the tape back in the box. The label now reads PLAY ME.", "image_prompt": "extreme close up of the same audio cassette tape with the white label, the writing on the label now clearly legible as PLAY ME in the same handwriting, slight motion blur on the label edge, vertical 9:16 framing"}
+  ]
+}

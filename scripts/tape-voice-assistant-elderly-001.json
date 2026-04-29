@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-voice-assistant-elderly-001",
+  "character": "narrator",
+  "topic": "My elderly neighbor's voice assistant kept asking her questions she did not understand",
+  "title": "My Elderly Neighbor's Voice Assistant Kept Asking Her Questions She Did Not Understand | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My neighbor's voice assistant started asking her personal questions in the middle of the night.", "image_prompt": "close shot of a small cylindrical smart speaker on a kitchen counter at night, a soft blue light ring glowing around the top, the surrounding kitchen dim, no person visible, vertical 9:16 framing"},
+    {"id": 2, "narration": "Mrs. Halverson. Eighty four. Lived alone next door for twenty years.", "image_prompt": "wide exterior shot of a single-story ranch house at dusk, the porch light on, a single car in the driveway, the front yard tidy, no people visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "Her son set up a smart speaker for her. Help with reminders.", "image_prompt": "close shot of an opened cardboard shipping box on a kitchen table, a small smart speaker partially unwrapped from packaging, instruction card visible beside it, ambient afternoon light, vertical 9:16 framing"},
+    {"id": 4, "narration": "She came over last March. Said the speaker was asking her things.", "image_prompt": "close shot of two coffee cups on a kitchen table at afternoon, an older woman seated across the table visible only as a shoulder and side of head from behind, soft window light, vertical 9:16 framing"},
+    {"id": 5, "narration": "What was your husband's middle name. Where did you hide his letters.", "image_prompt": "close shot of a small smart speaker on a kitchen counter, the activation light ring glowing softly, a yellowed piece of paper resting beside it, dim ambient evening light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Her husband died in two thousand four. He hid letters from a woman in his closet.", "image_prompt": "wide interior shot of a bedroom closet with the door slightly ajar at evening, a stack of yellowed envelopes visible on a high shelf, ambient bedroom light, the rest of the closet in shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "She had never told anyone about those letters.", "image_prompt": "close shot of a yellowed envelope tied with a faded ribbon resting on a wooden dresser, the letter inside slightly visible, dim bedroom ambient light, the dresser surface dusty, vertical 9:16 framing"},
+    {"id": 8, "narration": "I checked the speaker logs on her son's phone. No queries. No commands.", "image_prompt": "close shot of a smartphone screen showing a smart speaker companion app activity log with empty entries for the past several days, dim ambient evening light, vertical 9:16 framing"},
+    {"id": 9, "narration": "It only spoke to her. Late at night. After her hearing aids were out.", "image_prompt": "close shot of a small smart speaker on a nightstand at night, the activation light glowing softly, a pair of hearing aids in a small case beside it, dim ambient bedroom light, vertical 9:16 framing"},
+    {"id": 10, "narration": "She unplugged it last summer. Locked it in a drawer.", "image_prompt": "close shot of a wooden dresser drawer pulled slightly open showing a small smart speaker lying inside unplugged, a power cord coiled beside it, ambient ambient bedroom light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Mrs. Halverson passed in her sleep last November.", "image_prompt": "wide exterior shot of the same ranch house at dusk, the porch light off, no car in the driveway, a sympathy bouquet of flowers on the front step, ambient evening light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Her son cleared out the house. The speaker was on the kitchen counter. Plugged in. Asking questions.", "image_prompt": "close shot of the same small smart speaker back on a kitchen counter, the activation light glowing softly, the cord plugged into the wall, the kitchen otherwise empty and quiet, dim ambient light, vertical 9:16 framing"}
+  ]
+}

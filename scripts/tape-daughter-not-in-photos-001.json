@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-daughter-not-in-photos-001",
+  "character": "narrator",
+  "topic": "I have a daughter who is not in any of the family photos but she is here",
+  "title": "I Have a Daughter Who Is Not in Any of the Family Photos. But She Is Here. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My daughter is standing in our kitchen right now. She has never appeared in any photo we have ever taken.", "image_prompt": "wide interior shot of a quiet residential kitchen at dusk, a child's drawing on the refrigerator, a small pair of shoes by the back door, no person visible in frame, soft pendant light overhead, vertical 9:16 framing"},
+    {"id": 2, "narration": "Her name is Emma. She is six. Brown hair. Quiet.", "image_prompt": "close shot of a child's bedroom at evening, a small bed with floral sheets, stuffed animals arranged on the pillow, a name plaque on the wall reading EMMA, soft nightlight glow, vertical 9:16 framing"},
+    {"id": 3, "narration": "We have hundreds of photos. Phone. Camera roll. Printed albums.", "image_prompt": "wide shot of a kitchen table covered with printed family photographs spread out, a few photo albums open beside them, ambient afternoon light, no people in frame, vertical 9:16 framing"},
+    {"id": 4, "narration": "She is in none of them.", "image_prompt": "close shot of a single family photograph on a wall showing two adults and one child, a clear empty space visible between them where another small figure might fit, the photo faintly faded, ambient ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I noticed last August. School yearbook arrived.", "image_prompt": "close shot of an open elementary school yearbook on a kitchen table, a class photo page visible, a hand pointing at a row of children, ambient afternoon light, vertical 9:16 framing"},
+    {"id": 6, "narration": "She was in the page. The class photo. But not the printed yearbook copy in our house.", "image_prompt": "close shot of two side by side photographs of the same school class group, one image showing a row of children and the other identical row but with one child missing from a specific position, dim lamp light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I checked our phone backups.", "image_prompt": "close shot of a smartphone screen showing a photo gallery with thumbnail rows of family photos, the images visible but no specific child appearing in any, dim home office light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Hundreds of pictures. Birthday parties. Christmases. Beach trips. Never her.", "image_prompt": "wide shot of a laptop screen showing a photo backup folder with rows of thumbnail images, the screen glow casting dim light on a desk, the rest of the room in shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "Other parents have photos with her in them. Just not us.", "image_prompt": "close shot of a smartphone showing a text message conversation with photo attachments visible, the photos showing a child clearly visible at a birthday party, dim ambient evening light, vertical 9:16 framing"},
+    {"id": 10, "narration": "My wife says I am being ridiculous. She is fine.", "image_prompt": "close shot of two coffee cups on a kitchen counter at morning, soft sunlight through a window, a child's plastic cereal bowl beside them, no people in frame, vertical 9:16 framing"},
+    {"id": 11, "narration": "I tried to take a picture of Emma yesterday at breakfast.", "image_prompt": "close shot of a hand holding a smartphone aimed across a kitchen table, the camera screen showing an empty chair where a child would sit, breakfast dishes visible on the table, soft morning light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The chair was empty in the photo. She was sitting there. She was eating cereal.", "image_prompt": "close shot of a smartphone photo gallery thumbnail showing an empty chair at a kitchen table, a half-finished cereal bowl on the table in front of the empty chair, the seat clearly unoccupied in the image, vertical 9:16 framing"}
+  ]
+}

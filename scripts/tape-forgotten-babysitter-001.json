@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-forgotten-babysitter-001",
+  "character": "narrator",
+  "topic": "I remembered a babysitter we had when I was seven that no one else in my family remembers",
+  "title": "I Remember a Babysitter We Had When I Was Seven. No One Else in My Family Remembers Her. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "I had a babysitter when I was seven. Nobody in my family remembers her.", "image_prompt": "close shot of an old framed family photograph on a hallway wall showing a family group portrait, an empty space in the corner of the photo where another figure might have stood, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Her name was Cassidy. Tall. Long brown hair. Came on Tuesdays.", "image_prompt": "close shot of an empty wooden front porch chair on a residential porch at evening, an empty coffee cup on the side table, no person visible, soft warm porch light, vertical 9:16 framing"},
+    {"id": 3, "narration": "She watched me. My brother. My sister. For one whole school year.", "image_prompt": "wide interior shot of a 1990s suburban living room at evening, a TV playing static in the corner, three small bowls of cereal on a coffee table, no people in the room, vertical 9:16 framing"},
+    {"id": 4, "narration": "I asked my mother about her last Thanksgiving.", "image_prompt": "wide shot of a family dinner table set for a holiday meal, a turkey in the center, several place settings, no people seated yet, soft pendant light overhead, vertical 9:16 framing"},
+    {"id": 5, "narration": "She had no idea what I was talking about.", "image_prompt": "close shot of two coffee cups on a kitchen counter at morning, one half full and one empty, soft window light through curtains, no people, vertical 9:16 framing"},
+    {"id": 6, "narration": "I asked my brother. He was older. He should remember.", "image_prompt": "close shot of a smartphone screen showing a text message conversation thread with the most recent message visible asking a question, the screen glow dim, vertical 9:16 framing"},
+    {"id": 7, "narration": "He had no memory of any babysitter.", "image_prompt": "close shot of a smartphone showing a text reply that simply reads no, the screen dim, the rest of the device in shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "I dug out my second grade journal from my parents' basement.", "image_prompt": "close shot of an open spiral-bound elementary school notebook on a basement workbench, childhood handwriting visible on the page, dim hanging bulb light, the rest of the basement in shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "Forty entries mention Cassidy. By name.", "image_prompt": "extreme close up of a child's handwritten journal entry on lined notebook paper, a name written multiple times in the same blue pen, ink slightly faded with age, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "I called my elementary school. Records of after school care.", "image_prompt": "close shot of a hand holding a smartphone with a call screen visible to a school office number, dim ambient room light, the surrounding desk in soft focus, vertical 9:16 framing"},
+    {"id": 11, "narration": "School had no employee or contractor by that name. Ever.", "image_prompt": "close shot of an open manila folder on a desk with photocopied employment records visible, a hand running down a list of names, no name highlighted, fluorescent overhead light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I asked my sister last week. She started crying. She remembers her too.", "image_prompt": "close shot of two empty coffee cups left on a small kitchen table at evening, two chairs pushed back as if recently vacated, dim pendant light overhead, vertical 9:16 framing"}
+  ]
+}

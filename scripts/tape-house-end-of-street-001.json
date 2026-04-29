@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-house-end-of-street-001",
+  "character": "narrator",
+  "topic": "There was an empty house at the end of my street that the adults all whispered about",
+  "title": "There Was an Empty House at the End of My Street That the Adults All Whispered About | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There was a house at the end of my childhood street. Empty for forty years. Adults whispered about it.", "image_prompt": "wide exterior shot of a quiet suburban dead-end street at dusk, houses on both sides with porch lights on, the last house at the end of the cul-de-sac visibly darker and more overgrown than the others, vertical 9:16 framing"},
+    {"id": 2, "narration": "I grew up on Larch Avenue. Suburban Pittsburgh. Eighties.", "image_prompt": "wide shot of a suburban tree-lined residential street in late summer afternoon, ranch-style houses with mowed lawns, no people, soft golden light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Twelve houses on the block. Twelve families. Everyone knew everyone.", "image_prompt": "wide shot of a small residential block from a slight aerial perspective at golden hour, houses clearly visible in a row, mailboxes at the curb, no people, vertical 9:16 framing"},
+    {"id": 4, "narration": "The thirteenth house was at the end. We never counted it.", "image_prompt": "wide exterior shot of a single dilapidated two-story house at the end of a suburban street, the lawn completely overgrown, the windows boarded from inside, no mailbox at the curb, dusk light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Adults crossed the street to walk past it.", "image_prompt": "wide shot of a quiet suburban sidewalk at evening, the sidewalk continuing past a dilapidated house but with a clear path of footprints crossing the street to the opposite side at that point, vertical 9:16 framing"},
+    {"id": 6, "narration": "We were told never to go near it.", "image_prompt": "close shot of a faded NO TRESPASSING sign nailed to a wooden fence post in front of an overgrown front lawn, the sign tilted, late afternoon light, vertical 9:16 framing"},
+    {"id": 7, "narration": "When I was eleven, I dared myself to look in a window.", "image_prompt": "close shot of the side of a dilapidated wooden house, a small ground-floor window with cracked glass, dim afternoon light, the surrounding overgrown grass tall, vertical 9:16 framing"},
+    {"id": 8, "narration": "Furniture inside. Dust covered. Set as if for breakfast.", "image_prompt": "close shot of a kitchen table seen through a dirty cracked window from outside, the table set with plates and silverware, dust covering everything, dim interior light, vertical 9:16 framing"},
+    {"id": 9, "narration": "And a single light on. Upstairs hallway. Forty years vacant.", "image_prompt": "wide exterior shot of a dilapidated two-story house at dusk, all windows dark except a single upstairs hallway light visible through a cracked windowpane, the rest of the house in deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "I asked my father about it that night.", "image_prompt": "close shot of two figures seen from behind sitting at a kitchen table at evening, only the back of a man's head and a child's smaller head visible, low ambient kitchen light, vertical 9:16 framing"},
+    {"id": 11, "narration": "He told me the family who used to live there never moved out.", "image_prompt": "close shot of an old framed black and white family photograph on a fireplace mantel showing a 1950s family, the photo faded, slight dust on the frame, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I drove down Larch last Christmas. The light is still on upstairs.", "image_prompt": "wide exterior shot of the same dilapidated two-story house at twilight in a snowy yard, the upstairs hallway light still glowing through a small window, the rest of the house and street dark, vertical 9:16 framing"}
+  ]
+}

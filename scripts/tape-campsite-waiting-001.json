@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-campsite-waiting-001",
+  "character": "narrator",
+  "topic": "I went hiking alone and found a campsite that had been waiting for me",
+  "title": "I Went Hiking Alone and Found a Campsite That Had Been Waiting for Me | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "I went hiking alone in the Adirondacks. I found a campsite set up with my name on it.", "image_prompt": "close shot of a green canvas tent in a forest clearing at dusk, a small wooden sign staked into the ground in front of the tent reading a name in carved letters, the surrounding trees dark, vertical 9:16 framing"},
+    {"id": 2, "narration": "Three day solo trip. North country. Off-trail.", "image_prompt": "wide shot of a dense pine forest in late afternoon light, a faint deer trail through the underbrush, no human path visible, dappled sunlight on the forest floor, vertical 9:16 framing"},
+    {"id": 3, "narration": "Day two I got turned around following a creek.", "image_prompt": "wide shot of a small forest creek running through dense undergrowth, late afternoon golden light through the canopy, the creek disappearing into shadows in the distance, no human presence, vertical 9:16 framing"},
+    {"id": 4, "narration": "I came over a ridge and saw a clearing.", "image_prompt": "wide shot from a forested ridge looking down into a small clearing in the trees, the clearing visible through gaps in the foliage, late afternoon light reaching the ground, vertical 9:16 framing"},
+    {"id": 5, "narration": "Tent already pitched. Fire ring stones still warm.", "image_prompt": "close shot of a green canvas tent in a small forest clearing, a stone fire ring nearby with the embers still glowing faintly, no person visible, dusk light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Sleeping bag laid out. My size.", "image_prompt": "interior view through the open flap of a tent showing a sleeping bag rolled out on the floor, a backpack at the head end, a flashlight resting on top of the bag, dim tent ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Cooler with food. Brand I always buy.", "image_prompt": "close shot of an opened plastic camping cooler on the ground beside a tent, food visible inside including specific items, a few melting ice cubes, late afternoon light filtering through trees, vertical 9:16 framing"},
+    {"id": 8, "narration": "A wooden sign at the entrance had my full name carved into it.", "image_prompt": "close shot of a hand-carved wooden sign staked into the ground at the edge of a forest clearing, a name visible in deep carved letters, slightly weathered wood, dim dusk light, vertical 9:16 framing"},
+    {"id": 9, "narration": "I left immediately. Walked back the way I came.", "image_prompt": "wide shot from behind of a hiker walking away through a dense forest at twilight, the figure receding into the trees, a backpack visible, no path under their feet, vertical 9:16 framing"},
+    {"id": 10, "narration": "Got to my car at sunset. Drove home.", "image_prompt": "wide shot of a dirt forest service road at sunset, a single dusty pickup truck parked at the trailhead, no other vehicles, the forest casting long shadows across the road, vertical 9:16 framing"},
+    {"id": 11, "narration": "I had told nobody where I was going.", "image_prompt": "close shot of a paper hiking map spread across a kitchen table at home, a route highlighted in pencil, no notations or names written on it, ambient evening light, vertical 9:16 framing"},
+    {"id": 12, "narration": "A photograph of that campsite arrived in my mailbox last week.", "image_prompt": "close shot of a single Polaroid photograph lying on a hardwood floor inside a residential entryway, the image showing the same forest clearing with the tent and carved sign, an empty white envelope beside it, dim morning light, vertical 9:16 framing"}
+  ]
+}

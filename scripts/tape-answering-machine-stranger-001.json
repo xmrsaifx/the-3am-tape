@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-answering-machine-stranger-001",
+  "character": "narrator",
+  "topic": "There is a recording on my answering machine from someone I have never met",
+  "title": "There Is a Recording on My Answering Machine from Someone I Have Never Met | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a message on my answering machine from a man who knows where I sleep.", "image_prompt": "close shot of an old beige plastic answering machine on a kitchen counter, a small red message indicator light blinking, the digital display showing the number 1 for waiting messages, dim evening light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I still have a landline. Old habit. Mostly use it for emergencies.", "image_prompt": "close shot of a corded landline phone on a wooden side table, beige plastic, slightly yellowed with age, an analog clock on the wall behind it, soft late afternoon light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I came home Tuesday and the message light was on.", "image_prompt": "wide interior shot of a quiet kitchen at evening, a single lamp on, the answering machine on a counter visible in soft focus, a coat thrown over a chair in the foreground, vertical 9:16 framing"},
+    {"id": 4, "narration": "I pressed play.", "image_prompt": "extreme close up of a hand pressing the play button on an answering machine, the button worn from years of use, the device casting a faint glow on the surrounding counter, vertical 9:16 framing"},
+    {"id": 5, "narration": "Static. Then a man clearing his throat.", "image_prompt": "close shot of an answering machine with a small speaker grille visible, the room around it dim, a kitchen window in soft focus behind, ambient evening light, vertical 9:16 framing"},
+    {"id": 6, "narration": "He said my full name.", "image_prompt": "close shot of a small white index card pinned to a corkboard near the phone, a name written in cursive at the top, the rest of the card blank, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Then my address. Then a description of my bedroom.", "image_prompt": "close shot of a worn leather notebook open to a page with neat handwriting, a address visible at the top of the page, the rest of the page blurred, dim lamp light, vertical 9:16 framing"},
+    {"id": 8, "narration": "He said I was wearing a green sweater. I was wearing a green sweater.", "image_prompt": "close shot of a green sweater hanging on the back of a kitchen chair, the fabric slightly worn, ambient evening light from a kitchen window, the rest of the room in shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "I checked my phone log. No incoming calls.", "image_prompt": "close shot of a smartphone screen showing a recent call log with no entries for the past several hours, the screen glow casting light on a hand holding it, dim ambient room light, vertical 9:16 framing"},
+    {"id": 10, "narration": "The answering machine logs the time. Eleven forty seven AM. I was at work.", "image_prompt": "close shot of an answering machine display showing a digital clock readout and a recorded time stamp, the display digits clearly visible in dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I called the police. They told me to keep the recording.", "image_prompt": "close shot of a hand holding a smartphone with a notification visible from a non-emergency police line, dim home office light, the rest of the room in shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "The next message arrived this morning. Same voice. Same details. Different sweater.", "image_prompt": "close shot of an answering machine with the message indicator now showing the number 2, a blue sweater hanging on a chair in soft focus behind, ambient morning light, vertical 9:16 framing"}
+  ]
+}

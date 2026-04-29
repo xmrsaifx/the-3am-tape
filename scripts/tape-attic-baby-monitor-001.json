@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-attic-baby-monitor-001",
+  "character": "narrator",
+  "topic": "The new house came with a baby monitor in the attic that we did not install",
+  "title": "The New House Came with a Baby Monitor in the Attic That We Did Not Install | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The attic of our new house had a baby monitor we did not install.", "image_prompt": "close shot of an old plastic baby monitor camera unit mounted on a wooden attic rafter, the lens visible and slightly dusty, a coiled cable running away into the shadows, dim attic light from a small window, vertical 9:16 framing"},
+    {"id": 2, "narration": "We bought the house in March. Empty for two years.", "image_prompt": "wide exterior shot of a two-story house in a quiet residential neighborhood at dusk, a SOLD sticker on a real estate sign, the lawn slightly overgrown, no cars in the driveway yet, vertical 9:16 framing"},
+    {"id": 3, "narration": "We have a one year old. We bought our own monitor.", "image_prompt": "close shot of a modern baby monitor camera mounted on a nursery wall, soft pastel decor visible, a crib in soft focus below the camera, daytime ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "I went into the attic in June. Looking for storage space.", "image_prompt": "wide interior shot of a residential attic in afternoon light, sloped wooden rafters, cardboard boxes from the previous owner stacked along one wall, dust in the air, vertical 9:16 framing"},
+    {"id": 5, "narration": "Found it mounted to a beam above the master bedroom.", "image_prompt": "close shot of an old baby monitor camera mounted to a wooden beam, a small red LED indicator light glowing on the device, the camera angled downward, dim attic ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "It was on. Recording.", "image_prompt": "extreme close up of a small red LED light glowing on a plastic device, slight glow softly illuminating the surrounding wood grain, the rest of the frame in deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I traced the cable.", "image_prompt": "close shot of a thin grey cable running along the underside of an attic floor joist, taped to the wood with masking tape, the cable disappearing into a dim corner, vertical 9:16 framing"},
+    {"id": 8, "narration": "It went down through the wall to the basement crawl space.", "image_prompt": "close shot of a small dark basement crawl space entrance with a thin grey cable disappearing into the gap, concrete foundation walls visible, dim flashlight beam catching the cable end, vertical 9:16 framing"},
+    {"id": 9, "narration": "Connected to a small portable monitor with battery backup.", "image_prompt": "close shot of a small handheld baby monitor receiver lying in dust on a concrete floor, its small screen lit and showing a live feed of an empty bedroom, dim crawl space light, vertical 9:16 framing"},
+    {"id": 10, "narration": "The screen showed our master bedroom. Live feed.", "image_prompt": "extreme close up of a small handheld monitor screen showing a black and white live camera feed of a master bedroom interior, the bed visible, slight static on the image, vertical 9:16 framing"},
+    {"id": 11, "narration": "I called the police.", "image_prompt": "close shot of a hand holding a smartphone with a non-emergency call screen visible, the phone in a hand at chest level, blurred crawl space background, vertical 9:16 framing"},
+    {"id": 12, "narration": "They told me the previous owners had a daughter who never grew up.", "image_prompt": "close shot of an old framed school photograph propped against a dusty cardboard box in an attic, the image of a young child not visible due to lighting and angle, vertical 9:16 framing"}
+  ]
+}

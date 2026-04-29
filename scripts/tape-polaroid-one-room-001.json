@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-polaroid-one-room-001",
+  "character": "narrator",
+  "topic": "The Polaroid camera I inherited only takes pictures of one specific room",
+  "title": "The Polaroid Camera I Inherited Only Takes Pictures of One Specific Room | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My grandmother's Polaroid camera only takes pictures of one room. Not the room you point it at.", "image_prompt": "close shot of an old vintage Polaroid camera sitting on a wooden desk, a developed photo lying beside it showing an interior bedroom, the photo image clearly different from any room visible in the surrounding setting, dim afternoon light, vertical 9:16 framing"},
+    {"id": 2, "narration": "She left it to me when she passed last winter.", "image_prompt": "close shot of an old Polaroid camera nestled in a faded velvet-lined gift box, a handwritten name tag attached, dim ambient lamp light, the rest of the desk in shadow, vertical 9:16 framing"},
+    {"id": 3, "narration": "Eight unused film packs. Original from the eighties.", "image_prompt": "close shot of three rectangular Polaroid film boxes stacked on a wooden table, the packaging clearly aged with faded printing, dim afternoon light through a window, vertical 9:16 framing"},
+    {"id": 4, "narration": "First photo I took. My living room. Bright afternoon.", "image_prompt": "wide interior shot of a modern living room in afternoon light, a sofa, coffee table, and bookshelf visible, sunlight streaming through large windows, no people, vertical 9:16 framing"},
+    {"id": 5, "narration": "The photo developed.", "image_prompt": "extreme close up of a developing Polaroid photograph held in a hand, the image just becoming visible, faint shapes emerging from the white square, soft window light, vertical 9:16 framing"},
+    {"id": 6, "narration": "It showed an unfamiliar bedroom. Dim. Pink wallpaper.", "image_prompt": "close shot of a developed Polaroid photograph showing the interior of a small bedroom with floral pink wallpaper, an unmade single bed, the image slightly faded and dim, the photo edges curling, vertical 9:16 framing"},
+    {"id": 7, "narration": "Tried it again.", "image_prompt": "close shot of a hand holding the same Polaroid camera at chest level, aimed at a kitchen counter, afternoon light through a window above the sink, the kitchen visible behind the camera, vertical 9:16 framing"},
+    {"id": 8, "narration": "Same bedroom. Same angle. Curtains slightly different.", "image_prompt": "close shot of a developed Polaroid photograph showing the same pink-wallpapered bedroom interior, the same bed, the same angle, but the curtains visibly drawn closed where they were open in the previous shot, vertical 9:16 framing"},
+    {"id": 9, "narration": "Eight photos over two weeks. Always that bedroom.", "image_prompt": "wide shot of eight Polaroid photographs spread out across a wooden table, all showing variations of the same pink-wallpapered bedroom, the bed clearly the same in each one, dim ambient lamp light, vertical 9:16 framing"},
+    {"id": 10, "narration": "The room slowly changes. Curtains move. Sheets unmake themselves.", "image_prompt": "close shot of two Polaroid photos placed side by side on a desk, each showing the pink-wallpapered bedroom from the same angle but with the bedsheets in different states of disarray, dim lamp light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I called my mother.", "image_prompt": "close shot of a smartphone in a hand at chest level, the call screen visible showing an outgoing call to MOM, dim home office light, blurred background of the room, vertical 9:16 framing"},
+    {"id": 12, "narration": "She told me that was the bedroom my grandmother died in.", "image_prompt": "close shot of a single Polaroid photograph held in a hand, the image clearly showing the pink-wallpapered bedroom but with a slight indentation in the bed sheets as if recently occupied, dim ambient light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-town-no-map-001",
+  "character": "narrator",
+  "topic": "I drove through a town that was not on any map I owned",
+  "title": "I Drove Through a Town That Was Not on Any Map I Owned | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "I drove through a town called Halsey. It is not on any map. It does not exist.", "image_prompt": "wide shot of a small midwestern main street at dusk, a single storefront with a HALSEY GROCERY sign in faded letters, two old cars parked along the curb, no people visible, vertical 9:16 framing"},
+    {"id": 2, "narration": "Cross-country move. Last spring. Pennsylvania to Oregon.", "image_prompt": "wide shot from a car windshield of a long flat highway at sunset, the road stretching to the horizon, packed boxes visible through the rear window, mountains in the distance, vertical 9:16 framing"},
+    {"id": 3, "narration": "Got off the interstate to find a diner.", "image_prompt": "wide shot of a rural exit ramp from a major interstate at evening, an unlit BUSINESS DISTRICT sign at the bottom of the ramp, surrounding farmland flat and empty, vertical 9:16 framing"},
+    {"id": 4, "narration": "Two miles down. A welcome sign. Halsey. Population three twelve.", "image_prompt": "close shot of a green metal welcome sign on a wooden post on the side of a rural road, the town name and population number visible, the paint slightly faded, evening light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Diner was open. Two cars in the lot.", "image_prompt": "wide shot of a small diner with a flat roof and a glowing OPEN sign in the window at dusk, two older sedans parked outside, the diner's interior lights glowing yellow, vertical 9:16 framing"},
+    {"id": 6, "narration": "Waitress poured coffee. Cook flipped burgers. Two old men at the counter.", "image_prompt": "wide interior shot of a small diner at evening seen from a booth toward the counter, two figures sitting at the counter visible from behind, a cook visible past them at the grill, no other customers, vertical 9:16 framing"},
+    {"id": 7, "narration": "Paid in cash. Drove on.", "image_prompt": "close shot of a diner counter with a paper receipt and a few dollar bills under a coffee cup, dim diner lighting, the surrounding diner blurred in soft focus, vertical 9:16 framing"},
+    {"id": 8, "narration": "Two hours later I checked the GPS. No record of any town.", "image_prompt": "close shot of a smartphone GPS map displayed on a car dashboard mount, the route highlighted but no town name visible at the location passed, evening light through the windshield, vertical 9:16 framing"},
+    {"id": 9, "narration": "Stopped at a gas station. Asked the clerk about Halsey.", "image_prompt": "interior shot of a gas station counter at night, a clerk visible from behind at the register, fluorescent overhead lighting, snack racks on either side, no other customers, vertical 9:16 framing"},
+    {"id": 10, "narration": "Never heard of it. State maps. County records. Nothing.", "image_prompt": "close shot of a folded paper road map of a state spread on the hood of a car, a finger tracing along a rural highway, no town label at the location, evening light flat, vertical 9:16 framing"},
+    {"id": 11, "narration": "I went back the next morning. Same exit. Drove the two miles.", "image_prompt": "wide shot from a car windshield of a rural road at morning, flat farmland on both sides, no welcome sign visible, the road continuing into empty fields, vertical 9:16 framing"},
+    {"id": 12, "narration": "No town. No diner. Just empty fields and a foundation slab.", "image_prompt": "wide shot of an overgrown concrete foundation slab in a flat empty field, weeds growing through cracks, no buildings, morning light flat and grey, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-doorbell-hallway-figure-001",
+  "character": "narrator",
+  "topic": "My smart doorbell keeps recording someone standing in our hallway",
+  "title": "My Smart Doorbell Keeps Recording Someone Standing in Our Hallway | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My smart doorbell keeps recording someone standing inside our hallway. The doorbell faces the front porch.", "image_prompt": "close shot of a smartphone screen showing a smart doorbell app notification with a still frame visible of an indoor hallway with a tall figure standing at the far end, the figure backlit and indistinct, vertical 9:16 framing"},
+    {"id": 2, "narration": "Installed last December. Faces our front yard. Outside only.", "image_prompt": "close shot of a black smart doorbell mounted beside a residential front door, the camera lens pointed outward toward the porch, soft afternoon light, the door and trim visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "Two weeks ago I started getting motion alerts at three AM.", "image_prompt": "close shot of a smartphone on a bedside table at night, the screen lit with a smart doorbell motion alert, the digital clock visible nearby reading 3 02, dim bedroom ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "I checked the clip. Camera angle was wrong. Shooting indoors.", "image_prompt": "close shot of a smartphone screen showing a paused doorbell video frame, the image showing a residential indoor hallway instead of the expected outdoor porch, ambient bedroom light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Down our hallway. Toward the kitchen.", "image_prompt": "wide interior shot of a residential hallway viewed lengthwise from a low angle near the front door, the kitchen visible at the far end with a single overhead light on, no figures, ambient evening light, vertical 9:16 framing"},
+    {"id": 6, "narration": "A figure standing at the end. Not moving.", "image_prompt": "wide interior shot of a residential hallway at night, a tall thin figure standing motionless at the far end backlit by a kitchen light, the figure indistinct and silhouetted, no detail on the face or body, vertical 9:16 framing"},
+    {"id": 7, "narration": "I checked the camera mount. Pointed outside as installed.", "image_prompt": "close shot of a smart doorbell on the exterior of a front door at morning, the lens clearly aimed outward toward the porch, the surrounding mounting screws visible and undisturbed, soft morning light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Watched the recording again. Same hallway. Same figure.", "image_prompt": "close shot of a smartphone screen showing a paused doorbell video frame, the same indoor hallway scene with the same tall figure at the far end, the timestamp visible at the corner, vertical 9:16 framing"},
+    {"id": 9, "narration": "Three nights in a row. Three AM. Same figure. Slightly closer each time.", "image_prompt": "close shot of three smartphone screen captures arranged in a row on a desk, each showing the same hallway with a figure progressively closer to the camera in each successive image, ambient lamp light, vertical 9:16 framing"},
+    {"id": 10, "narration": "I unmounted the doorbell. Put it in a drawer.", "image_prompt": "close shot of a kitchen drawer pulled open showing a smart doorbell device lying inside among other random items, the lens pointed upward, ambient kitchen light, vertical 9:16 framing"},
+    {"id": 11, "narration": "It still records.", "image_prompt": "close shot of a smartphone screen showing a new motion alert notification at three AM, the doorbell name visible in the alert, dim bedroom light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Last night the figure was outside the drawer looking down at the doorbell.", "image_prompt": "close shot of a smartphone showing a smart doorbell still frame, the image looking up from inside a partially open drawer at the underside of a tall figure standing over it, the figure indistinct from the angle, vertical 9:16 framing"}
+  ]
+}

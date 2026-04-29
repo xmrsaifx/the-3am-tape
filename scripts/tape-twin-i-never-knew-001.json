@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-twin-i-never-knew-001",
+  "character": "narrator",
+  "topic": "I have a twin I did not know about until last summer",
+  "title": "I Have a Twin I Did Not Know About Until Last Summer | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "I have a twin brother. I did not know he existed until last summer. He still lives in our parents' attic.", "image_prompt": "wide interior shot of an attic in afternoon light, sloped wooden rafters, a small mattress with rumpled bedding visible in one corner, a single hanging bulb, dust in the air, no person visible, vertical 9:16 framing"},
+    {"id": 2, "narration": "I am thirty four. Always thought I was an only child.", "image_prompt": "close shot of a framed school photograph on a hallway wall showing a single young boy in a school uniform, the photo aged and faded, no other photos around it, ambient lamp light, vertical 9:16 framing"},
+    {"id": 3, "narration": "My father died last June. We came home to clean out the house.", "image_prompt": "wide exterior shot of a modest two-story residential home at dusk, an empty driveway, the porch light off, no FOR SALE sign yet, ambient evening light, vertical 9:16 framing"},
+    {"id": 4, "narration": "I went up to the attic looking for old photos.", "image_prompt": "wide interior shot of a long narrow staircase leading up to an attic, the attic door at the top slightly ajar, dim daylight visible through the gap, dust on the steps, vertical 9:16 framing"},
+    {"id": 5, "narration": "Found the room.", "image_prompt": "wide interior shot of an attic room with a low slanted ceiling, a single mattress on the floor with sheets, a small lamp, a stack of books beside it, ambient afternoon light through a small dormer window, vertical 9:16 framing"},
+    {"id": 6, "narration": "Bedding still warm. Plate of food half eaten on a folding tray.", "image_prompt": "close shot of a folding metal tray on a wooden floor with a plate of partially eaten food, a glass of water beside it, a fork resting on the plate, dim ambient attic light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Photographs in a shoebox. Me. From every age. Multiple per year.", "image_prompt": "close shot of an open shoebox on an attic floor filled with stacked photographs, the top photos showing the same person at different ages, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "I asked my mother that night. She told me everything.", "image_prompt": "close shot of two coffee cups on a kitchen table at evening, the table surface worn from use, a single low pendant light overhead, no people in frame, vertical 9:16 framing"},
+    {"id": 9, "narration": "Identical twins. Born the same morning. They sent him away when he was four.", "image_prompt": "close shot of an old framed sonogram photograph on a desk, the image showing two distinct shapes in the womb, the photo slightly faded with age, dim ambient lamp light, vertical 9:16 framing"},
+    {"id": 10, "narration": "He came back when he was seventeen. Has lived in the attic ever since.", "image_prompt": "wide shot of a small attic dormer window seen from outside the house at dusk, a single dim light on inside the attic visible through the curtain, the rest of the house dark, vertical 9:16 framing"},
+    {"id": 11, "narration": "Mother fed him every day. For seventeen years.", "image_prompt": "close shot of an empty plate and a glass on a wooden tray at the bottom of an attic staircase, the dishes recently used, ambient daytime light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I never met him. He was watching me eat dinner the next night through a vent in the kitchen ceiling.", "image_prompt": "close shot looking up at an old metal ventilation grate in a residential kitchen ceiling, the grate slightly off-center, dim ceiling light visible through the slats, the slats slightly bent, vertical 9:16 framing"}
+  ]
+}

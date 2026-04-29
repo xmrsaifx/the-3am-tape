@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-call-center-no-number-001",
+  "character": "narrator",
+  "topic": "My night shift at the call center kept getting calls from a number that didn't exist",
+  "title": "My Night Shift at the Call Center Kept Getting Calls from a Number That Didn't Exist | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every night at three AM, I got a call from a phone number that does not exist.", "image_prompt": "close shot of a desk phone display in a dim call center cubicle, the screen showing an incoming call with a non-standard number sequence visible, the rest of the office dark behind, the only light from the phone screen and a monitor, vertical 9:16 framing"},
+    {"id": 2, "narration": "I worked overnight tech support. Eleven PM to seven AM.", "image_prompt": "wide interior shot of an empty open-plan call center at night, rows of cubicles with dark monitors, one cubicle in the middle with a single desk lamp on, no other people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Six other agents on the floor. Everyone got their own line.", "image_prompt": "wide shot of a row of empty office cubicles in dim ambient light, headsets resting on each desk, monitors dark except one in the distance, the carpet path between them empty, vertical 9:16 framing"},
+    {"id": 4, "narration": "The number was eight digits. Should be ten. Always at three AM.", "image_prompt": "extreme close up of a corded office phone display showing a partial phone number that is too short, the digits dim green on the LCD, a digital clock nearby reading 2 59, vertical 9:16 framing"},
+    {"id": 5, "narration": "First time I answered.", "image_prompt": "close shot of a hand lifting a corded telephone receiver from its cradle, the cord curving down to the desk, dim cubicle lighting, headset visible beside the phone, vertical 9:16 framing"},
+    {"id": 6, "narration": "Static. Then breathing. Then nothing for forty seconds.", "image_prompt": "close shot of an office headset earpiece pressed against the side of a head from behind, only the hair and neck visible, dim cubicle light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Then a voice. It used my employee ID.", "image_prompt": "close shot of a corporate ID badge clipped to a lanyard on an office desk, the photo and employee number visible, dim ambient light, the rest of the desk surface in shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "I checked the call log next morning. No record.", "image_prompt": "close shot of a CRT-style monitor displaying a call log spreadsheet with the three AM time slot blank, fluorescent overhead light, scan lines on the screen, vertical 9:16 framing"},
+    {"id": 9, "narration": "Asked my coworker. He had been getting them too.", "image_prompt": "wide shot of two empty office cubicles facing each other across a low partition, two empty office chairs, both desk lamps on, no people, dim ambient overhead light, vertical 9:16 framing"},
+    {"id": 10, "narration": "He told me never to answer them. He had been there four years longer than me.", "image_prompt": "close shot of a coffee cup with cold coffee left in it on an office desk, a yellow sticky note beside it with handwritten text not legible, dim ambient cubicle light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I stopped answering. The phone still rang at three AM.", "image_prompt": "close shot of a corded desk phone in a dim cubicle, the receiver still in its cradle, the call indicator light blinking, the office around it completely empty and dark, vertical 9:16 framing"},
+    {"id": 12, "narration": "I left that job last spring. The number followed me to my new phone.", "image_prompt": "close shot of a smartphone screen showing an incoming call with a non-standard short number sequence, the screen glowing in a dark bedroom at night, the rest of the room in shadow, vertical 9:16 framing"}
+  ]
+}

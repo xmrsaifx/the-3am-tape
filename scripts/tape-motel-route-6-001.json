@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-motel-route-6-001",
+  "character": "narrator",
+  "topic": "I was the only employee on the night shift at a small motel off Route 6",
+  "title": "I Worked the Night Shift at a Motel Where Eight Rooms Were Always Occupied | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The Pinewood Motel had eight rooms that always showed occupied. I never rented them.", "image_prompt": "exterior wide shot of a small one-story roadside motel at night, eight numbered room doors with porch lights on, no cars in any spot in front of them, a single lit office at one end, foggy parking lot, vertical 9:16 framing"},
+    {"id": 2, "narration": "Off Route six. Sixty miles from the next town.", "image_prompt": "wide shot of a rural two-lane highway at night, a faded PINEWOOD MOTEL sign visible in the distance, a single distant streetlight, dark forest on both sides, vertical 9:16 framing"},
+    {"id": 3, "narration": "I worked the desk Tuesday through Saturday. Eleven PM to seven AM.", "image_prompt": "interior shot of a small motel front desk at night, a vintage brass bell, a guest registration book open on the laminate counter, fluorescent overhead light, dim back office visible through a doorway, vertical 9:16 framing"},
+    {"id": 4, "narration": "Every night the system showed those eight rooms occupied. I never had keys.", "image_prompt": "close shot of an old CRT computer monitor showing a guest registration database with eight rows highlighted in dim green text, scan lines across the screen, late night ambient counter light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I asked my manager once.", "image_prompt": "close shot of a beige plastic landline phone receiver on a motel desk, the cord dangling off the edge, a fluorescent tube buzzing overhead, dim ambient counter light, vertical 9:16 framing"},
+    {"id": 6, "narration": "He said never go near those rooms.", "image_prompt": "close shot of a numbered motel room door at night, the brass numbers slightly tarnished, the porch light above flickering, deep shadow under the door, paint peeling near the frame, vertical 9:16 framing"},
+    {"id": 7, "narration": "Last winter, someone called the front desk from one.", "image_prompt": "close shot of an office phone showing an incoming call indicator lit, the room number display visible above it, dim ambient office light, vertical 9:16 framing"},
+    {"id": 8, "narration": "They asked when their wake-up call was.", "image_prompt": "close shot of a plastic motel phone receiver lying on the laminate desk surface, the cord curving away, fluorescent overhead light catching the dust on the keypad, vertical 9:16 framing"},
+    {"id": 9, "narration": "I had not booked any wake-up calls.", "image_prompt": "close shot of a guest register book open to a blank page, a pen resting in the spine, fluorescent light glaring on the white paper, the desk corner visible at the edge of frame, vertical 9:16 framing"},
+    {"id": 10, "narration": "The voice asked for me by name. Knew my schedule.", "image_prompt": "close shot of a name tag pinned to a worn uniform shirt, the engraved letters slightly faded, soft fluorescent light from above, the shirt fabric in shadow behind, vertical 9:16 framing"},
+    {"id": 11, "narration": "I quit two weeks later. Walked out mid-shift.", "image_prompt": "wide shot of a motel parking lot at night seen from a moving car, the office light receding behind, the eight room porch lights still on, fog rolling across the lot, vertical 9:16 framing"},
+    {"id": 12, "narration": "The Pinewood is still there. The system still shows eight occupied.", "image_prompt": "wide exterior shot of the Pinewood Motel at twilight, all eight room porch lights still on, no cars in the lot, the office dark, the highway empty, atmospheric fog, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-truck-empty-highway-001",
+  "character": "narrator",
+  "topic": "My truck broke down on a highway with no other cars for three hours, then one came",
+  "title": "My Truck Broke Down on a Highway with No Other Cars for Three Hours. Then One Came | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My truck died on a stretch of highway where no cars passed for three hours. Then one did.", "image_prompt": "wide shot of a dark pickup truck pulled over on the shoulder of a two-lane rural highway at twilight, hood up, hazards on, the road completely empty in both directions, distant flat farmland, vertical 9:16 framing"},
+    {"id": 2, "narration": "Driving back from my brother's wedding. Late October.", "image_prompt": "interior shot of a pickup truck cab at dusk, the road ahead through the windshield empty, dashboard lights glowing softly, a wedding program on the passenger seat, vertical 9:16 framing"},
+    {"id": 3, "narration": "Route nineteen between Ord and Bartlett. Cell service spotty.", "image_prompt": "close shot of a smartphone screen mounted on a dashboard showing only one service bar and a roaming indicator, the screen dim in the evening light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Engine quit at six fifty seven PM. I checked.", "image_prompt": "close shot of a dashboard digital clock display reading the time, the rest of the dashboard dimly lit by interior lights, the windshield dark beyond, vertical 9:16 framing"},
+    {"id": 5, "narration": "I waited.", "image_prompt": "wide shot from inside the truck cab looking forward through the windshield at the empty highway extending into darkness, the headlights still on illuminating the road ahead, no other vehicles, vertical 9:16 framing"},
+    {"id": 6, "narration": "Three hours. No cars in either direction.", "image_prompt": "wide exterior shot of a pickup truck on the shoulder of a rural highway at deep night, hazards blinking, the surrounding fields completely dark, no other lights visible in any direction, vertical 9:16 framing"},
+    {"id": 7, "narration": "At ten oh four headlights appeared in my rearview.", "image_prompt": "close shot of a rear-view mirror in a truck interior showing distant headlights approaching from far behind, the rest of the mirror frame in shadow, dashboard lights dim, vertical 9:16 framing"},
+    {"id": 8, "narration": "An old sedan. It pulled up behind me. Engine running.", "image_prompt": "wide rear shot from inside a pickup truck looking back at an older dark sedan parked behind it on the highway shoulder, headlights bright, no driver visible through the windshield, vertical 9:16 framing"},
+    {"id": 9, "narration": "Driver got out. Walked toward my window.", "image_prompt": "close shot of the driver side window of a pickup truck from inside, a figure visible only as a silhouette walking toward the truck, the figure backlit by their own headlights, no face details, vertical 9:16 framing"},
+    {"id": 10, "narration": "He asked if I was okay. Used my first name. We had never met.", "image_prompt": "close shot of a driver side window seen from inside the truck, a hand visible against the glass on the outside, no face visible, the figure's torso the only thing in frame, vertical 9:16 framing"},
+    {"id": 11, "narration": "I locked the doors.", "image_prompt": "extreme close up of a hand pressing the lock button on a pickup truck door from inside, the lock indicator clicking down, dim cabin light, vertical 9:16 framing"},
+    {"id": 12, "narration": "He walked back to his car. Sat there until sunrise. Then drove off.", "image_prompt": "wide exterior shot at dawn of an empty rural highway, only a single dark sedan visible in the distance driving away, no other vehicles, pale pre-dawn light, vertical 9:16 framing"}
+  ]
+}
