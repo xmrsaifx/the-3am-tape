@@ -1,11 +1,13 @@
-name: Daily 3AM Tape
+name: 3AM Tape — 3/day sprint
 
 on:
-  # 17:00 UTC = 22:00 PKT. The pipeline picks its own publishAt window
-  # (22:00-23:59 PKT same day, or next-day if too late) so this fire time
-  # just needs to be a couple hours before the publish window.
+  # SPRINT MODE: 3 uploads/day, public-immediate (daily_pipeline.py default).
+  # Each cron is timed so render finishes during the corresponding target
+  # audience's peak horror viewing window (~10 min after cron fire).
   schedule:
-    - cron: '0 17 * * *'
+    - cron: '0 2 * * *'    # 02:00 UTC -> ~21:00 ET (US prime time, "story before bed")
+    - cron: '0 16 * * *'   # 16:00 UTC -> ~21:00 PKT (local late evening) / ~17:00 CET (EU early evening)
+    - cron: '0 22 * * *'   # 22:00 UTC -> ~17:00 ET (US after-work) / ~22:00 GMT (UK prime time)
   workflow_dispatch:
     inputs:
       topic:
