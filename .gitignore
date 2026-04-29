@@ -1,0 +1,30 @@
+.env
+.env.local
+credentials.json
+client_secret*.json
+token.json
+*.pyc
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore everything in outputs/ EXCEPT:
+#   - used_topics.json: required so the 30-day topic-cooldown window survives CI runs
+#   - stats/: daily YouTube stats snapshots; growth tracking + comparison across days
+outputs/*
+!outputs/used_topics.json
+!outputs/stats/
+outputs/stats/.tmp_*
+logs/
+assets/heroes/*.png
+assets/heroes/*.jpg
+*.safetensors
+
+.replicate_cache/
+
+# Claude Code runtime state (PID lockfile). Do NOT commit; project settings (.claude/settings.json) are fine.
+.claude/scheduled_tasks.lock

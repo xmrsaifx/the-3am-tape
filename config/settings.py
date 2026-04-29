@@ -1,0 +1,55 @@
+"""Central config for The 3AM Tape pipeline. All paths and constants live here."""
+from __future__ import annotations
+
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+load_dotenv(PROJECT_ROOT / ".env")
+
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+REPLICATE_API_TOKEN = os.getenv("REPLICATE_API_TOKEN", "")
+
+# YouTube Data API v3 — see uploader.py for the OAuth flow.
+YOUTUBE_CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID", "")
+YOUTUBE_CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET", "")
+YOUTUBE_REFRESH_TOKEN = os.getenv("YOUTUBE_REFRESH_TOKEN", "")
+
+OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", PROJECT_ROOT / "outputs")).resolve()
+LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
+
+ASSETS_DIR = PROJECT_ROOT / "assets"
+MUSIC_DIR = ASSETS_DIR / "music"
+FONTS_DIR = ASSETS_DIR / "fonts"
+
+SCRIPTS_DIR = OUTPUT_DIR / "scripts"
+IMAGES_DIR = OUTPUT_DIR / "images"
+VOICEOVERS_DIR = OUTPUT_DIR / "voiceovers"
+FINAL_DIR = OUTPUT_DIR / "final"
+STATS_DIR = OUTPUT_DIR / "stats"
+
+LOGS_DIR = PROJECT_ROOT / "logs"
+
+CLAUDE_MODEL = "claude-sonnet-4-6"
+
+VIDEO_WIDTH = 1080
+VIDEO_HEIGHT = 1920
+VIDEO_FPS = 30
+# Format: 60-sec Shorts. ~10 scenes × ~6 sec each. Each scene ~12-15 words of
+# narration so the per-image hold stays engaging-fast.
+SCENES_PER_VIDEO = 10
+SCENE_DURATION_SECONDS = 6
+SHORT_TARGET_DURATION_SECONDS = 60  # YouTube Shorts hard cap
+
+# Need a full ffmpeg with libfreetype for drawtext/captions.
+FFMPEG_BIN = os.getenv("FFMPEG_BIN", "/usr/local/opt/ffmpeg-full/bin/ffmpeg")
+FFPROBE_BIN = os.getenv("FFPROBE_BIN", "/usr/local/opt/ffmpeg-full/bin/ffprobe")
+
+# Caption font path. Default is the bundled Anton (Google Fonts, OFL license).
+# Anton is bold-condensed sans — the standard "viral Shorts caption" font that
+# reads big and crisp at 90pt. Overridable via env if you want to swap.
+CAPTION_FONT = os.getenv(
+    "CAPTION_FONT",
+    str(FONTS_DIR / "Anton-Regular.ttf"),
+)

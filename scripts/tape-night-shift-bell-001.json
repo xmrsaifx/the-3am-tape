@@ -1,0 +1,68 @@
+{
+  "video_id": "tape-night-shift-bell-001",
+  "character": "narrator",
+  "topic": "I worked the graveyard shift at a 24-hour gas station in the middle of nowhere",
+  "title": "I Worked the Night Shift at a Gas Station Off Highway 49 | True Scary Story",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "I worked the graveyard shift at a Shell station off Highway forty nine.",
+      "image_prompt": "exterior wide shot of a small American gas station at three in the morning, illuminated by yellow fluorescent canopy lights, two empty pumps, dark empty highway stretching into fog beyond, no cars, no people visible, low angle, vertical 9:16 framing"
+    },
+    {
+      "id": 2,
+      "narration": "Alone from ten at night until six in the morning.",
+      "image_prompt": "interior of an empty 1990s convenience store at night, fluorescent ceiling lights buzzing, view from behind an empty checkout counter, snack aisles stretching back into shadow, the back of a man in a uniform shirt visible at the counter, vertical 9:16 framing"
+    },
+    {
+      "id": 3,
+      "narration": "Most nights, nothing happened.",
+      "image_prompt": "wide interior shot of an empty 1990s gas station at night, long snack aisles fading into shadow at the back of the store, fluorescent strip lights overhead, no people in frame, deep symmetrical perspective, vertical 9:16 framing"
+    },
+    {
+      "id": 4,
+      "narration": "Last Tuesday at three AM, the bell rang.",
+      "image_prompt": "close shot of a small CRT security monitor on a gas station counter showing a black and white camera feed of the empty front door, a digital clock on the wall reading 2 47, slight static and scan lines on the screen, dim lighting, vertical 9:16 framing"
+    },
+    {
+      "id": 5,
+      "narration": "I looked up.",
+      "image_prompt": "extreme close up of a small brass bell hanging from a metal arm at the top of a glass door, slight motion blur on the bell as if it just rang, soft yellow light from outside, very shallow depth of field, vertical 9:16 framing"
+    },
+    {
+      "id": 6,
+      "narration": "No one came in. Door was closed.",
+      "image_prompt": "close angle on a closed glass entrance door of a gas station from the inside, view through the glass shows an empty parking lot at night, no figures, dim yellow exterior light, slight reflection of fluorescent ceiling lights on the glass, vertical 9:16 framing"
+    },
+    {
+      "id": 7,
+      "narration": "I rewound the tape.",
+      "image_prompt": "extreme close up of a hand pressing the rewind button on a VHS security recorder, the buttons labeled in faded white print, dim ambient counter light, slight grain, finger blurred from motion, vertical 9:16 framing"
+    },
+    {
+      "id": 8,
+      "narration": "Bell rang. Door never moved.",
+      "image_prompt": "tight crop on a CRT security monitor showing a closed glass entrance door, the brass bell visible in frame, scan lines and analog noise across the screen, dim ambient counter lighting, vertical 9:16 framing"
+    },
+    {
+      "id": 9,
+      "narration": "I went outside. Parking lot empty. Wind stopped.",
+      "image_prompt": "view from a gas station parking lot at three AM, looking back at the brightly lit store entrance through foggy haze, no people in frame, asphalt wet from earlier rain reflecting yellow canopy lights, two unlit pumps in the foreground, deep shadows, atmospheric haze, vertical 9:16 framing"
+    },
+    {
+      "id": 10,
+      "narration": "I locked the door. Heard footsteps from the back aisle.",
+      "image_prompt": "long view down an empty gas station snack aisle at night, looking from the front counter toward the back of the store, fluorescent strip lights overhead, shelves of generic packaged snacks on either side, the linoleum floor reflecting the lights, deep perspective, no people visible, vertical 9:16 framing"
+    },
+    {
+      "id": 11,
+      "narration": "I do not remember leaving the station.",
+      "image_prompt": "wide rear view of a man in a uniform shirt walking away from a gas station entrance toward an old sedan in the parking lot, no face visible, foggy night, yellow canopy lights behind him, his back hunched slightly, vertical 9:16 framing"
+    },
+    {
+      "id": 12,
+      "narration": "It closed three weeks later. Lights still on.",
+      "image_prompt": "wide exterior shot of an abandoned gas station at twilight, viewed from across an empty highway, all canopy lights still illuminated against the dusk sky, parking lot empty, no cars, faded SHELL signage with one bulb dim, weeds growing in cracks of the parking lot, atmospheric haze, vertical 9:16 framing"
+    }
+  ]
+}

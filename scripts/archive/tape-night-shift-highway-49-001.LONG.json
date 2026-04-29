@@ -1,0 +1,48 @@
+{
+  "video_id": "tape-night-shift-highway-49-001",
+  "character": "narrator",
+  "topic": "I worked the graveyard shift at a 24-hour gas station in the middle of nowhere",
+  "title": "I Worked the Graveyard Shift at a Gas Station Off Highway 49 | True Scary Story",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "I worked the graveyard shift at a Shell station off Highway 49. I was the only person there from ten at night until six in the morning. Most nights, nothing happened. The night I want to tell you about wasn't most nights.",
+      "image_prompt": "exterior of a small American gas station at three in the morning, illuminated by yellow fluorescent canopy lights, two empty pumps, a single overhead halogen light over the entrance, dark empty highway stretching into fog beyond, no cars, no people visible, low angle wide composition, vertical 9:16 framing"
+    },
+    {
+      "id": 2,
+      "narration": "It was a slow Tuesday in November. The kind of cold where your breath fogs the freezer doors. I had been alone since ten. I had done my second restock around midnight. I was just sitting behind the counter, watching the clock tick toward three.",
+      "image_prompt": "interior of an empty 1990s convenience store at night, fluorescent ceiling lights buzzing, view of an empty checkout counter with a small CRT security monitor showing camera feeds, a digital clock on the wall reading two forty seven AM, snack aisles in the background fading into shadow, vertical 9:16 framing"
+    },
+    {
+      "id": 3,
+      "narration": "The bell on the front door rang. I looked up. No one had come in. The door wasn't moving. I had been staring at the camera feed when it rang. I rewound the footage. The bell rang on the recording. The door was closed. No one was there.",
+      "image_prompt": "close angle on the top corner of a glass entrance door from inside a gas station, a small brass bell hanging on a metal arm, soft yellow light, view through the glass shows an empty parking lot at night with one distant pump light, no people, slight motion blur on the bell as if it just moved, vertical 9:16 framing"
+    },
+    {
+      "id": 4,
+      "narration": "I went outside to check. The parking lot was empty. The pumps were off. The wind had stopped. I stood there for a minute, just listening. Nothing. I walked back inside and locked the door behind me. We were not supposed to lock it during shift. I locked it anyway.",
+      "image_prompt": "view from a gas station parking lot at three AM, looking back at the brightly lit store entrance through a foggy haze, no people in frame, asphalt wet from earlier rain reflecting yellow canopy lights, two unlit pumps in the foreground, deep shadows around the building, low atmospheric haze, vertical 9:16 framing"
+    },
+    {
+      "id": 5,
+      "narration": "I sat back down and tried to focus on my phone. The bell rang again. This time I was looking at the door. Looking right at it. The door had not moved. The bell had rung. The recording showed exactly what I had just seen. The bell, ringing. The door, closed.",
+      "image_prompt": "close shot of a small CRT security monitor screen on a gas station counter, the screen shows a black and white camera feed of a closed glass entrance door, slight static and scan lines on the screen, the corner of a phone visible on the counter, dim ambient lighting, vertical 9:16 framing"
+    },
+    {
+      "id": 6,
+      "narration": "I called my manager. I told him the bell was malfunctioning and I needed to leave. He said the bell was not electric. It was just a bell. A piece of metal. He said it could not malfunction in the way I was describing. He told me to wait until my replacement came at six.",
+      "image_prompt": "still life of a beige plastic landline phone receiver lifted off its hook lying on a laminate counter, faint phone cord curling beside it, a notebook open with a blue pen on top, a half finished cup of coffee in the background going cold, fluorescent overhead light, vertical 9:16 framing"
+    },
+    {
+      "id": 7,
+      "narration": "At three twenty seven, I heard footsteps on the linoleum. I was the only person in the building. The cameras showed an empty store. I could hear them. Walking. Slow. Coming from the back aisle. Toward the counter.",
+      "image_prompt": "long view down an empty gas station snack aisle at night, looking from the back of the store toward the front counter in the distance, fluorescent strip lights overhead, shelves of generic packaged snacks and chips on either side, the linoleum floor reflecting the lights, deep perspective, no people visible, vertical 9:16 framing"
+    },
+    {
+      "id": 8,
+      "narration": "I do not remember leaving. I came back to my apartment with no memory of the drive. My manager fired me by text the next morning. He said I had abandoned my shift. He never asked what happened. The Shell station closed three weeks later. The building is still standing. The lights are still on.",
+      "image_prompt": "wide exterior shot of an abandoned gas station at twilight, viewed from across the empty highway, all canopy lights still illuminated against the dusk sky, parking lot empty, no cars at the pumps, faded SHELL signage with one bulb dim, weeds growing in cracks of the parking lot, atmospheric haze, vertical 9:16 framing"
+    }
+  ]
+}
