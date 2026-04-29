@@ -36,11 +36,14 @@ CLAUDE_MODEL = "claude-sonnet-4-6"
 VIDEO_WIDTH = 1080
 VIDEO_HEIGHT = 1920
 VIDEO_FPS = 30
-# Format: 60-sec Shorts. ~10 scenes × ~6 sec each. Each scene ~12-15 words of
-# narration so the per-image hold stays engaging-fast.
-SCENES_PER_VIDEO = 10
-SCENE_DURATION_SECONDS = 6
-SHORT_TARGET_DURATION_SECONDS = 60  # YouTube Shorts hard cap
+# Format: YouTube Shorts (vertical 9:16). YouTube raised the Shorts duration cap
+# from 60s to 180s in October 2024. We target 60-90 seconds — long enough for
+# proper analog-horror dread build-up, short enough to keep retention strong.
+# 12 scenes × ~6-7 sec each is the sweet spot. ~12-15 words narration per scene.
+SCENES_PER_VIDEO = 12
+SCENE_DURATION_SECONDS = 7
+SHORT_TARGET_DURATION_SECONDS = 90   # our target sweet spot
+SHORT_MAX_DURATION_SECONDS = 180     # hard cap before YouTube classifies as regular video
 
 # Need a full ffmpeg with libfreetype for drawtext/captions.
 FFMPEG_BIN = os.getenv("FFMPEG_BIN", "/usr/local/opt/ffmpeg-full/bin/ffmpeg")

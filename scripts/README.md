@@ -1,6 +1,6 @@
 # Writing Shorts scripts by hand for The 3AM Tape
 
-This folder is the **video queue**. Every JSON file is a 60-second horror Short waiting to be rendered. The daily workflow ([`.github/workflows/daily.yml`](../.github/workflows/daily.yml)) picks the oldest script (FIFO by filename), renders + uploads it, then moves it to [`scripts/archive/`](archive/).
+This folder is the **video queue**. Every JSON file is a 60–90 second horror Short waiting to be rendered. The daily workflow ([`.github/workflows/daily.yml`](../.github/workflows/daily.yml)) picks the oldest script (FIFO by filename), renders + uploads it, then moves it to [`scripts/archive/`](archive/).
 
 Drop a new script here whenever you want to queue a tape. With `ANTHROPIC_API_KEY` set, the workflow auto-tops the queue back up to 5 after each run; without it, the queue only ever has what you put in.
 
@@ -31,15 +31,17 @@ Save as `scripts/tape-<short-slug>-001.json`:
 
 That's it. Drop the file in `scripts/`, commit (don't push without confirmation), the next daily run will pick it up.
 
-## Format target: 60-sec YouTube Shorts
+## Format target: YouTube Shorts (vertical 9:16)
 
 | Constraint | Value |
 |---|---|
-| **Total runtime** | ≤ 60 seconds (Shorts hard cap) |
-| **Scenes** | 8–10 |
-| **Per-scene narration** | ~12–15 words (~6 seconds at narrator's `-15%` rate) |
-| **Total narration words** | ~100–120 |
+| **Total runtime** | 60–90 seconds (sweet spot). Hard cap is 180 seconds (YouTube raised in Oct 2024). |
+| **Scenes** | 12 (typical) — can range 10–15 |
+| **Per-scene narration** | ~12–15 words (~6–7 seconds at narrator's slow rate) |
+| **Total narration words** | ~95–145 |
 | **Aspect ratio** | 9:16 vertical (1080×1920) |
+
+> **Why 60-90 sec is the sweet spot:** analog horror narration needs space to build dread. Pure 60-sec Shorts cut the atmosphere short. Channels in this niche (Be. Busta, ThatChapter, etc.) routinely run 90-120 sec because the genre demands it. Stay ≤180 sec to keep the Short classification.
 
 ## Schema reference
 
@@ -50,7 +52,7 @@ That's it. Drop the file in `scripts/`, commit (don't push without confirmation)
 | `video_id` | string | Slug. Format: `tape-<topic-slug>-NNN`. Used as the filename for outputs and the YouTube key. Must be unique across queue + archive. |
 | `character` | string | Always `"narrator"`. |
 | `topic` | string | The topic seed (matches `config/topics.py`). Recorded in `outputs/used_topics.json` for 30-day cooldown. |
-| `scenes` | array | 8–10 scenes. Each scene = ~12-15 words. |
+| `scenes` | array | 10–15 scenes (12 is the sweet spot). Each scene = ~12-15 words. |
 
 ### Optional top-level fields
 

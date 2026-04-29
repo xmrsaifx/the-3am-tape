@@ -7,7 +7,7 @@ Fully automated YouTube channel for analog-horror / true-scary-story narration. 
 - **Channel niche:** Horror narration / analog-horror / true scary stories
 - **Style:** Analog-horror aesthetic (VHS grain, scan lines, 35mm film, low light, fog)
 - **Audience:** Horror Shorts viewers, late-night doom-scrollers
-- **Format:** **60-sec YouTube Shorts** — 8–10 scenes × ~6 sec each × ~12-15 words narration. Vertical 9:16.
+- **Format:** **YouTube Shorts (vertical 9:16)** — 12 scenes, ~12-15 words narration each, target runtime 60-90 sec. (YouTube raised the Shorts duration cap to 180s in October 2024 — for analog horror narration, 60-90 sec is the sweet spot since the genre needs atmospheric build-up time that pure 60-sec cuts can't deliver.)
 - **Captions:** Anton bold-condensed @ 90pt, white phrase + per-word yellow karaoke highlight (the proven viral-Shorts caption format)
 - **Posting schedule:** Daily, automated via cron (`.github/workflows/daily.yml` at 17:00 UTC)
 - **Cost:** ~$0/video — same free pipeline as money-crew (Pollinations + edge-tts + FFmpeg)
@@ -130,7 +130,7 @@ All steps cache by file existence — re-runs only do new work.
 
 Hand-written JSON in `scripts/`. Schema fully documented in [scripts/README.md](scripts/README.md).
 
-**Shorts arc (8-10 scenes, ~12 words each, total ~60 sec):**
+**Shorts arc (12 scenes typical, ~12-15 words each, total 60-90 sec):**
 - Scene 1: HOOK — drop the listener directly into unease (~10 words)
 - Scenes 2–3: SETUP — concrete place, routine, who-where (~12 words each)
 - Scenes 4–6: ESCALATION — one wrong detail, then another, then undeniable
@@ -226,5 +226,5 @@ pip install -r requirements.txt
 7. **Never make horror visuals explicit** — implied dread, never gore/blood/jump scares. PG-13 by intention (helps monetization, avoids age-restriction)
 8. **Always keep outputs** organized by `video_id`
 9. **Never delete outputs on failure** — keep for debugging
-10. **Keep videos under 60 sec** — Shorts hard cap. ~100-120 words narration max.
+10. **Keep videos under 180 sec** — YouTube Shorts cap (raised from 60s in Oct 2024). Target sweet spot is 60-90 sec for analog horror build-up. ~120-145 words narration is comfortable.
 11. **Never push without confirmation** — same standing rule as money-crew

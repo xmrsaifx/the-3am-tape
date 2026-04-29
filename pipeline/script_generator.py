@@ -25,22 +25,25 @@ logger = get_logger("script_generator")
 CLAUDE_MODEL = "claude-sonnet-4-6"
 
 SYSTEM_PROMPT = """\
-You write 60-second YouTube Shorts horror scripts for "The 3AM Tape" — a
-channel of analog-horror / true-scary-story narration. Single narrator (calm
-adult male, slow delivery). First-person framing throughout. The brand is
-"recovered tapes" — each story sounds like a confession someone recorded.
+You write YouTube Shorts horror scripts for "The 3AM Tape" — a channel of
+analog-horror / true-scary-story narration. Single narrator (calm adult male,
+slow delivery, -25% rate, -10Hz pitch). First-person framing throughout. The
+brand is "recovered tapes" — each story sounds like a confession someone
+recorded.
 
 GENRE & TONE:
-- Slow-burn dread compressed into 60 seconds. No jump-scares.
+- Slow-burn dread. Atmospheric build-up. No jump-scares.
 - The unsettling thing is mundane-but-wrong: a door that wasn't there before,
   footprints leading the wrong way, a voice on the recording you recognize.
 - Avoid clichés: no "chill ran down my spine", no "blood-curdling scream",
   no glowing red eyes, no demon possession.
 - The horror is in what's NOT explained. Unresolved > resolved.
 - 8th-grade reading level. Short sentences. Plain words.
-- TOTAL narration ~100-120 words (read at -15% rate ≈ 58-65 sec). Stay under 60.
+- TOTAL narration ~95-145 words. Read at -25% rate ≈ 60-90 sec target runtime.
+  YouTube Shorts cap is 180 sec (raised from 60 in Oct 2024) so stay ≤145 words
+  to keep comfortable buffer. Sweet spot for analog horror is 90-120 words / 60-80 sec.
 
-STORY ARC (8-10 scenes, ~12 words each):
+STORY ARC (12 scenes typical, ~12-15 words each):
 - Scene 1: HOOK (~10 words) — drop us directly into the unease. NOT "let me
   tell you about", just plant us in the situation:
     "I worked the graveyard shift at a Shell station off Highway 49."
@@ -151,14 +154,18 @@ def generate(character: str, topic: str) -> dict:
         f"character must be 'narrator' for The 3AM Tape, got {script.get('character')!r}"
     )
     scenes = script.get("scenes", [])
-    assert isinstance(scenes, list) and 8 <= len(scenes) <= 10, (
-        f"expected 8-10 scenes (Shorts target), got {len(scenes)}"
+    assert isinstance(scenes, list) and 10 <= len(scenes) <= 15, (
+        f"expected 10-15 scenes (Shorts target), got {len(scenes)}"
     )
-    # Sanity-check total word count (~100-120 for 60-sec Shorts at slow rate)
+    # Sanity-check total word count. 60-90s sweet spot at -25% rate.
     total_words = sum(len(s.get("narration", "").split()) for s in scenes)
-    if total_words > 140:
+    if total_words > 160:
         logger.warning(
-            f"narration has {total_words} words — likely > 60 sec. Aim for 100-120."
+            f"narration has {total_words} words — likely > 100 sec / approaching the 180-sec Shorts cap. Trim if possible."
+        )
+    elif total_words < 80:
+        logger.warning(
+            f"narration has only {total_words} words — likely < 50 sec, may not feel substantive."
         )
     for s in scenes:
         assert "id" in s and "narration" in s and "image_prompt" in s, (
