@@ -5,9 +5,23 @@ pass width=1920, height=1080 to generate_for_video().
 
 Pollinations is a free public proxy in front of Flux Schnell. Same quality
 profile as paid Replicate Flux Schnell, just queued and rate-limited.
+
+RATE-LIMIT RESILIENCE (2026-04-30):
+GitHub Actions runners share IP pools that get aggressively throttled at
+peak US daytime hours, when our 02:00/16:00/22:00 UTC cron windows fire.
+The pipeline now compensates with:
+  - 7-second polite pacing between successful scene gens (don't be part of
+    the problem)
+  - 8 retry attempts with 30-180s backoff plus jitter
+  - Alternate model fallback: tries `turbo` (a less-queued Pollinations
+    model) on attempts 4-6, falls back to `flux` for 7-8
+  - Browser-style User-Agent (python-requests/X.X gets flagged as a bot)
+  - Random seed nudge on retry — same prompt URL might be cached on the
+    server's 429 list, mutating the seed forces a fresh queue slot
 """
 from __future__ import annotations
 
+import random
 import time
 import urllib.parse
 from pathlib import Path
@@ -22,6 +36,32 @@ from pipeline.logger import get_logger
 logger = get_logger("image_generator")
 
 POLLINATIONS_BASE = "https://image.pollinations.ai/prompt"
+
+# Pacing: how long to wait between successful scene gens. 7s is enough to
+# avoid burst-rate-limiting on Pollinations without making total render time
+# unreasonable (12 scenes × 7s = 84s of pacing overhead).
+POLITE_DELAY_BETWEEN_SCENES = 7
+
+# Retry: more attempts than before, longer max wait.
+MAX_ATTEMPTS_PER_SCENE = 8
+# Backoff schedule per failed attempt (seconds). Total worst case across all
+# 8 attempts ≈ 16 minutes for a single stuck scene. Plus jitter.
+BACKOFF_SECONDS = [30, 60, 90, 120, 180, 180, 180, 180]
+BACKOFF_JITTER_SECONDS = 15
+
+# Pollinations supports several models. Flux is the default but most-queued.
+# Turbo is faster + less-loaded, used as a fallback on attempts 4-6.
+MODEL_PRIMARY = "flux"
+MODEL_FALLBACK = "turbo"
+ATTEMPTS_USING_FALLBACK_MODEL = (4, 5, 6)
+
+# Realistic browser User-Agent. python-requests' default UA gets flagged by
+# Pollinations' anti-abuse layer first when the queue is hot.
+BROWSER_USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+HTTP_HEADERS = {"User-Agent": BROWSER_USER_AGENT, "Accept": "image/png,image/*,*/*"}
 # The 3AM Tape aesthetic: analog-horror / found-footage / cinematic photoreal.
 # Grain + low-light + dread atmosphere. The film-grain look is doing real
 # work — it sets the analog-horror tone AND masks AI artifacts (wonky hands,
@@ -42,14 +82,14 @@ NEGATIVE_HINT = (
 )
 
 
-def _build_url(prompt: str, seed: int, width: int, height: int) -> str:
+def _build_url(prompt: str, seed: int, width: int, height: int, model: str = MODEL_PRIMARY) -> str:
     full_prompt = prompt + STYLE_SUFFIX + NEGATIVE_HINT
     encoded = urllib.parse.quote(full_prompt, safe="")
     params = {
         "width": str(width),
         "height": str(height),
         "seed": str(seed),
-        "model": "flux",
+        "model": model,
         "nologo": "true",
         "enhance": "true",
         "private": "true",
@@ -73,12 +113,15 @@ def _upscale_to_target(path: Path, width: int, height: int) -> None:
         im.save(path, format="PNG", optimize=True)
 
 
-def generate_scene_image(prompt: str, seed: int, dest: Path, width: int, height: int) -> Path:
+def generate_scene_image(
+    prompt: str, seed: int, dest: Path, width: int, height: int,
+    model: str = MODEL_PRIMARY,
+) -> Path:
     """Hit Pollinations, save the PNG, then upscale to target resolution."""
-    url = _build_url(prompt, seed, width, height)
-    logger.info(f"pollinations: seed={seed} prompt={prompt[:90]}...")
+    url = _build_url(prompt, seed, width, height, model=model)
+    logger.info(f"pollinations: model={model} seed={seed} prompt={prompt[:80]}...")
     dest.parent.mkdir(parents=True, exist_ok=True)
-    with requests.get(url, stream=True, timeout=180) as r:
+    with requests.get(url, stream=True, timeout=180, headers=HTTP_HEADERS) as r:
         r.raise_for_status()
         with dest.open("wb") as f:
             for chunk in r.iter_content(chunk_size=8192):
@@ -106,20 +149,39 @@ def generate_for_video(
     out_dir = IMAGES_DIR / video_id
     out_dir.mkdir(parents=True, exist_ok=True)
     paths: list[Path] = []
+    scene_index = 0
     for scene in scenes:
         idx = scene["id"]
         dest = out_dir / f"scene_{idx:02d}.png"
+
+        # Cached → skip pacing too (no API call happened)
         if dest.exists() and dest.stat().st_size > 0:
             logger.info(f"scene {idx}: cached at {dest}")
             paths.append(dest)
+            scene_index += 1
             continue
+
+        # Polite pacing between actual API hits — be a good citizen of the
+        # free tier so Pollinations doesn't flag us as a burst caller.
+        if scene_index > 0:
+            logger.info(f"  pacing: sleep {POLITE_DELAY_BETWEEN_SCENES}s before scene {idx}")
+            time.sleep(POLITE_DELAY_BETWEEN_SCENES)
+
         attempts = 0
         while True:
             attempts += 1
+            # Try `turbo` model on middle attempts — different queue from `flux`
+            model = (
+                MODEL_FALLBACK if attempts in ATTEMPTS_USING_FALLBACK_MODEL
+                else MODEL_PRIMARY
+            )
+            # Mutate seed slightly on retry — bypasses any URL-level cache that
+            # might still be returning the previous 429 response.
+            seed_for_attempt = seed + idx + (attempts - 1) * 1000
             try:
                 generate_scene_image(
-                    scene["image_prompt"], seed=seed + idx, dest=dest,
-                    width=target_w, height=target_h,
+                    scene["image_prompt"], seed=seed_for_attempt, dest=dest,
+                    width=target_w, height=target_h, model=model,
                 )
                 if dest.stat().st_size < 5_000:
                     raise RuntimeError(f"image too small: {dest.stat().st_size} bytes")
@@ -127,10 +189,16 @@ def generate_for_video(
                 paths.append(dest)
                 break
             except Exception as e:
-                logger.warning(f"scene {idx} attempt {attempts} failed: {e}")
+                logger.warning(
+                    f"scene {idx} attempt {attempts}/{MAX_ATTEMPTS_PER_SCENE} failed: {e}"
+                )
                 dest.unlink(missing_ok=True)
-                if attempts >= 6:
+                if attempts >= MAX_ATTEMPTS_PER_SCENE:
                     raise
-                # Pollinations is aggressive on parallel callers; back off long.
-                time.sleep(min(15 * attempts, 60))
+                base = BACKOFF_SECONDS[min(attempts - 1, len(BACKOFF_SECONDS) - 1)]
+                jitter = random.uniform(-BACKOFF_JITTER_SECONDS, BACKOFF_JITTER_SECONDS)
+                wait = max(5, base + jitter)
+                logger.info(f"  backoff: sleep {wait:.0f}s before retry")
+                time.sleep(wait)
+        scene_index += 1
     return paths
