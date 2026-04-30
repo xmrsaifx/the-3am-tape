@@ -23,6 +23,15 @@ on:
         type: boolean
         default: false
 
+# Concurrency lock: prevent two daily.yml runs from racing each other on
+# state commit-back. Without this, simultaneous fires (e.g. cron + manual
+# dispatch happening close together) can both pick the same queued script
+# and double-upload it. cancel-in-progress=false means later runs queue
+# behind the active one and fire when it finishes.
+concurrency:
+  group: daily-pipeline
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -91,10 +100,23 @@ jobs:
           git add outputs/used_topics.json outputs/stats/ scripts/ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "no state changes to commit"
-          else
-            git commit -m "chore(daily): run $(date -u +%Y-%m-%d) [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore(daily): run $(date -u +%Y-%m-%d) [skip ci]"
+          # Defensive rebase-then-push loop: even with concurrency lock,
+          # external pushes (manual fixes, README edits, etc.) can land
+          # between checkout and commit. Try up to 3 times to integrate.
+          for attempt in 1 2 3; do
+            echo "push attempt $attempt..."
+            if git pull --rebase origin main && git push; then
+              echo "push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed; retrying after 5s..."
+            sleep 5
+          done
+          echo "ERROR: failed to push state commit after 3 attempts"
+          exit 1
 
       - name: Upload rendered mp4 as artifact (no-upload runs only)
         if: success() && inputs.no_upload == true
