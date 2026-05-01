@@ -1,8 +1,9 @@
-Stats snapshot for 2026-04-30
-Compared to: 2026-04-29
+Stats snapshot for 2026-05-01
+Compared to: 2026-04-30
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-I Worked the Night Shift at a Gas Station Off Highway 49 | T     366      —   303.6   11   0     public
-There Is a Recording on My Answering Machine from Someone I      111      —   111.0    1   0     public
-The New House Came with a Baby Monitor in the Attic That We        1      —     1.0    0   0     public
+There Is a Door in My Basement That Wasn't There Last Week |     910      —   910.0   17   0     public
+I Worked the Night Shift at a Gas Station Off Highway 49 | T     381    +15   256.3   11   0     public
+There Is a Recording on My Answering Machine from Someone I      113     +2   111.7    0   0     public
+The New House Came with a Baby Monitor in the Attic That We        3     +2     3.0    0   0     public

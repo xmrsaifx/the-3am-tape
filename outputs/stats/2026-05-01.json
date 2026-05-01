@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-01",
+  "snapshot_at": "2026-05-01T06:02:41.024602+00:00",
+  "videos": [
+    {
+      "video_id": "e6EqBjKGh9I",
+      "title": "There Is a Door in My Basement That Wasn't There Last Week | True Scary Story",
+      "published_at": "2026-04-30T23:18:34Z",
+      "privacy_status": "public",
+      "duration_sec": 65,
+      "views": 910,
+      "likes": 17,
+      "comments": 0,
+      "views_per_day": 910.0
+    },
+    {
+      "video_id": "ovJJkNL0ZUg",
+      "title": "I Worked the Night Shift at a Gas Station Off Highway 49 | True Scary Story",
+      "published_at": "2026-04-29T18:22:01Z",
+      "privacy_status": "public",
+      "duration_sec": 60,
+      "views": 381,
+      "likes": 11,
+      "comments": 0,
+      "views_per_day": 256.29
+    },
+    {
+      "video_id": "UpKJ-YEHQGk",
+      "title": "There Is a Recording on My Answering Machine from Someone I Have Never Met | True Scary Story",
+      "published_at": "2026-04-30T05:45:24Z",
+      "privacy_status": "public",
+      "duration_sec": 78,
+      "views": 113,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 111.66
+    },
+    {
+      "video_id": "2IVDum2DJzM",
+      "title": "The New House Came with a Baby Monitor in the Attic That We Did Not Install | True Scary Story",
+      "published_at": "2026-04-30T17:35:10Z",
+      "privacy_status": "public",
+      "duration_sec": 63,
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 3.0
+    }
+  ]
+}
