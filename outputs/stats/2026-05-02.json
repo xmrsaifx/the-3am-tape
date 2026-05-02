@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "snapshot_at": "2026-05-02T05:13:53.296468+00:00",
+  "snapshot_at": "2026-05-02T17:01:16.037637+00:00",
   "videos": [
     {
       "video_id": "e6EqBjKGh9I",
@@ -8,10 +8,21 @@
       "published_at": "2026-04-30T23:18:34Z",
       "privacy_status": "public",
       "duration_sec": 65,
-      "views": 947,
+      "views": 957,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 759.57
+      "views_per_day": 550.64
+    },
+    {
+      "video_id": "LzHaLdXeThE",
+      "title": "I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle's Attic | True Scary Story",
+      "published_at": "2026-05-02T05:14:14Z",
+      "privacy_status": "public",
+      "duration_sec": 59,
+      "views": 843,
+      "likes": 19,
+      "comments": 2,
+      "views_per_day": 843.0
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -19,10 +30,10 @@
       "published_at": "2026-05-01T23:15:54Z",
       "privacy_status": "public",
       "duration_sec": 71,
-      "views": 460,
+      "views": 468,
       "likes": 14,
       "comments": 0,
-      "views_per_day": 460.0
+      "views_per_day": 468.0
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -30,10 +41,10 @@
       "published_at": "2026-04-29T18:22:01Z",
       "privacy_status": "public",
       "duration_sec": 60,
-      "views": 399,
+      "views": 403,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 162.68
+      "views_per_day": 136.89
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -41,10 +52,10 @@
       "published_at": "2026-04-30T05:45:24Z",
       "privacy_status": "public",
       "duration_sec": 78,
-      "views": 115,
+      "views": 117,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 58.14
+      "views_per_day": 47.38
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -52,10 +63,10 @@
       "published_at": "2026-05-01T06:03:00Z",
       "privacy_status": "public",
       "duration_sec": 83,
-      "views": 107,
-      "likes": 3,
+      "views": 114,
+      "likes": 5,
       "comments": 0,
-      "views_per_day": 107.0
+      "views_per_day": 78.24
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -63,10 +74,10 @@
       "published_at": "2026-05-01T17:12:58Z",
       "privacy_status": "public",
       "duration_sec": 81,
-      "views": 14,
+      "views": 18,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 14.0
+      "views_per_day": 18.0
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -74,10 +85,10 @@
       "published_at": "2026-04-30T17:35:10Z",
       "privacy_status": "public",
       "duration_sec": 63,
-      "views": 5,
+      "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.37
+      "views_per_day": 4.05
     }
   ]
 }
