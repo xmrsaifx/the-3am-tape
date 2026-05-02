@@ -3,11 +3,12 @@ Compared to: 2026-05-01
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-There Is a Door in My Basement That Wasn't There Last Week |     957    +28   550.6   17   0     public
-I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     843      —   843.0   19   2     public
-I Went Hiking Alone and Found a Campsite That Had Been Waiti     468      —   468.0   14   0     public
-I Worked the Night Shift at a Gas Station Off Highway 49 | T     403     +7   136.9   11   0     public
-There Is a Recording on My Answering Machine from Someone I      117     +2    47.4    1   0     public
-My Brother Went Missing for Six Hours When We Were Kids and      114     +7    78.2    5   0     public
-My Night Shift at the Call Center Kept Getting Calls from a       18    +15    18.0    1   0     public
-The New House Came with a Baby Monitor in the Attic That We        8     +5     4.0    0   0     public
+We Moved Into a House That Was Suspiciously Cheap and Now I     1012      —  1012.0   30   0     public
+There Is a Door in My Basement That Wasn't There Last Week |     964    +35   482.9   17   0     public
+I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     854      —   854.0   19   2     public
+I Went Hiking Alone and Found a Campsite That Had Been Waiti     476      —   476.0   15   0     public
+I Worked the Night Shift at a Gas Station Off Highway 49 | T     403     +7   125.8   11   0     public
+My Brother Went Missing for Six Hours When We Were Kids and      120    +13    70.0    6   0     public
+There Is a Recording on My Answering Machine from Someone I      117     +2    42.9    1   0     public
+My Night Shift at the Call Center Kept Getting Calls from a       25    +22    20.0    1   0     public
+The New House Came with a Baby Monitor in the Attic That We       12     +9     5.4    0   0     public
