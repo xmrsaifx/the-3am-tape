@@ -1,11 +1,12 @@
-Stats snapshot for 2026-05-01
-Compared to: 2026-04-30
+Stats snapshot for 2026-05-02
+Compared to: 2026-05-01
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-There Is a Door in My Basement That Wasn't There Last Week |     929      —   929.0   17   0     public
-I Worked the Night Shift at a Gas Station Off Highway 49 | T     396    +30   179.7   11   0     public
-There Is a Recording on My Answering Machine from Someone I      115     +4    66.5    1   0     public
+There Is a Door in My Basement That Wasn't There Last Week |     947    +18   759.6   17   0     public
+I Went Hiking Alone and Found a Campsite That Had Been Waiti     460      —   460.0   14   0     public
+I Worked the Night Shift at a Gas Station Off Highway 49 | T     399     +3   162.7   11   0     public
+There Is a Recording on My Answering Machine from Someone I      115      —    58.1    1   0     public
 My Brother Went Missing for Six Hours When We Were Kids and      107      —   107.0    3   0     public
-My Night Shift at the Call Center Kept Getting Calls from a        3      —     3.0    1   0     public
-The New House Came with a Baby Monitor in the Attic That We        3     +2     2.4    0   0     public
+My Night Shift at the Call Center Kept Getting Calls from a       14    +11    14.0    1   0     public
+The New House Came with a Baby Monitor in the Attic That We        5     +2     3.4    0   0     public
