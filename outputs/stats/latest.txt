@@ -3,13 +3,14 @@ Compared to: 2026-05-02
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-We Moved Into a House That Was Suspiciously Cheap and Now I     1032    +20  1032.0   30   0     public
-There Is a Door in My Basement That Wasn't There Last Week |     970     +6   426.7   18   0     public
-I Have a Daughter Who Is Not in Any of the Family Photos. Bu     876      —   876.0   43   0     public
-I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     857     +3   835.2   20   2     public
-I Went Hiking Alone and Found a Campsite That Had Been Waiti     482     +6   378.1   16   0     public
-I Worked the Night Shift at a Gas Station Off Highway 49 | T     403      —   115.8   11   0     public
-My Brother Went Missing for Six Hours When We Were Kids and      125     +5    62.7    7   0     public
-There Is a Recording on My Answering Machine from Someone I      117      —    38.9    1   0     public
-My Night Shift at the Call Center Kept Getting Calls from a       31     +6    20.3    2   0     public
-The New House Came with a Baby Monitor in the Attic That We       15     +3     6.0    0   0     public
+We Moved Into a House That Was Suspiciously Cheap and Now I     1042    +30  1041.1   30   0     public
+There Is a Door in My Basement That Wasn't There Last Week |     980    +16   357.8   18   0     public
+I Have a Daughter Who Is Not in Any of the Family Photos. Bu     879      —   879.0   43   0     public
+I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     864    +10   579.0   20   2     public
+I Went Hiking Alone and Found a Campsite That Had Been Waiti     499    +23   286.6   16   0     public
+I Deliver Food at Night and I Have Learned Which Addresses t     428      —   428.0    9   0     public
+I Worked the Night Shift at a Gas Station Off Highway 49 | T     403      —   102.2   11   0     public
+My Brother Went Missing for Six Hours When We Were Kids and      131    +11    53.3    7   0     public
+There Is a Recording on My Answering Machine from Someone I      117      —    33.7    1   0     public
+My Night Shift at the Call Center Kept Getting Calls from a       35    +10    17.6    2   0     public
+The New House Came with a Baby Monitor in the Attic That We       15     +3     5.0    0   0     public
