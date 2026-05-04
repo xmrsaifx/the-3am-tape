@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "snapshot_at": "2026-05-04T17:48:07.232228+00:00",
+  "snapshot_at": "2026-05-04T23:21:16.843848+00:00",
   "videos": [
     {
       "video_id": "lBBy5MMq5l0",
@@ -8,10 +8,10 @@
       "published_at": "2026-05-02T17:01:39Z",
       "privacy_status": "public",
       "duration_sec": 74,
-      "views": 1067,
+      "views": 1068,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 525.03
+      "views_per_day": 471.81
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -22,7 +22,18 @@
       "views": 986,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 261.5
+      "views_per_day": 246.38
+    },
+    {
+      "video_id": "LzHaLdXeThE",
+      "title": "I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle's Attic | True Scary Story",
+      "published_at": "2026-05-02T05:14:14Z",
+      "privacy_status": "public",
+      "duration_sec": 59,
+      "views": 887,
+      "likes": 23,
+      "comments": 2,
+      "views_per_day": 321.97
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -33,18 +44,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 497.76
-    },
-    {
-      "video_id": "LzHaLdXeThE",
-      "title": "I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle's Attic | True Scary Story",
-      "published_at": "2026-05-02T05:14:14Z",
-      "privacy_status": "public",
-      "duration_sec": 59,
-      "views": 881,
-      "likes": 23,
-      "comments": 2,
-      "views_per_day": 349.11
+      "views_per_day": 440.33
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -52,10 +52,10 @@
       "published_at": "2026-05-03T17:03:08Z",
       "privacy_status": "public",
       "duration_sec": 85,
-      "views": 618,
+      "views": 623,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 599.28
+      "views_per_day": 493.43
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -63,10 +63,10 @@
       "published_at": "2026-05-01T23:15:54Z",
       "privacy_status": "public",
       "duration_sec": 71,
-      "views": 533,
+      "views": 534,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 192.25
+      "views_per_day": 177.78
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -75,7 +75,7 @@
       "privacy_status": "public",
       "duration_sec": 75,
       "views": 499,
-      "likes": 16,
+      "likes": 17,
       "comments": 0,
       "views_per_day": 499.0
     },
@@ -85,10 +85,10 @@
       "published_at": "2026-05-03T05:52:14Z",
       "privacy_status": "public",
       "duration_sec": 97,
-      "views": 451,
+      "views": 447,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 301.24
+      "views_per_day": 258.6
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -99,7 +99,7 @@
       "views": 405,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 81.38
+      "views_per_day": 77.77
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -107,10 +107,10 @@
       "published_at": "2026-05-03T23:14:03Z",
       "privacy_status": "public",
       "duration_sec": 88,
-      "views": 216,
-      "likes": 1,
+      "views": 219,
+      "likes": 2,
       "comments": 0,
-      "views_per_day": 216.0
+      "views_per_day": 217.91
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -118,10 +118,10 @@
       "published_at": "2026-05-01T06:03:00Z",
       "privacy_status": "public",
       "duration_sec": 83,
-      "views": 138,
+      "views": 140,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 39.55
+      "views_per_day": 37.62
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -132,7 +132,18 @@
       "views": 117,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 25.99
+      "views_per_day": 24.72
+    },
+    {
+      "video_id": "6ixiCm87sEQ",
+      "title": "I Remember a Babysitter We Had When I Was Seven. No One Else in My Family Remembers Her. | True Scar",
+      "published_at": "2026-05-04T17:50:03Z",
+      "privacy_status": "public",
+      "duration_sec": 84,
+      "views": 68,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 68.0
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -143,7 +154,7 @@
       "views": 46,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 15.21
+      "views_per_day": 14.13
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -154,7 +165,7 @@
       "views": 17,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.24
+      "views_per_day": 4.01
     }
   ]
 }

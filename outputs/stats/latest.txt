@@ -3,17 +3,18 @@ Compared to: 2026-05-03
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-We Moved Into a House That Was Suspiciously Cheap and Now I     1067    +16   525.0   30   0     public
-There Is a Door in My Basement That Wasn't There Last Week |     986     +5   261.5   18   0     public
-I Have a Daughter Who Is Not in Any of the Family Photos. Bu     883     +3   497.8   43   0     public
-I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     881    +12   349.1   23   2     public
-My Smart Doorbell Keeps Recording Someone Standing in Our Ha     618    +55   599.3   23   2     public
-I Went Hiking Alone and Found a Campsite That Had Been Waiti     533    +21   192.2   17   0     public
-I Was a Security Guard at an Empty Hospital Before They Tore     499      —   499.0   16   0     public
-I Deliver Food at Night and I Have Learned Which Addresses t     451    +13   301.2    9   0     public
-I Worked the Night Shift at a Gas Station Off Highway 49 | T     405     +2    81.4   11   0     public
-There Is a Video on My Drone's SD Card That I Never Recorded     216      —   216.0    1   0     public
-My Brother Went Missing for Six Hours When We Were Kids and      138     +4    39.5    7   0     public
-There Is a Recording on My Answering Machine from Someone I      117      —    26.0    1   0     public
-My Night Shift at the Call Center Kept Getting Calls from a       46     +4    15.2    2   0     public
-The New House Came with a Baby Monitor in the Attic That We       17     +2     4.2    0   0     public
+We Moved Into a House That Was Suspiciously Cheap and Now I     1068    +17   471.8   30   0     public
+There Is a Door in My Basement That Wasn't There Last Week |     986     +5   246.4   18   0     public
+I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     887    +18   322.0   23   2     public
+I Have a Daughter Who Is Not in Any of the Family Photos. Bu     883     +3   440.3   43   0     public
+My Smart Doorbell Keeps Recording Someone Standing in Our Ha     623    +60   493.4   23   2     public
+I Went Hiking Alone and Found a Campsite That Had Been Waiti     534    +22   177.8   17   0     public
+I Was a Security Guard at an Empty Hospital Before They Tore     499      —   499.0   17   0     public
+I Deliver Food at Night and I Have Learned Which Addresses t     447     +9   258.6    9   0     public
+I Worked the Night Shift at a Gas Station Off Highway 49 | T     405     +2    77.8   11   0     public
+There Is a Video on My Drone's SD Card That I Never Recorded     219      —   217.9    2   0     public
+My Brother Went Missing for Six Hours When We Were Kids and      140     +6    37.6    7   0     public
+There Is a Recording on My Answering Machine from Someone I      117      —    24.7    1   0     public
+I Remember a Babysitter We Had When I Was Seven. No One Else      68      —    68.0    1   0     public
+My Night Shift at the Call Center Kept Getting Calls from a       46     +4    14.1    2   0     public
+The New House Came with a Baby Monitor in the Attic That We       17     +2     4.0    0   0     public
