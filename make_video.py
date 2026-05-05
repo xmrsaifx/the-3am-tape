@@ -24,6 +24,7 @@ def main(
     made_for_kids: bool,
     publish_at: str | None,
     fb_upload: bool = False,
+    ig_upload: bool = False,
 ) -> Path:
     script = json.loads(script_path.read_text())
     video_id = script["video_id"]
@@ -80,6 +81,22 @@ def main(
         except Exception as e:
             logger.error(f"Facebook upload failed (non-fatal): {e}")
 
+    if ig_upload:
+        from pipeline import instagram_uploader
+        from pipeline import metadata as meta_mod
+        meta = meta_mod.metadata_for(script)
+        logger.info("Step 6: uploading to Instagram Reels")
+        try:
+            ig_url = instagram_uploader.upload(
+                video_path=final,
+                title=meta["title"],
+                description=meta["description"],
+            )
+            logger.info(f"=== Instagram Reel: {ig_url} ===")
+            print(f"Instagram: {ig_url}")
+        except Exception as e:
+            logger.error(f"Instagram upload failed (non-fatal): {e}")
+
     return final
 
 
@@ -113,6 +130,11 @@ if __name__ == "__main__":
         action="store_true",
         help="Also upload to Facebook as a Reel (needs FB_PAGE_ID + FB_PAGE_ACCESS_TOKEN in .env).",
     )
+    parser.add_argument(
+        "--ig-upload",
+        action="store_true",
+        help="Also upload to Instagram as a Reel (needs IG_USER_ID + IG_ACCESS_TOKEN in .env).",
+    )
     args = parser.parse_args()
     main(
         args.script,
@@ -121,4 +143,5 @@ if __name__ == "__main__":
         made_for_kids=args.made_for_kids,
         publish_at=args.publish_at,
         fb_upload=args.fb_upload,
+        ig_upload=args.ig_upload,
     )

@@ -16,6 +16,12 @@ YOUTUBE_CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID", "")
 YOUTUBE_CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET", "")
 YOUTUBE_REFRESH_TOKEN = os.getenv("YOUTUBE_REFRESH_TOKEN", "")
 
+# Instagram Graph API — for Reels upload via pipeline/instagram_uploader.py.
+# IG account must be Business/Creator and linked to the Facebook page.
+# Reuses FB_PAGE_ACCESS_TOKEN — no separate IG token needed.
+IG_USER_ID = os.getenv("IG_USER_ID", "")
+
+
 # Facebook Graph API — for Reels upload via pipeline/facebook_uploader.py.
 # Generate a non-expiring System User token in Meta Business Suite to avoid
 # the 60-day expiry on standard user tokens.

@@ -72,6 +72,8 @@ jobs:
           # Optional. Without both, Facebook Reels upload is skipped silently.
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          # Optional. Without it, Instagram Reels upload is skipped silently.
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
           FFMPEG_BIN: ffmpeg
           FFPROBE_BIN: ffprobe
           CAPTION_FONT: /usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf
