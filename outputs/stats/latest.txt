@@ -1,20 +1,21 @@
-Stats snapshot for 2026-05-04
-Compared to: 2026-05-03
+Stats snapshot for 2026-05-05
+Compared to: 2026-05-04
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-We Moved Into a House That Was Suspiciously Cheap and Now I     1068    +17   471.8   30   0     public
-There Is a Door in My Basement That Wasn't There Last Week |     986     +5   246.4   18   0     public
-I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     887    +18   322.0   23   2     public
-I Have a Daughter Who Is Not in Any of the Family Photos. Bu     883     +3   440.3   43   0     public
-My Smart Doorbell Keeps Recording Someone Standing in Our Ha     623    +60   493.4   23   2     public
-I Went Hiking Alone and Found a Campsite That Had Been Waiti     534    +22   177.8   17   0     public
-I Was a Security Guard at an Empty Hospital Before They Tore     499      —   499.0   17   0     public
-I Deliver Food at Night and I Have Learned Which Addresses t     447     +9   258.6    9   0     public
-I Worked the Night Shift at a Gas Station Off Highway 49 | T     405     +2    77.8   11   0     public
-There Is a Video on My Drone's SD Card That I Never Recorded     219      —   217.9    2   0     public
-My Brother Went Missing for Six Hours When We Were Kids and      140     +6    37.6    7   0     public
-There Is a Recording on My Answering Machine from Someone I      117      —    24.7    1   0     public
-I Remember a Babysitter We Had When I Was Seven. No One Else      68      —    68.0    1   0     public
-My Night Shift at the Call Center Kept Getting Calls from a       46     +4    14.1    2   0     public
-The New House Came with a Baby Monitor in the Attic That We       17     +2     4.0    0   0     public
+My GPS Keeps Telling Me to Take an Exit That Does Not Exist     1125      —  1125.0   30   1     public
+We Moved Into a House That Was Suspiciously Cheap and Now I     1070     +2   423.4   30   0     public
+There Is a Door in My Basement That Wasn't There Last Week |     985    +-1   230.9   18   0     public
+I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     887      —   293.9   23   2     public
+I Have a Daughter Who Is Not in Any of the Family Photos. Bu     884     +1   389.6   43   0     public
+My Smart Doorbell Keeps Recording Someone Standing in Our Ha     633    +10   414.8   23   2     public
+I Went Hiking Alone and Found a Campsite That Had Been Waiti     535     +1   163.8   17   0     public
+I Was a Security Guard at an Empty Hospital Before They Tore     506     +7   506.0   19   0     public
+I Deliver Food at Night and I Have Learned Which Addresses t     447      —   224.4    9   0     public
+I Worked the Night Shift at a Gas Station Off Highway 49 | T     406     +1    74.2   11   0     public
+There Is a Video on My Drone's SD Card That I Never Recorded     219      —   172.6    2   0     public
+My Brother Went Missing for Six Hours When We Were Kids and      140      —    35.1    7   0     public
+There Is a Recording on My Answering Machine from Someone I      117      —    23.4    1   0     public
+I Remember a Babysitter We Had When I Was Seven. No One Else      95    +27    95.0    1   0     public
+My Night Shift at the Call Center Kept Getting Calls from a       46      —    13.1    2   0     public
+The New House Came with a Baby Monitor in the Attic That We       17      —     3.8    0   0     public
