@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "snapshot_at": "2026-05-05T05:40:44.976349+00:00",
+  "snapshot_at": "2026-05-05T17:42:42.317591+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -8,10 +8,10 @@
       "published_at": "2026-05-04T23:21:30Z",
       "privacy_status": "public",
       "duration_sec": 78,
-      "views": 1125,
+      "views": 1139,
       "likes": 30,
-      "comments": 1,
-      "views_per_day": 1125.0
+      "comments": 2,
+      "views_per_day": 1139.0
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1070,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 423.4
+      "views_per_day": 353.31
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -30,10 +30,10 @@
       "published_at": "2026-04-30T23:18:34Z",
       "privacy_status": "public",
       "duration_sec": 65,
-      "views": 985,
+      "views": 986,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 230.93
+      "views_per_day": 206.85
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -41,10 +41,10 @@
       "published_at": "2026-05-02T05:14:14Z",
       "privacy_status": "public",
       "duration_sec": 59,
-      "views": 887,
+      "views": 888,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 293.86
+      "views_per_day": 252.29
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 884,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 389.63
+      "views_per_day": 319.11
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -63,10 +63,10 @@
       "published_at": "2026-05-03T17:03:08Z",
       "privacy_status": "public",
       "duration_sec": 85,
-      "views": 633,
+      "views": 640,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 414.78
+      "views_per_day": 315.66
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -77,7 +77,7 @@
       "views": 535,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 163.75
+      "views_per_day": 141.96
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -85,10 +85,10 @@
       "published_at": "2026-05-04T05:48:42Z",
       "privacy_status": "public",
       "duration_sec": 75,
-      "views": 506,
+      "views": 516,
       "likes": 19,
       "comments": 0,
-      "views_per_day": 506.0
+      "views_per_day": 344.96
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -96,10 +96,10 @@
       "published_at": "2026-05-03T05:52:14Z",
       "privacy_status": "public",
       "duration_sec": 97,
-      "views": 447,
+      "views": 449,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 224.39
+      "views_per_day": 180.08
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -110,7 +110,7 @@
       "views": 406,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 74.2
+      "views_per_day": 67.98
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -118,10 +118,10 @@
       "published_at": "2026-05-03T23:14:03Z",
       "privacy_status": "public",
       "duration_sec": 88,
-      "views": 219,
+      "views": 221,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 172.64
+      "views_per_day": 124.87
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -132,7 +132,18 @@
       "views": 140,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 35.14
+      "views_per_day": 31.21
+    },
+    {
+      "video_id": "6ixiCm87sEQ",
+      "title": "I Remember a Babysitter We Had When I Was Seven. No One Else in My Family Remembers Her. | True Scar",
+      "published_at": "2026-05-04T17:50:03Z",
+      "privacy_status": "public",
+      "duration_sec": 84,
+      "views": 119,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 119.0
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -143,18 +154,18 @@
       "views": 117,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 23.42
+      "views_per_day": 21.28
     },
     {
-      "video_id": "6ixiCm87sEQ",
-      "title": "I Remember a Babysitter We Had When I Was Seven. No One Else in My Family Remembers Her. | True Scar",
-      "published_at": "2026-05-04T17:50:03Z",
+      "video_id": "4JwPcBPbDlE",
+      "title": "I Found My Grandfather's Old Camcorder and the Last Recording Is From After His Death | True Scary S",
+      "published_at": "2026-05-05T05:41:06Z",
       "privacy_status": "public",
-      "duration_sec": 84,
-      "views": 95,
-      "likes": 1,
+      "duration_sec": 70,
+      "views": 64,
+      "likes": 2,
       "comments": 0,
-      "views_per_day": 95.0
+      "views_per_day": 64.0
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -165,7 +176,7 @@
       "views": 46,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 13.07
+      "views_per_day": 11.44
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -176,7 +187,18 @@
       "views": 17,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.77
+      "views_per_day": 3.4
+    },
+    {
+      "video_id": "qyKP5bB4Oso",
+      "title": "My Grandmother's House Has a Room That Everyone in the Family Pretends Doesn't Exist | True Scary St",
+      "published_at": "2026-05-05T17:42:29Z",
+      "privacy_status": "public",
+      "duration_sec": 74,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 0.0
     }
   ]
 }
