@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-sleep-tracker-missing-nights-001",
+  "character": "narrator",
+  "topic": "My sleep tracker has forty-three nights of missing data over two years. I have no memory of those nights.",
+  "title": "My Sleep Tracker Has 43 Missing Nights. I Have No Memory of Where I Went | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My sleep tracker has forty-three nights of missing data. I have no memory of those nights.", "image_prompt": "close shot of a smartwatch on a wrist above a bed, the screen showing a sleep graph with large blank gaps, night lighting, vertical 9:16 framing"},
+    {"id": 2, "narration": "I have tracked my sleep for two years. Every night logged. Except forty-three.", "image_prompt": "close shot of a phone screen showing a sleep tracking app with two years of data, several nights highlighted in red showing no data recorded, vertical 9:16 framing"},
+    {"id": 3, "narration": "The missing nights are not consecutive. Scattered weeks apart. No pattern I can find.", "image_prompt": "close shot of a handwritten calendar on a desk, certain dates circled in red pen, the circles spread across months with no obvious pattern, desk lamp light, vertical 9:16 framing"},
+    {"id": 4, "narration": "I checked my phone location history for those nights. Also blank. No data at all.", "image_prompt": "close shot of a phone screen showing a location history app with blank entries on specific dates, a finger scrolling through the gaps, dim bedroom light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Three of those nights had ATM withdrawals in towns I have never visited.", "image_prompt": "close shot of a bank statement on a desk with three transactions circled in red pen, the location names unfamiliar, a map printout beside it with those towns marked, desk lamp, vertical 9:16 framing"},
+    {"id": 6, "narration": "I drove to the closest one. A gas station two hours away. The clerk recognized my face.", "image_prompt": "wide interior shot of a small gas station convenience store at night, fluorescent overhead lights, empty aisles, a counter visible at the back, no people, vertical 9:16 framing"},
+    {"id": 7, "narration": "She said I come in every few weeks. Always at 3AM. Always buy the same thing. Never speak.", "image_prompt": "close shot of a gas station counter at night, a small receipt printer, a single security camera mounted in the corner above, the store empty, fluorescent light, vertical 9:16 framing"},
+    {"id": 8, "narration": "I do not drive. My license expired four years ago.", "image_prompt": "close shot of an expired driver's license on a table, the expiration date clearly visible, held between two fingers, kitchen light above, vertical 9:16 framing"},
+    {"id": 9, "narration": "My car had three hundred and forty miles on it I could not explain.", "image_prompt": "close shot of a car odometer showing a reading, a handwritten note beside the steering wheel with a different number written on it, the difference circled, dim garage light, vertical 9:16 framing"},
+    {"id": 10, "narration": "I set up a camera pointing at my bed for the next blank night.", "image_prompt": "close shot of a small camera on a shelf pointed toward a bed, a recording light blinking red, the bedroom dark except for the camera light, vertical 9:16 framing"},
+    {"id": 11, "narration": "The footage shows me lying still. Then at 2:51AM I sit up. Get dressed. And leave.", "image_prompt": "close shot of a laptop screen showing grainy night-vision bedroom footage, the timestamp reading 2:51AM, a figure sitting upright in bed, the image dark and unclear, vertical 9:16 framing"},
+    {"id": 12, "narration": "My eyes in the footage are open. But they are not my eyes. I do not know how else to say that.", "image_prompt": "extreme close up of a laptop screen paused on grainy night-vision footage, zoomed into a figure's face, the eyes unnaturally wide and pale in the infrared light, the rest of the face in shadow, vertical 9:16 framing"}
+  ]
+}

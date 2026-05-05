@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-phone-location-3am-001",
+  "character": "narrator",
+  "topic": "My phone's location history shows me visiting an abandoned house every night at 3AM. I have never been there.",
+  "title": "My Phone Shows Me Visiting an Abandoned House Every Night at 3AM | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My phone shows me visiting an abandoned house every night at 3AM. I have never been there.", "image_prompt": "close shot of a phone screen showing a location history map with a red pin on a dark street, repeated visits marked, dim room light, hand holding the phone, vertical 9:16 framing"},
+    {"id": 2, "narration": "I noticed it three weeks ago while checking my location history.", "image_prompt": "close shot of a phone screen with a list of location history timestamps all reading 3:00AM, the same address repeating down the screen, dark ambient light, vertical 9:16 framing"},
+    {"id": 3, "narration": "The coordinates point to a condemned house on Millfield Road. Empty since 2019.", "image_prompt": "wide exterior shot of a two-story abandoned house at night, windows boarded, overgrown yard, a single streetlight casting pale light on the front, no people, vertical 9:16 framing"},
+    {"id": 4, "narration": "I drove past it. Someone had cleared a fresh path through the weeds to the front door.", "image_prompt": "close ground-level shot of a narrow path worn through tall dead grass leading to a boarded wooden door, night exterior, moonlight from above, no people, vertical 9:16 framing"},
+    {"id": 5, "narration": "I searched the address. A family of four lived there. They disappeared in 2018.", "image_prompt": "close shot of a laptop screen showing a local news article with the headline FAMILY VANISHES FROM HOME, the house visible in the article photo matching the abandoned structure, dark room, vertical 9:16 framing"},
+    {"id": 6, "narration": "The visits in my history go back fourteen months. Before I moved to this city.", "image_prompt": "close shot of a phone screen scrolling through months of location history, the same address highlighted repeatedly in a different city label, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I called my carrier. They said the location data does not come from the phone. It comes from whatever pinged the tower.", "image_prompt": "close shot of a hand holding a phone to an ear, the face not visible, dark hallway background, a single lamp light from the next room, vertical 9:16 framing"},
+    {"id": 8, "narration": "Someone with my SIM number was at that house. Every night. For over a year.", "image_prompt": "wide exterior shot of the abandoned house at night from across the street, all windows dark and boarded, the worn path through the grass faintly visible, no movement, vertical 9:16 framing"},
+    {"id": 9, "narration": "I got a new number. New phone. New carrier.", "image_prompt": "close shot of a new phone box on a table beside an old phone, both illuminated by a single desk lamp, the old phone face down, vertical 9:16 framing"},
+    {"id": 10, "narration": "The visits stopped for eleven days.", "image_prompt": "close shot of a new phone screen showing a clean location history with no late night visits, a hand holding it, soft room light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Last night my new phone showed the same address at 3AM.", "image_prompt": "extreme close up of a phone screen at 3:00AM showing the familiar address pinned on the map, screen glow in total darkness, vertical 9:16 framing"},
+    {"id": 12, "narration": "I checked my bedroom camera. I left at 2:47AM and returned at 3:14AM. I do not remember any of it.", "image_prompt": "close shot of a laptop screen showing grainy security camera footage of an empty bed, the timestamp reading 2:47AM, the sheets disturbed, the room dark, no person visible in the frame, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-smart-home-other-voice-001",
+  "character": "narrator",
+  "topic": "My smart home devices started responding to a voice that is not mine. The voice knows my full name.",
+  "title": "My Smart Home Started Obeying a Voice That Is Not Mine. It Knows My Full Name | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My smart home started obeying a voice that is not mine. The voice knows my full name.", "image_prompt": "close shot of a smart speaker on a nightstand in a dark bedroom, a faint blue ring glowing around the top, no people, night lighting, vertical 9:16 framing"},
+    {"id": 2, "narration": "It started two months ago. Lights turning on at 4AM. Doors unlocking on their own.", "image_prompt": "wide interior shot of a dark hallway with a smart lock panel glowing green on a door, the hallway empty and still, 4:00AM shown on a wall clock, vertical 9:16 framing"},
+    {"id": 3, "narration": "I checked the activity log. Commands were being issued. The voice print was not mine.", "image_prompt": "close shot of a tablet screen showing a smart home activity log with timestamps all in the early morning hours, a column marked VOICE ID showing UNKNOWN, dim room light, vertical 9:16 framing"},
+    {"id": 4, "narration": "I called the company. They said the voice was registered as the primary account holder.", "image_prompt": "close shot of a hand holding a phone to an ear, the face not visible, a smart speaker glowing in the background on a shelf, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "The voice had been active for eleven months. I only bought the device four months ago.", "image_prompt": "close shot of a receipt on a desk showing a purchase date four months prior, beside a laptop showing eleven months of voice activity logs, desk lamp light, vertical 9:16 framing"},
+    {"id": 6, "narration": "I listened to the recordings. A calm man's voice. Giving commands inside my home.", "image_prompt": "close shot of over-ear headphones on a desk beside a laptop, the audio waveform visible on screen showing a voice recording, the room dark except for the screen glow, vertical 9:16 framing"},
+    {"id": 7, "narration": "He said my full name. Then my address. Then he said I will be home in four minutes.", "image_prompt": "extreme close up of a smart speaker with a bright blue ring lit up, the room around it completely dark, no other light sources, vertical 9:16 framing"},
+    {"id": 8, "narration": "I pulled into my driveway four minutes later.", "image_prompt": "wide exterior shot of a house driveway at night, a car parked with headlights off, one interior light on in the house, the front door visible and closed, vertical 9:16 framing"},
+    {"id": 9, "narration": "I disconnected everything. Unplugged every device. Changed every lock.", "image_prompt": "close shot of multiple smart home devices piled in a cardboard box, wires tangled, a smart speaker face down on top, dim room light, vertical 9:16 framing"},
+    {"id": 10, "narration": "I found a small microphone hidden behind my bedroom outlet plate. Not a product I own.", "image_prompt": "extreme close up of an electrical outlet on a wall with the cover plate removed, a small black device visible inside, a flashlight beam illuminating it, vertical 9:16 framing"},
+    {"id": 11, "narration": "It was still transmitting.", "image_prompt": "extreme close up of the small device removed and held in an open palm, a tiny red LED blinking slowly on its surface, dark background, vertical 9:16 framing"},
+    {"id": 12, "narration": "The light in my hallway turned on. I had unplugged it three days ago.", "image_prompt": "wide interior shot of a hallway from one end, a ceiling light glowing at the other end, the hallway empty and still, all doors closed, no visible wires connected to the light fixture, vertical 9:16 framing"}
+  ]
+}

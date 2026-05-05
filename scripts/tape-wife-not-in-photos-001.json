@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-wife-not-in-photos-001",
+  "character": "narrator",
+  "topic": "My wife does not appear in any of our wedding photos. No one else finds this strange.",
+  "title": "My Wife Is Not in Any of Our Wedding Photos. No One Else Finds This Strange | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My wife does not appear in any of our wedding photos. No one finds this strange but me.", "image_prompt": "close shot of an open wedding photo album on a table, a man in a suit visible at the altar, the space beside him empty, soft natural light, vertical 9:16 framing"},
+    {"id": 2, "narration": "We have been married seven years. The photos are framed throughout our home.", "image_prompt": "wide interior shot of a hallway with framed photos on both walls, several wedding frames visible, warm ambient light, no people in the hallway, vertical 9:16 framing"},
+    {"id": 3, "narration": "I am standing at the altar. Smiling. My hands clasped around nothing.", "image_prompt": "close shot of a framed wedding photo showing a groom in a dark suit at an altar, his hands held at his side toward empty space, a decorated church visible behind him, vertical 9:16 framing"},
+    {"id": 4, "narration": "The guests are there. My mother is crying. My best man is grinning. She is simply not there.", "image_prompt": "close shot of a wedding photo showing rows of seated guests, a crying woman in the front row, a smiling man in a tuxedo beside the groom, the bride's position at the altar completely empty, vertical 9:16 framing"},
+    {"id": 5, "narration": "I asked the photographer. She said she captured exactly who was present that day.", "image_prompt": "close shot of a laptop screen showing an email thread, the reply text reading she photographed exactly who was present, dim desk light, a hand on the keyboard, vertical 9:16 framing"},
+    {"id": 6, "narration": "I showed my mother the photos. She pointed to empty space and said she looks beautiful.", "image_prompt": "close shot of two hands holding a wedding photo album open, one hand with aged skin, pointing to empty space beside the groom in the photo, warm living room light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I pulled our marriage certificate from the filing cabinet. One signature. Mine.", "image_prompt": "close shot of an official marriage certificate document on a desk, two signature lines visible, only one filled in, a pen resting beside it, document partially lit by a desk lamp, vertical 9:16 framing"},
+    {"id": 8, "narration": "I do not know how to ask her. I do not know how to ask anyone.", "image_prompt": "wide interior shot of a living room at night, a man's silhouette seated on a sofa holding a photo album, the room lit only by a floor lamp, shadows heavy on the walls, vertical 9:16 framing"},
+    {"id": 9, "narration": "She is real. I can touch her. She speaks. She knows things only she would know.", "image_prompt": "close shot of two coffee mugs on a kitchen counter, steam rising from both, morning light through a window, no people visible, a woman's handwriting on a notepad nearby, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I checked our bathroom mirror. I am there. She is not.", "image_prompt": "close shot of a bathroom mirror reflecting only a man standing in a dimly lit bathroom, the space beside him empty despite two toothbrushes on the counter, vertical 9:16 framing"},
+    {"id": 11, "narration": "She asked me who I was talking to this morning. I had been alone in the kitchen.", "image_prompt": "wide interior shot of a kitchen from a doorway, empty and still, a single chair pulled out from the table, morning light, no people, vertical 9:16 framing"},
+    {"id": 12, "narration": "I looked at my reflection. My mouth was moving. I had not said a word.", "image_prompt": "extreme close shot of a mirror showing a man's reflection from the shoulders up, his mouth slightly open, the room behind the reflection dark and empty, a single overhead light, vertical 9:16 framing"}
+  ]
+}
