@@ -29,7 +29,7 @@ import argparse
 import json
 from pathlib import Path
 
-from config.settings import ANTHROPIC_API_KEY
+from config.settings import ANTHROPIC_API_KEY, FB_PAGE_ACCESS_TOKEN, FB_PAGE_ID
 from config.topics import TOPIC_BANK, pick_topic, record_topic
 from pipeline.logger import get_logger
 
@@ -146,6 +146,12 @@ def main(
         privacy = "public"
         logger.info(f"  publish: PUBLIC immediately (sprint mode)")
 
+    fb_enabled = bool(FB_PAGE_ID and FB_PAGE_ACCESS_TOKEN)
+    if fb_enabled:
+        logger.info("  facebook: FB_PAGE_ID + FB_PAGE_ACCESS_TOKEN set — Reels upload enabled")
+    else:
+        logger.info("  facebook: FB_PAGE_ID or FB_PAGE_ACCESS_TOKEN not set — skipping Reels upload")
+
     from make_video import main as render_main
     render_main(
         script_path=script_path,
@@ -153,6 +159,7 @@ def main(
         privacy=privacy,
         made_for_kids=False,
         publish_at=publish_at,
+        fb_upload=fb_enabled and not no_upload,
     )
 
     if not no_upload:

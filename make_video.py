@@ -23,6 +23,7 @@ def main(
     privacy: str,
     made_for_kids: bool,
     publish_at: str | None,
+    fb_upload: bool = False,
 ) -> Path:
     script = json.loads(script_path.read_text())
     video_id = script["video_id"]
@@ -63,6 +64,22 @@ def main(
         logger.info(f"=== Uploaded: {url} ===")
         print(f"\nYouTube URL: {url}")
 
+    if fb_upload:
+        from pipeline import facebook_uploader
+        from pipeline import metadata as meta_mod
+        meta = meta_mod.metadata_for(script)
+        logger.info("Step 5: uploading to Facebook Reels")
+        try:
+            fb_url = facebook_uploader.upload(
+                video_path=final,
+                title=meta["title"],
+                description=meta["description"],
+            )
+            logger.info(f"=== Facebook Reel: {fb_url} ===")
+            print(f"Facebook Reel: {fb_url}")
+        except Exception as e:
+            logger.error(f"Facebook upload failed (non-fatal): {e}")
+
     return final
 
 
@@ -91,6 +108,11 @@ if __name__ == "__main__":
         help="RFC-3339 timestamp for scheduled publishing, e.g. '2026-04-29T12:00:00+05:00'. "
              "Forces privacy=private at upload time; YouTube auto-flips to public at publishAt.",
     )
+    parser.add_argument(
+        "--fb-upload",
+        action="store_true",
+        help="Also upload to Facebook as a Reel (needs FB_PAGE_ID + FB_PAGE_ACCESS_TOKEN in .env).",
+    )
     args = parser.parse_args()
     main(
         args.script,
@@ -98,4 +120,5 @@ if __name__ == "__main__":
         privacy=args.privacy,
         made_for_kids=args.made_for_kids,
         publish_at=args.publish_at,
+        fb_upload=args.fb_upload,
     )

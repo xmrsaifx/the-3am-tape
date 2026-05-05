@@ -16,6 +16,12 @@ YOUTUBE_CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID", "")
 YOUTUBE_CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET", "")
 YOUTUBE_REFRESH_TOKEN = os.getenv("YOUTUBE_REFRESH_TOKEN", "")
 
+# Facebook Graph API — for Reels upload via pipeline/facebook_uploader.py.
+# Generate a non-expiring System User token in Meta Business Suite to avoid
+# the 60-day expiry on standard user tokens.
+FB_PAGE_ID = os.getenv("FB_PAGE_ID", "")
+FB_PAGE_ACCESS_TOKEN = os.getenv("FB_PAGE_ACCESS_TOKEN", "")
+
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", PROJECT_ROOT / "outputs")).resolve()
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
 

@@ -198,9 +198,10 @@ def _build_scene_clip(
         "-i", str(audio.resolve()),
         "-vf", vf,
         "-t", f"{duration:.3f}",
-        "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+        "-c:v", "libx264", "-preset", "medium", "-crf", "18",
+        "-b:v", "6M", "-maxrate", "8M", "-bufsize", "16M",
         "-pix_fmt", "yuv420p",
-        "-c:a", "aac", "-b:a", "128k",
+        "-c:a", "aac", "-b:a", "192k",
         "-shortest",
         str(out_clip.resolve()),
     ]
