@@ -43,7 +43,7 @@ RUPLOAD_BASE = f"https://rupload.facebook.com/ig-api-upload/{GRAPH_API_VERSION}"
 CAPTION_MAX = 2200
 
 STATUS_POLL_INTERVAL = 10
-STATUS_POLL_TIMEOUT = 300
+STATUS_POLL_TIMEOUT = 600
 
 
 def _check_config() -> None:
