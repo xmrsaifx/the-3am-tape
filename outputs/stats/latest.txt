@@ -1,24 +1,25 @@
-Stats snapshot for 2026-05-05
-Compared to: 2026-05-04
+Stats snapshot for 2026-05-06
+Compared to: 2026-05-05
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-My GPS Keeps Telling Me to Take an Exit That Does Not Exist     1142      —  1132.9   30   2     public
-We Moved Into a House That Was Suspiciously Cheap and Now I     1072     +4   327.6   30   0     public
-There Is a Door in My Basement That Wasn't There Last Week |     987     +1   197.0   18   0     public
-I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     888     +1   236.0   23   2     public
-I Have a Daughter Who Is Not in Any of the Family Photos. Bu     884     +1   293.4   43   0     public
-My Smart Doorbell Keeps Recording Someone Standing in Our Ha     642    +19   282.7   23   2     public
-I Went Hiking Alone and Found a Campsite That Had Been Waiti     535     +1   133.3   17   0     public
-I Was a Security Guard at an Empty Hospital Before They Tore     516    +17   296.7   19   0     public
-My Grandmother's House Has a Room That Everyone in the Famil     474      —   474.0   16   2     public
-I Deliver Food at Night and I Have Learned Which Addresses t     449     +2   164.1    9   0     public
-I Worked the Night Shift at a Gas Station Off Highway 49 | T     406     +1    65.3   11   0     public
-There Is a Video on My Drone's SD Card That I Never Recorded     225     +6   111.8    2   0     public
-My Brother Went Missing for Six Hours When We Were Kids and      140      —    29.6    7   0     public
-I Remember a Babysitter We Had When I Was Seven. No One Else     125    +57   101.0    1   0     public
-There Is a Recording on My Answering Machine from Someone I      117      —    20.4    1   0     public
-I Found My Grandfather's Old Camcorder and the Last Recordin      67      —    67.0    3   0     public
-My Night Shift at the Call Center Kept Getting Calls from a       46      —    10.8    2   0     public
-The New House Came with a Baby Monitor in the Attic That We       17      —     3.2    0   0     public
-I Have Dreamed of the Same House My Entire Life. I Found It        0      —     0.0    0   0     public
+My GPS Keeps Telling Me to Take an Exit That Does Not Exist     1159    +17   912.8   30   2     public
+We Moved Into a House That Was Suspiciously Cheap and Now I     1071    +-1   303.1   30   0     public
+There Is a Door in My Basement That Wasn't There Last Week |     987      —   187.2   18   0     public
+I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     887    +-1   220.4   23   2     public
+I Have a Daughter Who Is Not in Any of the Family Photos. Bu     882    +-2   269.3   43   0     public
+My Smart Doorbell Keeps Recording Someone Standing in Our Ha     644     +2   254.3   23   2     public
+My Grandmother's House Has a Room That Everyone in the Famil     614   +140   614.0   16   2     public
+I Went Hiking Alone and Found a Campsite That Had Been Waiti     535      —   125.2   17   0     public
+I Was a Security Guard at an Empty Hospital Before They Tore     519     +3   259.4   19   0     public
+I Deliver Food at Night and I Have Learned Which Addresses t     450     +1   150.1    9   0     public
+I Worked the Night Shift at a Gas Station Off Highway 49 | T     407     +1    62.8   11   0     public
+There Is a Video on My Drone's SD Card That I Never Recorded     227     +2    99.8    2   0     public
+My Brother Went Missing for Six Hours When We Were Kids and      140      —    28.1    7   0     public
+I Remember a Babysitter We Had When I Was Seven. No One Else     132     +7    88.0    1   0     public
+There Is a Recording on My Answering Machine from Someone I      117      —    19.5    1   0     public
+I Have Dreamed of the Same House My Entire Life. I Found It      109   +109   109.0    0   0     public
+I Found My Grandfather's Old Camcorder and the Last Recordin      75     +8    74.5    3   0     public
+My Night Shift at the Call Center Kept Getting Calls from a       46      —    10.2    2   0     public
+The New House Came with a Baby Monitor in the Attic That We       17      —     3.1    0   0     public
+There Was an Empty House at the End of My Street That the Ad       1      —     1.0    0   0     public
