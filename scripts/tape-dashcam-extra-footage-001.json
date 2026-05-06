@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-dashcam-extra-footage-001",
+  "character": "narrator",
+  "topic": "My dashcam keeps saving footage of roads I have never driven",
+  "title": "My Dashcam Keeps Saving Footage From Roads I Have Never Driven | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The folder had forty three clips. I had only saved eleven.", "image_prompt": "close shot of a laptop screen showing a file manager with a dashcam folder open, multiple video thumbnail icons filling the folder, far more than expected, dim desk lamp, late night, vertical 9:16 framing"},
+    {"id": 2, "narration": "Same two roads to work. Four years. No detours.", "image_prompt": "wide shot through a windshield of a straight two-lane road at dawn, flat fields on both sides, the road empty ahead, dashboard and the small dashcam unit visible at the top of frame, vertical 9:16 framing"},
+    {"id": 3, "narration": "I installed it after a parking lot hit and run.", "image_prompt": "close shot of a dashcam mounted on a car windshield, the lens facing forward, the familiar road ahead empty and straight, early morning light through the glass, vertical 9:16 framing"},
+    {"id": 4, "narration": "The extra clip was a dirt road. Oak trees on both sides. Fog. Two AM.", "image_prompt": "wide shot through a car windshield at night of a narrow dirt road disappearing into a dense tree line, headlights illuminating the road ahead, fog rolling in at the edges of the light, no other cars, no signs, vertical 9:16 framing"},
+    {"id": 5, "narration": "I do not drive dirt roads.", "image_prompt": "close shot of a car GPS screen showing a location pin dropped in an area labeled only as rural land, no road name, no nearby addresses, dim interior car lighting, vertical 9:16 framing"},
+    {"id": 6, "narration": "I checked my phone location history. I had been home all night.", "image_prompt": "close shot of a smartphone screen showing a location history timeline with a single pin on a residential address for the entire night, no other movement recorded, the phone held in a hand in dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I formatted the card.", "image_prompt": "close shot of a hand pulling a small SD card from a dashcam mounted on a windshield, the car parked in a quiet driveway, afternoon sunlight, vertical 9:16 framing"},
+    {"id": 8, "narration": "New clips appeared within the week.", "image_prompt": "close shot of a laptop screen showing the same dashcam folder now populated with new video files dated within the past seven days, the folder that had been emptied now full again, desk lamp on, late night, vertical 9:16 framing"},
+    {"id": 9, "narration": "The latest clip showed my own street. From the wrong end.", "image_prompt": "wide shot through a car windshield at night of a residential street, familiar houses on both sides, but the perspective reversed from the direction the car ever travels, streetlights casting long shadows down the block, vertical 9:16 framing"},
+    {"id": 10, "narration": "The camera was on my windshield. In my locked garage. That angle does not exist from my driveway.", "image_prompt": "wide exterior shot at night of a residential street taken from mid-block, a closed garage door visible at one house, no car in the driveway, porch light off, the street empty in both directions, deep shadows between the houses, vertical 9:16 framing"},
+    {"id": 11, "narration": "I pulled the card and locked it in my desk drawer.", "image_prompt": "close shot of a hand placing a small SD card into the bottom drawer of a wooden desk, the drawer being pushed shut, a single desk lamp casting warm light, late night room, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the drawer had a card I did not recognize. Mine was gone.", "image_prompt": "close shot of an open desk drawer containing a single SD card resting on the bare wood bottom, the card slightly different in color from the original, the drawer otherwise empty, dim grey morning light from a window above, vertical 9:16 framing"}
+  ]
+}
