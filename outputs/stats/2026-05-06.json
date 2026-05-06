@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "snapshot_at": "2026-05-06T05:49:59.440334+00:00",
+  "snapshot_at": "2026-05-06T19:38:43.289835+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -8,10 +8,10 @@
       "published_at": "2026-05-04T23:21:30Z",
       "privacy_status": "public",
       "duration_sec": 78,
-      "views": 1159,
-      "likes": 30,
+      "views": 1167,
+      "likes": 31,
       "comments": 2,
-      "views_per_day": 912.75
+      "views_per_day": 632.42
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1071,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 303.09
+      "views_per_day": 260.64
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -30,10 +30,10 @@
       "published_at": "2026-04-30T23:18:34Z",
       "privacy_status": "public",
       "duration_sec": 65,
-      "views": 987,
+      "views": 986,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 187.22
+      "views_per_day": 168.62
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 887,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 220.38
+      "views_per_day": 192.81
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 882,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 269.29
+      "views_per_day": 229.05
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -63,10 +63,10 @@
       "published_at": "2026-05-03T17:03:08Z",
       "privacy_status": "public",
       "duration_sec": 85,
-      "views": 644,
+      "views": 646,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 254.29
+      "views_per_day": 207.85
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -74,10 +74,10 @@
       "published_at": "2026-05-05T17:42:56Z",
       "privacy_status": "public",
       "duration_sec": 74,
-      "views": 614,
-      "likes": 16,
+      "views": 643,
+      "likes": 18,
       "comments": 2,
-      "views_per_day": 614.0
+      "views_per_day": 595.15
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 535,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 125.19
+      "views_per_day": 110.33
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 519,
       "likes": 19,
       "comments": 0,
-      "views_per_day": 259.38
+      "views_per_day": 201.44
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -107,10 +107,10 @@
       "published_at": "2026-05-03T05:52:14Z",
       "privacy_status": "public",
       "duration_sec": 97,
-      "views": 450,
+      "views": 453,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 150.08
+      "views_per_day": 126.75
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -121,7 +121,7 @@
       "views": 407,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 62.83
+      "views_per_day": 57.7
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -132,7 +132,18 @@
       "views": 227,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 99.78
+      "views_per_day": 79.64
+    },
+    {
+      "video_id": "6ixiCm87sEQ",
+      "title": "I Remember a Babysitter We Had When I Was Seven. No One Else in My Family Remembers Her. | True Scar",
+      "published_at": "2026-05-04T17:50:03Z",
+      "privacy_status": "public",
+      "duration_sec": 84,
+      "views": 141,
+      "likes": 2,
+      "comments": 0,
+      "views_per_day": 67.94
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -143,18 +154,18 @@
       "views": 140,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 28.05
+      "views_per_day": 25.15
     },
     {
-      "video_id": "6ixiCm87sEQ",
-      "title": "I Remember a Babysitter We Had When I Was Seven. No One Else in My Family Remembers Her. | True Scar",
-      "published_at": "2026-05-04T17:50:03Z",
+      "video_id": "wOHZBe1C9bQ",
+      "title": "I Have Dreamed of the Same House My Entire Life. I Found It on Google Street View | True Scary Story",
+      "published_at": "2026-05-05T23:32:31Z",
       "privacy_status": "public",
-      "duration_sec": 84,
-      "views": 132,
+      "duration_sec": 119,
+      "views": 120,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 88.0
+      "views_per_day": 120.0
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -165,18 +176,7 @@
       "views": 117,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 19.49
-    },
-    {
-      "video_id": "wOHZBe1C9bQ",
-      "title": "I Have Dreamed of the Same House My Entire Life. I Found It on Google Street View | True Scary Story",
-      "published_at": "2026-05-05T23:32:31Z",
-      "privacy_status": "public",
-      "duration_sec": 119,
-      "views": 109,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 109.0
+      "views_per_day": 17.78
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -185,9 +185,20 @@
       "privacy_status": "public",
       "duration_sec": 70,
       "views": 75,
-      "likes": 3,
+      "likes": 4,
       "comments": 0,
-      "views_per_day": 74.54
+      "views_per_day": 47.42
+    },
+    {
+      "video_id": "Th56oRW5BrM",
+      "title": "There Was an Empty House at the End of My Street That the Adults All Whispered About | True Scary St",
+      "published_at": "2026-05-06T05:44:28Z",
+      "privacy_status": "public",
+      "duration_sec": 82,
+      "views": 47,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 47.0
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -198,7 +209,7 @@
       "views": 46,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 10.16
+      "views_per_day": 9.02
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -209,18 +220,18 @@
       "views": 17,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.09
+      "views_per_day": 2.79
     },
     {
-      "video_id": "Th56oRW5BrM",
-      "title": "There Was an Empty House at the End of My Street That the Adults All Whispered About | True Scary St",
-      "published_at": "2026-05-06T05:44:28Z",
+      "video_id": "mPwSm34Ja3Y",
+      "title": "My Imaginary Friend from When I Was Four Has Started Visiting My Own Daughter | True Scary Story",
+      "published_at": "2026-05-06T19:33:18Z",
       "privacy_status": "public",
-      "duration_sec": 82,
-      "views": 1,
+      "duration_sec": 73,
+      "views": 0,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.0
+      "views_per_day": 0.0
     }
   ]
 }
