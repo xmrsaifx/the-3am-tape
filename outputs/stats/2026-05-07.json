@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "snapshot_at": "2026-05-07T18:06:03.574097+00:00",
+  "snapshot_at": "2026-05-07T23:25:22.607906+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1171,
       "likes": 32,
       "comments": 2,
-      "views_per_day": 421.08
+      "views_per_day": 389.98
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1075,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 213.09
+      "views_per_day": 204.12
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -30,10 +30,10 @@
       "published_at": "2026-04-30T23:18:34Z",
       "privacy_status": "public",
       "duration_sec": 65,
-      "views": 987,
+      "views": 988,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 145.51
+      "views_per_day": 141.05
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 160.59
+      "views_per_day": 154.4
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 184.48
+      "views_per_day": 176.31
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -63,10 +63,10 @@
       "published_at": "2026-05-05T17:42:56Z",
       "privacy_status": "public",
       "duration_sec": 74,
-      "views": 676,
+      "views": 678,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 335.31
+      "views_per_day": 302.98
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 647,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 160.0
+      "views_per_day": 151.68
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 537,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 92.83
+      "views_per_day": 89.4
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 525,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 149.49
+      "views_per_day": 140.61
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -107,10 +107,10 @@
       "published_at": "2026-05-03T05:52:14Z",
       "privacy_status": "public",
       "duration_sec": 97,
-      "views": 456,
+      "views": 457,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 101.12
+      "views_per_day": 96.59
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -121,7 +121,7 @@
       "views": 411,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 51.45
+      "views_per_day": 50.06
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -129,10 +129,10 @@
       "published_at": "2026-05-07T05:46:15Z",
       "privacy_status": "public",
       "duration_sec": 72,
-      "views": 401,
+      "views": 404,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 401.0
+      "views_per_day": 404.0
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -143,7 +143,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 60.75
+      "views_per_day": 57.39
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -154,7 +154,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 49.48
+      "views_per_day": 46.09
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -165,7 +165,7 @@
       "views": 141,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 21.69
+      "views_per_day": 20.97
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -173,10 +173,10 @@
       "published_at": "2026-05-05T23:32:31Z",
       "privacy_status": "public",
       "duration_sec": 119,
-      "views": 132,
+      "views": 135,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 74.44
+      "views_per_day": 67.67
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -187,7 +187,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 15.7
+      "views_per_day": 15.25
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -198,7 +198,7 @@
       "views": 86,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 34.16
+      "views_per_day": 31.4
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -206,10 +206,10 @@
       "published_at": "2026-05-06T19:33:18Z",
       "privacy_status": "public",
       "duration_sec": 73,
-      "views": 81,
+      "views": 84,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 81.0
+      "views_per_day": 72.34
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -220,7 +220,7 @@
       "views": 53,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 34.98
+      "views_per_day": 30.52
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -231,7 +231,7 @@
       "views": 49,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 8.12
+      "views_per_day": 7.83
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -242,7 +242,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.71
+      "views_per_day": 2.62
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -250,10 +250,21 @@
       "published_at": "2026-05-06T23:18:41Z",
       "privacy_status": "public",
       "duration_sec": 79,
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.0
+      "views_per_day": 4.98
+    },
+    {
+      "video_id": "drYQWX9f4vc",
+      "title": "The Man My Mother Is Dating Is Wearing My Father's Wedding Ring | True Scary Story",
+      "published_at": "2026-05-07T18:06:32Z",
+      "privacy_status": "public",
+      "duration_sec": 66,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 0.0
     }
   ]
 }
