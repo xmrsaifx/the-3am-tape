@@ -3,28 +3,30 @@ Compared to: 2026-05-07
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-My GPS Keeps Telling Me to Take an Exit That Does Not Exist     1169    +-2   361.6   32   2     public
-We Moved Into a House That Was Suspiciously Cheap and Now I     1075      —   195.6   30   0     public
-There Is a Door in My Basement That Wasn't There Last Week |     988      —   136.6   18   0     public
-I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     889      —   148.5   23   2     public
-I Have a Daughter Who Is Not in Any of the Family Photos. Bu     883      —   168.6   43   0     public
-My Grandmother's House Has a Room That Everyone in the Famil     678      —   274.7   20   2     public
-My Smart Doorbell Keeps Recording Someone Standing in Our Ha     647      —   143.9   24   2     public
-I Went Hiking Alone and Found a Campsite That Had Been Waiti     537      —    86.1   17   0     public
-I Was a Security Guard at an Empty Hospital Before They Tore     525      —   132.4   20   0     public
-I Deliver Food at Night and I Have Learned Which Addresses t     457      —    92.1    9   0     public
-I Worked the Night Shift at a Motel Where Eight Rooms Were A     412     +8   412.0   10   0     public
-I Worked the Night Shift at a Gas Station Off Highway 49 | T     411      —    48.7   11   0     public
-There Is a Video on My Drone's SD Card That I Never Recorded     230      —    54.3    3   0     public
-I Remember a Babysitter We Had When I Was Seven. No One Else     149      —    43.0    3   0     public
-My Brother Went Missing for Six Hours When We Were Kids and      141      —    20.3    7   0     public
-I Have Dreamed of the Same House My Entire Life. I Found It      135      —    60.7    2   0     public
-There Is a Recording on My Answering Machine from Someone I      118      —    14.8    1   0     public
-My Imaginary Friend from When I Was Four Has Started Visitin      87     +3    62.5    1   0     public
-I Found My Grandfather's Old Camcorder and the Last Recordin      86      —    29.0    6   0     public
-There Was an Empty House at the End of My Street That the Ad      54     +1    27.4    3   0     public
-My Night Shift at the Call Center Kept Getting Calls from a       49      —     7.5    2   0     public
-The New House Came with a Baby Monitor in the Attic That We       19      —     2.5    0   0     public
-My Dashcam Keeps Saving Footage From Roads I Have Never Driv       6     +1     4.9    0   0     public
-My New Neighbor Knows Things About Me He Should Not Know | T       3      —     3.0    0   0     public
+My GPS Keeps Telling Me to Take an Exit That Does Not Exist     1169    +-2   310.6   32   2     public
+We Moved Into a House That Was Suspiciously Cheap and Now I     1075      —   178.3   30   0     public
+There Is a Door in My Basement That Wasn't There Last Week |     988      —   127.2   18   0     public
+I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     889      —   136.4   23   2     public
+I Have a Daughter Who Is Not in Any of the Family Photos. Bu     883      —   153.1   43   0     public
+My Grandmother's House Has a Room That Everyone in the Famil     679     +1   226.4   20   2     public
+My Smart Doorbell Keeps Recording Someone Standing in Our Ha     647      —   128.7   24   2     public
+I Went Hiking Alone and Found a Campsite That Had Been Waiti     537      —    79.3   17   0     public
+I Was a Security Guard at an Empty Hospital Before They Tore     525      —   116.8   20   0     public
+I Deliver Food at Night and I Have Learned Which Addresses t     457      —    83.2    9   0     public
+I Worked the Night Shift at a Motel Where Eight Rooms Were A     428    +24   286.0   10   0     public
+I Worked the Night Shift at a Gas Station Off Highway 49 | T     411      —    45.8   11   0     public
+There Is a Video on My Drone's SD Card That I Never Recorded     230      —    48.2    3   0     public
+I Remember a Babysitter We Had When I Was Seven. No One Else     149      —    37.3    3   0     public
+My Brother Went Missing for Six Hours When We Were Kids and      141      —    18.8    7   0     public
+I Have Dreamed of the Same House My Entire Life. I Found It      136     +1    49.4    2   0     public
+There Is a Recording on My Answering Machine from Someone I      118      —    13.9    1   0     public
+My Imaginary Friend from When I Was Four Has Started Visitin      94    +10    48.9    1   0     public
+I Found My Grandfather's Old Camcorder and the Last Recordin      86      —    24.6    6   0     public
+There Was an Empty House at the End of My Street That the Ad      54     +1    21.6    3   0     public
+My Night Shift at the Call Center Kept Getting Calls from a       49      —     7.0    2   0     public
+The New House Came with a Baby Monitor in the Attic That We       19      —     2.4    0   0     public
+My New Neighbor Knows Things About Me He Should Not Know | T      12      —    12.0    0   0     public
+My Phone Shows Me Visiting an Abandoned House Every Night at       7      —     7.0    0   0     public
+My Dashcam Keeps Saving Footage From Roads I Have Never Driv       6     +1     3.4    0   0     public
+The Polaroid Camera I Inherited Only Takes Pictures of One S       1      —     1.0    0   0     public
 The Man My Mother Is Dating Is Wearing My Father's Wedding R       0      —     0.0    0   0     public

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "snapshot_at": "2026-05-08T04:56:47.223943+00:00",
+  "snapshot_at": "2026-05-08T17:41:12.552516+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1169,
       "likes": 32,
       "comments": 2,
-      "views_per_day": 361.6
+      "views_per_day": 310.6
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1075,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 195.57
+      "views_per_day": 178.35
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 988,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 136.56
+      "views_per_day": 127.23
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 148.47
+      "views_per_day": 136.38
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 168.57
+      "views_per_day": 153.06
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -63,10 +63,10 @@
       "published_at": "2026-05-05T17:42:56Z",
       "privacy_status": "public",
       "duration_sec": 74,
-      "views": 678,
+      "views": 679,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 274.72
+      "views_per_day": 226.42
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 647,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 143.92
+      "views_per_day": 128.72
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 537,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 86.1
+      "views_per_day": 79.35
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 525,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 132.44
+      "views_per_day": 116.8
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 457,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 92.11
+      "views_per_day": 83.21
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -118,10 +118,10 @@
       "published_at": "2026-05-07T05:46:15Z",
       "privacy_status": "public",
       "duration_sec": 72,
-      "views": 412,
+      "views": 428,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 412.0
+      "views_per_day": 286.0
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 411,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 48.69
+      "views_per_day": 45.81
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -143,7 +143,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 54.27
+      "views_per_day": 48.23
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -154,7 +154,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 43.03
+      "views_per_day": 37.31
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -165,7 +165,7 @@
       "views": 141,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 20.28
+      "views_per_day": 18.84
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -173,10 +173,10 @@
       "published_at": "2026-05-05T23:32:31Z",
       "privacy_status": "public",
       "duration_sec": 119,
-      "views": 135,
+      "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 60.67
+      "views_per_day": 49.35
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -187,7 +187,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 14.81
+      "views_per_day": 13.89
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -195,10 +195,10 @@
       "published_at": "2026-05-06T19:33:18Z",
       "privacy_status": "public",
       "duration_sec": 73,
-      "views": 87,
+      "views": 94,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 62.53
+      "views_per_day": 48.9
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -209,7 +209,7 @@
       "views": 86,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 28.96
+      "views_per_day": 24.57
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -220,7 +220,7 @@
       "views": 54,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 27.45
+      "views_per_day": 21.62
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -231,7 +231,7 @@
       "views": 49,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 7.55
+      "views_per_day": 6.98
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -242,7 +242,29 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.54
+      "views_per_day": 2.37
+    },
+    {
+      "video_id": "qyvHUfiDkW8",
+      "title": "My New Neighbor Knows Things About Me He Should Not Know | True Scary Story",
+      "published_at": "2026-05-07T23:25:38Z",
+      "privacy_status": "public",
+      "duration_sec": 82,
+      "views": 12,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 12.0
+    },
+    {
+      "video_id": "0rDVKBrQFsA",
+      "title": "My Phone Shows Me Visiting an Abandoned House Every Night at 3AM | True Scary Story",
+      "published_at": "2026-05-08T04:57:09Z",
+      "privacy_status": "public",
+      "duration_sec": 103,
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 7.0
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -253,18 +275,18 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.86
+      "views_per_day": 3.4
     },
     {
-      "video_id": "qyvHUfiDkW8",
-      "title": "My New Neighbor Knows Things About Me He Should Not Know | True Scary Story",
-      "published_at": "2026-05-07T23:25:38Z",
+      "video_id": "z8-T8zVpR-8",
+      "title": "The Polaroid Camera I Inherited Only Takes Pictures of One Specific Room | True Scary Story",
+      "published_at": "2026-05-08T17:30:43Z",
       "privacy_status": "public",
-      "duration_sec": 82,
-      "views": 3,
+      "duration_sec": 73,
+      "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.0
+      "views_per_day": 1.0
     },
     {
       "video_id": "drYQWX9f4vc",
