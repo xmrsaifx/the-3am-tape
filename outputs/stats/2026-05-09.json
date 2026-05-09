@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "snapshot_at": "2026-05-09T17:19:05.703067+00:00",
+  "snapshot_at": "2026-05-09T23:27:12.009629+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1169,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 246.19
+      "views_per_day": 233.62
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -19,10 +19,10 @@
       "published_at": "2026-05-02T17:01:39Z",
       "privacy_status": "public",
       "duration_sec": 74,
-      "views": 1076,
+      "views": 1077,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 153.45
+      "views_per_day": 148.19
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 988,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 112.91
+      "views_per_day": 109.7
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 118.48
+      "views_per_day": 114.58
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 130.74
+      "views_per_day": 125.97
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -66,7 +66,7 @@
       "views": 680,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 170.71
+      "views_per_day": 160.41
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 647,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 107.63
+      "views_per_day": 103.24
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 537,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 69.27
+      "views_per_day": 67.06
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 525,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 95.81
+      "views_per_day": 91.54
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -107,10 +107,10 @@
       "published_at": "2026-05-03T05:52:14Z",
       "privacy_status": "public",
       "duration_sec": 97,
-      "views": 458,
+      "views": 459,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 70.71
+      "views_per_day": 68.18
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 431,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 173.71
+      "views_per_day": 157.48
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 411,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 41.28
+      "views_per_day": 40.25
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -143,7 +143,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 39.98
+      "views_per_day": 38.28
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -154,7 +154,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 29.93
+      "views_per_day": 28.47
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -165,7 +165,7 @@
       "views": 141,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 16.65
+      "views_per_day": 16.16
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -176,7 +176,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 36.36
+      "views_per_day": 34.03
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -187,7 +187,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 12.44
+      "views_per_day": 12.12
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -195,10 +195,10 @@
       "published_at": "2026-05-06T19:33:18Z",
       "privacy_status": "public",
       "duration_sec": 73,
-      "views": 100,
+      "views": 105,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 34.4
+      "views_per_day": 33.2
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -209,7 +209,29 @@
       "views": 86,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 19.18
+      "views_per_day": 18.14
+    },
+    {
+      "video_id": "9WTSgkfOGEY",
+      "title": "I Took a Wrong Turn on a Back Road and Ended Up in the Same Town Twice | True Scary Story",
+      "published_at": "2026-05-09T05:37:57Z",
+      "privacy_status": "public",
+      "duration_sec": 84,
+      "views": 80,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 80.0
+    },
+    {
+      "video_id": "-bZ6ZsLWnRQ",
+      "title": "My Sleep Tracker Has 43 Missing Nights. I Have No Memory of Where I Went | True Scary Story",
+      "published_at": "2026-05-09T17:08:32Z",
+      "privacy_status": "public",
+      "duration_sec": 110,
+      "views": 56,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 56.0
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -220,7 +242,7 @@
       "views": 54,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 15.51
+      "views_per_day": 14.45
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -231,7 +253,7 @@
       "views": 50,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 6.25
+      "views_per_day": 6.05
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -242,7 +264,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.11
+      "views_per_day": 2.06
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -250,10 +272,10 @@
       "published_at": "2026-05-08T04:57:09Z",
       "privacy_status": "public",
       "duration_sec": 103,
-      "views": 15,
+      "views": 16,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 9.9
+      "views_per_day": 9.04
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -264,7 +286,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 8.59
+      "views_per_day": 7.5
     },
     {
       "video_id": "Y7_n80UbfYQ",
@@ -275,7 +297,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 7.0
+      "views_per_day": 6.98
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -286,18 +308,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.55
-    },
-    {
-      "video_id": "9WTSgkfOGEY",
-      "title": "I Took a Wrong Turn on a Back Road and Ended Up in the Same Town Twice | True Scary Story",
-      "published_at": "2026-05-09T05:37:57Z",
-      "privacy_status": "public",
-      "duration_sec": 84,
-      "views": 4,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 4.0
+      "views_per_day": 2.33
     },
     {
       "video_id": "z8-T8zVpR-8",
@@ -305,21 +316,10 @@
       "published_at": "2026-05-08T17:30:43Z",
       "privacy_status": "public",
       "duration_sec": 73,
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.0
-    },
-    {
-      "video_id": "-bZ6ZsLWnRQ",
-      "title": "My Sleep Tracker Has 43 Missing Nights. I Have No Memory of Where I Went | True Scary Story",
-      "published_at": "2026-05-09T17:08:32Z",
-      "privacy_status": "public",
-      "duration_sec": 110,
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 0.0
+      "views_per_day": 1.6
     },
     {
       "video_id": "drYQWX9f4vc",
@@ -327,6 +327,17 @@
       "published_at": "2026-05-07T18:06:32Z",
       "privacy_status": "public",
       "duration_sec": 66,
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 0.45
+    },
+    {
+      "video_id": "E_Vkeb6d04k",
+      "title": "My Smart Home Started Obeying a Voice That Is Not Mine. It Knows My Full Name | True Scary Story",
+      "published_at": "2026-05-09T23:16:23Z",
+      "privacy_status": "public",
+      "duration_sec": 99,
       "views": 0,
       "likes": 0,
       "comments": 0,
