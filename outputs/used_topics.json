@@ -153,5 +153,10 @@
     "date": "2026-05-09",
     "character": "narrator",
     "topic": "My smart home devices started responding to a voice that is not mine. The voice knows my full name."
+  },
+  {
+    "date": "2026-05-10",
+    "character": "narrator",
+    "topic": "My smart lock app shows someone entering my house every night while I sleep"
   }
 ]
