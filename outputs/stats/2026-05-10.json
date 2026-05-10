@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "snapshot_at": "2026-05-10T06:03:41.269333+00:00",
+  "snapshot_at": "2026-05-10T17:18:33.721447+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1169,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 221.43
+      "views_per_day": 203.38
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -19,10 +19,10 @@
       "published_at": "2026-05-02T17:01:39Z",
       "privacy_status": "public",
       "duration_sec": 74,
-      "views": 1077,
+      "views": 1078,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 142.78
+      "views_per_day": 134.55
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 988,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 106.45
+      "views_per_day": 101.33
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 110.65
+      "views_per_day": 104.55
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 121.21
+      "views_per_day": 113.89
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -66,7 +66,7 @@
       "views": 680,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 150.63
+      "views_per_day": 136.46
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 647,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 98.9
+      "views_per_day": 92.29
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 537,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 64.83
+      "views_per_day": 61.36
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 525,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 87.35
+      "views_per_day": 81.03
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 459,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 65.5
+      "views_per_day": 61.39
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 431,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 143.09
+      "views_per_day": 123.82
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 411,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 39.19
+      "views_per_day": 37.51
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -143,7 +143,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 36.6
+      "views_per_day": 34.06
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -154,7 +154,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 27.04
+      "views_per_day": 24.92
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -165,7 +165,7 @@
       "views": 141,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 15.67
+      "views_per_day": 14.89
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -176,7 +176,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 31.84
+      "views_per_day": 28.69
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -187,7 +187,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 11.79
+      "views_per_day": 11.26
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -198,7 +198,7 @@
       "views": 106,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 30.83
+      "views_per_day": 27.13
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -209,7 +209,7 @@
       "views": 86,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 17.15
+      "views_per_day": 15.68
     },
     {
       "video_id": "9WTSgkfOGEY",
@@ -220,7 +220,7 @@
       "views": 80,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 78.6
+      "views_per_day": 53.82
     },
     {
       "video_id": "-bZ6ZsLWnRQ",
@@ -231,7 +231,7 @@
       "views": 65,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 65.0
+      "views_per_day": 64.55
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -242,7 +242,7 @@
       "views": 54,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 13.46
+      "views_per_day": 12.05
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -253,7 +253,7 @@
       "views": 50,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 5.86
+      "views_per_day": 5.55
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -264,7 +264,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.0
+      "views_per_day": 1.9
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -275,7 +275,18 @@
       "views": 16,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 7.82
+      "views_per_day": 6.36
+    },
+    {
+      "video_id": "jC5AjOgOyPY",
+      "title": "My Smart Lock Shows Someone Entering My House Every Night at Two AM | True Scary Story",
+      "published_at": "2026-05-10T05:53:10Z",
+      "privacy_status": "public",
+      "duration_sec": 87,
+      "views": 15,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 15.0
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -286,7 +297,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 6.59
+      "views_per_day": 5.46
     },
     {
       "video_id": "Y7_n80UbfYQ",
@@ -294,10 +305,10 @@
       "published_at": "2026-05-08T23:22:17Z",
       "privacy_status": "public",
       "duration_sec": 89,
-      "views": 7,
+      "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.47
+      "views_per_day": 7.44
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -308,7 +319,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.13
+      "views_per_day": 1.87
     },
     {
       "video_id": "z8-T8zVpR-8",
@@ -316,10 +327,21 @@
       "published_at": "2026-05-08T17:30:43Z",
       "privacy_status": "public",
       "duration_sec": 73,
-      "views": 2,
+      "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.31
+      "views_per_day": 2.51
+    },
+    {
+      "video_id": "E_Vkeb6d04k",
+      "title": "My Smart Home Started Obeying a Voice That Is Not Mine. It Knows My Full Name | True Scary Story",
+      "published_at": "2026-05-09T23:16:23Z",
+      "privacy_status": "public",
+      "duration_sec": 99,
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 1.0
     },
     {
       "video_id": "drYQWX9f4vc",
@@ -330,25 +352,14 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.4
+      "views_per_day": 0.34
     },
     {
-      "video_id": "jC5AjOgOyPY",
-      "title": "My Smart Lock Shows Someone Entering My House Every Night at Two AM | True Scary Story",
-      "published_at": "2026-05-10T05:53:10Z",
+      "video_id": "PKV0d6DAcGU",
+      "title": "I Drove Through a Town That Was Not on Any Map I Owned | True Scary Story",
+      "published_at": "2026-05-10T17:08:02Z",
       "privacy_status": "public",
-      "duration_sec": 87,
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 0.0
-    },
-    {
-      "video_id": "E_Vkeb6d04k",
-      "title": "My Smart Home Started Obeying a Voice That Is Not Mine. It Knows My Full Name | True Scary Story",
-      "published_at": "2026-05-09T23:16:23Z",
-      "privacy_status": "public",
-      "duration_sec": 99,
+      "duration_sec": 94,
       "views": 0,
       "likes": 0,
       "comments": 0,
