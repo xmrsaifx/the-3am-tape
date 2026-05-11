@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "snapshot_at": "2026-05-11T18:16:15.992719+00:00",
+  "snapshot_at": "2026-05-11T23:25:10.560472+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1169,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 172.21
+      "views_per_day": 166.94
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1080,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 119.31
+      "views_per_day": 116.55
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 988,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 91.57
+      "views_per_day": 89.78
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 93.16
+      "views_per_day": 91.11
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 100.42
+      "views_per_day": 98.02
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -66,7 +66,7 @@
       "views": 680,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 112.9
+      "views_per_day": 109.02
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -74,10 +74,10 @@
       "published_at": "2026-05-03T17:03:08Z",
       "privacy_status": "public",
       "duration_sec": 85,
-      "views": 647,
+      "views": 648,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 80.36
+      "views_per_day": 78.4
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 537,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 54.84
+      "views_per_day": 53.67
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 525,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 69.82
+      "views_per_day": 67.89
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 460,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 54.01
+      "views_per_day": 52.68
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 431,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 95.34
+      "views_per_day": 91.02
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 412,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 34.34
+      "views_per_day": 33.74
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -143,7 +143,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 29.51
+      "views_per_day": 28.72
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -154,7 +154,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 21.23
+      "views_per_day": 20.6
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -162,10 +162,10 @@
       "published_at": "2026-05-01T06:03:00Z",
       "privacy_status": "public",
       "duration_sec": 83,
-      "views": 144,
+      "views": 145,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 13.7
+      "views_per_day": 13.52
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -176,7 +176,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 23.53
+      "views_per_day": 22.69
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -187,7 +187,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 10.24
+      "views_per_day": 10.05
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -198,7 +198,7 @@
       "views": 106,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 21.43
+      "views_per_day": 20.54
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -209,7 +209,7 @@
       "views": 86,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 13.18
+      "views_per_day": 12.76
     },
     {
       "video_id": "9WTSgkfOGEY",
@@ -220,7 +220,7 @@
       "views": 82,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 32.45
+      "views_per_day": 29.91
     },
     {
       "video_id": "-bZ6ZsLWnRQ",
@@ -231,7 +231,18 @@
       "views": 68,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 33.22
+      "views_per_day": 30.07
+    },
+    {
+      "video_id": "Uwg6I0HRxDs",
+      "title": "My Birth Certificate Was Signed by a Doctor Who Died Two Years Before I Was Born | True Scary Story",
+      "published_at": "2026-05-11T18:16:09Z",
+      "privacy_status": "public",
+      "duration_sec": 62,
+      "views": 54,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 54.0
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -242,7 +253,7 @@
       "views": 54,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 9.78
+      "views_per_day": 9.41
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -253,7 +264,7 @@
       "views": 50,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 4.98
+      "views_per_day": 4.87
     },
     {
       "video_id": "jC5AjOgOyPY",
@@ -261,10 +272,10 @@
       "published_at": "2026-05-10T05:53:10Z",
       "privacy_status": "public",
       "duration_sec": 87,
-      "views": 35,
+      "views": 38,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 23.09
+      "views_per_day": 21.96
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -275,7 +286,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.72
+      "views_per_day": 1.69
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -286,7 +297,7 @@
       "views": 18,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 5.06
+      "views_per_day": 4.78
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -297,7 +308,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.96
+      "views_per_day": 3.75
     },
     {
       "video_id": "Y7_n80UbfYQ",
@@ -308,7 +319,18 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.66
+      "views_per_day": 4.33
+    },
+    {
+      "video_id": "gsdSUPafLiU",
+      "title": "My Truck Broke Down on a Highway with No Other Cars for Three Hours. Then One Came | True Scary Stor",
+      "published_at": "2026-05-10T23:16:26Z",
+      "privacy_status": "public",
+      "duration_sec": 77,
+      "views": 10,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 9.94
     },
     {
       "video_id": "PKV0d6DAcGU",
@@ -319,18 +341,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 8.59
-    },
-    {
-      "video_id": "gsdSUPafLiU",
-      "title": "My Truck Broke Down on a Highway with No Other Cars for Three Hours. Then One Came | True Scary Stor",
-      "published_at": "2026-05-10T23:16:26Z",
-      "privacy_status": "public",
-      "duration_sec": 77,
-      "views": 8,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 8.0
+      "views_per_day": 7.13
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -341,7 +352,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.46
+      "views_per_day": 1.4
     },
     {
       "video_id": "z8-T8zVpR-8",
@@ -352,7 +363,7 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.98
+      "views_per_day": 1.85
     },
     {
       "video_id": "E_Vkeb6d04k",
@@ -363,7 +374,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.56
+      "views_per_day": 0.5
     },
     {
       "video_id": "drYQWX9f4vc",
@@ -374,14 +385,14 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.25
+      "views_per_day": 0.24
     },
     {
-      "video_id": "Uwg6I0HRxDs",
-      "title": "My Birth Certificate Was Signed by a Doctor Who Died Two Years Before I Was Born | True Scary Story",
-      "published_at": "2026-05-11T18:16:09Z",
+      "video_id": "Wp8FIHJXHS8",
+      "title": "My Electricity Bill Is for a House That Was Demolished in Nineteen Eighty Seven | True Scary Story",
+      "published_at": "2026-05-11T23:24:59Z",
       "privacy_status": "public",
-      "duration_sec": 62,
+      "duration_sec": 65,
       "views": 0,
       "likes": 0,
       "comments": 0,
