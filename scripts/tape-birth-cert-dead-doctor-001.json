@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-birth-cert-dead-doctor-001",
+  "character": "narrator",
+  "topic": "My birth certificate was signed by a doctor who died two years before I was born",
+  "title": "My Birth Certificate Was Signed by a Doctor Who Died Two Years Before I Was Born | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My birth certificate was signed by a doctor who died two years before I was born.", "image_prompt": "close shot of an official paper birth certificate on a wooden desk, an attending physician signature line visible in old fountain pen ink, soft warm desk lamp light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I needed a passport renewal last spring. Routine paperwork.", "image_prompt": "close shot of a federal passport application form on a kitchen table, a passport photo and a folder of documents beside it, dim afternoon light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I had never read it carefully.", "image_prompt": "close shot of a hand smoothing a folded birth certificate on a kitchen counter, the document edges yellowed and worn, soft pendant lamp light, vertical 9:16 framing"},
+    {"id": 4, "narration": "The attending physician was Doctor Marcus Hale.", "image_prompt": "extreme close shot of a birth certificate signature line, the printed name Doctor Marcus Hale below a scrawled fountain pen signature, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I searched his name online.", "image_prompt": "close shot of a laptop screen showing a search engine result page with a small obituary preview at the top, dim home office light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Doctor Hale died in a car accident in nineteen eighty four.", "image_prompt": "close shot of an old newspaper obituary clipping on a desk, a faded photograph at the top of the article, dim lamp light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I was born in nineteen eighty six.", "image_prompt": "close shot of a birth certificate with the date of birth line highlighted, the year nineteen eighty six visible in printed type, soft ambient desk light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The signature matched his hospital records.", "image_prompt": "wide shot of a desk with two documents side by side, a birth certificate and an older hospital chart, both with matching fountain pen signatures visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "I asked my mother. She would not look at me.", "image_prompt": "wide interior shot of a kitchen with a woman seated at a table from behind, her hands folded tightly in her lap, an unfinished coffee mug in front of her, soft window light, vertical 9:16 framing"},
+    {"id": 10, "narration": "She said I had to stop asking questions. Then she left the room.", "image_prompt": "wide interior shot of an empty kitchen, a chair pushed back from the table, a coffee mug still steaming, the back door slightly open, soft afternoon light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I tried to find my hospital records.", "image_prompt": "close shot of a laptop screen showing a hospital patient portal login page, an error message visible below the input fields, dim home office light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Saint Joseph's never had a maternity ward.", "image_prompt": "wide shot of an old brick hospital building at dusk, a fading hand painted sign reading Saint Joseph's visible above an entrance, no lights on inside, fog low to the ground, vertical 9:16 framing"}
+  ]
+}

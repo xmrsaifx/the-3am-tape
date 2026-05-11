@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-tenant-calendar-tuesday-001",
+  "character": "narrator",
+  "topic": "The previous tenant of my apartment left a calendar marked he comes by every Tuesday at nine",
+  "title": "The Previous Tenant Left a Calendar Marked HE COMES BY Every Tuesday at Nine | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The previous tenant left a calendar marked he comes by every Tuesday at nine.", "image_prompt": "close shot of an old paper wall calendar hanging on a kitchen wall, every Tuesday square filled with handwritten letters reading he comes by, dim ambient kitchen light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I moved into a second floor walk up in Saint Paul last fall.", "image_prompt": "wide exterior shot of a converted Victorian apartment building at dusk, a single warm window glowing on the second floor, a narrow staircase visible at the entrance, vertical 9:16 framing"},
+    {"id": 3, "narration": "I left the calendar where I found it.", "image_prompt": "close shot of the same wall calendar hanging in a different kitchen, boxes of moving supplies visible on the counter below it, soft afternoon window light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First Tuesday I lived there I forgot it was Tuesday.", "image_prompt": "wide interior shot of a quiet apartment living room at night, a laptop open on a sofa, a half eaten dinner on a side table, a single floor lamp glowing, vertical 9:16 framing"},
+    {"id": 5, "narration": "Nine PM. A knock.", "image_prompt": "close shot of a wooden apartment door from inside, the brass deadbolt visible, dim hallway light leaking under the door, vertical 9:16 framing"},
+    {"id": 6, "narration": "Through the peephole nothing. The hallway empty.", "image_prompt": "wide shot of a dim apartment hallway from a doorway, a single ceiling sconce providing weak light, no figures visible in any direction, vertical 9:16 framing"},
+    {"id": 7, "narration": "I asked the landlord.", "image_prompt": "close shot of a smartphone screen showing a text message conversation with the landlord, the messages reading in plain text, dim ambient evening light, vertical 9:16 framing"},
+    {"id": 8, "narration": "He said the previous tenant had broken her lease in March.", "image_prompt": "close shot of an old lease document on a kitchen table, a termination notice paperclipped to it, dim pendant lamp light overhead, vertical 9:16 framing"},
+    {"id": 9, "narration": "She left everything behind. She did not collect the deposit.", "image_prompt": "wide interior shot of an apartment closet partially full of a stranger's clothes still on hangers, dust visible in the air, a single bare overhead bulb, vertical 9:16 framing"},
+    {"id": 10, "narration": "Every Tuesday at nine the same knock. The same empty hallway.", "image_prompt": "close shot of a brass deadbolt on an apartment door at night, the chain lock secured, dim hallway light visible through the peephole, vertical 9:16 framing"},
+    {"id": 11, "narration": "Last Tuesday I did not look through the peephole.", "image_prompt": "wide interior shot of an apartment living room at night, a person sitting motionless on a sofa facing away from the door, the room lit only by a single floor lamp, vertical 9:16 framing"},
+    {"id": 12, "narration": "He did not knock. He turned the doorknob.", "image_prompt": "extreme close shot of a brass apartment doorknob from inside, the knob caught mid rotation, the chain lock taut against the door frame, dim ambient light, vertical 9:16 framing"}
+  ]
+}

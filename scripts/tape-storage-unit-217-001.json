@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-storage-unit-217-001",
+  "character": "narrator",
+  "topic": "Night shift at a self storage facility on Old Lapeer Road where unit two seventeen had a tenant nobody had ever seen",
+  "title": "I Worked Night Shift at a Storage Facility on Old Lapeer Road. Unit Two Seventeen Had a Tenant Nobody Had Ever Seen | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a tenant in unit two seventeen that nobody at this facility has ever seen.", "image_prompt": "wide exterior shot of a long row of storage units at night, a single yellow security light buzzing above one orange roll up door marked two seventeen, fog low across the asphalt, vertical 9:16 framing"},
+    {"id": 2, "narration": "I worked overnight at the storage facility on Old Lapeer Road.", "image_prompt": "wide shot of a small office building with a hand painted sign reading Storage Office, a single fluorescent light on inside, a parking lot empty except for one car, late night dim lighting, vertical 9:16 framing"},
+    {"id": 3, "narration": "Three years on the job.", "image_prompt": "close shot of a wall calendar in a dim office, several years circled in red marker, fluorescent ceiling light buzzing above, vertical 9:16 framing"},
+    {"id": 4, "narration": "Unit two seventeen paid rent every month in cash.", "image_prompt": "close shot of a metal drop box mounted on an office wall, a folded white envelope visible just inside the slot, dim ambient hallway light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Always exactly on time.", "image_prompt": "close shot of a tenant payment ledger book on an office desk, a row of payment dates listed in pen, dim desk lamp glow, vertical 9:16 framing"},
+    {"id": 6, "narration": "The envelopes appeared in the drop box overnight.", "image_prompt": "close shot of a hand opening a metal drop box from inside the office, a single folded envelope resting at the bottom, dim ambient office light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Security camera footage. Nothing.", "image_prompt": "close shot of a security monitor screen split into four camera views, all four views showing empty corridors and the drop box, dim office light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The drop box filled itself.", "image_prompt": "wide interior shot of the storage office at night from the corridor doorway, the metal drop box visible on the back wall, fluorescent lights flickering, no person present, vertical 9:16 framing"},
+    {"id": 9, "narration": "I asked to see the unit. My manager refused. Company policy.", "image_prompt": "close shot of a paper company policy memo on a desk, the tenant privacy section circled in red pen, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last winter I opened it anyway. There was a chair facing the door.", "image_prompt": "wide interior shot of an empty storage unit with concrete floor, a single wooden chair placed in the center facing toward the open roll up door, dim ambient outdoor light entering, vertical 9:16 framing"},
+    {"id": 11, "narration": "The chair had a notebook on it.", "image_prompt": "close shot of a black hardcover notebook resting on a wooden chair, the notebook closed with a frayed ribbon bookmark, dim ambient light entering from an open storage door, vertical 9:16 framing"},
+    {"id": 12, "narration": "It had every shift I had ever worked written down.", "image_prompt": "extreme close shot of a notebook page covered in rows of handwritten dates and times, the most recent date at the bottom, dim flashlight beam across the page, vertical 9:16 framing"}
+  ]
+}

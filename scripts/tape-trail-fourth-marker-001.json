@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-trail-fourth-marker-001",
+  "character": "narrator",
+  "topic": "I have hiked the same three mile trail every October for nine years and this year there was a fourth mile marker",
+  "title": "I Have Hiked the Same Three Mile Trail for Nine Years. This Year There Was a Fourth Mile Marker | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The trail is three miles. This October I passed a fourth mile marker.", "image_prompt": "close shot of a wooden trail mile marker post in autumn woods, a hand carved number four visible on the post, fallen leaves around the base, low overcast forest light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Devil's Lake. Bluff Trail. East ridge loop. Every October for nine years.", "image_prompt": "wide shot of a forested ridge trail in autumn, golden leaves on the path, distant lake visible through the trees, no people on the trail, soft afternoon light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Same loop. Same parking lot. Same three markers.", "image_prompt": "wide shot of a small gravel trailhead parking lot at dawn, a single trail map kiosk at the entrance, mist on the ground, no cars in the lot, vertical 9:16 framing"},
+    {"id": 4, "narration": "Last Sunday I passed the third mile marker and the trail kept going.", "image_prompt": "wide shot of a forest trail extending past a worn wooden mile marker post number three, autumn light low through bare branches, no end visible down the path, vertical 9:16 framing"},
+    {"id": 5, "narration": "I kept walking.", "image_prompt": "low angle shot of a pair of hiking boots on a leaf covered trail, the trail extending forward into shadowed woods, late afternoon light filtered through trees, vertical 9:16 framing"},
+    {"id": 6, "narration": "Four hundred feet later the fourth marker.", "image_prompt": "close shot of a wooden trail mile marker post with a hand carved number four, the wood weathered and grey, surrounded by ferns and fallen leaves, dim forest light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Older than the others.", "image_prompt": "extreme close shot of weathered grey wood grain on a trail post, deep lichen patches and dry rot visible, dim ambient forest light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Past it the trail opened into a clearing I had never seen.", "image_prompt": "wide shot of a small forest clearing in autumn, soft sunlight breaking through bare branches into a circle of grass, a wooden picnic bench visible in the center, fog at the treeline, vertical 9:16 framing"},
+    {"id": 9, "narration": "A picnic bench. A thermos still warm.", "image_prompt": "close shot of a weathered wooden picnic bench with a metal thermos sitting on top, faint steam visible rising from the cap, autumn leaves scattered around the bench, dim ambient forest light, vertical 9:16 framing"},
+    {"id": 10, "narration": "My name was carved into the wood beside it.", "image_prompt": "extreme close shot of weathered wooden bench planks with a name carved deep into the surface, the letters dark with age and weather, late afternoon light at low angle, vertical 9:16 framing"},
+    {"id": 11, "narration": "I went back to the parking lot. My car was the only one.", "image_prompt": "wide shot of a gravel trailhead parking lot at dusk, a single sedan parked in the otherwise empty lot, the trail map kiosk to one side, fog beginning to rise, vertical 9:16 framing"},
+    {"id": 12, "narration": "Last week I drove back. There were three markers again.", "image_prompt": "wide shot of the same forest trail in autumn, the third wooden mile marker visible, the path beyond it ending abruptly at a wall of trees and brush, dim overcast light, vertical 9:16 framing"}
+  ]
+}

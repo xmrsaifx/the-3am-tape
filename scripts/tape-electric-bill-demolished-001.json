@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-electric-bill-demolished-001",
+  "character": "narrator",
+  "topic": "My electricity bill is for a house that was demolished in nineteen eighty seven",
+  "title": "My Electricity Bill Is for a House That Was Demolished in Nineteen Eighty Seven | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My electricity bill arrives every month for a house that was demolished in nineteen eighty seven.", "image_prompt": "close shot of an open electricity utility bill on a wooden kitchen table, the service address line visible at the top, a coffee mug beside it, soft morning light through a window, vertical 9:16 framing"},
+    {"id": 2, "narration": "I have lived in this rental apartment for two years.", "image_prompt": "wide interior shot of a small apartment kitchen with white cabinets, a stack of unopened mail on the counter, dim morning light filtered through blinds, no people in frame, vertical 9:16 framing"},
+    {"id": 3, "narration": "The bill was always the same.", "image_prompt": "close shot of three identical utility bills stacked on a desk, the envelope dates visible on each, dim desk lamp light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Last March I noticed the service address. It was not mine.", "image_prompt": "extreme close shot of a utility bill with a fingertip pointing to the service address line, the address printed differently from the mailing address visible at top, dim lamp light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Different street. Different city.", "image_prompt": "close shot of a hand holding a folded paper map of a Midwest county, a finger circling an unfamiliar town name, dim ambient evening light, vertical 9:16 framing"},
+    {"id": 6, "narration": "I drove out to verify. The lot was empty.", "image_prompt": "wide shot of an empty grass lot between two older houses, weeds growing through a cracked concrete foundation slab, overcast sky, no people visible, vertical 9:16 framing"},
+    {"id": 7, "narration": "I checked county records.", "image_prompt": "close shot of a computer screen showing a county property records database, a row of search results visible on the page, dim office light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The house was demolished thirty nine years ago.", "image_prompt": "close shot of a printed property record document on a desk, a demolition date line highlighted in pencil, ambient lamp light, the rest of the desk in shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "The utility company confirmed the account is active and someone is paying.", "image_prompt": "close shot of a smartphone screen showing a customer service chat window, the agent reply text visible on screen, dim home office light, vertical 9:16 framing"},
+    {"id": 10, "narration": "The autopay account is in my name. I have never set it up.", "image_prompt": "close shot of a laptop screen showing an online banking transaction history page, monthly recurring payments highlighted in a list, dim desk lamp, vertical 9:16 framing"},
+    {"id": 11, "narration": "Last month the bill went up fourteen dollars.", "image_prompt": "close shot of a hand holding a recent utility bill, the new charge amount visible at the top of the page, soft window light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Someone is using more electricity than they did last winter.", "image_prompt": "wide shot of an empty grass lot at dusk, a single street light glowing on the corner, fog low over the ground, no structure visible on the lot, vertical 9:16 framing"}
+  ]
+}
