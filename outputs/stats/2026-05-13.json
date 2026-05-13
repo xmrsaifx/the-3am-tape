@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "snapshot_at": "2026-05-13T06:04:18.192863+00:00",
+  "snapshot_at": "2026-05-13T18:55:15.568372+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1170,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 141.31
+      "views_per_day": 132.73
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1081,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 102.53
+      "views_per_day": 97.57
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 988,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 80.44
+      "views_per_day": 77.08
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 80.56
+      "views_per_day": 76.84
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 85.85
+      "views_per_day": 81.6
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -66,7 +66,7 @@
       "views": 680,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 90.49
+      "views_per_day": 84.47
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 648,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 67.91
+      "views_per_day": 64.3
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 537,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 47.59
+      "views_per_day": 45.44
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 525,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 58.26
+      "views_per_day": 55.0
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 460,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 45.96
+      "views_per_day": 43.63
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 431,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 71.68
+      "views_per_day": 65.82
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 412,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 30.55
+      "views_per_day": 29.38
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -143,7 +143,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 24.77
+      "views_per_day": 23.42
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -154,7 +154,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 17.51
+      "views_per_day": 16.47
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -165,7 +165,7 @@
       "views": 145,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 12.08
+      "views_per_day": 11.57
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -176,7 +176,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 18.7
+      "views_per_day": 17.42
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -187,7 +187,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 9.07
+      "views_per_day": 8.71
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -198,7 +198,7 @@
       "views": 106,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 16.46
+      "views_per_day": 15.2
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -209,7 +209,18 @@
       "views": 86,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 10.73
+      "views_per_day": 10.06
+    },
+    {
+      "video_id": "GD_JH6lo218",
+      "title": "I Have Hiked the Same Three Mile Trail for Nine Years. This Year There Was a Fourth Mile Marker | Tr",
+      "published_at": "2026-05-12T23:33:06Z",
+      "privacy_status": "public",
+      "duration_sec": 72,
+      "views": 82,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 82.0
     },
     {
       "video_id": "9WTSgkfOGEY",
@@ -220,7 +231,7 @@
       "views": 82,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 20.41
+      "views_per_day": 18.01
     },
     {
       "video_id": "-bZ6ZsLWnRQ",
@@ -231,7 +242,18 @@
       "views": 68,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 19.22
+      "views_per_day": 16.69
+    },
+    {
+      "video_id": "Uwg6I0HRxDs",
+      "title": "My Birth Certificate Was Signed by a Doctor Who Died Two Years Before I Was Born | True Scary Story",
+      "published_at": "2026-05-11T18:16:09Z",
+      "privacy_status": "public",
+      "duration_sec": 62,
+      "views": 64,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 31.57
     },
     {
       "video_id": "Wp8FIHJXHS8",
@@ -242,18 +264,7 @@
       "views": 62,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 48.54
-    },
-    {
-      "video_id": "Uwg6I0HRxDs",
-      "title": "My Birth Certificate Was Signed by a Doctor Who Died Two Years Before I Was Born | True Scary Story",
-      "published_at": "2026-05-11T18:16:09Z",
-      "privacy_status": "public",
-      "duration_sec": 62,
-      "views": 62,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 41.56
+      "views_per_day": 34.2
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -264,7 +275,7 @@
       "views": 54,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 7.7
+      "views_per_day": 7.15
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -275,7 +286,7 @@
       "views": 50,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 4.33
+      "views_per_day": 4.14
     },
     {
       "video_id": "jC5AjOgOyPY",
@@ -286,18 +297,29 @@
       "views": 46,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 15.29
+      "views_per_day": 12.98
     },
     {
-      "video_id": "GD_JH6lo218",
-      "title": "I Have Hiked the Same Three Mile Trail for Nine Years. This Year There Was a Fourth Mile Marker | Tr",
-      "published_at": "2026-05-12T23:33:06Z",
+      "video_id": "gsdSUPafLiU",
+      "title": "My Truck Broke Down on a Highway with No Other Cars for Three Hours. Then One Came | True Scary Stor",
+      "published_at": "2026-05-10T23:16:26Z",
       "privacy_status": "public",
-      "duration_sec": 72,
-      "views": 42,
+      "duration_sec": 77,
+      "views": 28,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 42.0
+      "views_per_day": 9.93
+    },
+    {
+      "video_id": "PKV0d6DAcGU",
+      "title": "I Drove Through a Town That Was Not on Any Map I Owned | True Scary Story",
+      "published_at": "2026-05-10T17:08:02Z",
+      "privacy_status": "public",
+      "duration_sec": 94,
+      "views": 25,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 8.13
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -308,7 +330,18 @@
       "views": 20,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 3.96
+      "views_per_day": 3.58
+    },
+    {
+      "video_id": "C0PpdlGdEZ0",
+      "title": "I Bought a Box of Unmarked VHS Tapes at an Estate Sale for Two Dollars | True Scary Story",
+      "published_at": "2026-05-13T06:03:54Z",
+      "privacy_status": "public",
+      "duration_sec": 82,
+      "views": 19,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 19.0
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -319,18 +352,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.52
-    },
-    {
-      "video_id": "PKV0d6DAcGU",
-      "title": "I Drove Through a Town That Was Not on Any Map I Owned | True Scary Story",
-      "published_at": "2026-05-10T17:08:02Z",
-      "privacy_status": "public",
-      "duration_sec": 94,
-      "views": 17,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 6.7
+      "views_per_day": 1.46
     },
     {
       "video_id": "PkU1qkpjt2Q",
@@ -338,10 +360,10 @@
       "published_at": "2026-05-12T06:01:35Z",
       "privacy_status": "public",
       "duration_sec": 63,
-      "views": 16,
+      "views": 18,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 15.97
+      "views_per_day": 11.71
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -352,7 +374,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.84
+      "views_per_day": 2.58
     },
     {
       "video_id": "Y7_n80UbfYQ",
@@ -363,18 +385,18 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.04
+      "views_per_day": 2.7
     },
     {
-      "video_id": "gsdSUPafLiU",
-      "title": "My Truck Broke Down on a Highway with No Other Cars for Three Hours. Then One Came | True Scary Stor",
-      "published_at": "2026-05-10T23:16:26Z",
+      "video_id": "-rGoC9My2kw",
+      "title": "The Previous Tenant Left a Calendar Marked HE COMES BY Every Tuesday at Nine | True Scary Story",
+      "published_at": "2026-05-12T18:17:11Z",
       "privacy_status": "public",
-      "duration_sec": 77,
-      "views": 11,
+      "duration_sec": 64,
+      "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.82
+      "views_per_day": 8.77
     },
     {
       "video_id": "z8-T8zVpR-8",
@@ -385,7 +407,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.55
+      "views_per_day": 1.38
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -396,18 +418,18 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.11
+      "views_per_day": 1.03
     },
     {
-      "video_id": "-rGoC9My2kw",
-      "title": "The Previous Tenant Left a Calendar Marked HE COMES BY Every Tuesday at Nine | True Scary Story",
-      "published_at": "2026-05-12T18:17:11Z",
+      "video_id": "-SxvT0cVqgw",
+      "title": "I Bought a Used Phone Online and Someone Is Still Receiving Messages on It | True Scary Story",
+      "published_at": "2026-05-13T18:44:41Z",
       "privacy_status": "public",
-      "duration_sec": 64,
-      "views": 5,
+      "duration_sec": 92,
+      "views": 3,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.0
+      "views_per_day": 3.0
     },
     {
       "video_id": "E_Vkeb6d04k",
@@ -418,7 +440,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.3
+      "views_per_day": 0.26
     },
     {
       "video_id": "drYQWX9f4vc",
@@ -429,18 +451,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.18
-    },
-    {
-      "video_id": "C0PpdlGdEZ0",
-      "title": "I Bought a Box of Unmarked VHS Tapes at an Estate Sale for Two Dollars | True Scary Story",
-      "published_at": "2026-05-13T06:03:54Z",
-      "privacy_status": "public",
-      "duration_sec": 82,
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 0.0
+      "views_per_day": 0.17
     },
     {
       "video_id": "WagLXf637L4",
