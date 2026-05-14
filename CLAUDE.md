@@ -146,6 +146,29 @@ Total ~100-120 narration words. Read at -15% rate = ~58-65 seconds. Cuts well un
 
 ---
 
+## Viral vs Flop Pattern (derived from real channel stats)
+
+The top 10 tapes by views/day all follow one template. The bottom 10 all break it. Apply this when drafting any new script.
+
+**Viral premise template** (GPS exit 1170 views, cheap house 1081, basement door 988, cassette DO NOT PLAY 889, daughter not in photos 883):
+- **Ordinary daily life setting** — a thing 90% of viewers own or do: their house, car, phone gallery, family photos, doorbell, GPS, grocery store
+- **Hook reveals the mystery, not the answer** — scene 1 names the impossible detail, not its cause ("exit 147 does not exist but my GPS tells me to take it every morning")
+- **Physical, photographable anomaly** — a tape, a door, a window, a photo, a parked car
+
+**Flop pattern** (twin 0 views, weather station 0, mother's date 1, smart-home voice 1):
+- **Spoiled premise in scene 1** — "my twin lives in our parents' attic" gives the answer; no curiosity left
+- **Niche setting** the viewer can't self-insert into — remote weather station, hospital security gig, night-shift call center
+- **Heavy grief/death payload** — dead-dad's ring on mom's boyfriend; emotional weight suppresses shareability
+- **Abstract software anomalies** — smart-home voice, router logs (in contrast, physical-object tech like cassette or doorbell footage works)
+
+**When drafting:**
+- Setting must be a place 90% of viewers occupy
+- Scene 1 hook must tease the impossible thing without naming the cause
+- Avoid: night-shift-at-X, remote stations, dead-parent reveals, abstract software anomalies
+- Prefer: physical objects, geometric/spatial impossibilities, "every time I X" pattern violations, photos/video showing what shouldn't exist
+
+---
+
 ## Image Generation Rules
 
 - Resolution target: 1080×1920 (vertical 9:16)

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-grey-sedan-grocery-001",
+  "character": "narrator",
+  "topic": "The same grey sedan has been at my grocery store every visit for six months",
+  "title": "A Grey Sedan Has Been in My Grocery Store Lot Every Single Visit for Six Months. Different Spot Each Time. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "A grey sedan is in my grocery store lot every visit. Different spot each time.", "image_prompt": "wide shot of a suburban grocery store parking lot at dusk, a single faded grey four door sedan parked alone in a row of empty spaces, the lit store entrance in the distance, vertical 9:16 framing"},
+    {"id": 2, "narration": "Same store. Tuesday and Friday evenings. Two years now.", "image_prompt": "wide exterior shot of a chain grocery store entrance at twilight, automatic glass doors visible, a half empty parking lot, neon storefront sign reflected on wet asphalt, vertical 9:16 framing"},
+    {"id": 3, "narration": "I noticed the car in November. Faded silver. Maine plates.", "image_prompt": "close rear shot of a grey four door sedan parked in a lot, a Maine state license plate visible on the rear bumper, the paint faded and slightly dusty, late afternoon light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Different row every time. Always on the sun side.", "image_prompt": "wide shot of a grocery store parking lot in afternoon sun, the grey sedan parked alone in a sun side row, long shadows from the cart corral, no other cars in adjacent spots, vertical 9:16 framing"},
+    {"id": 5, "narration": "Never the same spot twice. I checked my dashcam.", "image_prompt": "close shot of a smartphone screen mounted in a car interior showing dashcam playback of a grocery store parking lot, a timestamp visible at the bottom, the grey sedan parked in the frame, vertical 9:16 framing"},
+    {"id": 6, "narration": "I started timing my visits randomly. Mondays. Sundays. Mornings.", "image_prompt": "close shot of a paper calendar pinned to a refrigerator with various days circled in pen, several different days of the week marked, magnets along the edges, dim kitchen light, vertical 9:16 framing"},
+    {"id": 7, "narration": "The car was there every single time. I never saw it arrive or leave.", "image_prompt": "wide interior shot through the windshield of a parked car at the grocery store at midday, the grey sedan visible in the row ahead, no people walking through the lot, overcast daylight, vertical 9:16 framing"},
+    {"id": 8, "narration": "Last Tuesday I parked next to it and waited.", "image_prompt": "wide shot of a grocery store parking lot at night, two cars parked side by side with the row otherwise empty, the store windows glowing in the background, fluorescent lamp posts overhead, vertical 9:16 framing"},
+    {"id": 9, "narration": "Two hours. The lot emptied. Mine was the last car. The sedan was still there.", "image_prompt": "wide shot of a nearly empty grocery store parking lot late at night, fluorescent lights overhead, the grey sedan and one other car alone in the center of the lot, the store interior visible through the front windows, vertical 9:16 framing"},
+    {"id": 10, "narration": "I wrote down the plate number and went home.", "image_prompt": "close shot of a small notebook page on a car dashboard with a license plate number written in pen, a smartphone resting beside the notebook, dim cabin light from the dome lamp, vertical 9:16 framing"},
+    {"id": 11, "narration": "Looked it up on a public records site. Registered to me.", "image_prompt": "close shot of a laptop screen showing a public records search result page with a vehicle registration record visible, the registrant name partially redacted, dim desk lamp light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I have never owned a grey sedan. I went outside the next morning. It was in my driveway.", "image_prompt": "wide exterior shot of a residential driveway at dawn, a faded grey four door sedan parked at the end of the driveway facing the house, a single front porch light glowing, soft grey morning light, vertical 9:16 framing"}
+  ]
+}
