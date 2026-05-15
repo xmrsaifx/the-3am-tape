@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "snapshot_at": "2026-05-15T06:10:43.792588+00:00",
+  "snapshot_at": "2026-05-15T18:04:53.931951+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1170,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 113.77
+      "views_per_day": 108.53
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1081,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 86.15
+      "views_per_day": 82.87
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 988,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 69.16
+      "views_per_day": 66.84
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 68.18
+      "views_per_day": 65.68
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 71.85
+      "views_per_day": 69.06
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -66,7 +66,7 @@
       "views": 680,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 71.43
+      "views_per_day": 67.9
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 648,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 56.12
+      "views_per_day": 53.81
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 537,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 40.41
+      "views_per_day": 38.96
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 525,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 47.66
+      "views_per_day": 45.61
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 460,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 38.29
+      "views_per_day": 36.77
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 431,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 53.76
+      "views_per_day": 50.63
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 412,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 26.59
+      "views_per_day": 25.77
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -143,7 +143,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 20.37
+      "views_per_day": 19.52
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -154,7 +154,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 14.17
+      "views_per_day": 13.53
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -165,7 +165,7 @@
       "views": 146,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 10.42
+      "views_per_day": 10.07
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -176,7 +176,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 14.66
+      "views_per_day": 13.92
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -187,7 +187,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 7.86
+      "views_per_day": 7.61
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -198,7 +198,18 @@
       "views": 106,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 12.56
+      "views_per_day": 11.86
+    },
+    {
+      "video_id": "LlN3ddk_YGs",
+      "title": "There Is a Room in My House That Only Appears in the Hallway Mirror | True Scary Story",
+      "published_at": "2026-05-15T06:09:59Z",
+      "privacy_status": "public",
+      "duration_sec": 87,
+      "views": 87,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 87.0
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -209,7 +220,7 @@
       "views": 86,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 8.58
+      "views_per_day": 8.18
     },
     {
       "video_id": "GD_JH6lo218",
@@ -220,7 +231,7 @@
       "views": 82,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 36.03
+      "views_per_day": 29.58
     },
     {
       "video_id": "9WTSgkfOGEY",
@@ -231,7 +242,7 @@
       "views": 82,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 13.62
+      "views_per_day": 12.58
     },
     {
       "video_id": "-bZ6ZsLWnRQ",
@@ -242,7 +253,7 @@
       "views": 68,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 12.27
+      "views_per_day": 11.26
     },
     {
       "video_id": "Uwg6I0HRxDs",
@@ -253,7 +264,7 @@
       "views": 64,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 18.31
+      "views_per_day": 16.03
     },
     {
       "video_id": "Wp8FIHJXHS8",
@@ -264,7 +275,7 @@
       "views": 62,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 18.89
+      "views_per_day": 16.41
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -275,7 +286,7 @@
       "views": 54,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 5.99
+      "views_per_day": 5.68
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -286,7 +297,7 @@
       "views": 52,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 3.84
+      "views_per_day": 3.7
     },
     {
       "video_id": "gsdSUPafLiU",
@@ -297,7 +308,7 @@
       "views": 48,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 11.19
+      "views_per_day": 10.03
     },
     {
       "video_id": "jC5AjOgOyPY",
@@ -308,7 +319,7 @@
       "views": 46,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 9.18
+      "views_per_day": 8.35
     },
     {
       "video_id": "C0PpdlGdEZ0",
@@ -316,10 +327,10 @@
       "published_at": "2026-05-13T06:03:54Z",
       "privacy_status": "public",
       "duration_sec": 82,
-      "views": 29,
+      "views": 30,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 14.47
+      "views_per_day": 12.0
     },
     {
       "video_id": "PKV0d6DAcGU",
@@ -330,7 +341,18 @@
       "views": 25,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.5
+      "views_per_day": 4.96
+    },
+    {
+      "video_id": "PkU1qkpjt2Q",
+      "title": "I Worked Night Shift at a Storage Facility on Old Lapeer Road. Unit Two Seventeen Had a Tenant Nobod",
+      "published_at": "2026-05-12T06:01:35Z",
+      "privacy_status": "public",
+      "duration_sec": 63,
+      "views": 20,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 5.71
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -341,18 +363,7 @@
       "views": 20,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.84
-    },
-    {
-      "video_id": "PkU1qkpjt2Q",
-      "title": "I Worked Night Shift at a Storage Facility on Old Lapeer Road. Unit Two Seventeen Had a Tenant Nobod",
-      "published_at": "2026-05-12T06:01:35Z",
-      "privacy_status": "public",
-      "duration_sec": 63,
-      "views": 19,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 6.32
+      "views_per_day": 2.65
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -363,7 +374,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.31
+      "views_per_day": 1.26
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -374,7 +385,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.06
+      "views_per_day": 1.93
     },
     {
       "video_id": "Y7_n80UbfYQ",
@@ -385,7 +396,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.07
+      "views_per_day": 1.92
     },
     {
       "video_id": "X1u1wExFrrY",
@@ -396,7 +407,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 10.97
+      "views_per_day": 7.34
     },
     {
       "video_id": "FyFERhTU290",
@@ -407,7 +418,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 8.62
+      "views_per_day": 6.21
     },
     {
       "video_id": "-rGoC9My2kw",
@@ -415,10 +426,10 @@
       "published_at": "2026-05-12T18:17:11Z",
       "privacy_status": "public",
       "duration_sec": 64,
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.61
+      "views_per_day": 3.34
     },
     {
       "video_id": "2npIc2Wl5-8",
@@ -426,10 +437,10 @@
       "published_at": "2026-05-14T18:08:19Z",
       "privacy_status": "public",
       "duration_sec": 93,
-      "views": 8,
+      "views": 9,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 8.0
+      "views_per_day": 9.0
     },
     {
       "video_id": "-SxvT0cVqgw",
@@ -437,10 +448,21 @@
       "published_at": "2026-05-13T18:44:41Z",
       "privacy_status": "public",
       "duration_sec": 92,
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 4.06
+    },
+    {
+      "video_id": "c9blX8gP9jc",
+      "title": "A Grey Sedan Has Been in My Grocery Store Lot Every Single Visit for Six Months. Different Spot Each",
+      "published_at": "2026-05-14T23:24:14Z",
+      "privacy_status": "public",
+      "duration_sec": 94,
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.74
+      "views_per_day": 7.0
     },
     {
       "video_id": "z8-T8zVpR-8",
@@ -451,7 +473,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.07
+      "views_per_day": 1.0
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -462,18 +484,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.84
-    },
-    {
-      "video_id": "c9blX8gP9jc",
-      "title": "A Grey Sedan Has Been in My Grocery Store Lot Every Single Visit for Six Months. Different Spot Each",
-      "published_at": "2026-05-14T23:24:14Z",
-      "privacy_status": "public",
-      "duration_sec": 94,
-      "views": 6,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 6.0
+      "views_per_day": 0.8
     },
     {
       "video_id": "E_Vkeb6d04k",
@@ -484,7 +495,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.19
+      "views_per_day": 0.17
     },
     {
       "video_id": "drYQWX9f4vc",
@@ -498,11 +509,11 @@
       "views_per_day": 0.13
     },
     {
-      "video_id": "LlN3ddk_YGs",
-      "title": "There Is a Room in My House That Only Appears in the Hallway Mirror | True Scary Story",
-      "published_at": "2026-05-15T06:09:59Z",
+      "video_id": "0q5_7oHh-YE",
+      "title": "My Dog Barks at the Exact Same Spot in the Kitchen at Eleven Forty Seven Every Night | True Scary St",
+      "published_at": "2026-05-15T17:54:20Z",
       "privacy_status": "public",
-      "duration_sec": 87,
+      "duration_sec": 97,
       "views": 0,
       "likes": 0,
       "comments": 0,
