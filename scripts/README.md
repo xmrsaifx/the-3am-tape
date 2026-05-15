@@ -2,7 +2,7 @@
 
 This folder is the **video queue**. Every JSON file is a 60–90 second horror Short waiting to be rendered. The daily workflow ([`.github/workflows/daily.yml`](../.github/workflows/daily.yml)) picks the oldest script (FIFO by filename), renders + uploads it **public immediately**, then moves it to [`scripts/archive/`](archive/).
 
-Channel runs in **3/day sprint mode** (cron fires at 02:00, 16:00, 22:00 UTC) targeting Shorts monetization. Queue depth matters — at 3/day a 30-script queue gives you ~10 days of runway.
+Channel runs in **4/day sprint mode** (cron fires at 02:00, 09:00, 16:00, 22:00 UTC) targeting Shorts monetization. Queue depth matters — at 4/day a 28-script queue gives you ~7 days of runway.
 
 Drop a new script here whenever you want to queue one. With `ANTHROPIC_API_KEY` set as a GitHub Secret, the workflow auto-backfills via Claude when queue depth < 5. Without it, the queue only ever has what you put in.
 

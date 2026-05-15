@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-house-key-strangers-door-001",
+  "character": "narrator",
+  "topic": "My house key fits a stranger's front door three blocks away from where I live",
+  "title": "My House Key Fits a Stranger's Front Door Three Blocks Away from Where I Live | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My house key turns the lock on a stranger's front door three blocks away.", "image_prompt": "close shot of a single brass house key inserted into the deadbolt of a dark green wooden front door, a hand turning the key, the door frame painted white, dim porch light overhead, vertical 9:16 framing"},
+    {"id": 2, "narration": "Small Ohio town. Bungalow. Lived alone since the divorce.", "image_prompt": "wide exterior shot of a small one story craftsman bungalow on a quiet residential street at dusk, a single porch light on, mature oak trees flanking the lawn, no cars in the driveway, vertical 9:16 framing"},
+    {"id": 3, "narration": "Found it last August walking the dog.", "image_prompt": "wide shot of a residential sidewalk at golden hour from behind, a man in a flannel jacket walking a golden retriever on a leash, mature trees and small homes lining the street, vertical 9:16 framing"},
+    {"id": 4, "narration": "Key slipped out of my pocket onto the porch of a house I had never entered.", "image_prompt": "close shot of a single brass house key lying on weathered grey porch boards, the wooden steps of a stranger's bungalow porch visible above, late afternoon shadows long across the boards, vertical 9:16 framing"},
+    {"id": 5, "narration": "I picked it up. Tried it as a joke.", "image_prompt": "close shot of a brass house key being held up toward a dark green front door deadbolt, an adult hand visible, the dim porch in shadow behind, vertical 9:16 framing"},
+    {"id": 6, "narration": "Turned. Unlocked.", "image_prompt": "close shot of a brass house key turned fully in a deadbolt lock, the door cracked open an inch, dim interior darkness beyond the gap, dim porch light from the side, vertical 9:16 framing"},
+    {"id": 7, "narration": "I did not go in.", "image_prompt": "wide shot of a porch from the sidewalk perspective at dusk, a craftsman bungalow with its dark green front door slightly ajar, no figure visible, the lawn empty, vertical 9:16 framing"},
+    {"id": 8, "narration": "Walked home. My door would not open with that same key.", "image_prompt": "close shot of a hand inserting a brass house key into a deadbolt of a different blue painted front door, the key only partially turning, dim early evening light, vertical 9:16 framing"},
+    {"id": 9, "narration": "I checked the address. Eleven thirty four Hayden. My address is sixteen oh two.", "image_prompt": "close shot of a tarnished brass house number plate reading eleven thirty four nailed to the dark green door frame of a bungalow, late afternoon shadow falling across the numbers, vertical 9:16 framing"},
+    {"id": 10, "narration": "I went back the next morning. The dark green door was now a different color.", "image_prompt": "wide shot of the same bungalow porch in morning light, the front door now painted bright red with white trim, the deadbolt visibly newer brass, the porch boards unchanged, vertical 9:16 framing"},
+    {"id": 11, "narration": "A woman answered. She said no one had ever painted that door green.", "image_prompt": "wide shot of a residential porch in daylight from the sidewalk, a woman in a cardigan standing in the half open red front doorway facing outward but her face turned to the side, the porch boards visible, vertical 9:16 framing"},
+    {"id": 12, "narration": "I still have the key. I have not tried any other doors. I am afraid of what fits.", "image_prompt": "close shot of a single brass house key resting on a dark wooden kitchen counter beside a folded paper note, the kitchen interior dim with a single overhead pendant light above, vertical 9:16 framing"}
+  ]
+}

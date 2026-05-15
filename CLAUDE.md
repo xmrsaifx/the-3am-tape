@@ -9,11 +9,12 @@ Fully automated YouTube channel for analog-horror / true-scary-story narration. 
 - **Audience:** Horror Shorts viewers, late-night doom-scrollers
 - **Format:** **YouTube Shorts (vertical 9:16)** — 12 scenes, ~12-15 words narration each, target runtime 60-90 sec. (YouTube raised the Shorts duration cap to 180s in October 2024 — for analog horror narration, 60-90 sec is the sweet spot since the genre needs atmospheric build-up time that pure 60-sec cuts can't deliver.)
 - **Captions:** Anton bold-condensed @ 90pt, white phrase + per-word yellow karaoke highlight (the proven viral-Shorts caption format)
-- **Posting schedule (SPRINT MODE):** **3 uploads/day**, public-immediate, via 3 cron triggers in `.github/workflows/daily.yml`:
+- **Posting schedule (SPRINT MODE):** **4 uploads/day**, public-immediate, via 4 cron triggers in `.github/workflows/daily.yml`:
   - 02:00 UTC → US prime time (~21:00 ET, "horror story before bed" peak)
+  - 09:00 UTC → EU mid-morning (~10:00 CET commute) / PK lunch break (~14:00 PKT)
   - 16:00 UTC → EU early evening (~17:00 CET) / PK late evening (~21:00 PKT)
   - 22:00 UTC → US after-work (~17:00 ET) / UK prime time (~22:00 GMT)
-  - Goal: 3M Shorts views in 90 days for early monetization (1,000 subs + 3M views threshold). 3/day gives the algorithm 3 daily shots on goal — lower per-video bar, faster signal accumulation.
+  - Goal: 3M Shorts views in 90 days for early monetization (1,000 subs + 3M views threshold). 4/day gives the algorithm 4 daily shots on goal — lower per-video bar, faster signal accumulation, and the 09:00 UTC slot fills the previously-dead 14h window between US bedtime and EU evening.
 - **Cost:** ~$0/video — same free pipeline as money-crew (Pollinations + edge-tts + FFmpeg)
 
 ---
