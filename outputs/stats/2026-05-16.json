@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "snapshot_at": "2026-05-16T05:53:10.974637+00:00",
+  "snapshot_at": "2026-05-16T10:41:04.180040+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1170,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 103.8
+      "views_per_day": 101.99
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1081,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 79.86
+      "views_per_day": 78.7
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 988,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 64.68
+      "views_per_day": 63.85
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 63.38
+      "views_per_day": 62.49
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 66.5
+      "views_per_day": 65.52
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -66,7 +66,7 @@
       "views": 680,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 64.72
+      "views_per_day": 63.51
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 648,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 51.7
+      "views_per_day": 50.88
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 537,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 37.62
+      "views_per_day": 37.1
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 526,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 43.82
+      "views_per_day": 43.1
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 460,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 35.38
+      "views_per_day": 34.85
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 431,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 47.86
+      "views_per_day": 46.82
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 412,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 25.0
+      "views_per_day": 24.7
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -143,7 +143,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 18.73
+      "views_per_day": 18.43
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -154,7 +154,18 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 12.95
+      "views_per_day": 12.73
+    },
+    {
+      "video_id": "LlN3ddk_YGs",
+      "title": "There Is a Room in My House That Only Appears in the Hallway Mirror | True Scary Story",
+      "published_at": "2026-05-15T06:09:59Z",
+      "privacy_status": "public",
+      "duration_sec": 87,
+      "views": 146,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 122.87
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -165,7 +176,7 @@
       "views": 146,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 9.74
+      "views_per_day": 9.61
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -176,7 +187,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 13.25
+      "views_per_day": 13.0
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -187,18 +198,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 7.37
-    },
-    {
-      "video_id": "LlN3ddk_YGs",
-      "title": "There Is a Room in My House That Only Appears in the Hallway Mirror | True Scary Story",
-      "published_at": "2026-05-15T06:09:59Z",
-      "privacy_status": "public",
-      "duration_sec": 87,
-      "views": 116,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 116.0
+      "views_per_day": 7.28
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -209,7 +209,7 @@
       "views": 106,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 11.24
+      "views_per_day": 11.01
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -220,7 +220,7 @@
       "views": 86,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 7.81
+      "views_per_day": 7.67
     },
     {
       "video_id": "GD_JH6lo218",
@@ -231,7 +231,7 @@
       "views": 82,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 25.12
+      "views_per_day": 23.67
     },
     {
       "video_id": "9WTSgkfOGEY",
@@ -242,7 +242,7 @@
       "views": 82,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 11.7
+      "views_per_day": 11.37
     },
     {
       "video_id": "-bZ6ZsLWnRQ",
@@ -253,7 +253,7 @@
       "views": 68,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 10.41
+      "views_per_day": 10.1
     },
     {
       "video_id": "Uwg6I0HRxDs",
@@ -264,7 +264,7 @@
       "views": 64,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 14.27
+      "views_per_day": 13.66
     },
     {
       "video_id": "Wp8FIHJXHS8",
@@ -275,7 +275,7 @@
       "views": 62,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 14.52
+      "views_per_day": 13.87
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -286,7 +286,7 @@
       "views": 54,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 5.4
+      "views_per_day": 5.29
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -297,7 +297,7 @@
       "views": 52,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 3.58
+      "views_per_day": 3.53
     },
     {
       "video_id": "gsdSUPafLiU",
@@ -308,7 +308,7 @@
       "views": 48,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 9.1
+      "views_per_day": 8.77
     },
     {
       "video_id": "jC5AjOgOyPY",
@@ -319,7 +319,7 @@
       "views": 46,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 7.67
+      "views_per_day": 7.42
     },
     {
       "video_id": "C0PpdlGdEZ0",
@@ -330,7 +330,7 @@
       "views": 31,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 10.36
+      "views_per_day": 9.71
     },
     {
       "video_id": "PKV0d6DAcGU",
@@ -341,7 +341,7 @@
       "views": 25,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.52
+      "views_per_day": 4.36
     },
     {
       "video_id": "PkU1qkpjt2Q",
@@ -352,7 +352,7 @@
       "views": 20,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.01
+      "views_per_day": 4.77
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -363,7 +363,7 @@
       "views": 20,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.49
+      "views_per_day": 2.43
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -374,7 +374,18 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.22
+      "views_per_day": 1.21
+    },
+    {
+      "video_id": "2npIc2Wl5-8",
+      "title": "My Daughter's Kindergarten Drawings All Show a Tall Man in a Hallway. We Have Never Lived in That Ho",
+      "published_at": "2026-05-14T18:08:19Z",
+      "privacy_status": "public",
+      "duration_sec": 93,
+      "views": 16,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 9.47
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -385,7 +396,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.81
+      "views_per_day": 1.77
     },
     {
       "video_id": "Y7_n80UbfYQ",
@@ -396,7 +407,29 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.79
+      "views_per_day": 1.74
+    },
+    {
+      "video_id": "wkEgnyqRAcw",
+      "title": "My House Key Fits a Stranger's Front Door Three Blocks Away from Where I Live | True Scary Story",
+      "published_at": "2026-05-16T05:42:24Z",
+      "privacy_status": "public",
+      "duration_sec": 80,
+      "views": 12,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 12.0
+    },
+    {
+      "video_id": "gj58udxbj_o",
+      "title": "My Doorbell Camera Records a Child Knocking Every Night at Three Seventeen | True Scary Story",
+      "published_at": "2026-05-15T23:22:22Z",
+      "privacy_status": "public",
+      "duration_sec": 79,
+      "views": 11,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 11.0
     },
     {
       "video_id": "X1u1wExFrrY",
@@ -407,7 +440,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.53
+      "views_per_day": 5.02
     },
     {
       "video_id": "FyFERhTU290",
@@ -418,18 +451,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.86
-    },
-    {
-      "video_id": "2npIc2Wl5-8",
-      "title": "My Daughter's Kindergarten Drawings All Show a Tall Man in a Hallway. We Have Never Lived in That Ho",
-      "published_at": "2026-05-14T18:08:19Z",
-      "privacy_status": "public",
-      "duration_sec": 93,
-      "views": 10,
-      "likes": 1,
-      "comments": 0,
-      "views_per_day": 6.71
+      "views_per_day": 4.46
     },
     {
       "video_id": "-rGoC9My2kw",
@@ -440,7 +462,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.87
+      "views_per_day": 2.71
     },
     {
       "video_id": "-SxvT0cVqgw",
@@ -451,7 +473,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.65
+      "views_per_day": 3.38
     },
     {
       "video_id": "c9blX8gP9jc",
@@ -462,7 +484,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.51
+      "views_per_day": 4.76
     },
     {
       "video_id": "z8-T8zVpR-8",
@@ -473,7 +495,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.93
+      "views_per_day": 0.91
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -484,29 +506,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.75
-    },
-    {
-      "video_id": "wkEgnyqRAcw",
-      "title": "My House Key Fits a Stranger's Front Door Three Blocks Away from Where I Live | True Scary Story",
-      "published_at": "2026-05-16T05:42:24Z",
-      "privacy_status": "public",
-      "duration_sec": 80,
-      "views": 6,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 6.0
-    },
-    {
-      "video_id": "gj58udxbj_o",
-      "title": "My Doorbell Camera Records a Child Knocking Every Night at Three Seventeen | True Scary Story",
-      "published_at": "2026-05-15T23:22:22Z",
-      "privacy_status": "public",
-      "duration_sec": 79,
-      "views": 6,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 6.0
+      "views_per_day": 0.74
     },
     {
       "video_id": "E_Vkeb6d04k",
@@ -517,7 +517,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.16
+      "views_per_day": 0.15
     },
     {
       "video_id": "drYQWX9f4vc",
@@ -529,6 +529,17 @@
       "likes": 0,
       "comments": 0,
       "views_per_day": 0.12
+    },
+    {
+      "video_id": "T-c6Gp5Ttig",
+      "title": "I Keep Finding Receipts in My Jacket Pockets for Places I Have Never Been | True Scary Story",
+      "published_at": "2026-05-16T10:30:36Z",
+      "privacy_status": "public",
+      "duration_sec": 103,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 0.0
     },
     {
       "video_id": "0q5_7oHh-YE",
