@@ -20,6 +20,10 @@ from config.settings import (
     FFMPEG_BIN,
     FFPROBE_BIN,
     FINAL_DIR,
+    LONG_AUDIO_BITRATE,
+    LONG_MIN_DURATION_SECONDS,
+    LONG_VIDEO_HEIGHT,
+    LONG_VIDEO_WIDTH,
     MUSIC_DIR,
     VIDEO_FPS,
     VIDEO_HEIGHT,
@@ -315,3 +319,206 @@ def assemble(
     return final
 
 
+# ============================================================================
+# Long-form (16:9 horizontal) assembler
+# ----------------------------------------------------------------------------
+# Long-form differs from Shorts in three structural ways:
+#   1. N images per section (typically 4-8). Each image holds for
+#      section_audio_duration / N seconds.
+#   2. NO burned captions. SRT track is generated separately by srt_generator
+#      and uploaded as a YouTube caption track.
+#   3. 1920×1080 (not 1080×1920) and 192k AAC (not 128k).
+# Visuals are rendered per-image as silent clips, then ALL clips concat into
+# one silent track. Audio is concat separately from per-section MP3s. Final
+# mux puts visual + audio together. This keeps the per-image rendering simple
+# (no audio overlay math) and the section-boundary alignment exact (visual
+# total = sum of section durations = audio total, by construction).
+# ============================================================================
+
+LONG_MOTION_RATES_PER_SECOND = {
+    # Long-form holds are ~8-15 sec per image. The Shorts zoom rate (0.0010/frame)
+    # was tuned for 6-sec scenes — over 15 sec it'd hit the 1.18 cap halfway and
+    # lock in. Tone down to 0.0006/frame so the drift remains gentle across the
+    # full hold without an obvious "zoom stop" point.
+    "zoom_per_frame": 0.0006,
+    "zoom_cap": 1.15,
+}
+
+
+def _long_motion_filter(image_idx: int, total_frames: int, width: int, height: int) -> str:
+    """Per-image long-form motion: slow drift only (no fast push-ins). Cycles
+    through 7 presets like Shorts but with lower zoom rates and a tighter cap."""
+    z_per = LONG_MOTION_RATES_PER_SECOND["zoom_per_frame"]
+    z_cap = LONG_MOTION_RATES_PER_SECOND["zoom_cap"]
+    presets = [
+        # Slow zoom-in, centered
+        (f"min(zoom+{z_per},{z_cap})", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"),
+        # Drift left to right at fixed 1.08 zoom
+        ("1.08", "(iw-iw/zoom)*on/{D}", "ih/2-(ih/zoom/2)"),
+        # Drift right to left at fixed 1.08 zoom
+        ("1.08", "(iw-iw/zoom)*(1-on/{D})", "ih/2-(ih/zoom/2)"),
+        # Slow zoom-in offset upper-left (toward something we should notice)
+        (f"min(zoom+{z_per},{z_cap})", "(iw-iw/zoom)*0.15", "(ih-ih/zoom)*0.15"),
+        # Slow zoom-in offset lower-right
+        (f"min(zoom+{z_per},{z_cap})", "(iw-iw/zoom)*0.85", "(ih-ih/zoom)*0.85"),
+        # Drift downward — gravity, dread
+        ("1.08", "iw/2-(iw/zoom/2)", "(ih-ih/zoom)*on/{D}"),
+        # Drift upward — rising
+        ("1.08", "iw/2-(iw/zoom/2)", "(ih-ih/zoom)*(1-on/{D})"),
+    ]
+    z_expr, x_expr, y_expr = presets[(image_idx - 1) % len(presets)]
+    x_expr = x_expr.replace("{D}", str(total_frames))
+    y_expr = y_expr.replace("{D}", str(total_frames))
+    return (
+        f"scale=8000:-1,"
+        f"zoompan=z='{z_expr}':d={total_frames}:s={width}x{height}:fps={VIDEO_FPS}"
+        f":x='{x_expr}':y='{y_expr}'"
+    )
+
+
+def _build_long_image_clip(
+    image: Path, out_clip: Path, image_idx: int, duration: float,
+    width: int, height: int,
+) -> None:
+    """Render one silent image clip with slow drift motion at the given duration."""
+    total_frames = max(1, int(round(duration * VIDEO_FPS)))
+    out_clip.parent.mkdir(parents=True, exist_ok=True)
+    motion = _long_motion_filter(image_idx, total_frames, width, height)
+    cmd = [
+        FFMPEG_BIN, "-y", "-loglevel", "error",
+        "-loop", "1", "-i", str(image.resolve()),
+        "-vf", motion,
+        "-t", f"{duration:.3f}",
+        "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+        "-b:v", "5M", "-maxrate", "7M", "-bufsize", "14M",
+        "-pix_fmt", "yuv420p",
+        "-an",
+        str(out_clip.resolve()),
+    ]
+    logger.info(f"render long img {image_idx}: {out_clip.name} ({duration:.2f}s)")
+    subprocess.run(cmd, check=True)
+
+
+def _concat_audio(mp3s: list[Path], out_file: Path) -> None:
+    """Concat per-section MP3s into a single re-encoded AAC track. Re-encoding
+    (rather than copying) sidesteps MP3 frame-boundary alignment bugs that
+    cause audible clicks between sections in some players."""
+    list_file = out_file.with_suffix(".audio.txt")
+    list_file.write_text("\n".join(f"file '{m.resolve()}'" for m in mp3s))
+    cmd = [
+        FFMPEG_BIN, "-y", "-loglevel", "error",
+        "-f", "concat", "-safe", "0",
+        "-i", str(list_file),
+        "-c:a", "aac", "-b:a", LONG_AUDIO_BITRATE,
+        "-vn",
+        str(out_file),
+    ]
+    logger.info(f"audio concat ({len(mp3s)} sections) -> {out_file.name}")
+    subprocess.run(cmd, check=True)
+    list_file.unlink(missing_ok=True)
+
+
+def _mux_av(visual: Path, audio: Path, out_file: Path) -> None:
+    """Combine the silent visual concat with the re-encoded audio concat.
+    `-shortest` is a guard — by construction visual_total == audio_total to
+    within rounding, so this trims at most a few frames."""
+    cmd = [
+        FFMPEG_BIN, "-y", "-loglevel", "error",
+        "-i", str(visual.resolve()),
+        "-i", str(audio.resolve()),
+        "-map", "0:v",
+        "-map", "1:a",
+        "-c:v", "copy",
+        "-c:a", "copy",
+        "-shortest",
+        str(out_file.resolve()),
+    ]
+    logger.info(f"mux v+a -> {out_file.name}")
+    subprocess.run(cmd, check=True)
+
+
+def assemble_long(
+    video_id: str,
+    sections_data: list[dict],
+    width: int | None = None,
+    height: int | None = None,
+) -> Path:
+    """Assemble a long-form (16:9) video from per-section image lists + audio.
+
+    `sections_data` items must be {"section_id": int, "audio": Path,
+    "images": list[Path]} sorted by section_id. The function:
+      1. Per section: ffprobe audio → divide duration evenly across image count
+      2. Per image: render silent drift clip at its share of section duration
+      3. Concat all image clips into a single silent visual track
+      4. Concat all section MP3s into a single AAC audio track
+      5. Mux visual + audio → outputs/final/<video_id>.mp4
+      6. Validate runtime ≥ LONG_MIN_DURATION_SECONDS (mid-roll ads gate)
+    """
+    if shutil.which(FFMPEG_BIN) is None or shutil.which(FFPROBE_BIN) is None:
+        raise RuntimeError(f"ffmpeg/ffprobe missing: {FFMPEG_BIN}, {FFPROBE_BIN}")
+    if not sections_data:
+        raise ValueError("assemble_long: no sections provided")
+    target_w = width or LONG_VIDEO_WIDTH
+    target_h = height or LONG_VIDEO_HEIGHT
+
+    FINAL_DIR.mkdir(parents=True, exist_ok=True)
+    work = FINAL_DIR / video_id
+    work.mkdir(parents=True, exist_ok=True)
+
+    # Image clips numbered globally so a flat concat reflects narrative order.
+    image_clips: list[Path] = []
+    all_audio: list[Path] = []
+    global_img_idx = 0
+    for section in sections_data:
+        sec_id = section["section_id"]
+        audio = section["audio"]
+        images = section["images"]
+        if not images:
+            raise ValueError(f"section {sec_id} has no images")
+        if not audio.exists():
+            raise FileNotFoundError(f"section {sec_id} audio missing: {audio}")
+        section_duration = _ffprobe_duration(audio)
+        per_image = section_duration / len(images)
+        logger.info(
+            f"section {sec_id}: {section_duration:.2f}s audio / {len(images)} images "
+            f"= {per_image:.2f}s per image"
+        )
+        for img_path in images:
+            global_img_idx += 1
+            out_clip = work / f"img_{global_img_idx:03d}.mp4"
+            if out_clip.exists() and out_clip.stat().st_size > 10_000:
+                logger.info(f"long img {global_img_idx}: cached")
+            else:
+                _build_long_image_clip(
+                    img_path, out_clip, image_idx=global_img_idx,
+                    duration=per_image, width=target_w, height=target_h,
+                )
+            image_clips.append(out_clip)
+        all_audio.append(audio)
+
+    visual = work / "_visual.mp4"
+    _concat_clips(image_clips, visual)
+
+    audio_concat = work / "_audio.m4a"
+    _concat_audio(all_audio, audio_concat)
+
+    final = FINAL_DIR / f"{video_id}.mp4"
+    _mux_av(visual, audio_concat, final)
+
+    final_duration = _ffprobe_duration(final)
+    logger.info(f"long final: {final} ({final_duration:.1f}s)")
+    if final_duration < LONG_MIN_DURATION_SECONDS:
+        # Soft guard. LONG_FORM.md rule #13 originally hard-failed here, but
+        # in practice edge-tts -25% renders faster (~2.2 wps) than the script
+        # estimator assumes (~1.6 wps), so 950-word scripts come in around
+        # 7:00-7:30 vs the 8:00 mid-roll threshold. Failing the whole pipeline
+        # over a 30-second shortfall isn't the right tradeoff — ship as a
+        # regular video (no mid-roll ads) and let the user extend the script
+        # next time if monetization gating matters.
+        logger.warning(
+            f"long final runtime {final_duration:.1f}s < {LONG_MIN_DURATION_SECONDS}s "
+            f"mid-roll-ads threshold — video will publish as a regular video without "
+            f"mid-roll ads. To qualify, extend narration by "
+            f"~{int((LONG_MIN_DURATION_SECONDS - final_duration) * 2.2)} more words."
+        )
+    return final

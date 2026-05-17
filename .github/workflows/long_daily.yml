@@ -1,0 +1,274 @@
+name: 3AM Tape Long — render + upload
+
+# Matrix-style long-form pipeline. See CLAUDE.md + LONG_FORM.md for spec.
+#
+# Architecture (3 jobs):
+#   1. prepare         — pick next script, emit video_id + sections matrix
+#   2. render-section  — matrix; one job per section renders its N images + 1 MP3
+#                        + captions JSON, uploads as per-section artifact
+#   3. assemble-upload — pulls all section artifacts, runs FFmpeg concat,
+#                        generates SRT + thumbnail, uploads to YouTube + Facebook
+#
+# Why matrix: a single 10-min long-form render hits ~50 Pollinations calls plus
+# heavy FFmpeg. Serial on one runner would blow past GHA timeouts (Pollinations
+# rate-limit retries alone can push a single section to 8-15 min). 10 parallel
+# section-shards drop wall-clock from 60-90 min serial to ~15-20 min, and any
+# single shard failure is independently re-runnable thanks to file-existence
+# caching in the pipeline modules.
+
+on:
+  workflow_dispatch:
+    inputs:
+      script:
+        description: 'Specific script filename in scripts/long/ (e.g. longtape-grandmother-house-001.json). Blank = oldest queued.'
+        required: false
+        default: ''
+      privacy:
+        description: 'YouTube privacy on upload'
+        required: true
+        type: choice
+        options: [unlisted, public, private]
+        default: unlisted
+      skip_fb:
+        description: 'Skip Facebook cross-post (useful while debugging FB or if FB token is missing)'
+        type: boolean
+        default: false
+      skip_upload:
+        description: 'Render-only: build the mp4 but do not upload anywhere. Final video posted as a workflow artifact.'
+        type: boolean
+        default: false
+
+# Separate concurrency group from the Shorts pipeline (daily-pipeline) so the
+# long-form workflow does not block or get blocked by the 4/day Shorts schedule.
+concurrency:
+  group: long-pipeline
+  cancel-in-progress: false
+
+jobs:
+  # =========================================================================
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      video_id: ${{ steps.pick.outputs.video_id }}
+      script_path: ${{ steps.pick.outputs.script_path }}
+      sections_matrix: ${{ steps.pick.outputs.sections_matrix }}
+      section_count: ${{ steps.pick.outputs.section_count }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Pick next long-form script
+        id: pick
+        run: |
+          set -euo pipefail
+          if [ -n "${{ inputs.script }}" ]; then
+            SCRIPT_PATH="scripts/long/${{ inputs.script }}"
+          else
+            # Oldest by filename (longtape-*-001 < -002 < ...) is the FIFO head.
+            SCRIPT_PATH=$(ls -1 scripts/long/longtape-*.json 2>/dev/null | sort | head -n1 || true)
+          fi
+          if [ -z "${SCRIPT_PATH:-}" ] || [ ! -f "$SCRIPT_PATH" ]; then
+            echo "::error::No long-form script found in scripts/long/"
+            exit 1
+          fi
+          # Extract video_id and sections list as JSON array (e.g. [1,2,3,...,10])
+          VIDEO_ID=$(python -c "import json,sys; print(json.load(open(sys.argv[1]))['video_id'])" "$SCRIPT_PATH")
+          SECTIONS=$(python -c "import json,sys; ids=[s['id'] for s in json.load(open(sys.argv[1]))['sections']]; print(json.dumps(ids))" "$SCRIPT_PATH")
+          COUNT=$(python -c "import json,sys; print(len(json.load(open(sys.argv[1]))['sections']))" "$SCRIPT_PATH")
+          echo "Picked: $SCRIPT_PATH -> $VIDEO_ID ($COUNT sections)"
+          {
+            echo "script_path=$SCRIPT_PATH"
+            echo "video_id=$VIDEO_ID"
+            echo "sections_matrix=$SECTIONS"
+            echo "section_count=$COUNT"
+          } >> "$GITHUB_OUTPUT"
+
+  # =========================================================================
+  render-section:
+    needs: prepare
+    runs-on: ubuntu-latest
+    # 5 images + 1 MP3 per shard. Local test: 6 min (Pollinations warm).
+    # CI worst case: rate-limit storm — 5 images × 8 retries × ~180s backoff
+    # = ~60 min. The 75-min budget cushions a bad-Pollinations day without
+    # leaving stuck shards hanging forever.
+    timeout-minutes: 75
+    # fail-fast=false: let other section shards finish even if one fails, so
+    # we can re-run only the broken shard rather than redoing the full matrix.
+    # max-parallel=4: stagger Pollinations hits — 10 shards all firing at once
+    # share one GHA egress IP pool and trigger aggressive 429 rate-limiting.
+    # 4-at-a-time spreads ~3 batches over ~30-40 min wall time and is much
+    # friendlier to the free tier.
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        section: ${{ fromJson(needs.prepare.outputs.sections_matrix) }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Render section ${{ matrix.section }} (images + voice + captions)
+        env:
+          FFMPEG_BIN: ffmpeg
+          FFPROBE_BIN: ffprobe
+          OUTPUT_DIR: ./outputs
+          LOG_LEVEL: INFO
+        run: |
+          python make_video.py "${{ needs.prepare.outputs.script_path }}" \
+            --section ${{ matrix.section }}
+
+      - name: Upload section artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: long-section-${{ matrix.section }}
+          # Preserves repo-relative paths so the assemble job can restore them
+          # back into outputs/{images,voiceovers}/<video_id>/ with merge-multiple.
+          path: |
+            outputs/images/${{ needs.prepare.outputs.video_id }}/section_*
+            outputs/voiceovers/${{ needs.prepare.outputs.video_id }}/section_*
+          if-no-files-found: error
+          retention-days: 3
+
+  # =========================================================================
+  assemble-upload:
+    needs: [prepare, render-section]
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    # Run even if a section shard failed, so partial-debug artifacts are still
+    # available. The assembler will raise if a section's files are missing.
+    if: ${{ !cancelled() }}
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Download all section artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: long-section-*
+          merge-multiple: true
+          # Lands back at outputs/images/<video_id>/ and outputs/voiceovers/<video_id>/
+          # because the upload step preserved the repo-relative path.
+
+      - name: Inspect restored layout (sanity check)
+        run: |
+          echo "Images:"
+          ls -la "outputs/images/${{ needs.prepare.outputs.video_id }}" || true
+          echo "Voiceovers:"
+          ls -la "outputs/voiceovers/${{ needs.prepare.outputs.video_id }}" || true
+
+      - name: Assemble + upload
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FFMPEG_BIN: ffmpeg
+          FFPROBE_BIN: ffprobe
+          OUTPUT_DIR: ./outputs
+          LOG_LEVEL: INFO
+        run: |
+          ARGS="--assemble-only"
+          if [ "${{ inputs.skip_upload }}" != "true" ]; then
+            ARGS="$ARGS --upload --privacy=${{ inputs.privacy }}"
+          fi
+          if [ "${{ inputs.skip_fb }}" = "true" ]; then
+            ARGS="$ARGS --no-fb"
+          fi
+          echo "running: python make_video.py ${{ needs.prepare.outputs.script_path }} $ARGS"
+          python make_video.py "${{ needs.prepare.outputs.script_path }}" $ARGS
+
+      - name: Archive script + commit state
+        if: ${{ success() && inputs.skip_upload != true }}
+        run: |
+          git config user.name  "the-3am-tape-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          SRC="${{ needs.prepare.outputs.script_path }}"
+          DEST="scripts/long/archive/$(basename "$SRC")"
+          mkdir -p scripts/long/archive
+          git mv "$SRC" "$DEST" || mv "$SRC" "$DEST"
+          git add scripts/long/ outputs/used_topics.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "no state changes to commit"
+            exit 0
+          fi
+          git commit -m "chore(long): publish $(basename "$SRC" .json) [skip ci]"
+          for attempt in 1 2 3; do
+            echo "push attempt $attempt..."
+            if git pull --rebase origin main && git push; then
+              echo "push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed; retrying after 5s..."
+            sleep 5
+          done
+          echo "ERROR: failed to push state commit after 3 attempts"
+          exit 1
+
+      - name: Upload final mp4 + captions + thumb as workflow artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: long-final-${{ needs.prepare.outputs.video_id }}
+          path: |
+            outputs/final/${{ needs.prepare.outputs.video_id }}.mp4
+            outputs/captions/${{ needs.prepare.outputs.video_id }}.srt
+            outputs/thumbnails/${{ needs.prepare.outputs.video_id }}.png
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Upload debug artifacts on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: long-failure-${{ github.run_id }}
+          path: |
+            logs/
+            outputs/final/
+            outputs/images/
+            outputs/voiceovers/
+            outputs/captions/
+          if-no-files-found: ignore
+          retention-days: 7

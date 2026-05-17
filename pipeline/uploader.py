@@ -156,3 +156,56 @@ def update_privacy(youtube_video_id: str, privacy_status: str) -> None:
         body={"id": youtube_video_id, "status": {"privacyStatus": privacy_status}},
     ).execute()
     logger.info(f"privacy update: {youtube_video_id} -> {privacy_status}")
+
+
+def upload_caption(
+    youtube_video_id: str,
+    srt_path: Path,
+    language: str = "en",
+    name: str = "English",
+) -> str:
+    """Attach an SRT caption track to an existing video via captions.insert.
+
+    Long-form videos rely on this for accessibility (YouTube boosts videos
+    with a real CC track in recommendations). Returns the caption resource id.
+    Requires the `youtube.force-ssl` scope which is already in YT_SCOPES.
+    """
+    if not srt_path.exists():
+        raise FileNotFoundError(srt_path)
+    creds = _credentials()
+    youtube = build("youtube", "v3", credentials=creds, cache_discovery=False)
+
+    body = {
+        "snippet": {
+            "videoId": youtube_video_id,
+            "language": language,
+            "name": name,
+            "isDraft": False,
+        }
+    }
+    media = MediaFileUpload(
+        str(srt_path), mimetype="application/octet-stream", resumable=False
+    )
+    logger.info(f"caption upload start: {srt_path.name} -> video {youtube_video_id}")
+    response = youtube.captions().insert(
+        part="snippet", body=body, media_body=media
+    ).execute()
+    caption_id = response["id"]
+    logger.info(f"caption upload OK: id={caption_id}")
+    return caption_id
+
+
+def set_thumbnail(youtube_video_id: str, thumbnail_path: Path) -> None:
+    """Set a custom thumbnail on an existing video via thumbnails.set.
+
+    YouTube requires the channel to be verified to use custom thumbnails.
+    File must be ≤ 2 MB; we generate at PNG ~150-400 KB so we're well under.
+    """
+    if not thumbnail_path.exists():
+        raise FileNotFoundError(thumbnail_path)
+    creds = _credentials()
+    youtube = build("youtube", "v3", credentials=creds, cache_discovery=False)
+    media = MediaFileUpload(str(thumbnail_path), mimetype="image/png", resumable=False)
+    logger.info(f"thumb upload start: {thumbnail_path.name} -> video {youtube_video_id}")
+    youtube.thumbnails().set(videoId=youtube_video_id, media_body=media).execute()
+    logger.info(f"thumb upload OK")

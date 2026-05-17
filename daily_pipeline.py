@@ -158,8 +158,8 @@ def main(
     else:
         logger.info("  instagram: credentials not set — skipping Instagram upload")
 
-    from make_video import main as render_main
-    render_main(
+    from make_video import render as render_video
+    render_video(
         script_path=script_path,
         upload=not no_upload,
         privacy=privacy,

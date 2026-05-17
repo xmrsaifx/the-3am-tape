@@ -40,6 +40,8 @@ IMAGES_DIR = OUTPUT_DIR / "images"
 VOICEOVERS_DIR = OUTPUT_DIR / "voiceovers"
 FINAL_DIR = OUTPUT_DIR / "final"
 STATS_DIR = OUTPUT_DIR / "stats"
+CAPTIONS_DIR = OUTPUT_DIR / "captions"
+THUMBNAILS_DIR = OUTPUT_DIR / "thumbnails"
 
 LOGS_DIR = PROJECT_ROOT / "logs"
 
@@ -56,6 +58,18 @@ SCENES_PER_VIDEO = 12
 SCENE_DURATION_SECONDS = 7
 SHORT_TARGET_DURATION_SECONDS = 90   # our target sweet spot
 SHORT_MAX_DURATION_SECONDS = 180     # hard cap before YouTube classifies as regular video
+
+# Long-form (horizontal 16:9) — see LONG_FORM.md for full spec.
+LONG_VIDEO_WIDTH = 1920
+LONG_VIDEO_HEIGHT = 1080
+LONG_AUDIO_BITRATE = "192k"   # bump from Shorts' 128k for lean-back listening
+LONG_MIN_DURATION_SECONDS = 480   # 8:00 — YouTube mid-roll-ads eligibility threshold
+LONG_TARGET_DURATION_SECONDS = 600   # 10:00 — the sweet spot
+
+# Thumbnail (YouTube long-form). Shorts use auto-picked thumbs; long-form needs
+# a custom 1280x720 thumbnail for CTR (single biggest lever on long-form views).
+THUMBNAIL_WIDTH = 1280
+THUMBNAIL_HEIGHT = 720
 
 # Need a full ffmpeg with libfreetype for drawtext/captions.
 FFMPEG_BIN = os.getenv("FFMPEG_BIN", "/usr/local/opt/ffmpeg-full/bin/ffmpeg")

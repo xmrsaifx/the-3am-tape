@@ -30,7 +30,7 @@ from typing import Iterable
 import requests
 from PIL import Image, ImageFilter
 
-from config.settings import IMAGES_DIR, VIDEO_HEIGHT, VIDEO_WIDTH
+from config.settings import IMAGES_DIR, LONG_VIDEO_HEIGHT, LONG_VIDEO_WIDTH, VIDEO_HEIGHT, VIDEO_WIDTH
 from pipeline.logger import get_logger
 
 logger = get_logger("image_generator")
@@ -130,6 +130,42 @@ def generate_scene_image(
     return dest
 
 
+def _generate_one_with_retry(
+    prompt: str, dest: Path, base_seed: int, width: int, height: int, label: str,
+) -> None:
+    """Render one image to `dest` with the standard Pollinations retry/backoff
+    schedule. `label` is used purely for logging ("scene 3" or "section 02 image 04")."""
+    attempts = 0
+    while True:
+        attempts += 1
+        model = (
+            MODEL_FALLBACK if attempts in ATTEMPTS_USING_FALLBACK_MODEL
+            else MODEL_PRIMARY
+        )
+        seed_for_attempt = base_seed + (attempts - 1) * 1000
+        try:
+            generate_scene_image(
+                prompt, seed=seed_for_attempt, dest=dest,
+                width=width, height=height, model=model,
+            )
+            if dest.stat().st_size < 5_000:
+                raise RuntimeError(f"image too small: {dest.stat().st_size} bytes")
+            logger.info(f"{label}: saved ({dest.stat().st_size:,} bytes)")
+            return
+        except Exception as e:
+            logger.warning(
+                f"{label} attempt {attempts}/{MAX_ATTEMPTS_PER_SCENE} failed: {e}"
+            )
+            dest.unlink(missing_ok=True)
+            if attempts >= MAX_ATTEMPTS_PER_SCENE:
+                raise
+            base = BACKOFF_SECONDS[min(attempts - 1, len(BACKOFF_SECONDS) - 1)]
+            jitter = random.uniform(-BACKOFF_JITTER_SECONDS, BACKOFF_JITTER_SECONDS)
+            wait = max(5, base + jitter)
+            logger.info(f"  backoff: sleep {wait:.0f}s before retry")
+            time.sleep(wait)
+
+
 def generate_for_video(
     video_id: str,
     scenes: Iterable[dict],
@@ -137,68 +173,86 @@ def generate_for_video(
     width: int | None = None,
     height: int | None = None,
 ) -> list[Path]:
-    """Generate one image per scene; return ordered list of saved paths.
-
-    width/height default to the Shorts dimensions (1080x1920). Pass 1920x1080
-    for 16:9 long-form. Aspect framing is also influenced by the per-scene
-    image_prompt (include "horizontal widescreen comic panel composition" for
-    long-form scenes so Pollinations frames characters correctly).
-    """
+    """Shorts: one image per scene; return ordered list of saved paths."""
     target_w = width or VIDEO_WIDTH
     target_h = height or VIDEO_HEIGHT
     out_dir = IMAGES_DIR / video_id
     out_dir.mkdir(parents=True, exist_ok=True)
     paths: list[Path] = []
-    scene_index = 0
+    api_call_count = 0
     for scene in scenes:
         idx = scene["id"]
         dest = out_dir / f"scene_{idx:02d}.png"
 
-        # Cached → skip pacing too (no API call happened)
         if dest.exists() and dest.stat().st_size > 0:
             logger.info(f"scene {idx}: cached at {dest}")
             paths.append(dest)
-            scene_index += 1
             continue
 
-        # Polite pacing between actual API hits — be a good citizen of the
-        # free tier so Pollinations doesn't flag us as a burst caller.
-        if scene_index > 0:
+        if api_call_count > 0:
             logger.info(f"  pacing: sleep {POLITE_DELAY_BETWEEN_SCENES}s before scene {idx}")
             time.sleep(POLITE_DELAY_BETWEEN_SCENES)
 
-        attempts = 0
-        while True:
-            attempts += 1
-            # Try `turbo` model on middle attempts — different queue from `flux`
-            model = (
-                MODEL_FALLBACK if attempts in ATTEMPTS_USING_FALLBACK_MODEL
-                else MODEL_PRIMARY
-            )
-            # Mutate seed slightly on retry — bypasses any URL-level cache that
-            # might still be returning the previous 429 response.
-            seed_for_attempt = seed + idx + (attempts - 1) * 1000
-            try:
-                generate_scene_image(
-                    scene["image_prompt"], seed=seed_for_attempt, dest=dest,
-                    width=target_w, height=target_h, model=model,
-                )
-                if dest.stat().st_size < 5_000:
-                    raise RuntimeError(f"image too small: {dest.stat().st_size} bytes")
-                logger.info(f"scene {idx}: saved ({dest.stat().st_size:,} bytes)")
-                paths.append(dest)
-                break
-            except Exception as e:
-                logger.warning(
-                    f"scene {idx} attempt {attempts}/{MAX_ATTEMPTS_PER_SCENE} failed: {e}"
-                )
-                dest.unlink(missing_ok=True)
-                if attempts >= MAX_ATTEMPTS_PER_SCENE:
-                    raise
-                base = BACKOFF_SECONDS[min(attempts - 1, len(BACKOFF_SECONDS) - 1)]
-                jitter = random.uniform(-BACKOFF_JITTER_SECONDS, BACKOFF_JITTER_SECONDS)
-                wait = max(5, base + jitter)
-                logger.info(f"  backoff: sleep {wait:.0f}s before retry")
-                time.sleep(wait)
-        scene_index += 1
+        _generate_one_with_retry(
+            scene["image_prompt"], dest, base_seed=seed + idx,
+            width=target_w, height=target_h, label=f"scene {idx}",
+        )
+        paths.append(dest)
+        api_call_count += 1
     return paths
+
+
+def generate_for_long_video(
+    video_id: str,
+    sections: Iterable[dict],
+    seed: int = 42,
+    width: int | None = None,
+    height: int | None = None,
+    section_filter: int | None = None,
+) -> dict[int, list[Path]]:
+    """Long-form: N images per section, named section_NN_image_NN.png.
+
+    Returns {section_id: [path1, path2, ...]} sorted by section_id. When
+    `section_filter` is set, only that one section is rendered — used by matrix
+    shards so one job handles one section's 4-8 images. When None, iterates
+    all sections (cached entries are returned without re-rendering, which is
+    how the assemble job recollects everything from downloaded artifacts).
+    """
+    target_w = width or LONG_VIDEO_WIDTH
+    target_h = height or LONG_VIDEO_HEIGHT
+    out_dir = IMAGES_DIR / video_id
+    out_dir.mkdir(parents=True, exist_ok=True)
+    result: dict[int, list[Path]] = {}
+    api_call_count = 0
+    for section in sections:
+        sec_id = section["id"]
+        if section_filter is not None and sec_id != section_filter:
+            continue
+        prompts = section.get("image_prompts") or []
+        if not prompts:
+            raise ValueError(f"section {sec_id} has no image_prompts")
+        section_paths: list[Path] = []
+        for img_idx, prompt in enumerate(prompts, start=1):
+            dest = out_dir / f"section_{sec_id:02d}_image_{img_idx:02d}.png"
+            if dest.exists() and dest.stat().st_size > 0:
+                logger.info(f"section {sec_id} image {img_idx}: cached at {dest}")
+                section_paths.append(dest)
+                continue
+            if api_call_count > 0:
+                logger.info(
+                    f"  pacing: sleep {POLITE_DELAY_BETWEEN_SCENES}s "
+                    f"before section {sec_id} image {img_idx}"
+                )
+                time.sleep(POLITE_DELAY_BETWEEN_SCENES)
+            # Unique base seed across (section, image) so reruns are deterministic
+            # and different prompts don't collide on identical seeds.
+            base_seed = seed + sec_id * 100 + img_idx
+            _generate_one_with_retry(
+                prompt, dest, base_seed=base_seed,
+                width=target_w, height=target_h,
+                label=f"section {sec_id} image {img_idx}",
+            )
+            section_paths.append(dest)
+            api_call_count += 1
+        result[sec_id] = section_paths
+    return dict(sorted(result.items()))
