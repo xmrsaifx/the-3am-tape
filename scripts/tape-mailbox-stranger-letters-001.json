@@ -1,0 +1,68 @@
+{
+  "video_id": "tape-mailbox-stranger-letters-001",
+  "character": "narrator",
+  "topic": "My mailbox keeps getting letters addressed to people who never lived at my address",
+  "title": "Letters In My Mailbox Are Addressed To People Who Never Lived Here | True Scary Story",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "There were three letters in my mailbox yesterday. None of those names had ever lived at my address.",
+      "image_prompt": "close shot of three yellowed envelopes resting inside a metal apartment mailbox, dim hallway light behind, the apartment number panel partially visible, dust along the envelope edges, low angle composition, vertical 9:16 framing"
+    },
+    {
+      "id": 2,
+      "narration": "I have rented the same apartment for eleven years.",
+      "image_prompt": "long view down an empty apartment hallway at dusk, identical brown doors lining both walls, a mailbox bank at the near end, single fluorescent strip humming overhead, vertical 9:16 framing"
+    },
+    {
+      "id": 3,
+      "narration": "I know every neighbor on my floor.",
+      "image_prompt": "a row of brass apartment mailboxes labeled with handwritten name cards, slightly dusty, late evening light from a window at the end of the lobby, vertical 9:16 framing"
+    },
+    {
+      "id": 4,
+      "narration": "The first letter was addressed to a woman. The postmark was nineteen sixty seven.",
+      "image_prompt": "a single weathered envelope held by a hand, brown paper, faded blue ink address, partial round postmark visible in the corner, dim apartment hallway out of focus behind, vertical 9:16 framing"
+    },
+    {
+      "id": 5,
+      "narration": "I almost laughed.",
+      "image_prompt": "a man's hand frozen above an open envelope on a kitchen table, late evening lamp light, the rest of the kitchen in shadow, vertical 9:16 framing"
+    },
+    {
+      "id": 6,
+      "narration": "Then I read the next two. Same handwriting. Different decades.",
+      "image_prompt": "two more envelopes laid side by side on a wooden kitchen table, both showing the same handwriting in different ink colors, ambient lamp light, vertical 9:16 framing"
+    },
+    {
+      "id": 7,
+      "narration": "I called the post office.",
+      "image_prompt": "a corded phone receiver held against an ear, kitchen wall behind with faded floral wallpaper, late evening lamp light, vertical 9:16 framing"
+    },
+    {
+      "id": 8,
+      "narration": "They had no record of any of them.",
+      "image_prompt": "closeup of a hand pressing the disconnect button on a cordless phone resting on a kitchen counter, dim ambient light, vertical 9:16 framing"
+    },
+    {
+      "id": 9,
+      "narration": "That night I checked my mailbox again. There were four more.",
+      "image_prompt": "open metal apartment mailbox at night, multiple envelopes packed inside, porch light dimly illuminating the slot, brick wall behind, vertical 9:16 framing"
+    },
+    {
+      "id": 10,
+      "narration": "The newest letter was addressed to me. The postmark read two thousand and forty one.",
+      "image_prompt": "closeup of an envelope addressed in faded ink with a round postmark stamped in red, held in a slightly trembling hand, dim kitchen lighting, vertical 9:16 framing"
+    },
+    {
+      "id": 11,
+      "narration": "I have not opened it.",
+      "image_prompt": "an unopened envelope sitting alone on a wooden side table, single lamp casting an amber pool of light, the rest of the room dark, vertical 9:16 framing"
+    },
+    {
+      "id": 12,
+      "narration": "My mailbox has been locked for nine days. The letters keep arriving anyway.",
+      "image_prompt": "a padlocked metal mailbox at night, a thin pile of envelopes visibly jammed into the slot, porch light off, only streetlight illumination, vertical 9:16 framing"
+    }
+  ]
+}
