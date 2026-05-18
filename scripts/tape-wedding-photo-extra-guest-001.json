@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-wedding-photo-extra-guest-001",
+  "character": "narrator",
+  "topic": "A man has been appearing in my parents wedding photos over the last year moving closer to my father each scan",
+  "title": "A Man Has Been Appearing in My Parents Wedding Photos and Moving Closer to My Father Each Year | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a man in my parents wedding photos. Last year there was no man.", "image_prompt": "close shot of an open photo album on a kitchen table showing a faded wedding photograph in plastic sleeves, dim warm dining room lamp, vertical 9:16 framing"},
+    {"id": 2, "narration": "Their fortieth anniversary. We were sorting old albums for a slideshow.", "image_prompt": "wide shot of multiple photo albums stacked on a dining room table, scrapbooks open, an old slide projector on a side table, late afternoon light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I am scanning them. One by one.", "image_prompt": "close detail of a hand turning a thick photo album page, the plastic sleeves crinkling, sepia toned photographs visible, vertical 9:16 framing"},
+    {"id": 4, "narration": "Album three. Reception photo. A man at the back I did not recognize.", "image_prompt": "close shot of an eighties wedding reception photograph in a plastic sleeve, a long table of family members visible, a single unfamiliar figure at the back, vertical 9:16 framing"},
+    {"id": 5, "narration": "Asked my mother. She did not know him.", "image_prompt": "close shot of an elderly woman's hands flipping through a photo album on a kitchen counter, no face visible, dim afternoon light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Checked album one. Same man at the ceremony. I had scanned that photo last year.", "image_prompt": "wide shot of a kitchen counter with an open laptop showing a digital scan beside the open physical photo album, dim kitchen light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Pulled my backup from last June.", "image_prompt": "close shot of a portable external hard drive plugged into a laptop, a file backup interface visible on the screen, dim home office, vertical 9:16 framing"},
+    {"id": 8, "narration": "Same album. Same page. No man.", "image_prompt": "close detail of two side by side photo scans on a laptop screen, one with a figure circled in red, the other without, vertical 9:16 framing"},
+    {"id": 9, "narration": "Compared each scan. He has been moving forward across the photos.", "image_prompt": "close shot of a printed photo timeline laid out across a coffee table, a figure circled in increasing positions across multiple photographs, vertical 9:16 framing"},
+    {"id": 10, "narration": "In the most recent scan he is standing next to my father at the altar.", "image_prompt": "close detail of a wedding altar photograph, two figures standing closely together at the front, one of them slightly out of focus, vertical 9:16 framing"},
+    {"id": 11, "narration": "My father has been dead eleven years.", "image_prompt": "close shot of a framed sepia portrait on a fireplace mantel showing a man in an eighties suit, dim ambient lamp light, vertical 9:16 framing"},
+    {"id": 12, "narration": "In the next scan, the man will be closer than my father.", "image_prompt": "close shot of an unopened photo album on a desk beside a closed laptop, the album cover slightly raised as if waiting to be opened, vertical 9:16 framing"}
+  ]
+}

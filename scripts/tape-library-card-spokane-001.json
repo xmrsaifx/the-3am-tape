@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-library-card-spokane-001",
+  "character": "narrator",
+  "topic": "My library card has been checking out books for two years in a city I have never visited",
+  "title": "My Library Card Has Been Checking Out Books for Two Years in a City I Have Never Visited | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My library card has been checking out books in a city I have never visited.", "image_prompt": "close shot of a worn plastic library card with a barcode held over a wooden table, soft afternoon light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Public library card. Issued in Portland twelve years ago.", "image_prompt": "close shot of an old style public library card with a barcode on a tan kitchen counter, dim afternoon light through a window, vertical 9:16 framing"},
+    {"id": 3, "narration": "I use it twice a year. Maybe three.", "image_prompt": "close detail of a personal day planner showing a date circled with the word LIBRARY, dim desk lamp light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Got an overdue notice last month. Twenty seven dollars.", "image_prompt": "close shot of a paper overdue notice from a public library with a printed total of twenty seven dollars on a kitchen counter, vertical 9:16 framing"},
+    {"id": 5, "narration": "I had not borrowed anything in months.", "image_prompt": "wide shot of a person's hands holding a paper notice with text obscured, dim home office light, no face visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "The notice was from the Spokane Valley public library system.", "image_prompt": "close detail of the top of an overdue notice envelope showing Spokane Valley Public Library in printed text, vertical 9:16 framing"},
+    {"id": 7, "narration": "Logged into the portal. Pulled my checkout history.", "image_prompt": "close shot of a laptop screen showing a library web portal login page, a cursor in the username field, dim home office, vertical 9:16 framing"},
+    {"id": 8, "narration": "Two years of borrowing in Spokane Valley. Every two weeks. All missing persons books.", "image_prompt": "close detail of a digital library checkout history list on a laptop screen, dozens of titles in chronological order, the word missing repeated, vertical 9:16 framing"},
+    {"id": 9, "narration": "Called the branch. They had video. Someone checks out the books every other Saturday.", "image_prompt": "wide interior of a quiet small town public library at dusk, rows of stacks visible, a security camera mounted on the ceiling, no people, vertical 9:16 framing"},
+    {"id": 10, "narration": "Librarian sent me the photo. Same coat. Same height. Hood up.", "image_prompt": "close shot of a grainy printed photograph of a person at a self checkout kiosk wearing a hooded jacket with the hood up, only the back of the head visible, vertical 9:16 framing"},
+    {"id": 11, "narration": "I cancelled the card. Got a new one.", "image_prompt": "close shot of cut plastic library card halves on a kitchen counter, scissors visible nearby, vertical 9:16 framing"},
+    {"id": 12, "narration": "The new card was used the next Saturday in Spokane Valley.", "image_prompt": "close shot of a new white plastic library card on a kitchen table, the barcode visible, soft morning kitchen light, vertical 9:16 framing"}
+  ]
+}

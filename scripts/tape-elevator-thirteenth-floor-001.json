@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-elevator-thirteenth-floor-001",
+  "character": "narrator",
+  "topic": "My building's elevator stops at floor thirteen every Thursday at seven PM but there is no thirteenth floor",
+  "title": "My Building's Elevator Stops at Floor 13 Every Thursday at 7 PM But There Is No 13th Floor | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is no thirteenth floor in my building. My elevator stops there every Thursday at seven.", "image_prompt": "close shot of an old brass elevator floor button panel with the number thirteen visible but unlit, dim ceiling bulb overhead, vertical 9:16 framing"},
+    {"id": 2, "narration": "Twelve story walk up in Chicago. Lived here three years.", "image_prompt": "wide exterior of a twelve story brick apartment building in Chicago at dusk, fire escapes on the facade, scattered window lights, vertical 9:16 framing"},
+    {"id": 3, "narration": "Elevator goes one through twelve. Up. Down.", "image_prompt": "close detail of an elevator interior brushed metal button panel showing floors one through twelve in a column, dim ambient cab light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Last March I was riding home. Thursday. Just after seven.", "image_prompt": "close shot of an elevator wall mounted digital floor indicator showing seven oh four PM, ambient overhead light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Doors opened on a floor that does not exist.", "image_prompt": "wide interior of an apartment hallway viewed through opening elevator doors, identical carpet and wallpaper extending into shadow, no people, vertical 9:16 framing"},
+    {"id": 6, "narration": "Hallway looked like mine. Same carpet. Same wallpaper. The door numbers were wrong.", "image_prompt": "close detail of a hallway wall showing two adjacent door numbers, neither familiar, dim hallway sconce light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Tried again the next Thursday. Stood inside.", "image_prompt": "close shot of a hand pressing an elevator button at hip height, only the hand visible, dim cab interior, vertical 9:16 framing"},
+    {"id": 8, "narration": "Seven oh four. Buttons three and seven both lit. Doors opened on thirteen.", "image_prompt": "close detail of an elevator button panel with two buttons illuminated simultaneously, glow visible through dim cab interior, vertical 9:16 framing"},
+    {"id": 9, "narration": "Asked the doorman. He said the building has never had a thirteenth floor.", "image_prompt": "wide shot of a uniformed doorman seen from behind at a wood paneled front desk, his hand on a leather log book, no face visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week I stepped out. The numbers on the doors counted up to mine.", "image_prompt": "wide interior of a long apartment hallway counting up to a final door at the end, numbers visible on each side, no people, vertical 9:16 framing"},
+    {"id": 11, "narration": "There was someone moving inside my unit.", "image_prompt": "close shot of a brass apartment door knob and peephole, no figure visible behind the peephole, soft hallway light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I have been taking the stairs since.", "image_prompt": "wide interior of a building stairwell with bare concrete steps descending into shadow, single fluorescent fixture, no people, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-house-number-forty-eight-001",
+  "character": "narrator",
+  "topic": "The houses on my street go from forty seven to forty nine and nobody remembers a forty eight ever existing",
+  "title": "Houses on My Street Skip from 47 to 49 and Nobody Remembers a 48 Ever Existing | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Houses on my block jump from forty seven to forty nine. Nobody remembers a forty eight.", "image_prompt": "wide shot of a residential cul de sac at dusk, five houses visible with numbered mailboxes, the lawn between two houses notably empty, vertical 9:16 framing"},
+    {"id": 2, "narration": "Quiet cul de sac. Five houses. I have lived here twelve years.", "image_prompt": "wide exterior of a quiet suburban cul de sac in mid afternoon, neat lawns and brick mailboxes, no people or cars, vertical 9:16 framing"},
+    {"id": 3, "narration": "Forty five. Forty seven. Forty nine. Fifty one.", "image_prompt": "close detail of three mailboxes side by side on metal posts, numbered forty five, forty seven, and forty nine, dim ambient daylight, vertical 9:16 framing"},
+    {"id": 4, "narration": "Property tax bill came addressed to forty eight Hawthorn Street.", "image_prompt": "close shot of an opened envelope with a property tax assessment letter on a kitchen counter, the address line showing 48 Hawthorn Street, vertical 9:16 framing"},
+    {"id": 5, "narration": "Took it to the assessor. Asked them.", "image_prompt": "wide shot of a county assessor office desk, a clerk seen from behind, a thick paper records book open, vertical 9:16 framing"},
+    {"id": 6, "narration": "She found a record. Forty eight Hawthorn was built nineteen sixty two.", "image_prompt": "close detail of an aged property record book page showing typewritten entries with a nineteen sixty two construction date for forty eight Hawthorn, vertical 9:16 framing"},
+    {"id": 7, "narration": "Drove home. Walked the block. Counted.", "image_prompt": "wide shot of a person's lower legs walking along a residential sidewalk past mailboxes in afternoon light, no face visible, vertical 9:16 framing"},
+    {"id": 8, "narration": "Five houses. No forty eight. Empty lawn between forty seven and forty nine.", "image_prompt": "wide shot of two adjacent residential lots side by side, one with a house and one with only mowed grass and no driveway, late afternoon light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Asked the neighbors. None of them remembered a house ever standing there.", "image_prompt": "wide shot of two neighbors talking over a fence in afternoon light, both seen from behind, no faces visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "Old aerial photos show a sixth house. The space between is empty grass now.", "image_prompt": "close detail of an old black and white aerial photograph of a residential block, six houses clearly visible, an arrow drawn on the photo pointing to one, vertical 9:16 framing"},
+    {"id": 11, "narration": "Last week the mail carrier knocked on my door.", "image_prompt": "wide exterior of a suburban front porch with a person in a postal service uniform seen from behind knocking on the door, a parcel in their other hand, vertical 9:16 framing"},
+    {"id": 12, "narration": "He had a package addressed to forty eight Hawthorn. He asked who lived there.", "image_prompt": "close detail of a cardboard package addressed in marker to 48 Hawthorn Street sitting on a wooden porch railing, no people visible, vertical 9:16 framing"}
+  ]
+}
