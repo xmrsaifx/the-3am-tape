@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-thermostat-three-fourteen-001",
+  "character": "narrator",
+  "topic": "My thermostat resets itself to sixty eight every night at exactly three fourteen AM",
+  "title": "My Thermostat Resets Itself to 68 Every Night at Exactly 3:14 AM | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My thermostat resets itself to sixty eight degrees every night at exactly three fourteen AM.", "image_prompt": "close shot of an old brass round wall thermostat with a mercury dial pointed at sixty eight degrees, dim wall paint behind, nighttime ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Old house. Cape Cod. Bought it last fall. No smart home anything.", "image_prompt": "wide exterior of a single story Cape Cod house at dusk in late autumn, bare trees in the yard, one window lit, no cars in the driveway, vertical 9:16 framing"},
+    {"id": 3, "narration": "Brass dial. Mercury. Manual.", "image_prompt": "close detail of a vintage round mechanical thermostat on a hallway wall, brass dial centered, dim hallway lamp light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First noticed it in November. Cold woke me up. Dial sitting at sixty eight.", "image_prompt": "close shot of a bedside alarm clock showing three fifteen AM in red digital numerals, a corner of a quilted blanket visible at the edge of frame, vertical 9:16 framing"},
+    {"id": 5, "narration": "Set it back. Went to sleep.", "image_prompt": "close shot of a hand reaching toward the brass dial of a wall thermostat in dim light, only the hand visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "Woke at three fifteen AM. Cold again. Dial at sixty eight again.", "image_prompt": "close shot of the same brass thermostat dial showing sixty eight degrees, viewed from a low angle in dim early morning light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Stayed up the next night. Watched it.", "image_prompt": "wide interior of a darkened hallway at night, a small distant glow from a bedside lamp at the far end, no figures visible, vertical 9:16 framing"},
+    {"id": 8, "narration": "Three fourteen. The dial turned itself. No one was near it.", "image_prompt": "close detail of the brass mechanical thermostat dial visibly mid rotation, no hand on it, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Hired an electrician. He said no mechanism in there can do that.", "image_prompt": "medium shot of an electrician's hands holding a multimeter against the back of a removed thermostat plate, exposed wiring visible, dim workshop light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Checked county records. The previous owner died here. Hypothermia. February.", "image_prompt": "close detail of a yellowed paper document on a kitchen table, an old fountain pen lying across it, only the corner visible, vertical 9:16 framing"},
+    {"id": 11, "narration": "Police report said the heat had been set to sixty eight.", "image_prompt": "close detail of a typed police report page partially obscured, low desk lamp light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I keep mine at seventy two. Every morning at three fifteen it is sixty eight.", "image_prompt": "close shot of the brass thermostat at three fifteen AM showing sixty eight degrees, a blurred bedroom doorway visible in the background, no figures, vertical 9:16 framing"}
+  ]
+}

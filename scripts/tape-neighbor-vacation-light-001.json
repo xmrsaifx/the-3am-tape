@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-neighbor-vacation-light-001",
+  "character": "narrator",
+  "topic": "My neighbors are in Greece but their kitchen light turns on every night at two forty seven AM",
+  "title": "My Neighbors Are on Vacation but Their Kitchen Light Still Turns On Every Night at 2:47 AM | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My neighbors are in Greece. Their kitchen light still turns on every night at two forty seven AM.", "image_prompt": "wide exterior of two suburban houses across a street at night, the far house with a single warm kitchen window lit, viewed from inside the opposite house's second floor window, vertical 9:16 framing"},
+    {"id": 2, "narration": "Their kitchen faces my bedroom window. I see it every night.", "image_prompt": "close shot from a bedroom window at night, parted lace curtains, a neighbor's kitchen window glowing softly across the street, vertical 9:16 framing"},
+    {"id": 3, "narration": "I have insomnia. I am up.", "image_prompt": "close shot of a bedside alarm clock showing two forty seven AM in red digital numerals, dim ambient bedroom light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First saw it last week. Two forty seven. Kitchen light on. Empty house.", "image_prompt": "wide shot of a darkened suburban street at night, all houses dark except one with a single kitchen window glowing, no cars or people, vertical 9:16 framing"},
+    {"id": 5, "narration": "Called them. Voicemail. Twelve hours behind.", "image_prompt": "close shot of a smartphone screen showing a voicemail recording interface with a Greek international dialing code visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "Watched it the next night. Same time. Light came on. Stayed nine minutes.", "image_prompt": "close shot of a hand holding a smartphone recording video through a bedroom window aimed at a glowing kitchen window across the street, vertical 9:16 framing"},
+    {"id": 7, "narration": "Walked over Sunday. Checked the door.", "image_prompt": "close shot of a residential front porch in afternoon light, a stack of unopened mail and packages piled near the door, no movement, vertical 9:16 framing"},
+    {"id": 8, "narration": "Locked. Mail piled up to the slot. Nobody had been there in months.", "image_prompt": "close shot of a residential front door with a brass knob, an arm reaching toward the handle from behind, only the hand visible, vertical 9:16 framing"},
+    {"id": 9, "narration": "Set up my phone camera at my window. Recorded the kitchen.", "image_prompt": "close shot of a smartphone mounted on a small tripod aimed out a bedroom window, the screen showing live recording mode with timestamp overlay, vertical 9:16 framing"},
+    {"id": 10, "narration": "Light came on at two forty seven. Someone moved past the kitchen window.", "image_prompt": "close shot of a smartphone video playback frame showing a kitchen window from across a dark street, a vague humanoid shape silhouetted behind sheer curtains, vertical 9:16 framing"},
+    {"id": 11, "narration": "My neighbors come home Friday.", "image_prompt": "wide exterior of a suburban driveway in afternoon light, a parked sedan with luggage visible through the rear window, vertical 9:16 framing"},
+    {"id": 12, "narration": "I have not told them. I have not decided if I should.", "image_prompt": "close shot from behind a curtain at a darkened bedroom window, the kitchen across the street still glowing softly, vertical 9:16 framing"}
+  ]
+}

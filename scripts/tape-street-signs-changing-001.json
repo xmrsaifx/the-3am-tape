@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-street-signs-changing-001",
+  "character": "narrator",
+  "topic": "The street signs on my block have been changing letter by letter for three months",
+  "title": "The Street Signs on My Block Have Been Changing One Letter at a Time for Three Months | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The street signs on my block change one letter every week. I have photos.", "image_prompt": "close shot of a green metal street sign on a residential corner showing white reflective letters reading MAPLE LADE, mounted on a city pole, overcast sky, vertical 9:16 framing"},
+    {"id": 2, "narration": "Maple Lane. Or it was. The sign now says Maple Lade.", "image_prompt": "wide shot of a quiet suburban residential street in early morning, single story houses, a green street sign visible at the corner, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I walk it every morning. Same route.", "image_prompt": "wide shot of a sidewalk with a person's lower legs and walking shoes mid stride, a long morning shadow cast on the concrete, no face visible, vertical 9:16 framing"},
+    {"id": 4, "narration": "First it read Mople. Thought it was vandalism. Photographed it. Moved on.", "image_prompt": "close shot of a phone screen displaying a saved photograph of a street sign reading MOPLE LANE, the phone held at desk height, vertical 9:16 framing"},
+    {"id": 5, "narration": "Next week it read Mople Lade.", "image_prompt": "close detail of a green metal street sign with white reflective letters reading MOPLE LADE, the metal surface unblemished, no signs of scratching, vertical 9:16 framing"},
+    {"id": 6, "narration": "The letters had not been scratched. The metal was original. The change was clean.", "image_prompt": "close shot of weathered street sign metal under daylight, the lettering crisp and original looking, no graffiti or paint damage, vertical 9:16 framing"},
+    {"id": 7, "narration": "Asked my neighbors. Nobody noticed.", "image_prompt": "wide shot of two neighbors talking in a driveway in afternoon light, both seen from behind, no faces visible, the street sign visible in the distance, vertical 9:16 framing"},
+    {"id": 8, "narration": "Pulled delivery records. Amazon has been shipping to Mople Lade for two weeks.", "image_prompt": "close shot of a desktop monitor showing an order confirmation page with an obscured address line reading MOPLE LADE, dim home office light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Google Street View archive still says Maple Lane. Today it says Mople Lade too.", "image_prompt": "close shot of a laptop screen displaying Google Street View at a residential intersection, the archive timeline slider visible at the bottom of the screen, vertical 9:16 framing"},
+    {"id": 10, "narration": "Friday the sign read Mople Lade. Monday it reads Mople Made. I have not been outside.", "image_prompt": "close shot of a green street sign reading MOPLE MADE at dusk, the corner street pole prominent, slightly out of focus background, vertical 9:16 framing"},
+    {"id": 11, "narration": "My mailbox has letters addressed to that name now.", "image_prompt": "close shot of a metal residential mailbox half open with envelopes spilling out, the addresses partially visible, late afternoon light, vertical 9:16 framing"},
+    {"id": 12, "narration": "One letter left to change. I do not want to know the final word.", "image_prompt": "close shot of a green street sign at twilight reading MOPLE MADE, the final letter slightly blurred as if mid transformation, vertical 9:16 framing"}
+  ]
+}

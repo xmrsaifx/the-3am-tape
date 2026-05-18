@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-receipt-wrong-items-001",
+  "character": "narrator",
+  "topic": "My grocery receipt listed items I never bought at prices from twenty years ago",
+  "title": "My Grocery Receipt Listed Items I Never Bought at Prices from Twenty Years Ago | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My grocery receipt listed six items I never put in my cart. The prices were not from this decade.", "image_prompt": "close shot of a long thermal printed grocery receipt held in a hand against a self checkout terminal background, supermarket overhead light, blurred store aisles visible, vertical 9:16 framing"},
+    {"id": 2, "narration": "Kroger on Maple Avenue. Tuesday night. Self checkout. Nobody else in the store.", "image_prompt": "wide interior of a Kroger supermarket at night, fluorescent ceiling lights, empty long aisles, a row of self checkout terminals at the front, no people visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "Bread. Milk. Eggs.", "image_prompt": "close shot of a paper grocery bag opened on a self checkout counter, a loaf of bread, a gallon of milk and a carton of eggs visible inside, fluorescent overhead, vertical 9:16 framing"},
+    {"id": 4, "narration": "Receipt had Beechnut gum. Tab Cola. Items off shelves twenty years.", "image_prompt": "close detail shot of a thermal printed receipt unrolled showing faded line items in old fashioned typeface, low contrast printer output, vertical 9:16 framing"},
+    {"id": 5, "narration": "Checked my bag. Just the three.", "image_prompt": "close shot of a paper grocery bag opened on a kitchen counter at home, three items visible inside, dim late night kitchen lighting, vertical 9:16 framing"},
+    {"id": 6, "narration": "But the receipt showed sixty four dollars charged. I had paid for twelve.", "image_prompt": "close detail shot of the bottom of a thermal receipt showing a printed total of sixty four dollars, partially curled, fluorescent overhead light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Drove back to the store. Showed it.", "image_prompt": "wide shot of a Kroger customer service counter at night, an arm extending a receipt across the counter, no faces shown, vertical 9:16 framing"},
+    {"id": 8, "narration": "Manager said those prices have not been valid since nineteen ninety four.", "image_prompt": "close shot of a printed price chart from the nineteen nineties pinned to a corkboard, the receipt held next to it for comparison, vertical 9:16 framing"},
+    {"id": 9, "narration": "He pulled camera footage. The checkout was empty the entire hour I was there.", "image_prompt": "close shot of a black and white security monitor showing an empty self checkout aisle from above, timestamp overlay visible, no figures, vertical 9:16 framing"},
+    {"id": 10, "narration": "On the receipt at the bottom. Cashier ID. The name was mine.", "image_prompt": "close detail shot of the bottom of a thermal receipt showing a cashier ID line with a name printed clearly, blurred receipt edges, dim ambient, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have not gone back to that Kroger.", "image_prompt": "wide exterior shot of a Kroger supermarket parking lot at night, the red K logo glowing on the storefront, no cars near the entrance, vertical 9:16 framing"},
+    {"id": 12, "narration": "Receipts keep appearing in my mailbox. Same items. Same prices. Different dates.", "image_prompt": "close shot of a metal residential mailbox on a porch with a thermal receipt protruding from the slot, dim porch light, vertical 9:16 framing"}
+  ]
+}
