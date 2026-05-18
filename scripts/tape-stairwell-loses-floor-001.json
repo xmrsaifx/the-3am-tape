@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-stairwell-loses-floor-001",
+  "character": "narrator",
+  "topic": "My building's stairwell loses a floor between four and five every Friday at midnight",
+  "title": "My Building's Stairwell Loses a Floor Between 4 and 5 Every Friday at Midnight | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My building's stairwell loses a floor between four and five every Friday at midnight.", "image_prompt": "wide interior of a concrete stairwell at night with a single sodium light overhead, metal handrails visible, no people, vertical 9:16 framing"},
+    {"id": 2, "narration": "Seven story walk up. Stairwell on the east side. Concrete steps. Metal railings.", "image_prompt": "wide exterior of a seven story brick walk up in a city neighborhood at dusk, fire escapes on one side, vertical 9:16 framing"},
+    {"id": 3, "narration": "I take the stairs. Always.", "image_prompt": "close shot of a worn floor number plate reading 5 on a stairwell wall, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Last March I came home at twelve oh three. Counted twelve flights to my floor on six.", "image_prompt": "close detail of a wristwatch showing twelve oh three AM, a hand resting on a metal railing, only the hand visible, vertical 9:16 framing"},
+    {"id": 5, "narration": "Should have been thirteen.", "image_prompt": "wide shot of a stairwell flight viewed from above, the steps descending into darkness, no people, vertical 9:16 framing"},
+    {"id": 6, "narration": "Went back down. Counted. From the lobby up. Same. Twelve flights to six.", "image_prompt": "close shot of fingers counting on a metal handrail, only the hand visible, dim stairwell light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Asked the super. He laughed.", "image_prompt": "wide interior of a small superintendent's office with a man seen from behind at a workbench, no face visible, vertical 9:16 framing"},
+    {"id": 8, "narration": "I waited at midnight on Friday. The four landing was gone. Five sat where four had been.", "image_prompt": "wide shot of a stairwell landing at midnight with the floor number sign visibly different from expected, dim sodium light overhead, vertical 9:16 framing"},
+    {"id": 9, "narration": "Stairwell rejoins itself at one AM. Always thirteen flights from then.", "image_prompt": "close detail of a wristwatch showing one oh oh AM on a metal handrail, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last Friday I stayed on the missing landing at midnight. It did not return.", "image_prompt": "wide interior of an empty stairwell landing with peeling paint on the concrete walls, no number visible on any wall, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have stayed there since Friday.", "image_prompt": "wide shot of a person seated on a stairwell step seen from behind, hood up, only the back visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I do not know what floor I am on. The numbers on the doors are wrong.", "image_prompt": "close detail of a stairwell door with a wrong number plate hanging askew, the doorway leading into darkness, vertical 9:16 framing"}
+  ]
+}

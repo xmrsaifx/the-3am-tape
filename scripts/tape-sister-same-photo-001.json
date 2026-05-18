@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-sister-same-photo-001",
+  "character": "narrator",
+  "topic": "My sister sends me the same photograph every Sunday but the timestamps are from thirty years apart",
+  "title": "My Sister Has Been Sending Me the Same Photo Every Sunday from 30 Years Apart | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My sister sends me the same photograph every Sunday. The timestamps are thirty years apart.", "image_prompt": "close shot of a smartphone screen displaying a text message thread with a single photograph of a backyard, dim ambient kitchen light, vertical 9:16 framing"},
+    {"id": 2, "narration": "We live in different states. We text each Sunday at noon.", "image_prompt": "wide shot of a person's hand on a kitchen counter beside a phone, only the hand visible, soft midday sunlight through a window, vertical 9:16 framing"},
+    {"id": 3, "narration": "Photo. Hello. How are you.", "image_prompt": "close detail of a phone message app showing a recurring weekly schedule of received photographs, vertical 9:16 framing"},
+    {"id": 4, "narration": "First Sunday in March she sent a photograph of our childhood backyard.", "image_prompt": "close shot of a phone screen showing a yellowed photograph of a suburban backyard with a wooden swing set, vertical 9:16 framing"},
+    {"id": 5, "narration": "I asked what year. She said today.", "image_prompt": "close detail of a smartphone screen showing a text message reply reading TODAY, the timestamp visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "Photo metadata said nineteen ninety three. The swing set in it has not been there since two thousand.", "image_prompt": "close shot of a photograph metadata panel on a phone screen showing a date in nineteen ninety three, vertical 9:16 framing"},
+    {"id": 7, "narration": "Next Sunday. Same photo. Same backyard.", "image_prompt": "close detail of two side by side photographs on a laptop screen showing the same backyard from slightly different angles, vertical 9:16 framing"},
+    {"id": 8, "narration": "Metadata read nineteen ninety four. Then ninety five. One year forward each week.", "image_prompt": "close shot of a row of phone screen captures of metadata panels with successive dates, dim home office light, vertical 9:16 framing"},
+    {"id": 9, "narration": "I asked my sister why. She said the photographs were new. She had just taken them.", "image_prompt": "close detail of a text message thread with a reply explaining the photographs were recent, vertical 9:16 framing"},
+    {"id": 10, "narration": "This week's metadata reads two thousand twenty four. The swing set is in it. The yard is gone.", "image_prompt": "close shot of a photograph showing a wooden swing set standing alone in an empty grassy lot, no surrounding house visible, vertical 9:16 framing"},
+    {"id": 11, "narration": "I drove to my childhood home last Tuesday.", "image_prompt": "wide exterior of a suburban street where a house once stood, only an empty grassy lot visible, late afternoon light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The yard is gone. The swing set is alone in an empty lot.", "image_prompt": "wide shot of a wooden A frame swing set standing alone in an overgrown lot, no surrounding houses, late afternoon shadows, vertical 9:16 framing"}
+  ]
+}

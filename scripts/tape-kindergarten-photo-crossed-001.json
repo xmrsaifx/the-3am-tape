@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-kindergarten-photo-crossed-001",
+  "character": "narrator",
+  "topic": "Faces in my kindergarten class photo have been getting crossed out one at a time in the same marker",
+  "title": "Faces in My Kindergarten Class Photo Have Been Getting Crossed Out One at a Time | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Faces in my kindergarten class photo have been getting crossed out one at a time.", "image_prompt": "close shot of a vintage school class photograph in a plastic sleeve with two faces crossed out in black permanent marker, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Class of nineteen ninety. Eighteen kids. Group photo in plastic sleeve.", "image_prompt": "close detail of an old class photograph showing eighteen children in rows in front of a brick school wall, vertical 9:16 framing"},
+    {"id": 3, "narration": "Photo lives in a shoebox under my bed.", "image_prompt": "wide shot of an old cardboard shoebox of photographs on a hardwood floor beside a bed, dim bedroom light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Pulled it out for a reunion last June. Two faces had X marks.", "image_prompt": "close shot of a class photograph with two faces clearly marked with black X strokes, the marker fresh, vertical 9:16 framing"},
+    {"id": 5, "narration": "Assumed I had done it as a kid.", "image_prompt": "close detail of a hand holding a class photograph, only the hand visible, dim afternoon light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Marker was not faded. The strokes were precise.", "image_prompt": "close detail of two crossed out faces on a class photograph showing fresh black marker strokes, no fading, vertical 9:16 framing"},
+    {"id": 7, "narration": "Photographed the photo. Stored it back.", "image_prompt": "close shot of a smartphone capturing a photograph of a class photograph on a kitchen counter, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Three days later. Third face crossed out. New marks. Same color marker.", "image_prompt": "close shot of a class photograph with three faces now crossed out, the third X mark visibly fresher than the others, vertical 9:16 framing"},
+    {"id": 9, "narration": "Looked up my old classmates. The crossed out ones have died. In order. By X mark.", "image_prompt": "close detail of a laptop screen showing a list of obituary results with photographs blurred out, dim home office light, vertical 9:16 framing"},
+    {"id": 10, "narration": "There are five crosses now. I knew them in the order of the crosses.", "image_prompt": "close shot of a class photograph with five faces clearly crossed out in black marker, the order forming a path across the rows, vertical 9:16 framing"},
+    {"id": 11, "narration": "I am face thirteen. I have not been crossed out yet.", "image_prompt": "close detail of a single face in a class photograph circled gently in pencil but not crossed out, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Boy on my left has a small X starting on his cheek this week.", "image_prompt": "close shot of a class photograph face beginning to show a small black mark across one cheek, the start of a cross, vertical 9:16 framing"}
+  ]
+}

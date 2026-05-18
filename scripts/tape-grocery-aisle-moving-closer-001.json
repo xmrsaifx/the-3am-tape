@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-grocery-aisle-moving-closer-001",
+  "character": "narrator",
+  "topic": "The snack aisle at my grocery store has been moving one section closer to the entrance every week",
+  "title": "The Snack Aisle at My Grocery Store Has Been Moving One Section Closer to the Entrance | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My grocery store's snack aisle moves one section closer to the entrance every week.", "image_prompt": "wide interior of a grocery store snack aisle with chips and crackers on shelves, fluorescent overhead light, no people, vertical 9:16 framing"},
+    {"id": 2, "narration": "Local Safeway. Same store fourteen years. I always know where everything is.", "image_prompt": "wide exterior of a Safeway grocery store at dusk, the storefront sign glowing red, no shoppers visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "Aisle twelve. Cereal. Aisle six. Snacks.", "image_prompt": "close detail of an aisle number sign hanging from a grocery store ceiling reading AISLE 12, vertical 9:16 framing"},
+    {"id": 4, "narration": "Wednesday in October. Snacks were in aisle five.", "image_prompt": "wide shot of a grocery store aisle with a sign reading AISLE 5 and rows of snack packaging visible, fluorescent overhead light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Assumed they had reorganized.", "image_prompt": "close shot of a shopping cart with a hand on the handle, only the hand visible, dim grocery store light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Next Wednesday. Aisle four. Same chips. Same brands. Same shelving fixture.", "image_prompt": "close detail of a grocery store shelf with chips and snacks arranged identically to a previous week, fluorescent light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Asked the manager. He said the layout has not changed in years.", "image_prompt": "wide shot of a grocery store manager in uniform seen from behind at a customer service counter, no face visible, vertical 9:16 framing"},
+    {"id": 8, "narration": "He showed me the floor plan. Aisle six. Snacks. As always.", "image_prompt": "close shot of a paper grocery store floor plan with aisle labels visible, a finger pointing at AISLE 6, only the finger visible, vertical 9:16 framing"},
+    {"id": 9, "narration": "But each week the snack aisle is one closer to the front. I have been counting.", "image_prompt": "close detail of a notepad with handwritten weekly observations of aisle numbers, a pen across the page, vertical 9:16 framing"},
+    {"id": 10, "narration": "This week the snacks are in the produce section. Beside the bananas.", "image_prompt": "wide shot of a grocery store produce section with bananas on a display, bags of chips and snack packaging stacked beside them, vertical 9:16 framing"},
+    {"id": 11, "narration": "Only I see them there. Every other customer sees produce.", "image_prompt": "wide interior of a grocery store produce section with shoppers walking through, no chips visible from a normal angle, vertical 9:16 framing"},
+    {"id": 12, "narration": "Next week the snacks will reach the entrance. I will not be there.", "image_prompt": "wide shot of grocery store sliding entrance doors from inside, automatic doors open on an empty parking lot at dusk, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-wife-reading-in-sleep-001",
+  "character": "narrator",
+  "topic": "My wife has started reading aloud in her sleep from a book that does not exist",
+  "title": "My Wife Reads Aloud in Her Sleep. A Different Page Each Night. The Book Does Not Exist. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My wife reads aloud in her sleep. A different page each night. No book.", "image_prompt": "close shot of a smartphone on a bedside table with an audio recording app open, dim moonlight on the screen, vertical 9:16 framing"},
+    {"id": 2, "narration": "Married four years. Sound sleeper. Never spoke in her sleep before.", "image_prompt": "wide interior of a darkened bedroom at night with two pillows on a bed, the comforter pulled up, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "She begins around three AM. Goes for ten minutes.", "image_prompt": "close detail of a bedside alarm clock showing three AM in red numerals, dim ambient bedroom light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First night was in January. Recorded her on my phone.", "image_prompt": "close shot of a smartphone face down on a sheet beside a sleeping figure, only the phone and corner of pillow visible, dim moonlight, vertical 9:16 framing"},
+    {"id": 5, "narration": "Played it back at breakfast. She did not recognize her voice.", "image_prompt": "close detail of a smartphone screen playing back a voice recording on a kitchen counter, dim morning light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Recording was clear. Articulate. Reading prose she has never written.", "image_prompt": "close shot of audio waveforms on a phone screen during playback, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Transcribed what she read.", "image_prompt": "close detail of a yellow legal pad with handwritten transcribed text, a pen across the page, dim home office light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Different page numbers every night. Page seven. Page nineteen. Page two hundred forty four.", "image_prompt": "close shot of a notepad with handwritten page numbers and partial paragraphs of transcribed text, vertical 9:16 framing"},
+    {"id": 9, "narration": "The story is continuous. She is reading a novel in order. Different pages, same book.", "image_prompt": "wide shot of a small home office desk covered with transcribed pages organized chronologically, dim lamp light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week page two seventy four ended mid sentence. The next night she finished the sentence.", "image_prompt": "close detail of two transcribed pages side by side with the same sentence completed across them, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have stopped recording her.", "image_prompt": "close shot of a smartphone face down in a drawer beside a charging cable, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "She read my name aloud last Friday. She has never read a character name before.", "image_prompt": "close detail of a transcribed page with one word circled in red marker, the word obscured by a thumb, vertical 9:16 framing"}
+  ]
+}

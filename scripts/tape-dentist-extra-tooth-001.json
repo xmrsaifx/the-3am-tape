@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-dentist-extra-tooth-001",
+  "character": "narrator",
+  "topic": "My dentist found a tooth I do not remember growing and the root goes deeper than any of my others",
+  "title": "My Dentist Found a Tooth I Don't Remember Growing and the Root Goes Deeper Than the Others | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My dentist found a tooth in my mouth I do not remember growing.", "image_prompt": "close detail of a dental X-ray on a backlit panel showing a row of teeth with one prominent molar marked, dim exam room light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Annual cleaning. February. Same dentist for fourteen years.", "image_prompt": "wide interior of a dental office exam room at evening with an empty patient chair and overhead lamp, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I have always had twenty seven teeth. Missing one molar.", "image_prompt": "close shot of a dental chart on a clipboard showing teeth diagram with one molar circled in red, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "X-ray showed twenty eight. New tooth where my missing molar used to be.", "image_prompt": "close detail of a digital dental X-ray on a monitor showing a full row of teeth, one molar highlighted, vertical 9:16 framing"},
+    {"id": 5, "narration": "She showed me on the screen. I had not noticed.", "image_prompt": "close shot of a hand pointing at a computer screen with a dental scan visible, only the hand visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "Pressed my tongue against it. Sharp. Cool. Smooth. Real.", "image_prompt": "close shot of a person's hand resting on the arm of a dental chair, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Pulled my charts from previous years.", "image_prompt": "close detail of a metal filing cabinet drawer with a paper dental records folder open, vertical 9:16 framing"},
+    {"id": 8, "narration": "Last March's X-ray. Gap where the molar used to be. Six months ago. Empty.", "image_prompt": "close shot of two dental X-rays side by side on a backlit panel, one showing a gap, one showing a tooth in the same position, vertical 9:16 framing"},
+    {"id": 9, "narration": "Root structure on the new tooth goes deeper than any of my others. Twice as deep.", "image_prompt": "close detail of a dental X-ray showing an elongated tooth root extending far below the jaw line, dim exam light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Specialist did a CT scan. The root does not stop in the jawbone.", "image_prompt": "wide interior of a radiology room with a CT scanner, dim ambient light, no people visible, vertical 9:16 framing"},
+    {"id": 11, "narration": "He cannot tell me where the root ends.", "image_prompt": "close shot of a doctor seen from behind reviewing a 3D scan on a monitor, no face visible, dim exam room light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I have lost two more teeth in the past month. The new tooth is still in.", "image_prompt": "close detail of a small ceramic dish on a bathroom counter containing two extracted teeth, dim overhead light, vertical 9:16 framing"}
+  ]
+}

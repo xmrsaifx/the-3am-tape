@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-wallpaper-spelling-word-001",
+  "character": "narrator",
+  "topic": "My hallway wallpaper has been peeling in a pattern that spells a word and the word is half complete",
+  "title": "My Hallway Wallpaper Has Been Peeling in a Pattern That Spells a Word | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My hallway wallpaper peels in the shape of letters. Spells a word. Half complete.", "image_prompt": "close shot of an old floral wallpaper peeling on a hallway wall in the shape of capital letters, dim afternoon light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Ranch house. Built sixty four. Inherited from my aunt last fall.", "image_prompt": "wide exterior of a single story ranch house in autumn afternoon light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Old wallpaper. Flowers. Cream and pink.", "image_prompt": "close detail of vintage cream and pink floral wallpaper on a hallway wall, the seams visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed the peeling in November. Took it for normal aging.", "image_prompt": "close shot of wallpaper peeling at a seam with a small flap of paper curled outward, dim hallway light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Got the wallpaper paste. Tried to glue it back.", "image_prompt": "close detail of a tube of wallpaper adhesive on a wooden floor beside a curled flap of paper, vertical 9:16 framing"},
+    {"id": 6, "narration": "It peeled the same way overnight. Same shapes. Letters.", "image_prompt": "close shot of a section of wallpaper peeled in the shape of two capital letters, dim hallway lamp light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Photographed the wall. Read it left to right.", "image_prompt": "close detail of a smartphone screen displaying a photograph of a hallway wall with peeled wallpaper forming letters, vertical 9:16 framing"},
+    {"id": 8, "narration": "Four letters had appeared. C O M E. The peeling was forming a sentence.", "image_prompt": "wide shot of a hallway wall showing four letters peeled into the wallpaper spelling out COME, dim afternoon light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Three more letters by December. F O R. Spaces between them.", "image_prompt": "wide shot of the same hallway wall with additional peeled letters spelling COME FOR, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Yesterday the next word started. M E. Then a comma. Then a name.", "image_prompt": "close detail of a hallway wall with peeled wallpaper forming a partial phrase COME FOR ME and the start of a proper name, vertical 9:16 framing"},
+    {"id": 11, "narration": "I will not say the name out loud.", "image_prompt": "wide shot of a hallway at dusk with a section of the wall obscured by shadow, no figures, vertical 9:16 framing"},
+    {"id": 12, "narration": "It is on my driver's license. And four other documents.", "image_prompt": "close shot of a driver's license on a wooden table with the name partially obscured by a thumb, vertical 9:16 framing"}
+  ]
+}

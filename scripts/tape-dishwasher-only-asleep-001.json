@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-dishwasher-only-asleep-001",
+  "character": "narrator",
+  "topic": "My dishwasher only finishes its cycle when I am asleep and stops if I stay up to watch",
+  "title": "My Dishwasher Only Finishes Its Cycle When I Am Asleep. It Stops If I Watch. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My dishwasher only finishes its cycle when I am asleep. It stops if I watch.", "image_prompt": "close shot of a stainless steel dishwasher front panel with a cycle indicator light glowing, dim kitchen ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Whirlpool. Bought new last year. Standard ninety minute cycle.", "image_prompt": "wide interior of a small kitchen with a dishwasher built into the lower cabinets, dim afternoon light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I run it after dinner. Once a day.", "image_prompt": "close detail of a hand pressing the start button on a dishwasher control panel, only the hand visible, vertical 9:16 framing"},
+    {"id": 4, "narration": "First noticed in March. Started it at nine. Awake at midnight. Still running.", "image_prompt": "close shot of a dishwasher cycle progress display showing a partially complete cycle past midnight, dim kitchen light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Turned off the kitchen light. Went to bed.", "image_prompt": "wide interior of a darkened kitchen with the dishwasher front panel illuminated by its indicator light, no people, vertical 9:16 framing"},
+    {"id": 6, "narration": "Cycle finished by morning. Dishes clean.", "image_prompt": "close shot of an open dishwasher with clean plates and glasses arranged in the racks, soft morning light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Stayed up the next night to watch it.", "image_prompt": "wide shot of a person seated on a kitchen stool facing the dishwasher seen from behind, no face visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Started at nine. By eleven the cycle had not advanced.", "image_prompt": "close detail of a dishwasher control panel showing a stalled cycle progress indicator, dim kitchen ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Hired a technician. He stood in front of it. The dishwasher would not finish.", "image_prompt": "wide shot of an appliance technician in uniform seen from behind kneeling beside a dishwasher, no face visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "He left at midnight. The cycle ended six minutes after the door closed behind him.", "image_prompt": "close shot of a dishwasher control panel showing a completed cycle indicator at twelve oh six AM, dim kitchen light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I leave the room now.", "image_prompt": "wide interior of a small dark kitchen viewed from a hallway doorway, the dishwasher indicator light glowing softly, no people, vertical 9:16 framing"},
+    {"id": 12, "narration": "Yesterday I set up a camera. The dishes were clean. The drum was empty in the footage.", "image_prompt": "close detail of security camera footage paused on a screen showing an open dishwasher with empty racks, dim ambient light, vertical 9:16 framing"}
+  ]
+}

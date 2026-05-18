@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-spotify-3am-podcast-001",
+  "character": "narrator",
+  "topic": "My Spotify plays a podcast every night at three AM that does not exist on Spotify",
+  "title": "My Spotify Plays a Podcast Every Night at 3 AM That Does Not Exist on Spotify | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My Spotify plays a podcast every night at three AM. The podcast does not exist on Spotify.", "image_prompt": "close shot of a smartphone screen displaying a Spotify podcast playing at three AM, dim bedside light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Pro account. Three years. Same library. Same playlists.", "image_prompt": "close detail of a Spotify library interface on a smartphone screen, multiple playlists visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I leave my phone charging by the bed.", "image_prompt": "close shot of a smartphone face up on a bedside table connected to a charging cable, dim moonlight, vertical 9:16 framing"},
+    {"id": 4, "narration": "First time was a Tuesday in February. Audio woke me up.", "image_prompt": "close detail of a bedside alarm clock showing three oh two AM in red numerals, dim ambient bedroom light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Voice was male. Slow. Reading something.", "image_prompt": "close shot of a smartphone screen with a podcast playback interface showing an audio waveform, vertical 9:16 framing"},
+    {"id": 6, "narration": "Checked the screen. Spotify was open. A podcast titled with my home address.", "image_prompt": "close detail of a Spotify podcast title field on a phone screen displaying a residential street address, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Searched the title in Spotify's app.", "image_prompt": "close shot of a Spotify search bar on a smartphone screen with an address entered, no results visible, vertical 9:16 framing"},
+    {"id": 8, "narration": "No results. The podcast does not appear in any search.", "image_prompt": "close detail of a Spotify search results screen showing zero results for a query, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "It plays from my Spotify account every night at three AM. I cannot find it in any list.", "image_prompt": "close shot of a Spotify recently played list on a phone screen with no podcast entry visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night the podcast described my apartment. The dishes. The sock under my bed.", "image_prompt": "wide interior of a small apartment kitchen at night with dishes piled in the sink, dim ambient light, no people, vertical 9:16 framing"},
+    {"id": 11, "narration": "I cancelled Spotify three days ago.", "image_prompt": "close detail of a Spotify cancellation confirmation screen on a phone, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The podcast still plays. From an app that is no longer installed.", "image_prompt": "close shot of a smartphone home screen at night with the Spotify app icon missing, audio waveform visible at the top of the screen, vertical 9:16 framing"}
+  ]
+}

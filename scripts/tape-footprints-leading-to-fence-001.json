@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-footprints-leading-to-fence-001",
+  "character": "narrator",
+  "topic": "My garden has a row of footprints leading from my back porch to my fence with no return prints",
+  "title": "A Row of Footprints Leads from My Back Porch to My Fence. There Are No Return Prints. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "A single row of footprints leads from my back porch to the fence. No return prints.", "image_prompt": "wide shot of a small suburban backyard at dawn with a single line of bare footprints leading from a wooden porch to a six foot wooden fence, vertical 9:16 framing"},
+    {"id": 2, "narration": "Small backyard. Six foot wooden fence. Lived here four years.", "image_prompt": "wide exterior of a small fenced suburban backyard in late afternoon, no people visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "Coffee on the porch every morning.", "image_prompt": "close shot of a coffee mug resting on a porch railing, the backyard visible in soft focus, dim early morning light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Tuesday in April. Fresh frost. Saw the prints from the kitchen window.", "image_prompt": "wide shot of a backyard at dawn covered in frost with a line of footprints visible across the grass, vertical 9:16 framing"},
+    {"id": 5, "narration": "Went outside. Counted. Twenty seven prints.", "image_prompt": "close shot of a bare footprint pressed into frosty grass, the heel and toe shapes clearly visible, dim morning light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Adult size. Bare feet. Heading from my porch toward the fence.", "image_prompt": "close detail of a single bare footprint on frosty ground with a small ruler beside it for scale, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Walked to the fence. Looked over.", "image_prompt": "wide shot of a wooden privacy fence in a backyard with a person's hand visible on the top rail, only the hand shown, vertical 9:16 framing"},
+    {"id": 8, "narration": "Yard on the other side was untouched. No prints leading away. No prints leading back to mine.", "image_prompt": "wide shot of a neighbor's manicured backyard seen over a wooden fence, the grass undisturbed, no footprints, vertical 9:16 framing"},
+    {"id": 9, "narration": "Next morning. Same prints. Different angle. Heading from the porch.", "image_prompt": "wide shot of a backyard at dawn with a second slightly different line of footprints leading toward the same fence, vertical 9:16 framing"},
+    {"id": 10, "narration": "I started counting them. Each morning there is one more print. The line is growing.", "image_prompt": "close detail of a notepad with handwritten daily counts of footprints, a pen across the page, vertical 9:16 framing"},
+    {"id": 11, "narration": "It is approaching my back door now.", "image_prompt": "close shot of a wooden porch step with frosty bare footprints visible on the boards leading toward a closed back door, vertical 9:16 framing"},
+    {"id": 12, "narration": "I have not stood on my porch in three weeks.", "image_prompt": "wide shot of a back porch viewed from inside through a screen door, a coffee mug sitting on the railing untouched, dim early morning light, vertical 9:16 framing"}
+  ]
+}

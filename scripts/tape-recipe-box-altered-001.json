@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-recipe-box-altered-001",
+  "character": "narrator",
+  "topic": "Every recipe in my grandmother's recipe box has been altered since I started using them",
+  "title": "Every Recipe in My Grandmother's Recipe Box Has Been Altered Since I Started Using Them | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every recipe in my grandmother's recipe box has been altered since I started using them.", "image_prompt": "close shot of an old tin recipe box on a kitchen counter with handwritten index cards visible inside, dim warm lamp light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Index cards. Tin box. Handwritten. Forty years of recipes.", "image_prompt": "close detail of a single handwritten recipe card in faded blue ink, the corners worn with age, vertical 9:16 framing"},
+    {"id": 3, "narration": "I cook from it twice a week.", "image_prompt": "wide interior of a small kitchen with the recipe box open beside a mixing bowl on the counter, dim afternoon light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Pulled her meatloaf recipe in October. Salt was different.", "image_prompt": "close shot of a handwritten recipe card with the ingredient list visible, a finger pointing at the salt measurement, only the hand visible, vertical 9:16 framing"},
+    {"id": 5, "narration": "Asked my mother. She remembered the original measurement.", "image_prompt": "close detail of a phone screen showing an outgoing call to a contact labeled MOM, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The card said three teaspoons. She remembered one and a half. Same handwriting.", "image_prompt": "close shot of two handwritten ingredient lines side by side with different teaspoon measurements written in the same hand, vertical 9:16 framing"},
+    {"id": 7, "narration": "Photographed every card.", "image_prompt": "close detail of a stack of recipe cards being photographed one by one on a kitchen counter, dim overhead light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Each week one recipe changes. Always more salt. Always one more teaspoon.", "image_prompt": "close shot of a laptop screen showing two photographed cards side by side with the salt measurements visibly different, vertical 9:16 framing"},
+    {"id": 9, "narration": "The card edges look the same. The ink looks the same. The numbers are different.", "image_prompt": "close detail of two photographs of the same recipe card with one specific number circled in red marker, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week the meatloaf card called for nine teaspoons of salt. I made it. Could not eat it.", "image_prompt": "close shot of a baked meatloaf on a kitchen plate with a single fork resting on the side, untouched, dim warm light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I stopped using the box.", "image_prompt": "wide shot of a closed tin recipe box on a kitchen shelf beside cookbooks, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Every recipe is still being altered. I check weekly. The salt keeps climbing.", "image_prompt": "close detail of a recipe card with a single ingredient number visibly higher than in a previous photograph, dim ambient light, vertical 9:16 framing"}
+  ]
+}

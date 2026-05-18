@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-downstairs-neighbor-sweeping-001",
+  "character": "narrator",
+  "topic": "My downstairs neighbor sweeps his floor every night at two thirty AM and his apartment has been empty for nine months",
+  "title": "My Downstairs Neighbor Sweeps Every Night at 2:30 AM. He Has Been Gone Nine Months. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My downstairs neighbor sweeps every night at two thirty AM. He has been gone nine months.", "image_prompt": "wide interior of a small apartment hallway at night with hardwood floor visible, a broom leaning against a wall, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Six unit walk up. I live above 1B. Hardwood floors throughout the building.", "image_prompt": "wide exterior of a small brick walk up apartment building at dusk, six numbered units, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I am a light sleeper. I hear everything.", "image_prompt": "close detail of a bedside alarm clock showing two thirty AM in red numerals, dim ambient bedroom light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First sweep in March. Bristles on wood. Steady rhythm.", "image_prompt": "close shot of bristles of a broom on a wooden floor, dim ambient light, no people, vertical 9:16 framing"},
+    {"id": 5, "narration": "Knocked on his door the next morning. No answer.", "image_prompt": "close shot of a knuckle rapping on an apartment door, only the hand visible, dim hallway light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Building manager said the unit had been vacant since June. Last year.", "image_prompt": "wide shot of an apartment building manager at a small office desk seen from behind, no face visible, dim afternoon light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Set my phone to record overnight.", "image_prompt": "close detail of a smartphone propped on a bedside table with a recording app open, dim moonlight, vertical 9:16 framing"},
+    {"id": 8, "narration": "Two thirty AM. Sweeping for thirty minutes. Same direction. Same rhythm. Then silence.", "image_prompt": "close shot of a smartphone screen showing audio waveforms in a recording app, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Building manager opened 1B with me. Hardwood floor swept clean. A pile of dust in the center.", "image_prompt": "wide interior of an empty apartment with bare wooden floors and a small pile of dust in the center of the room, dim natural light, vertical 9:16 framing"},
+    {"id": 10, "narration": "The pile contained things I have lost in my apartment over the past nine months.", "image_prompt": "close detail of a pile of small lost objects swept together on a hardwood floor, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Keys. Earrings. A photograph from my refrigerator.", "image_prompt": "close shot of a single small photograph beside a set of house keys and earrings on a bare wood floor, vertical 9:16 framing"},
+    {"id": 12, "narration": "The sweeping continued the next night.", "image_prompt": "close detail of a broom leaning against an empty apartment wall, dim night light through a window, no people, vertical 9:16 framing"}
+  ]
+}

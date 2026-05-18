@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-streetlight-out-room-lit-001",
+  "character": "narrator",
+  "topic": "The streetlight outside my window has been broken six months but my room is still lit from outside every night",
+  "title": "The Streetlight Outside My Window Has Been Broken Six Months. My Room Is Still Lit. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The streetlight outside my window has been broken six months. My room is still lit from outside.", "image_prompt": "wide interior of a darkened bedroom at night softly illuminated by a yellow glow coming through the curtains, no light source visible outside, vertical 9:16 framing"},
+    {"id": 2, "narration": "Second floor walk up. Bedroom faces the street. One streetlight thirty feet away.", "image_prompt": "wide exterior of a second floor apartment window at dusk viewed from across a quiet residential street, a single streetlight pole visible nearby, vertical 9:16 framing"},
+    {"id": 3, "narration": "I sleep with curtains open. Always have.", "image_prompt": "close shot of a window with curtains pulled to either side, the night view of a residential street beyond, vertical 9:16 framing"},
+    {"id": 4, "narration": "Light burned out in October. City has not replaced it.", "image_prompt": "close detail of a streetlight pole at night with a broken bulb housing visible, no glow, dim ambient moonlight, vertical 9:16 framing"},
+    {"id": 5, "narration": "Expected dark. Got light.", "image_prompt": "wide interior of a darkened bedroom at night with a soft yellow glow falling across the bed from outside, no figures, vertical 9:16 framing"},
+    {"id": 6, "narration": "Soft yellow glow. Coming from where the streetlight used to be. No actual light source.", "image_prompt": "close detail of yellow light falling on a hardwood floor through a window, dim ambient bedroom light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Looked out the window.", "image_prompt": "close shot of a hand pressing back a curtain at a window, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The pole is dark. The bulb housing is broken. The street is dark. My room is lit.", "image_prompt": "wide shot of a dark residential street at night with a streetlight pole visibly dark, no other illumination, vertical 9:16 framing"},
+    {"id": 9, "narration": "Recorded it on my phone. The footage shows the streetlight on. Time stamp matches reality.", "image_prompt": "close shot of a smartphone screen showing a video recording of a residential street with a clearly lit streetlight visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "Looked outside on a different camera. The light was off in that recording. Same time stamp.", "image_prompt": "close detail of two video frames side by side on a laptop screen showing the same streetlight on and off with identical timestamps, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have closed the curtains.", "image_prompt": "wide interior of a bedroom at night with heavy curtains drawn fully closed, soft yellow glow seeping through the fabric, vertical 9:16 framing"},
+    {"id": 12, "narration": "The glow comes through them. Same shade. Same direction. Lit by something I cannot see.", "image_prompt": "close shot of curtains glowing softly yellow from outside in a darkened bedroom, the source not visible, vertical 9:16 framing"}
+  ]
+}

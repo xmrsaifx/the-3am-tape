@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-bedroom-ceiling-face-001",
+  "character": "narrator",
+  "topic": "My ceiling has a water stain in the shape of my own face that appeared the day I moved in",
+  "title": "My Bedroom Ceiling Has a Water Stain in the Shape of My Own Face | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My ceiling has a water stain in the shape of my face. It appeared the day I moved in.", "image_prompt": "close shot of a bedroom ceiling with a brown water stain visible in the rough shape of a human face, dim bedside lamp light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two bedroom condo. Moved in last August. Fresh paint everywhere.", "image_prompt": "wide interior of a small bedroom with bare painted walls and a single bed, late afternoon light through a window, vertical 9:16 framing"},
+    {"id": 3, "narration": "I sleep on my back. I look up at the ceiling.", "image_prompt": "wide shot of a white painted bedroom ceiling viewed from below at night, dim ambient light, no figures, vertical 9:16 framing"},
+    {"id": 4, "narration": "First night. Small brown spot above me. Could not place the shape.", "image_prompt": "close detail of a small brown water spot on a white ceiling, dim bedside lamp light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Photographed it. Sent to my building manager.", "image_prompt": "close shot of a smartphone screen showing a sent text message with a photograph attachment, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "He came up. Said no plumbing above the ceiling there. No source for water.", "image_prompt": "wide shot of a maintenance worker in coveralls seen from behind looking up at a ceiling, no face visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "The stain has been spreading. I take a photo every Sunday.", "image_prompt": "close detail of a phone screen showing a grid of weekly photographs of the same ceiling spot growing larger over time, vertical 9:16 framing"},
+    {"id": 8, "narration": "After three months it had formed a face. The face was mine.", "image_prompt": "close shot of a ceiling water stain that has expanded into the rough features of a human face, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "I cropped the photo against my driver's license picture. Same nose. Same lip line. Same chin.", "image_prompt": "close detail of a laptop screen showing a side by side comparison of two photographs, one of a ceiling stain and one with the face area blurred, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week the eyes appeared. They are closed. My own eyes are open as I write this.", "image_prompt": "close shot of a ceiling water stain in the shape of a face with two closed eye marks visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Stain has stopped growing.", "image_prompt": "wide interior of a darkened bedroom at night with the ceiling stain visible above the bed, soft moonlight, no people, vertical 9:16 framing"},
+    {"id": 12, "narration": "I sleep in the living room now. The face is patient. Still on the ceiling.", "image_prompt": "wide shot of a couch in a living room with a blanket and pillow set up for sleeping, dim ambient lamp light, vertical 9:16 framing"}
+  ]
+}

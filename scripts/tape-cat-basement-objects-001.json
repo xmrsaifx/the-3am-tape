@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-cat-basement-objects-001",
+  "character": "narrator",
+  "topic": "My cat brings me small objects every morning from a basement that was bricked over in nineteen seventy four",
+  "title": "My Cat Brings Me Antique Objects Every Morning From a Basement That Has Been Bricked Over Since 1974 | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My cat brings me objects from a basement that was sealed in nineteen seventy four.", "image_prompt": "close shot of a small antique brass thimble on a white pillow beside a sleeping figure's outline, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Bungalow. Built nineteen twelve. Original owners bricked over the basement after a flood.", "image_prompt": "wide exterior of a single story bungalow in autumn morning light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I adopted Sage two years ago.", "image_prompt": "close shot of a grey tabby cat seated calmly on a hardwood floor seen from behind, only the back visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "March. Found a brass thimble on my pillow.", "image_prompt": "close detail of an antique brass thimble resting on a white pillowcase, soft morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Did not match anything I owned.", "image_prompt": "close shot of an open jewelry box on a dresser with various small items inside, no thimble visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Sage was in the hallway. Sitting in front of the brick wall.", "image_prompt": "wide interior of a hallway with a brick wall section at the end, a grey tabby cat sitting facing it seen from behind, vertical 9:16 framing"},
+    {"id": 7, "narration": "Started leaving the bedroom door open.", "image_prompt": "close shot of an open bedroom door from inside, the hallway visible beyond, dim morning light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Each morning a new object. Pearl button. Brass key. A child's wooden top.", "image_prompt": "close detail of three small antique objects arranged on a bedside table, a pearl button a brass key and a wooden top, vertical 9:16 framing"},
+    {"id": 9, "narration": "Sage walks through the brick wall. I have watched her. She is on one side. Then the other.", "image_prompt": "wide shot of a hallway brick wall with a grey tabby cat's tail visible disappearing into the brick, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "The objects are antique. Pre nineteen twenty four. None have been on my floors before.", "image_prompt": "wide shot of a wooden table covered with antique objects laid out in chronological order, dim home office lamp light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I asked the previous owner's grandson. He told me about the brick.", "image_prompt": "close detail of an old family photograph of a child holding a grey tabby cat, sepia toned, vertical 9:16 framing"},
+    {"id": 12, "narration": "He also told me Sage was his grandmother's cat name.", "image_prompt": "close shot of a grey tabby cat seated on a hallway floor facing a brick wall, only the back of the cat visible, dim ambient light, vertical 9:16 framing"}
+  ]
+}

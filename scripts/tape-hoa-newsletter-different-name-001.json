@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-hoa-newsletter-different-name-001",
+  "character": "narrator",
+  "topic": "My HOA newsletter has been listing my house with a different family's name for six issues straight",
+  "title": "My HOA Newsletter Has Been Listing My House With a Different Family's Name | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My HOA newsletter has listed my house with a different family's name for six issues straight.", "image_prompt": "close shot of a folded printed HOA newsletter on a kitchen counter, the front page visible with a list of resident names, vertical 9:16 framing"},
+    {"id": 2, "narration": "Suburban development. Two hundred homes. Newsletter goes to every address quarterly.", "image_prompt": "wide aerial shot of a suburban housing development at dusk, identical houses arranged on curved streets, no movement, vertical 9:16 framing"},
+    {"id": 3, "narration": "I am the only resident at thirteen Bellrose Court.", "image_prompt": "close detail of a brick mailbox with the address 13 BELLROSE COURT in metal numbers, dim afternoon light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First saw it in last March's issue. New Resident Welcome. Thirteen Bellrose. The Hawthornes.", "image_prompt": "close shot of an HOA newsletter page showing a New Resident Welcome section with a name and address visible, vertical 9:16 framing"},
+    {"id": 5, "narration": "Called the HOA office. They said I am the Hawthornes.", "image_prompt": "close detail of a phone screen showing an outgoing call to an HOA office number, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "My name on file has been the Hawthornes since I moved in. I have proof of purchase.", "image_prompt": "close shot of a real estate closing document on a wooden desk, a name highlighted in yellow marker, vertical 9:16 framing"},
+    {"id": 7, "narration": "Drove to county records. Asked them.", "image_prompt": "wide interior of a county records office with a clerk seen from behind at a counter, no face visible, vertical 9:16 framing"},
+    {"id": 8, "narration": "My deed lists me correctly. The county knows my name. The HOA does not.", "image_prompt": "close detail of a printed property deed with a notarized signature visible at the bottom of the page, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each newsletter mentions the Hawthornes more. Birthday wishes. A funeral notice. A new child.", "image_prompt": "close shot of a stack of HOA newsletters on a kitchen counter, headlines and names visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last issue's photograph showed my front porch. A family of four standing on it.", "image_prompt": "close detail of an HOA newsletter page with a printed photograph of a suburban front porch and four figures visible, no faces in focus, vertical 9:16 framing"},
+    {"id": 11, "narration": "I was inside. I saw nothing from my window.", "image_prompt": "close shot of a hand holding back a curtain at a front window, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The neighbors wave at the Hawthornes now. Not at me.", "image_prompt": "wide shot of two suburban neighbors waving across a fence at a closed front door, seen from behind, no faces visible, vertical 9:16 framing"}
+  ]
+}
