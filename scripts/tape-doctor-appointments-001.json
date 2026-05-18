@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-doctor-appointments-001",
+  "character": "narrator",
+  "topic": "My doctor's office has been calling to remind me about appointments I do not remember scheduling",
+  "title": "My Doctor's Office Has Been Calling About Appointments I Do Not Remember Scheduling | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My doctor's office has been calling to remind me about appointments I never made.", "image_prompt": "close shot of a smartphone screen displaying a missed call voicemail from a doctor's office, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Primary care. Same doctor for nine years. Same office.", "image_prompt": "wide interior of a primary care doctor's waiting room at dusk, empty chairs, a receptionist desk visible, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Annual physical. November. That is it.", "image_prompt": "close detail of a personal day planner showing one circled date in November, the rest of the calendar blank, vertical 9:16 framing"},
+    {"id": 4, "narration": "Voicemail in March. Reminder for a follow up appointment.", "image_prompt": "close shot of a smartphone playing a voicemail with the doctor's office number visible in the caller ID, vertical 9:16 framing"},
+    {"id": 5, "narration": "Called back. Asked for clarification.", "image_prompt": "close detail of a phone call interface showing a return call in progress, the receptionist's office line on speaker, vertical 9:16 framing"},
+    {"id": 6, "narration": "The receptionist read me back a schedule of seven previous visits this year alone.", "image_prompt": "close shot of a paper medical schedule on a counter at a doctor's office with seven dates highlighted, vertical 9:16 framing"},
+    {"id": 7, "narration": "Drove to the office. Requested my chart.", "image_prompt": "wide shot of a person's hand opening a medical file folder at a doctor's office front desk, vertical 9:16 framing"},
+    {"id": 8, "narration": "Seven visits. My signature on every check in form. Different ink. Same hand.", "image_prompt": "close detail of a check in form with the same signature on seven different sheets, the dates visible, vertical 9:16 framing"},
+    {"id": 9, "narration": "Doctor showed me notes from the visits. Symptoms I have never had.", "image_prompt": "wide interior of an exam room with a doctor seen from behind looking at a chart, no face visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last visit was three days ago. Friday morning. I was at work all day.", "image_prompt": "close shot of a printed medical chart showing notes for symptoms with dates highlighted in yellow, vertical 9:16 framing"},
+    {"id": 11, "narration": "They have me scheduled again next Thursday.", "image_prompt": "close detail of a calendar with a Thursday date circled in red marker, no other notation visible, vertical 9:16 framing"},
+    {"id": 12, "narration": "I want to know what I am going in for.", "image_prompt": "close shot of a person's hand on a steering wheel parked outside a medical office building, dim ambient parking lot light, vertical 9:16 framing"}
+  ]
+}

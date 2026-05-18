@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-fitness-tracker-spike-001",
+  "character": "narrator",
+  "topic": "My fitness tracker logs a heart rate spike at exactly eleven forty seven PM every night while I am asleep",
+  "title": "My Fitness Tracker Logs a Heart Rate Spike at 11:47 PM Every Night While I Sleep | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My fitness tracker logs a heart rate spike at eleven forty seven PM every night. I am asleep.", "image_prompt": "close shot of an Apple Watch on a wrist displaying a heart rate reading with a sudden spike in the graph, dim bedroom light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Apple Watch. Worn every night for three years. Same wrist.", "image_prompt": "close detail of an Apple Watch on a bedside table charging, the screen showing the time, dim ambient light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I am asleep by ten thirty. Always.", "image_prompt": "wide shot of a darkened bedroom with a bedside clock showing ten thirty PM, sheets pulled back, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed it in April. Heart rate jumped to one fifty two. Then back to sixty.", "image_prompt": "close shot of a smartphone screen showing a heart rate chart with a sharp spike at eleven forty seven PM, vertical 9:16 framing"},
+    {"id": 5, "narration": "Thought it was a glitch. It was not.", "image_prompt": "close detail of a phone health app screen with a graph annotation marked GLITCH crossed out by hand, vertical 9:16 framing"},
+    {"id": 6, "narration": "Logged the same spike at eleven forty seven for sixty three nights.", "image_prompt": "close shot of a calendar with sixty three days marked with red X marks running down the page, vertical 9:16 framing"},
+    {"id": 7, "narration": "Stayed up. Watched the watch.", "image_prompt": "close shot of a hand resting on a comforter at night with an Apple Watch face visible, the wearer's pulse line steady, vertical 9:16 framing"},
+    {"id": 8, "narration": "Eleven forty seven. The spike registered. My heart did not change.", "image_prompt": "close detail of an Apple Watch face displaying a heart rate of sixty BPM against a graph showing a spike to one fifty two, vertical 9:16 framing"},
+    {"id": 9, "narration": "Doctor had me wear a hospital monitor for a week.", "image_prompt": "wide shot of a hospital cardiology room with a Holter monitor on a desk, leads coiled neatly, dim exam room light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Hospital monitor showed the same spike at the same time. My actual pulse stayed at sixty.", "image_prompt": "close detail of a printed Holter monitor report showing a nightly heart rate spike at eleven forty seven PM across multiple nights, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have not worn the watch in two months.", "image_prompt": "close shot of an Apple Watch in a drawer with the band slack, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Whoever is wearing it is still spiking. Same time. Different body.", "image_prompt": "close detail of a health app on a phone screen showing the heart rate graph continuing to spike nightly, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-door-locked-inside-001",
+  "character": "narrator",
+  "topic": "My front door keeps getting locked from the inside while I am at work",
+  "title": "My Front Door Keeps Getting Locked from the Inside While I Am at Work | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My front door has been getting locked from the inside while I am at work.", "image_prompt": "close shot of a front door deadbolt thrown from the inside, viewed from the apartment hallway, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Studio apartment. One bedroom. No roommate. No pets.", "image_prompt": "wide interior of a small studio apartment with a single front door and a bedroom door visible, no people, dim ambient light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I leave at eight. Come home at six.", "image_prompt": "close shot of a hand inserting a key into a deadbolt lock, only the hand visible, dim hallway light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First Monday in May. Key would not turn. Bolt was thrown from inside.", "image_prompt": "close detail of a key turning in a deadbolt lock with the bolt visibly held in place from inside, vertical 9:16 framing"},
+    {"id": 5, "narration": "Called the locksmith. He drilled it.", "image_prompt": "wide shot of a locksmith in coveralls drilling into a deadbolt lock seen from behind, no face visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "Apartment was empty. Windows locked. Fire escape clear.", "image_prompt": "wide interior of the same apartment with all windows visibly locked and a fire escape window closed, vertical 9:16 framing"},
+    {"id": 7, "narration": "Installed a doorbell camera. Aimed at the door.", "image_prompt": "close shot of a doorbell camera mounted on the inside of an apartment door frame, dim ambient hallway light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Watched a week of footage. No one came in. No one came out.", "image_prompt": "close detail of a smartphone screen showing seven days of doorbell camera footage thumbnails, vertical 9:16 framing"},
+    {"id": 9, "narration": "Camera glitched once at three eighteen PM each day. Twelve seconds of black.", "image_prompt": "close shot of a phone screen showing security camera footage with a twelve second black gap visible in the timeline, vertical 9:16 framing"},
+    {"id": 10, "narration": "Set up a second camera inside. Recorded the bolt. Twelve seconds of black. Bolt turned.", "image_prompt": "close detail of a second security camera footage showing a deadbolt turning by itself in a darkened apartment, no figures visible, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have been letting myself in through the fire escape. Three weeks.", "image_prompt": "wide shot of an apartment fire escape window seen from inside, the latch in the unlocked position, dim morning light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Yesterday the fire escape window was locked too. From inside.", "image_prompt": "close shot of a fire escape window latch in the locked position from inside, the alley visible beyond the glass, dim ambient light, vertical 9:16 framing"}
+  ]
+}

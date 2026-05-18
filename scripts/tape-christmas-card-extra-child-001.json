@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-christmas-card-extra-child-001",
+  "character": "narrator",
+  "topic": "Our family Christmas card from nineteen ninety eight has gained an extra child every December since",
+  "title": "Our Family Christmas Card from 1998 Has Gained an Extra Child Every December Since | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Our family Christmas card from nineteen ninety eight has gained a child every December since.", "image_prompt": "close shot of a family photo album page showing a vintage Christmas studio portrait of three people in red sweaters, dim warm lamp light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Plain studio shot. Three of us. Mom. Dad. Me at four years old.", "image_prompt": "close detail of a nineteen ninety eight Christmas card photograph with three figures, a studio backdrop visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "Card lives in the family album. Hardcover. Plastic sleeves.", "image_prompt": "wide shot of a hardcover photo album on a coffee table with plastic sleeve pages visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "December two thousand. Pulled the album out. Four of us in the picture.", "image_prompt": "close shot of the same Christmas card photograph now showing four figures, the fourth a small child, vertical 9:16 framing"},
+    {"id": 5, "narration": "Asked my mother. She said that was my brother.", "image_prompt": "close detail of a mother's hands holding the same family album page, only the hands visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "I never had a brother. She has never said that before. Or since.", "image_prompt": "wide shot of an empty hallway in a family home, framed photographs hanging on the wall, soft afternoon light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Checked next December. Five kids in the photo now.", "image_prompt": "close detail of the Christmas card photograph showing five figures now, two children added, vertical 9:16 framing"},
+    {"id": 8, "narration": "Every year an extra child appears in our nineteen ninety eight portrait.", "image_prompt": "close shot of an album page with the same photograph showing six figures, the additions visibly progressive, vertical 9:16 framing"},
+    {"id": 9, "narration": "Mom recognizes each one. Names them. Cannot say where they went.", "image_prompt": "wide shot of a mother seated in an armchair with the open family album on her lap, seen from behind, vertical 9:16 framing"},
+    {"id": 10, "narration": "This year there are twenty eight of us. The smallest is sitting on my lap.", "image_prompt": "close detail of a Christmas card photograph crowded with twenty eight figures, the smallest seated on the lap of an adult, vertical 9:16 framing"},
+    {"id": 11, "narration": "I am due to have my first child next month.", "image_prompt": "close shot of a pregnant woman's hands resting on her abdomen, no face visible, soft morning kitchen light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I have not opened the album in a year. I am afraid to.", "image_prompt": "close shot of a closed hardcover photo album on a shelf, a layer of dust visible on the cover, dim ambient light, vertical 9:16 framing"}
+  ]
+}

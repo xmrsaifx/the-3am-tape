@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-neighbor-child-attic-window-001",
+  "character": "narrator",
+  "topic": "The neighbor's child waves at my upstairs window every morning but my upstairs is an attic with no windows",
+  "title": "The Neighbor's Child Waves at My Upstairs Window Every Morning But My Upstairs Is an Attic | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The neighbor's child waves at my upstairs window every morning. My upstairs is an attic.", "image_prompt": "wide exterior of a two story craftsman house from a neighbor's yard, a small child seen from behind waving at the upper level, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two story house. Built nineteen forty one. Attic above. No windows up there.", "image_prompt": "wide shot of a forties two story home in a residential neighborhood, single peak roof with no upstairs windows visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "I make coffee at seven. He waves from his yard.", "image_prompt": "close shot of a person's hand holding a coffee mug at a kitchen counter window, looking out at the neighbor's yard, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed him last June. Six years old. Backpack on. Waiting for his bus.", "image_prompt": "close detail of a small child with a backpack waving from a yard in morning light, seen from a distance, vertical 9:16 framing"},
+    {"id": 5, "narration": "Waved back. Felt friendly.", "image_prompt": "close shot of a hand pressed against a window pane from inside, the neighbor's yard visible across the way, vertical 9:16 framing"},
+    {"id": 6, "narration": "He was looking past me. Above me. At a window that does not exist.", "image_prompt": "wide shot of two houses side by side in afternoon light, one with a clear roof line, no upstairs windows visible, vertical 9:16 framing"},
+    {"id": 7, "narration": "Stood in my yard. Looked up at my house.", "image_prompt": "wide shot of a person seen from behind standing in a front yard looking up at their own house, no face visible, vertical 9:16 framing"},
+    {"id": 8, "narration": "Single peak roof. Bare attic wall. No window. Never has been.", "image_prompt": "close detail of a craftsman house roof peak with no windows or dormers, late afternoon shadows, vertical 9:16 framing"},
+    {"id": 9, "narration": "Asked the boy's mother. She said he says good morning to my daughter.", "image_prompt": "wide shot of two neighbors talking at a fence line in morning light, both seen from behind, no faces visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "I do not have a daughter. He described her by name. Said she is six.", "image_prompt": "close shot of a child's hand offering a folded piece of paper, only the hand visible, soft morning light, vertical 9:16 framing"},
+    {"id": 11, "narration": "His family moved away in August.", "image_prompt": "wide shot of a moving truck parked at a residential house, boxes being loaded, no faces visible, vertical 9:16 framing"},
+    {"id": 12, "narration": "The new family's daughter waves at my attic every morning.", "image_prompt": "wide shot of the same house with a new family in the yard, a small girl with a backpack waving at an upstairs window that does not exist, vertical 9:16 framing"}
+  ]
+}

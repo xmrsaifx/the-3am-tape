@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-laundromat-children-clothes-001",
+  "character": "narrator",
+  "topic": "Every laundromat I use returns clothes that are not mine and they are always children's clothes",
+  "title": "Every Laundromat I Use Returns Children's Clothes That Are Not Mine | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every laundromat I use returns clothes that are not mine. They are always children's clothes.", "image_prompt": "wide interior of a fluorescent lit laundromat at night, rows of front loading dryers, no people, vertical 9:16 framing"},
+    {"id": 2, "narration": "Sun Star Laundromat. Eighty third and Allen. Two blocks from my apartment.", "image_prompt": "wide exterior of a small neighborhood laundromat at dusk, a SUN STAR sign glowing in the window, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Tuesday nights. Twenty quarters. Same machine.", "image_prompt": "close detail of a hand placing quarters into a coin slot on a commercial dryer, only the hand visible, vertical 9:16 framing"},
+    {"id": 4, "narration": "First time was March. Pulled out my dryer. A child's dress folded on top.", "image_prompt": "close shot of an open dryer drum with a small child's dress visible neatly folded on top of adult clothes, vertical 9:16 framing"},
+    {"id": 5, "narration": "Asked the attendant. He said nobody had been there.", "image_prompt": "wide shot of a laundromat attendant at a counter seen from behind, the door behind them, no face visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "Next Tuesday. Different machine. A pair of small white socks. Folded.", "image_prompt": "close detail of a pair of small white children's socks folded on top of adult laundry inside a dryer drum, vertical 9:16 framing"},
+    {"id": 7, "narration": "Tried a different laundromat. Same thing.", "image_prompt": "wide interior of a different laundromat at night, identical dryer rows, fluorescent overhead, no people, vertical 9:16 framing"},
+    {"id": 8, "narration": "All four laundromats in my zip code return children's clothes in my dryer cycle.", "image_prompt": "close shot of four different laundromat receipts laid out on a kitchen counter, the names of the shops visible, vertical 9:16 framing"},
+    {"id": 9, "narration": "Started walking away without folding. The clothes are still folded when I return.", "image_prompt": "wide shot of a person walking away from a running dryer in a laundromat, only their back visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week I found a child's t shirt with my name on the tag. My handwriting.", "image_prompt": "close detail of a small white t shirt with a handwritten name on the tag, the handwriting clearly visible, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have never had children. I have never owned a child's t shirt.", "image_prompt": "close shot of a hand holding the small t shirt against a kitchen counter, only the hand visible, vertical 9:16 framing"},
+    {"id": 12, "narration": "My laundry has stopped coming home with my clothes.", "image_prompt": "wide shot of a laundry basket on a wooden floor with only adult clothes folded, no small clothes visible in the basket, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-odometer-twelve-miles-001",
+  "character": "narrator",
+  "topic": "My car's odometer drops by twelve miles every Sunday morning",
+  "title": "My Car's Odometer Drops Twelve Miles Every Sunday Morning | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My car's odometer drops by twelve miles every Sunday morning. The number always ends in nine.", "image_prompt": "close shot of a car dashboard at night showing an odometer reading with the last digit ending in nine, dim cabin glow, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two thousand fourteen Camry. Bought used. Eighty four thousand miles when I got it.", "image_prompt": "wide exterior of a Toyota Camry parked in a residential driveway at dusk, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I check the dash before I drive. Habit.", "image_prompt": "close shot of a hand on a steering wheel, the dashboard cluster lit, no face visible, vertical 9:16 framing"},
+    {"id": 4, "narration": "First Sunday in April. Twelve miles less than Saturday night.", "image_prompt": "close detail of an odometer display showing a five digit number ending in nine, daylight ambient cabin, vertical 9:16 framing"},
+    {"id": 5, "narration": "Assumed I had misread it.", "image_prompt": "close shot of a hand reaching toward a digital odometer display, only the hand visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "Next Sunday. Same drop. Twelve miles. Ending in nine.", "image_prompt": "close detail of a car odometer at dawn showing a number ending in nine, dew visible on the windshield edge, vertical 9:16 framing"},
+    {"id": 7, "narration": "Took a photo every Saturday night.", "image_prompt": "close shot of a smartphone displaying a saved photograph of a car odometer, dim ambient kitchen light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Six weeks of photos. Six Sunday mornings. Same exact mileage drop.", "image_prompt": "close detail of a stack of six smartphone photographs of an odometer side by side, the numbers visible in each, dim home office light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Mechanic said the odometer cannot drop. Not without rolling it back.", "image_prompt": "wide interior of a mechanic's garage with a car on a lift, a mechanic in coveralls seen from behind examining the dashboard, vertical 9:16 framing"},
+    {"id": 10, "narration": "Installed a dash cam pointed at the dashboard. Sunday morning. Two AM. Footage went black.", "image_prompt": "close shot of a dash cam mounted on a car windshield, screen showing a recording mode indicator, dim interior cabin light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Footage resumed at two thirteen. Twelve miles less on the dash.", "image_prompt": "close detail of dashcam footage paused on a black screen with a timestamp of two AM visible, vertical 9:16 framing"},
+    {"id": 12, "narration": "The cabin light was on. I never turn it on.", "image_prompt": "close shot of a car interior with the cabin dome light on, viewed from the driver's seat, dim early morning ambient, vertical 9:16 framing"}
+  ]
+}

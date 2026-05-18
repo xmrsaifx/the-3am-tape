@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-passport-photo-aging-001",
+  "character": "narrator",
+  "topic": "My passport photo has been visibly aging while I have not",
+  "title": "My Passport Photo Has Been Aging While I Have Not | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My passport photo has been aging for three years. I have not.", "image_prompt": "close shot of an open passport book on a wooden kitchen counter, the photograph page visible with the face slightly weathered, vertical 9:16 framing"},
+    {"id": 2, "narration": "Renewed it in twenty nineteen. Ten year passport. Standard photo.", "image_prompt": "close detail of a passport book held in a hand, the cover navy blue with gold lettering, dim ambient light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I keep it in the kitchen drawer. Travel twice a year.", "image_prompt": "wide shot of a kitchen drawer pulled open with a passport book lying among receipts and pens, vertical 9:16 framing"},
+    {"id": 4, "narration": "Pulled it out for a trip last March. The face in it looked tired.", "image_prompt": "close detail of a passport photograph showing a tired looking face with slight under eye darkening, vertical 9:16 framing"},
+    {"id": 5, "narration": "Took a selfie. Different face.", "image_prompt": "close shot of a smartphone screen showing a recent selfie alongside the passport photo for comparison, vertical 9:16 framing"},
+    {"id": 6, "narration": "The passport photo had crow's feet. I do not have crow's feet yet.", "image_prompt": "close detail of the passport photograph zoomed in showing fine crow's feet visible around the eyes in the photo, vertical 9:16 framing"},
+    {"id": 7, "narration": "Pulled the photographer's original file print.", "image_prompt": "close shot of a hand holding a photographer's original print, a backup copy of the same image, vertical 9:16 framing"},
+    {"id": 8, "narration": "His print is unchanged. My passport book photo has aged six years.", "image_prompt": "close detail of two photographs side by side, one an unchanged original print, one an aged passport book photograph, vertical 9:16 framing"},
+    {"id": 9, "narration": "Last month the photo had new gray hair. I dyed mine that day.", "image_prompt": "close shot of the passport photograph showing gray streaks now visible in the hair, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "The photo now has gray hair. Same shade as mine. Same pattern. Updated.", "image_prompt": "close detail of the same passport photograph with gray hair in the same pattern as a recent selfie alongside it, vertical 9:16 framing"},
+    {"id": 11, "narration": "I am thirty four. The photo looks fifty.", "image_prompt": "close shot of a passport book held open on a table, the photograph face appearing far older than expected, vertical 9:16 framing"},
+    {"id": 12, "narration": "The expiration date is twenty twenty nine. The photo will outlive me.", "image_prompt": "close detail of a passport expiration date stamp showing twenty twenty nine, the photograph face heavily aged, vertical 9:16 framing"}
+  ]
+}

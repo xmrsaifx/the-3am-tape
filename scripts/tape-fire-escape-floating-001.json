@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-fire-escape-floating-001",
+  "character": "narrator",
+  "topic": "My building's fire escape ends three feet above the ground with a clean metal cut and it used to reach the ground",
+  "title": "My Building's Fire Escape Ends Three Feet Above the Ground and the Cut Is Clean | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My fire escape ends three feet above the ground. The cut is clean. It used to reach.", "image_prompt": "wide exterior of a six story brick walk up building with a fire escape ending three feet above the ground floor, the cut clean and smooth, vertical 9:16 framing"},
+    {"id": 2, "narration": "Six story walk up in Queens. Lived here eleven years.", "image_prompt": "wide shot of a Queens apartment building at dusk, brick facade with iron fire escapes, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Smoker. Fire escape every morning.", "image_prompt": "close shot of a hand holding a cigarette on a fire escape platform at dawn, only the hand visible, vertical 9:16 framing"},
+    {"id": 4, "narration": "April third. Stepped out. Last rung was waist height above the alley.", "image_prompt": "close detail of the bottom rung of a metal fire escape ladder with the alley pavement three feet below, vertical 9:16 framing"},
+    {"id": 5, "narration": "Looked down. The bottom three feet were gone.", "image_prompt": "close shot of a person's legs at the edge of a fire escape platform looking down at the alley, no face visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "The cut was clean. Smooth metal. No torch marks. No saw lines.", "image_prompt": "close detail of a clean metal cut on a fire escape ladder, no torch or saw marks visible on the metal, vertical 9:16 framing"},
+    {"id": 7, "narration": "Asked the super. He had not noticed.", "image_prompt": "wide shot of a residential building superintendent in coveralls seen from behind at the building entrance, vertical 9:16 framing"},
+    {"id": 8, "narration": "Walked across the street to look. From below it looks normal.", "image_prompt": "wide exterior of the same building viewed from across the street, the fire escape appearing intact and reaching the ground from this angle, vertical 9:16 framing"},
+    {"id": 9, "narration": "Photographed it from both angles. The photos do not match. Same building.", "image_prompt": "close shot of two side by side smartphone photographs of the same fire escape from different angles, one showing it reaching ground, one showing it cut, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week the escape stopped four feet above the ground. The cut had moved up.", "image_prompt": "close detail of a fire escape ladder now ending four feet above the ground, the cut higher than before, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have stopped smoking on the fire escape.", "image_prompt": "wide interior of a small apartment kitchen with a fire escape window closed and locked, vertical 9:16 framing"},
+    {"id": 12, "narration": "The escape is still being cut. Slowly. Toward my window.", "image_prompt": "close shot of a fire escape window in an apartment with the iron grate of the escape visible just outside, the bottom of the escape no longer attached to anything below, vertical 9:16 framing"}
+  ]
+}

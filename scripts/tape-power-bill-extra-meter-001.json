@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-power-bill-extra-meter-001",
+  "character": "narrator",
+  "topic": "My power bill has been charging me for a second meter I do not own",
+  "title": "My Power Bill Has Been Charging Me for a Second Meter I Do Not Own | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My power bill has been charging me for two meters. I only have one.", "image_prompt": "close shot of a paper power bill on a kitchen table with two meter readings highlighted in yellow marker, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Single story house. Built nineteen seventy two. One meter on the side.", "image_prompt": "wide exterior of a single story ranch house in afternoon light, a single power meter visible on the side wall, vertical 9:16 framing"},
+    {"id": 3, "narration": "I pay it online. Twelve years. Same account.", "image_prompt": "close detail of a laptop screen showing an online power company account dashboard, dim home office light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Bill came in January. Two meters listed. Same address.", "image_prompt": "close shot of a paper utility bill with a large highlighted total at the bottom, a calculator beside it on the table, vertical 9:16 framing"},
+    {"id": 5, "narration": "Called the power company. Disputed it.", "image_prompt": "close detail of a phone screen showing a customer service dispute ticket interface, vertical 9:16 framing"},
+    {"id": 6, "narration": "They opened a ticket. Said the second meter has been registered since two thousand four.", "image_prompt": "close shot of a customer service representative seen from behind at a call center desk, a headset on, no face visible, vertical 9:16 framing"},
+    {"id": 7, "narration": "I walked the property line. Twice.", "image_prompt": "wide exterior shot of a house south wall with a single electric meter mounted at chest height, late afternoon shadows, vertical 9:16 framing"},
+    {"id": 8, "narration": "One meter. On the south wall. Same as always.", "image_prompt": "close detail of an electric meter on a house wall with the digital reading visible, no other meter in frame, vertical 9:16 framing"},
+    {"id": 9, "narration": "Power company sent a technician. He found the second meter buried under the back porch.", "image_prompt": "wide shot of a back porch deck with floorboards pried up, a utility technician seen from behind examining the crawlspace, vertical 9:16 framing"},
+    {"id": 10, "narration": "It was drawing two hundred watts. Constant. For twenty two years.", "image_prompt": "close detail of a hidden electric meter buried under a porch with wires snaking into the dirt, dim flashlight beam visible, vertical 9:16 framing"},
+    {"id": 11, "narration": "I had the porch torn up. The meter was wired into nothing.", "image_prompt": "wide shot of a torn up wooden porch in a backyard with the buried meter exposed, no people, vertical 9:16 framing"},
+    {"id": 12, "narration": "It is still drawing power. They cannot find the source.", "image_prompt": "close shot of the exposed meter still showing a digital reading despite no wires connected to anything, dim ambient daylight, vertical 9:16 framing"}
+  ]
+}
