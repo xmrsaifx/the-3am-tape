@@ -17,6 +17,15 @@ name: 3AM Tape Long — render + upload
 # caching in the pipeline modules.
 
 on:
+  # Auto-fire daily at 23:00 UTC.
+  # ~18:00-19:00 ET (US prime-time bedtime — peak "10-min horror story before
+  # sleep" intent per LONG_FORM.md §3).
+  # Hand-written scripts in scripts/long/ are used FIFO. If the queue is empty
+  # at fire time AND ANTHROPIC_API_KEY is set, the prepare job falls back to
+  # auto-generating one via pipeline/long_script_generator.py so the cron
+  # never silently drops a day.
+  schedule:
+    - cron: '0 23 * * *'
   workflow_dispatch:
     inputs:
       script:
@@ -48,46 +57,139 @@ jobs:
   # =========================================================================
   prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
+    # Needs write so we can record_topic() into outputs/used_topics.json if
+    # we fall back to auto-generation (so the same topic isn't picked again
+    # by tomorrow's cron).
+    permissions:
+      contents: write
     outputs:
       video_id: ${{ steps.pick.outputs.video_id }}
       script_path: ${{ steps.pick.outputs.script_path }}
       sections_matrix: ${{ steps.pick.outputs.sections_matrix }}
       section_count: ${{ steps.pick.outputs.section_count }}
+      was_generated: ${{ steps.pick.outputs.was_generated }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
-      - name: Pick next long-form script
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Pick next long-form script (or fallback-generate)
         id: pick
+        env:
+          # ANTHROPIC_API_KEY is OPTIONAL. If absent the workflow will fail
+          # noisily when the queue is empty (intentional — fallback gen is
+          # the safety net, not the primary path; manual scripts are expected).
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INPUT_SCRIPT: ${{ inputs.script }}
         run: |
           set -euo pipefail
-          if [ -n "${{ inputs.script }}" ]; then
-            SCRIPT_PATH="scripts/long/${{ inputs.script }}"
-          else
-            # Oldest by filename (longtape-*-001 < -002 < ...) is the FIFO head.
-            SCRIPT_PATH=$(ls -1 scripts/long/longtape-*.json 2>/dev/null | sort | head -n1 || true)
+          python <<'PY'
+          import json, os, sys
+          from pathlib import Path
+
+          input_script = os.environ.get("INPUT_SCRIPT", "").strip()
+          long_dir = Path("scripts/long")
+          long_dir.mkdir(parents=True, exist_ok=True)
+
+          # 1. Explicit workflow_dispatch override: use that file exactly.
+          if input_script:
+              script_path = long_dir / input_script
+              if not script_path.is_file():
+                  print(f"::error::input script not found: {script_path}")
+                  sys.exit(1)
+              source = "workflow_dispatch input"
+          else:
+              # 2. FIFO from scripts/long/longtape-*.json (sorted by filename).
+              candidates = sorted(long_dir.glob("longtape-*.json"))
+              # Filter out anything that's actually a directory (archive/).
+              candidates = [p for p in candidates if p.is_file()]
+              if candidates:
+                  script_path = candidates[0]
+                  source = "queue FIFO"
+              else:
+                  # 3. Fallback: auto-generate ONE script if Claude key is set.
+                  # Hand-written scripts always win — this only fires when
+                  # the queue is genuinely empty at cron-fire time.
+                  if not os.environ.get("ANTHROPIC_API_KEY"):
+                      print(
+                          "::error::scripts/long/ is empty and ANTHROPIC_API_KEY "
+                          "is not set — cannot fallback-generate. Either queue a "
+                          "hand-written script or add the secret."
+                      )
+                      sys.exit(1)
+                  print("Queue empty — fallback-generating one long-form script via Claude")
+                  from config.topics import pick_topic, record_topic
+                  from pipeline import long_script_generator
+                  topic = pick_topic("narrator")
+                  print(f"  topic: {topic[:80]}...")
+                  script = long_script_generator.generate("narrator", topic)
+                  script_path = long_dir / f"{script['video_id']}.json"
+                  script_path.write_text(json.dumps(script, indent=2))
+                  # Record topic NOW (not on success) so simultaneous fires
+                  # cannot pick the same one. Worst case: a renders fail and
+                  # the topic is consumed, but pick_topic has ~35 seeds so
+                  # the topic bank can absorb that without burning out.
+                  record_topic("narrator", topic)
+                  source = "fallback-generated"
+                  print(f"  saved: {script_path}")
+
+          data = json.loads(script_path.read_text())
+          video_id = data["video_id"]
+          sections = data.get("sections") or []
+          ids = [s["id"] for s in sections]
+          print(f"Picked ({source}): {script_path} -> {video_id} ({len(ids)} sections)")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+              fh.write(f"script_path={script_path}\n")
+              fh.write(f"video_id={video_id}\n")
+              fh.write(f"sections_matrix={json.dumps(ids)}\n")
+              fh.write(f"section_count={len(ids)}\n")
+              fh.write(f"was_generated={'true' if source == 'fallback-generated' else 'false'}\n")
+          PY
+
+      - name: Upload chosen script as artifact (matrix + assemble jobs restore from it)
+        uses: actions/upload-artifact@v4
+        with:
+          # Lets render-section / assemble-upload jobs see the script even if
+          # it was just fallback-generated in this job (not yet in git).
+          name: long-script-pending
+          path: ${{ steps.pick.outputs.script_path }}
+          if-no-files-found: error
+          retention-days: 3
+
+      - name: Commit fallback-generated script + topic state
+        if: steps.pick.outputs.was_generated == 'true'
+        run: |
+          git config user.name  "the-3am-tape-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/long/ outputs/used_topics.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "no state changes to commit"
+            exit 0
           fi
-          if [ -z "${SCRIPT_PATH:-}" ] || [ ! -f "$SCRIPT_PATH" ]; then
-            echo "::error::No long-form script found in scripts/long/"
-            exit 1
-          fi
-          # Extract video_id and sections list as JSON array (e.g. [1,2,3,...,10])
-          VIDEO_ID=$(python -c "import json,sys; print(json.load(open(sys.argv[1]))['video_id'])" "$SCRIPT_PATH")
-          SECTIONS=$(python -c "import json,sys; ids=[s['id'] for s in json.load(open(sys.argv[1]))['sections']]; print(json.dumps(ids))" "$SCRIPT_PATH")
-          COUNT=$(python -c "import json,sys; print(len(json.load(open(sys.argv[1]))['sections']))" "$SCRIPT_PATH")
-          echo "Picked: $SCRIPT_PATH -> $VIDEO_ID ($COUNT sections)"
-          {
-            echo "script_path=$SCRIPT_PATH"
-            echo "video_id=$VIDEO_ID"
-            echo "sections_matrix=$SECTIONS"
-            echo "section_count=$COUNT"
-          } >> "$GITHUB_OUTPUT"
+          git commit -m "chore(long): auto-generate $(basename '${{ steps.pick.outputs.script_path }}' .json) [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push; then
+              echo "push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed; retrying after 5s..."
+            sleep 5
+          done
+          echo "::warning::failed to push fallback script after 3 attempts (continuing anyway — artifact still flows through)"
 
   # =========================================================================
   render-section:
@@ -128,6 +230,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Restore chosen script (covers fallback-gen case where push may have failed)
+        uses: actions/download-artifact@v4
+        with:
+          name: long-script-pending
+          path: .
 
       - name: Render section ${{ matrix.section }} (images + voice + captions)
         env:
@@ -182,6 +290,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Restore chosen script (covers fallback-gen case)
+        uses: actions/download-artifact@v4
+        with:
+          name: long-script-pending
+          path: .
 
       - name: Download all section artifacts
         uses: actions/download-artifact@v4
