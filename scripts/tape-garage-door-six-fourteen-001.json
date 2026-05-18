@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-garage-door-six-fourteen-001",
+  "character": "narrator",
+  "topic": "My garage door opens every Tuesday at six fourteen AM and there is no automatic opener",
+  "title": "My Garage Door Opens Every Tuesday at 6:14 AM and We Don't Have an Automatic Opener | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My garage door opens every Tuesday at six fourteen AM. There is no automatic opener.", "image_prompt": "wide exterior of a detached suburban garage at dawn, wooden double doors partially open, fragments of a padlock on the gravel, no figures, vertical 9:16 framing"},
+    {"id": 2, "narration": "Detached garage. Wooden double doors. Manual latch. Bought the house in twenty fifteen.", "image_prompt": "wide shot of a detached two car wooden garage at dusk, double doors closed, residential backyard behind, vertical 9:16 framing"},
+    {"id": 3, "narration": "I padlock it every night. Every night.", "image_prompt": "close detail of a steel padlock and a metal latch on a wooden garage door, end of day light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First Tuesday in October. Came down for coffee. Garage door was open.", "image_prompt": "wide shot of an open garage at dawn, light spilling from inside onto a gravel driveway, no figures, vertical 9:16 framing"},
+    {"id": 5, "narration": "Padlock on the ground. Cut in half.", "image_prompt": "close shot of a cut padlock body on a gravel driveway, the shackle severed cleanly, vertical 9:16 framing"},
+    {"id": 6, "narration": "Nothing inside was missing. Bikes. Tools. Christmas tree. All in place.", "image_prompt": "wide interior of a garage with bicycles on wall hooks, a workbench, and a Christmas tree storage box, nothing disturbed, dim natural light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Bought a security camera. Pointed it at the garage.", "image_prompt": "close shot of a wall mounted security camera on a porch eave aimed toward a garage, dusk ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next Tuesday at six fourteen the door opened. No one was there.", "image_prompt": "close detail of a security camera screen showing a garage door open at six fourteen AM, no figures in frame, vertical 9:16 framing"},
+    {"id": 9, "narration": "Checked the footage frame by frame. The latch turned itself. No hand. No tool.", "image_prompt": "close shot of a laptop screen showing paused security footage with a frame indicator at the bottom timeline, vertical 9:16 framing"},
+    {"id": 10, "narration": "Six sixteen the door closed. The padlock reassembled itself on the ground.", "image_prompt": "wide exterior of the same garage door closed with a reassembled padlock visible on the door's metal latch, dawn light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I take the camera footage to my brother every Wednesday.", "image_prompt": "close shot of an external hard drive on a kitchen table beside a closed laptop, late afternoon light, vertical 9:16 framing"},
+    {"id": 12, "narration": "He has not been able to watch past six fourteen.", "image_prompt": "close shot of a paused frame on a laptop screen showing a timestamp of six fourteen AM, no figures visible, dim ambient light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-pantry-soup-refilling-001",
+  "character": "narrator",
+  "topic": "I throw out the same expired can of soup every week and it keeps coming back to my pantry",
+  "title": "I Throw Out the Same Expired Can of Soup Every Week and It Keeps Coming Back | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "I throw out the same can of expired soup every week. It comes back by Sunday.", "image_prompt": "close shot of a single dusty can of soup on a wooden pantry shelf, an expired date faintly visible on the lid, dim pantry light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Kitchen pantry. Built ins. Twelve shelves. Lived in this house since two thousand nine.", "image_prompt": "wide interior of a kitchen pantry with built in shelves stocked with dry goods, dim under cabinet light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I clean it monthly. Habit.", "image_prompt": "wide shot of gloved hands wiping down a pantry shelf with a cloth, no face visible, dim pantry light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Found the can during last March's clean out. Cream of mushroom. Best by nineteen ninety.", "image_prompt": "close detail of an old can of cream of mushroom soup with a faded best by date stamp showing nineteen ninety, dust visible on the rim, vertical 9:16 framing"},
+    {"id": 5, "narration": "Tossed it. Forgot about it.", "image_prompt": "wide shot of a metal kitchen trash can in a garage with a dented soup can visible at the top, dim afternoon light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Sunday it was back. Same dent. Same dust.", "image_prompt": "close shot of a pantry shelf the next Sunday, the same dusty soup can sitting on it as if untouched, vertical 9:16 framing"},
+    {"id": 7, "narration": "Took it to recycling. Watched them crush it.", "image_prompt": "close detail of a metal recycling crusher with a flattened soup can on a conveyor belt, industrial dim lighting, vertical 9:16 framing"},
+    {"id": 8, "narration": "The following Sunday. Same can. Same dent. Same dust.", "image_prompt": "close shot of a pantry shelf showing the same dusty soup can intact, the dent in the same position as before, vertical 9:16 framing"},
+    {"id": 9, "narration": "Started marking the can with permanent marker. Different mark every week.", "image_prompt": "close shot of a permanent marker scribbling a small mark on the side of an upright soup can on a wooden countertop, vertical 9:16 framing"},
+    {"id": 10, "narration": "All eight marks are now visible on the same can. It has not been replaced.", "image_prompt": "close detail of a soup can with eight small permanent marker marks running down its side, dust visible on its surface, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have stopped throwing it out.", "image_prompt": "close shot of a kitchen pantry shelf with a single dusty soup can in the center, the can the only item on the shelf, vertical 9:16 framing"},
+    {"id": 12, "narration": "Last week I noticed the dust is fresh now. Settling in real time.", "image_prompt": "close detail of a soup can on a pantry shelf with a fine layer of fresh dust just settling on its top, vertical 9:16 framing"}
+  ]
+}

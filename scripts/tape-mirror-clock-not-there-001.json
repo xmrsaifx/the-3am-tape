@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-mirror-clock-not-there-001",
+  "character": "narrator",
+  "topic": "My bathroom mirror reflects a wall clock behind me but there is no clock on that wall",
+  "title": "My Bathroom Mirror Reflects a Clock on the Wall Behind Me That Does Not Exist | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My bathroom mirror reflects a wall clock behind me. There is no clock there.", "image_prompt": "close shot of a bathroom mirror reflecting an old wood framed wall clock with Roman numerals behind the viewer's shoulder, the wall behind the viewer plain and empty, vertical 9:16 framing"},
+    {"id": 2, "narration": "Master bathroom. One mirror over the sink. Ten years in this house.", "image_prompt": "wide interior of a master bathroom with a single mirror over a porcelain sink, white tile floor, cream walls, no clock visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "Folded white linen towel. Cream walls. No clock.", "image_prompt": "close shot of a bathroom counter with a folded white linen towel, dim overhead vanity light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Brushing my teeth two weeks ago. Saw it in the mirror. Wood frame. Roman numerals.", "image_prompt": "close detail of a bathroom mirror reflecting an old wood framed wall clock with Roman numerals, faint clock face visible behind the viewer's shoulder, vertical 9:16 framing"},
+    {"id": 5, "narration": "Turned around. White wall.", "image_prompt": "close shot of a cream colored bathroom wall, completely bare, no fixtures or clock visible, soft ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Turned back. The clock was still there in the reflection.", "image_prompt": "close shot of a bathroom mirror reflecting the same wall clock from a slightly different angle, the wall behind it visible in the reflection, vertical 9:16 framing"},
+    {"id": 7, "narration": "Photographed it with my phone.", "image_prompt": "close shot of a hand holding a smartphone aimed at a bathroom mirror, the screen displaying a live photograph mode, vertical 9:16 framing"},
+    {"id": 8, "narration": "Photo of the mirror shows the clock. Photo of the wall is blank.", "image_prompt": "close shot of a phone screen displaying two photographs side by side, one of a mirror with a clock visible in it, one of an empty wall, vertical 9:16 framing"},
+    {"id": 9, "narration": "I started watching. The hands move. They are an hour ahead of mine.", "image_prompt": "close shot of a bathroom mirror at evening light, the reflected wall clock hands clearly visible at a position different than expected, vertical 9:16 framing"},
+    {"id": 10, "narration": "Yesterday the hands matched mine for the first time.", "image_prompt": "close detail of a bathroom mirror at night, the reflected clock hands at a position matching the actual time, the bathroom dim behind the mirror, vertical 9:16 framing"},
+    {"id": 11, "narration": "I covered the mirror this morning.", "image_prompt": "wide shot of a bathroom mirror covered with a white bed sheet held in place with masking tape, vertical 9:16 framing"},
+    {"id": 12, "narration": "I can hear it ticking through the cloth.", "image_prompt": "close shot of a sheet covered bathroom mirror at night, soft ambient hallway light spilling through the doorway, no figures, vertical 9:16 framing"}
+  ]
+}

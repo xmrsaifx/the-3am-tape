@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-calendar-recurring-meeting-001",
+  "character": "narrator",
+  "topic": "My calendar has a recurring Friday meeting I did not create at an address that no longer exists",
+  "title": "My Calendar Has a Recurring Friday Meeting I Did Not Create at an Address That No Longer Exists | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My calendar has a weekly meeting every Friday at four PM. I did not create it.", "image_prompt": "close shot of a laptop screen displaying Google Calendar with a recurring weekly meeting block on Friday at four PM, dim home office light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Google Workspace. Personal account. Two factor authentication.", "image_prompt": "wide shot of a home office desk with an open laptop, a coffee mug, late evening lamp light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I check my calendar every morning.", "image_prompt": "close detail of a calendar app on a smartphone screen showing the morning week view, the cursor on Friday, vertical 9:16 framing"},
+    {"id": 4, "narration": "First saw it three weeks ago. Recurring. Through twenty thirty.", "image_prompt": "close shot of a calendar event detail view on a laptop screen showing a recurring schedule extending through twenty thirty, vertical 9:16 framing"},
+    {"id": 5, "narration": "Tried to delete it. Permission denied.", "image_prompt": "close detail of a calendar event delete confirmation dialog box on a screen showing a permission denied error, dim screen glow, vertical 9:16 framing"},
+    {"id": 6, "narration": "The organizer field was greyed out. No name. No email.", "image_prompt": "close shot of a calendar event detail view with the organizer field greyed out and unreadable, vertical 9:16 framing"},
+    {"id": 7, "narration": "Opened the event. Read the title.", "image_prompt": "close shot of a hand on a laptop trackpad clicking into an event detail, only the hand visible, vertical 9:16 framing"},
+    {"id": 8, "narration": "Just an address. Fourteen Oak Lane. Apartment three B. No notes.", "image_prompt": "close detail of a calendar event title field on a screen showing 14 Oak Lane Apartment 3B, no notes or attendees visible, vertical 9:16 framing"},
+    {"id": 9, "narration": "Looked it up. That building was demolished in two thousand four.", "image_prompt": "close shot of a search engine results page on a laptop showing news headlines about a building demolished in two thousand four, vertical 9:16 framing"},
+    {"id": 10, "narration": "Drove there last Friday at four. Empty lot. My phone buzzed at four oh five.", "image_prompt": "wide shot of an empty lot at dusk with weeds and broken concrete, no buildings standing, vertical 9:16 framing"},
+    {"id": 11, "narration": "Notification said the meeting had started without me.", "image_prompt": "close shot of a smartphone notification on a lock screen showing a meeting has started, four oh five PM timestamp visible, vertical 9:16 framing"},
+    {"id": 12, "narration": "Next Friday's title has changed. It is my home address now.", "image_prompt": "close detail of a calendar event title field on a screen showing the viewer's own home address with the house number prominent, vertical 9:16 framing"}
+  ]
+}
