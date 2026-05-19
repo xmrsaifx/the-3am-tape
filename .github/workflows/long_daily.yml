@@ -326,7 +326,7 @@ jobs:
         run: |
           ARGS="--assemble-only"
           if [ "${{ inputs.skip_upload }}" != "true" ]; then
-            ARGS="$ARGS --upload --privacy=${{ inputs.privacy }}"
+            ARGS="$ARGS --upload --privacy=${{ inputs.privacy || 'unlisted' }}"
           fi
           if [ "${{ inputs.skip_fb }}" = "true" ]; then
             ARGS="$ARGS --no-fb"
