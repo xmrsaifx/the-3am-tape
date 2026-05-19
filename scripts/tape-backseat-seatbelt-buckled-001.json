@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-backseat-seatbelt-buckled-001",
+  "character": "narrator",
+  "topic": "The backseat seatbelt of my car is buckled every morning and I drive alone",
+  "title": "The Backseat Seatbelt of My Car Is Buckled Every Morning. I Drive Alone. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The backseat seatbelt of my car is buckled every morning. I drive alone.", "image_prompt": "close shot of a buckled rear seatbelt across an empty backseat of a parked car at dawn, the metal latch visible in the receiver, dim garage light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two thousand nineteen Honda Civic. One car. One driver.", "image_prompt": "wide shot of a Honda Civic parked alone in an attached residential garage at night, no people visible, dim overhead bulb, vertical 9:16 framing"},
+    {"id": 3, "narration": "Park in the garage. Lock the car. Go inside.", "image_prompt": "close shot of a car key fob in a hand pressing the lock button beside a Honda Civic in a garage, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Dropped my phone last March. Reached back. Hand hit the buckle.", "image_prompt": "close detail of a hand reaching toward the back seat of a car between the front seats, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Thought a friend had left it. None had been in the car for months.", "image_prompt": "close shot of an empty backseat of a car with one rear seatbelt visibly buckled across the cushion, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Unbuckled it. Locked the car. Went inside.", "image_prompt": "close detail of a hand pressing the red release button on a rear seatbelt buckle, only the hand visible, dim car interior light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Buckled again by morning.", "image_prompt": "close shot of a rear car seatbelt fastened tightly across an empty backseat at dawn, the buckle clearly engaged, dim morning light through the windshield, vertical 9:16 framing"},
+    {"id": 8, "narration": "Set the dashcam to record overnight.", "image_prompt": "close shot of a small dashcam mounted to a windshield with a small red recording light glowing, dim car interior at night, vertical 9:16 framing"},
+    {"id": 9, "narration": "Footage shows an empty backseat. Audio captures a buckle clicking at three fourteen AM.", "image_prompt": "close shot of a laptop screen showing dashcam footage of a darkened empty car interior with a waveform audio spike visible at the bottom of the screen, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week the belt was pulled tight. Like it was holding something heavy in place.", "image_prompt": "close detail of a rear car seatbelt drawn taut across an empty backseat cushion with the strap fully extended from the retractor, dim garage light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I park on the street now.", "image_prompt": "wide shot of a Honda Civic parked on a quiet residential street at night under a streetlight, no people visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "My dashcam now records the belt unbuckling at seven AM. The same time I leave for work every day.", "image_prompt": "close shot of a smartphone screen showing dashcam playback of a rear car seatbelt visibly releasing from its buckle with a timestamp reading seven zero zero AM, vertical 9:16 framing"}
+  ]
+}

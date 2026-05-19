@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-welcome-mat-moves-001",
+  "character": "narrator",
+  "topic": "My welcome mat moves four feet to the left every Tuesday night and now it is hanging off the porch",
+  "title": "My Welcome Mat Moves Four Feet to the Left Every Tuesday Night | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My welcome mat moves four feet to the left every Tuesday night. It has been moving west for ten months.", "image_prompt": "wide shot of a residential front porch at dawn with a brown welcome mat visible four feet away from the doormat's normal position by the front door, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two bedroom rental. Quiet street. I live alone.", "image_prompt": "wide exterior of a small single story rental house in a quiet residential neighborhood at dusk, no people visible, dim porch light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Get the newspaper Wednesday mornings.", "image_prompt": "close shot of a rolled up newspaper resting on a wooden porch beside the doormat at dawn, dim early light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed it last fall. Mat had been straight Tuesday evening.", "image_prompt": "close detail of a brown welcome mat placed squarely in front of a wooden front door at dusk, porch light on, vertical 9:16 framing"},
+    {"id": 5, "narration": "Blamed the wind.", "image_prompt": "wide shot of a porch at dawn with leaves scattered across the wooden boards and the welcome mat displaced to the left of the door, dim early morning light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Weighted it with two bricks Tuesday night. Wednesday morning the mat had moved. Bricks still on top.", "image_prompt": "close shot of a welcome mat with two red bricks resting on top of it sitting four feet from the front door of a residential porch, dim morning light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Pointed my doorbell camera at the porch.", "image_prompt": "close shot of a smart doorbell camera mounted beside a front door angled down at the porch boards, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Camera showed nothing. Mat was four feet west by sunrise.", "image_prompt": "close shot of a smartphone screen displaying doorbell camera footage of a porch with the welcome mat visibly in a different position than its starting frame, vertical 9:16 framing"},
+    {"id": 9, "narration": "Drove wood screws through the corners. Anchored it to the porch boards.", "image_prompt": "close detail of a hand using a power drill to drive a screw through the corner of a brown welcome mat into wooden porch boards, only the hand visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "The mat moved. Screws still inside. The porch boards now have a row of holes leading west.", "image_prompt": "close shot of a wooden front porch with a single line of small drilled holes running across the boards from the front door toward the left edge of the porch, dim morning light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have stopped trying to anchor it.", "image_prompt": "wide shot of a small residential porch with a welcome mat sitting near the far edge of the porch boards almost off the steps, dim afternoon light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Last Wednesday it was hanging off the edge of the porch. Only a corner still on the boards.", "image_prompt": "close shot of a brown welcome mat draped over the edge of a wooden porch with only one corner remaining on the boards, dim morning light, vertical 9:16 framing"}
+  ]
+}

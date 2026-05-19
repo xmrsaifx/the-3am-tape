@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-microwave-eighty-eight-001",
+  "character": "narrator",
+  "topic": "My microwave clock shows eighty eight colon eighty eight every night at exactly two AM",
+  "title": "My Microwave Clock Shows 88:88 Every Night at Exactly 2 AM | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My microwave clock shows eighty eight colon eighty eight every night at exactly two AM. The display does not blink.", "image_prompt": "close shot of an over the stove microwave at night in a dark kitchen with the digital display reading eight eight colon eight eight in green digits, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Galley kitchen. One bedroom apartment. Lived here nine years.", "image_prompt": "wide interior of a small galley kitchen at night with cabinets on both sides and a microwave over the stove, dim overhead light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I keep odd hours. Drink water at two.", "image_prompt": "close shot of a glass of water on a kitchen counter beside a stainless steel sink, dim ambient kitchen light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed last winter the display went dim for thirty seconds. Same time every night.", "image_prompt": "close detail of a microwave digital display reading two zero zero AM in green digits, dim kitchen ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Set up a timer to watch.", "image_prompt": "close shot of a smartphone propped on a kitchen counter angled at a microwave display, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Not dim. Changes to eight eight colon eight eight. Holds for thirty seconds. Returns.", "image_prompt": "close detail of a microwave digital display reading eight eight colon eight eight in bright green digits against a dark kitchen background, vertical 9:16 framing"},
+    {"id": 7, "narration": "Unplugged it.", "image_prompt": "close shot of a hand pulling a microwave plug from a wall outlet behind a kitchen counter, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Display stayed lit. No power. Same eight digits.", "image_prompt": "close detail of an unplugged microwave with the digital display still glowing eight eight colon eight eight at night, the power cord visible hanging loose, vertical 9:16 framing"},
+    {"id": 9, "narration": "Stood in front of it last Tuesday at two AM. Watched the digits change.", "image_prompt": "wide shot of a dark kitchen at night with a single person seen from behind facing a glowing microwave, no face visible, vertical 9:16 framing"},
+    {"id": 10, "narration": "Eight digits rearranged into the month and day and year I was born.", "image_prompt": "close detail of a microwave digital display showing a sequence of green digits that form a date with hyphens visible between sets, dim kitchen background, vertical 9:16 framing"},
+    {"id": 11, "narration": "Took the microwave to a recycling center. Bought a new one.", "image_prompt": "wide exterior shot of an electronics recycling drop off bin at dusk with a microwave visible on top of the pile, dim warehouse lighting, vertical 9:16 framing"},
+    {"id": 12, "narration": "The new microwave does the same thing. Same digits. Same time. Same birthdate.", "image_prompt": "close shot of a brand new microwave installed over a kitchen stove with the display glowing eight eight colon eight eight at night, dim ambient light, vertical 9:16 framing"}
+  ]
+}

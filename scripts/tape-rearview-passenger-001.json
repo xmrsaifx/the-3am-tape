@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-rearview-passenger-001",
+  "character": "narrator",
+  "topic": "There is a passenger in my rearview mirror at every red light but the backseat is empty when I turn around",
+  "title": "There Is a Passenger in My Rearview Mirror at Every Red Light | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a passenger in my rearview mirror at every red light. The backseat is empty when I turn around.", "image_prompt": "close shot of a rearview mirror in a car at night reflecting a darkened backseat with the faint outline of a head and shoulders silhouette, traffic light glow seen through the rear window, vertical 9:16 framing"},
+    {"id": 2, "narration": "Drive home every night from downtown. Eight red lights between the office and my driveway.", "image_prompt": "wide shot of a city downtown street at night viewed through a car windshield, a red traffic light visible ahead, dim street lamps, vertical 9:16 framing"},
+    {"id": 3, "narration": "Two thousand sixteen Toyota. I drive alone.", "image_prompt": "close shot of the interior of a Toyota sedan at night from the driver's perspective, only the steering wheel and dashboard visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed it six months ago. Only at red lights. Head and shoulders. Sitting upright behind me.", "image_prompt": "close detail of a rearview mirror showing a faint humanoid silhouette in the empty backseat of a car, the red glow of a stoplight reflecting on the dashboard, vertical 9:16 framing"},
+    {"id": 5, "narration": "Adjusted the mirror. Wiped it down.", "image_prompt": "close shot of a hand wiping a rearview mirror with a cloth from the driver's seat, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Still there. Same shape. Same posture. Tilts when the car turns.", "image_prompt": "close shot of a rearview mirror at a red light reflecting a still humanoid silhouette in the empty backseat, red ambient glow on the windshield, vertical 9:16 framing"},
+    {"id": 7, "narration": "Turned around to look.", "image_prompt": "wide interior shot of a car backseat seen from over the driver's shoulder, the seat empty, a single dome light barely glowing, vertical 9:16 framing"},
+    {"id": 8, "narration": "Empty. Belt unbuckled. Cushion flat. Looked back at the mirror. Still there.", "image_prompt": "close detail of a clean empty backseat of a car with the seatbelt hanging loose, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Filmed the mirror with my phone for a week. The footage shows my empty backseat. The eyes do not show.", "image_prompt": "close shot of a smartphone mounted to the dashboard with the screen showing video of an empty backseat reflected in a rearview mirror, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last Tuesday at Fourth and Brannan the silhouette turned its head and looked directly at me.", "image_prompt": "close shot of a rearview mirror at night reflecting a faintly turned humanoid silhouette in the backseat angled toward the front, red stoplight glow on the windshield, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have started taking the long way home.", "image_prompt": "wide shot of an empty suburban street at night seen through a car windshield, no traffic lights ahead, dim moonlight, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the cushion in my backseat held a faint indent. Anchor shaped. Like a car seat had been there.", "image_prompt": "close detail of a car backseat cushion with a small rectangular indent pressed into the fabric near the seatbelt anchor, dim garage light, vertical 9:16 framing"}
+  ]
+}
