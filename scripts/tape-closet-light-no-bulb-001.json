@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-closet-light-no-bulb-001",
+  "character": "narrator",
+  "topic": "The closet light in my apartment is on every morning and the fixture has no bulb in it",
+  "title": "The Closet Light in My Apartment Is On Every Morning. The Fixture Has No Bulb. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The closet light in my bedroom is on every morning. The fixture has no bulb in it.", "image_prompt": "close shot of a bedroom closet door at dawn with a soft yellow glow visible at the bottom seam, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Rental apartment. Six months. Walk in closet off the bedroom.", "image_prompt": "wide interior of a small bedroom at dusk with a closed walk in closet door on one wall, dim ambient light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Open the closet daily for clothes.", "image_prompt": "close shot of a hand turning a small brass closet doorknob, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First noticed the glow under the door.", "image_prompt": "close detail of a bedroom floor showing a thin line of soft yellow light spilling from the gap beneath a closet door, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Thought I had left a flashlight inside.", "image_prompt": "wide interior of a small walk in closet with clothes hanging neatly on a rod and a small overhead fixture visible above, dim glow inside, vertical 9:16 framing"},
+    {"id": 6, "narration": "Empty except clothes. Glow comes from the fixture itself.", "image_prompt": "close shot of a small ceiling light fixture inside a closet with the housing glowing softly yellow from inside, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Removed the bulb when I moved in. Never replaced it. Burnt out.", "image_prompt": "close detail of an empty light bulb socket inside a closet ceiling fixture, the threads visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Looked inside the socket. The metal contacts are glowing yellow.", "image_prompt": "close detail of a closet ceiling light socket with the small metal contacts at the base glowing soft yellow, dim closet interior light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Cut power to the closet breaker.", "image_prompt": "close shot of a residential breaker panel with one switch flipped to the off position, dim utility room light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Glow persisted. Brighter on Tuesdays. Brightest at three fourteen AM.", "image_prompt": "wide interior of a darkened bedroom at night with a brighter yellow glow visible spilling from beneath a closet door, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I keep the closet door closed.", "image_prompt": "close shot of a closet door wedged shut with a small wooden door wedge against the floor, dim bedroom light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The yellow glow is now visible from under the bedroom door too. It is spreading.", "image_prompt": "wide interior of a hallway at night looking at a closed bedroom door with soft yellow light spilling from the gap beneath it, dim ambient light, vertical 9:16 framing"}
+  ]
+}

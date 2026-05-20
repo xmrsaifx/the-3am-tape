@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-hallway-carpet-wear-001",
+  "character": "narrator",
+  "topic": "There is a wear pattern in my hallway carpet that leads to a wall with no door",
+  "title": "There Is a Wear Pattern in My Hallway Carpet That Leads to a Wall | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a wear pattern in my hallway carpet that leads to a wall. The wall has no door.", "image_prompt": "wide interior of a narrow apartment hallway with a darker worn path visible across the carpet ending at a blank south wall, dim overhead light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two bedroom apartment. Six years. New construction.", "image_prompt": "wide exterior of a modern low rise apartment building at dusk with the unit balcony visible, dim ambient light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Walk from kitchen to bedroom daily.", "image_prompt": "close shot of a hardwood floor transition to carpet in an apartment hallway, no figures, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed last August. Narrow worn path perpendicular to my route.", "image_prompt": "close detail of a beige hallway carpet showing a distinct darker rectangular worn track running crosswise to the natural foot traffic direction, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Thought it was a previous tenant.", "image_prompt": "wide shot of an empty modern apartment hallway with bare walls and beige carpet, dim natural light, no people, vertical 9:16 framing"},
+    {"id": 6, "narration": "Apartment was new construction. No previous tenant.", "image_prompt": "close detail of a glossy printed apartment lease document on a wooden desk showing the move in date, dim desk lamp light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Vacuumed the wear pattern. Pile lifted. Discoloration stayed.", "image_prompt": "close shot of a vacuum cleaner upright on a hallway carpet with a visible darker line still showing through the freshly vacuumed pile, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Stain follows the same line. Ends at the south wall.", "image_prompt": "close detail of a beige hallway carpet showing a continuous darker stripe ending at the base of a smooth painted wall, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Knocked on the wall along the line.", "image_prompt": "close shot of a hand pressing against a painted hallway wall with knuckles raised in a knocking position, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Hollow at the end of the line. Faint outline of a door frame painted over.", "image_prompt": "close detail of a painted wall under flashlight beam showing the faint rectangular outline of a door frame beneath the paint, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have not opened the wall.", "image_prompt": "wide interior of an apartment hallway at night with the faint door outline barely visible at the end of the carpet wear, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The wear pattern is now visible on the other side of the hallway too. Something walks both ways.", "image_prompt": "close detail of a hallway carpet showing two parallel darker worn tracks running in opposite directions on opposite sides of the hall, dim ambient light, vertical 9:16 framing"}
+  ]
+}

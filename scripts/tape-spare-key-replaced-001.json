@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-spare-key-replaced-001",
+  "character": "narrator",
+  "topic": "The spare key under my flowerpot is replaced with a different key every Monday morning",
+  "title": "The Spare Key Under My Flowerpot Is Replaced with a Different Key Every Monday | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The spare key under my flowerpot is replaced with a different key every Monday morning.", "image_prompt": "close shot of a terra cotta flowerpot tilted up on a porch revealing a single silver key on the concrete beneath, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Front porch. Terra cotta pot. Brass house key for twelve years.", "image_prompt": "wide shot of a small wooden residential porch with a single terra cotta flowerpot beside the door, dim ambient light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I water the plant Sunday evenings.", "image_prompt": "close shot of a hand pouring water from a metal can into a small terra cotta flowerpot on a porch, only the hand visible, dim dusk light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Picked up the key last spring. It was silver.", "image_prompt": "close detail of a hand holding a small silver key on a porch beside an upturned terra cotta flowerpot, only the hand visible, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Brass key still on my keyring. The silver key did not fit my door.", "image_prompt": "close shot of a brass key inserted into a residential front door lock, only the hand and key visible, dim porch light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Tested every lock on my property. None matched.", "image_prompt": "close detail of a small wooden side table with three different door locks lined up beside a silver key, dim garage light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Photographed and saved the key. Next Monday a different one.", "image_prompt": "close shot of a wooden drawer with five different keys laid out in a row on a paper towel, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Thirty seven keys now. None match anything on my street.", "image_prompt": "wide shot of a wooden table covered with thirty seven different keys arranged in a grid pattern, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Tried the most recent key in my neighbor's mailbox.", "image_prompt": "close shot of a hand inserting a small key into a residential mailbox lock at the end of a driveway, only the hand visible, dim afternoon light, vertical 9:16 framing"},
+    {"id": 10, "narration": "It opened.", "image_prompt": "close detail of a residential mailbox door swung open showing a single white envelope inside, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have stopped trying the keys.", "image_prompt": "close shot of a wooden drawer being slid closed over a pile of thirty seven different keys, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This Monday the key was my own original brass house key. Bent. Like it had been used.", "image_prompt": "close detail of a single brass house key resting on a porch with a slight bend in the metal teeth, dim morning light, vertical 9:16 framing"}
+  ]
+}

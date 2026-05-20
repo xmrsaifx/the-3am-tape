@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-phone-contact-front-door-001",
+  "character": "narrator",
+  "topic": "There is a contact in my phone I did not add and the profile photo is the outside of my own front door",
+  "title": "There Is a Contact in My Phone I Did Not Add. The Photo Is My Front Door. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a contact in my phone I did not add. The profile photo is the outside of my own front door.", "image_prompt": "close shot of a smartphone contacts screen showing one nameless contact entry with a small square photo of a residential front door from outside, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Iphone. Four years old. No shared accounts.", "image_prompt": "close shot of a smartphone resting screen up on a wooden nightstand, the contacts app icon visible on the home screen, dim bedroom light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Scroll contacts every morning for work.", "image_prompt": "close shot of a hand scrolling through a contacts list on a smartphone, only the thumb and screen visible, dim morning light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Saw the entry last fall. No name. Photo set.", "image_prompt": "close detail of a smartphone contacts entry with a blank name field and a small square photo of a residential front door at night, vertical 9:16 framing"},
+    {"id": 5, "narration": "Zoomed in. The doormat in the photo was my doormat.", "image_prompt": "close shot of a smartphone screen displaying a zoomed in photo of a residential porch with a specific patterned doormat visible at night, vertical 9:16 framing"},
+    {"id": 6, "narration": "Taken from porch level. At night. From outside my locked door.", "image_prompt": "close detail of a smartphone showing a low angle photograph of a residential porch and front door taken at night from a height of about three feet, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Deleted the contact.", "image_prompt": "close shot of a thumb pressing the delete contact button on a smartphone screen, only the thumb and screen visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Came back overnight. Same photo. Same blank name.", "image_prompt": "close shot of a smartphone screen the next morning showing the same nameless contact restored at the top of the list, dim morning light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Last week the contact started calling. My own number shows on the screen.", "image_prompt": "close detail of a smartphone screen during an incoming call showing the caller ID as the user's own phone number, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Answered Tuesday. Heard my own breathing on the other end. Then a doorknob turning.", "image_prompt": "close shot of a smartphone held to an ear in a dark hallway, only the hand and phone visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I do not answer it anymore.", "image_prompt": "close detail of a smartphone screen showing a missed call notification labeled unknown caller, dim bedside lamp light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The contact photo updates weekly. Each angle is closer to the doormat.", "image_prompt": "close shot of a smartphone screen displaying a contact profile photo of a porch doormat seen from a closer angle than the previous frame, dim ambient light, vertical 9:16 framing"}
+  ]
+}

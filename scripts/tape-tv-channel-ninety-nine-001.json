@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-tv-channel-ninety-nine-001",
+  "character": "narrator",
+  "topic": "My old basement television turns on by itself every night and plays a channel that does not exist",
+  "title": "My Basement TV Turns On Every Night and Plays a Channel That Does Not Exist | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My basement television turns on by itself every night and plays channel ninety nine. There is no channel ninety nine.", "image_prompt": "close shot of a nineteen nineties Sony Trinitron tube television in a dim basement showing black and white static with a small ninety nine indicator visible at the corner, dim ambient light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Nineteen ninety four Sony Trinitron. Rec room. Rabbit ear antenna.", "image_prompt": "wide interior of a wood paneled basement rec room with a vintage tube television on a low wooden stand and rabbit ear antennas on top, dim single bulb light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Have not used it in three years.", "image_prompt": "close detail of a dusty Sony Trinitron tube television sitting unused on a wooden stand, dust visible on the top, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed glow under the basement door last summer.", "image_prompt": "wide interior of a dim hallway looking at a closed wooden basement door with a soft cool glow spilling from the gap underneath, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Assumed I had left it on.", "image_prompt": "close shot of a hand reaching for a tube television power button on the front panel, only the hand visible, dim basement light, vertical 9:16 framing"},
+    {"id": 6, "narration": "TV power off. Antenna unplugged. Channel display reads ninety nine.", "image_prompt": "close detail of a vintage television control panel with the power indicator dark and the channel digit display showing nine nine, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Unplugged it from the wall.", "image_prompt": "close shot of a hand pulling a two pronged television power plug from a wall outlet, only the hand visible, dim basement light, vertical 9:16 framing"},
+    {"id": 8, "narration": "TV came on anyway. Picture fuzzy. Black and white.", "image_prompt": "close shot of an unplugged vintage television showing a fuzzy black and white static image on the screen, the power cord visible on the floor, dim basement light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Recorded the screen on my phone for an hour.", "image_prompt": "close shot of a smartphone on a tripod recording the screen of a vintage tube television, dim basement light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Picture was a static security camera shot of my basement from a low angle. The TV was in the frame. So was I.", "image_prompt": "close detail of a tube television screen displaying a grainy black and white security camera angle showing a basement room with a person seated in front of the same television, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I do not go in the basement anymore.", "image_prompt": "wide shot of a closed basement door from the hallway side with a dim cool glow visible underneath, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I can hear the volume rising through the closed basement door at night.", "image_prompt": "close detail of a closed wooden basement door at night with a cool flickering glow visible at the floor seam, dim ambient light, vertical 9:16 framing"}
+  ]
+}

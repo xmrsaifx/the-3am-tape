@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-bathroom-mirror-hello-001",
+  "character": "narrator",
+  "topic": "The word HELLO appears in the steam on my bathroom mirror every morning and I shower alone",
+  "title": "The Word HELLO Appears in the Steam on My Bathroom Mirror Every Morning | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Words appear in the steam on my bathroom mirror after I shower. I shower alone.", "image_prompt": "close shot of a fogged bathroom mirror with the letters of a word faintly visible drawn through the condensation, dim bathroom light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Small windowless bathroom. Electric extractor fan above the toilet.", "image_prompt": "wide interior of a small windowless bathroom with a sink and mirror visible and an extractor fan grille on the ceiling, dim overhead light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Shower seven AM weekdays.", "image_prompt": "close shot of a chrome shower head with water beading on the underside, dim bathroom light, no people, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed last December. A single curled line across the mirror.", "image_prompt": "close detail of a fogged bathroom mirror with one curving line drawn through the condensation across its surface, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Assumed condensation pattern.", "image_prompt": "wide shot of a small bathroom with a fully fogged mirror visible above the sink, dim overhead light, no people, vertical 9:16 framing"},
+    {"id": 6, "narration": "Not random. Formed letters. Finger drag pattern across the glass.", "image_prompt": "close shot of a fogged bathroom mirror showing five clear letters drawn through the condensation visibly in finger width strokes, dim bathroom light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Photographed it the next morning.", "image_prompt": "close shot of a smartphone held up to photograph a fogged bathroom mirror, only the hand and phone visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Same word. Different orientation each day. The word was HELLO.", "image_prompt": "close detail of a fogged bathroom mirror clearly showing the word HELLO drawn backwards through the condensation, dim bathroom light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Turned the extractor fan on full. Ran the shower cold.", "image_prompt": "wide shot of a small bathroom with steam clearly being pulled toward a ceiling fan grille, the mirror only lightly fogged, dim overhead light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Less steam. The word appeared anyway. In a colder droplet pattern.", "image_prompt": "close detail of a barely fogged bathroom mirror with the word HELLO visible in a pattern of tiny water droplets across its surface, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Started showering at the gym.", "image_prompt": "wide interior of a public gym locker room with a row of shower stalls and a long mirror above the sinks, dim fluorescent light, no people, vertical 9:16 framing"},
+    {"id": 12, "narration": "Came home Saturday. Bathroom mirror dry. The word is etched into the silver backing. Permanent.", "image_prompt": "close shot of a dry bathroom mirror with the letters of a word visibly etched into the silver coating behind the glass, dim ambient light, vertical 9:16 framing"}
+  ]
+}

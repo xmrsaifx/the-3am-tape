@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-stove-burner-warm-001",
+  "character": "narrator",
+  "topic": "The back left burner on my stove is warm when I come home and the gas has been off at the wall valve",
+  "title": "The Back Left Burner on My Stove Is Warm Every Night. The Gas Is Off. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The back left burner on my stove is warm when I come home from work. The knob is off.", "image_prompt": "close shot of an eighties era gas stove with four burners visible the back left grate glowing faintly warm, dim kitchen light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Rented bungalow. Gas stove from the eighties. Never replaced.", "image_prompt": "wide interior of a small kitchen with a vintage white gas stove against the wall, dim warm overhead light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Leave at seven thirty AM. Return at six PM.", "image_prompt": "close shot of a hand on a brass front doorknob from inside the entryway, only the hand visible, dim afternoon light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Brushed the burner reaching for a pan. Hot.", "image_prompt": "close detail of a hand recoiling from a gas stove burner grate, only the hand visible, dim kitchen light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Checked the knob. Off position. Pilot light dark.", "image_prompt": "close shot of a gas stove control knob in the off position with the small flame indicator visible beside it, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Shut the gas off at the wall valve before leaving.", "image_prompt": "close shot of a hand turning a yellow gas valve handle perpendicular to the gas line behind a stove, only the hand visible, dim kitchen light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Came home. Burner warm again.", "image_prompt": "close detail of a gas stove back left burner grate glowing faintly warm in a dim kitchen, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Pulled the stove out. Disconnected the gas line.", "image_prompt": "wide shot of a kitchen with a gas stove pulled away from the wall and the disconnected gas line visible on the floor behind it, dim overhead light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Still warm. Faint smell of food I do not cook.", "image_prompt": "close shot of a gas stove still in the kitchen with a thin wisp of steam rising from the back left burner area, dim kitchen light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Coffee. The smell is coffee. I do not drink coffee.", "image_prompt": "close detail of an empty stainless steel coffee percolator sitting on a kitchen counter near a stove, dim ambient light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Replaced the stove with an electric range.", "image_prompt": "wide shot of a brand new black electric range installed in the same kitchen position, the old gas stove visible at the curb outside through a window, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The new back left burner is warm too. The coffee smell is stronger.", "image_prompt": "close detail of a black glass top electric stove with the back left burner element visibly glowing faintly red, dim kitchen light, vertical 9:16 framing"}
+  ]
+}

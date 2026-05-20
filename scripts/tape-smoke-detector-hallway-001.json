@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-smoke-detector-hallway-001",
+  "character": "narrator",
+  "topic": "A smoke detector in my studio apartment chirps from a hallway my floor plan does not include",
+  "title": "A Smoke Detector Chirps from a Hallway My Apartment Does Not Have | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "A smoke detector in my apartment chirps from a hallway my floor plan does not include.", "image_prompt": "wide interior of a small studio apartment with a single blank north wall, dim overhead light, no doors visible on that wall, vertical 9:16 framing"},
+    {"id": 2, "narration": "Studio apartment. One main room. One bathroom. No hallways.", "image_prompt": "wide interior of a small modern studio apartment with a bed visible on one side and a kitchenette on the other, dim warm light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Heard the chirp two months ago.", "image_prompt": "close shot of a person seated on a couch from behind facing a blank apartment wall, no face visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Chirp pattern was consistent. North wall. Smoke detector height. Every fifty four seconds.", "image_prompt": "close detail of a blank white drywall section with a digital clock on a side table reading nighttime hours, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Figured it was a neighbor.", "image_prompt": "wide shot of a residential apartment hallway exterior at night with closed numbered doors lining the corridor, dim fluorescent overhead, vertical 9:16 framing"},
+    {"id": 6, "narration": "My unit is the corner. No neighbor on that side.", "image_prompt": "close detail of an apartment building floor plan on paper showing a corner unit with no adjacent unit on the north side, dim desk lamp light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Cut the drywall open.", "image_prompt": "close shot of a hand cutting through a section of drywall with a small utility knife, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Narrow corridor behind the wall. Smoke detector wired to nothing. Wooden beams.", "image_prompt": "close detail of a hollow narrow space behind a cut drywall section with a small white smoke detector mounted to a wooden beam, dim flashlight beam visible, vertical 9:16 framing"},
+    {"id": 9, "narration": "Photographed the corridor. Sent it to management.", "image_prompt": "close shot of a smartphone screen displaying a photo of a hidden hallway with a smoke detector visible on a wooden beam, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Management sent me the original building plans. The hallway is there. It has a door at the other end. Opens into my bedroom closet.", "image_prompt": "close detail of a printed architectural floor plan with a narrow corridor drawn between two units and a small doorway opening into a closet square, dim desk lamp light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I screwed plywood over the wall opening.", "image_prompt": "close shot of a sheet of plywood screwed flush against a section of drywall with visible screw heads at each corner, dim apartment light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The detector still chirps. Same interval. From inside the closet now.", "image_prompt": "wide interior of a small bedroom at night with the closet door visibly closed, dim ambient light, no figures, vertical 9:16 framing"}
+  ]
+}

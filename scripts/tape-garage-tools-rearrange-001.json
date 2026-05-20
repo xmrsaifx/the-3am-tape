@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-garage-tools-rearrange-001",
+  "character": "narrator",
+  "topic": "The tools on my garage workbench rearrange themselves into letters every Wednesday night",
+  "title": "The Tools on My Garage Workbench Rearrange into Letters Every Wednesday | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The tools on my garage workbench rearrange themselves into letters every Wednesday night.", "image_prompt": "wide interior of a detached garage at night with a wooden pegboard wall and tools laid out on a workbench in shapes that loosely resemble letters, dim single bulb light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Detached garage. Pegboard wall. Organized by category for fifteen years.", "image_prompt": "wide shot of a tidy garage workbench with a pegboard above it covered in hand tools hanging in neat rows, dim ambient light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Weekend projects in summer. Garage stays closed all winter.", "image_prompt": "wide exterior of a closed white detached garage door at dusk in a residential backyard, dim porch light, no people, vertical 9:16 framing"},
+    {"id": 4, "narration": "Came in Thursday last March. Tools were on the bench.", "image_prompt": "close shot of a wooden workbench with several wrenches and screwdrivers scattered across its surface in a rough pattern, dim morning light through a window, vertical 9:16 framing"},
+    {"id": 5, "narration": "Garage door locked. No footprints in the dust.", "image_prompt": "close detail of a concrete garage floor showing a thin even layer of dust with no footprints across it, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Started photographing the pegboard every Wednesday before locking up.", "image_prompt": "close shot of a smartphone held up to photograph a pegboard of tools, only the hand and phone visible, dim garage light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Photos show the same tools rearranged each week into shapes.", "image_prompt": "wide shot of two smartphone photos side by side on a kitchen counter showing tools arranged in different patterns on the same workbench, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Laid them flat on a sheet of plywood. Photographed from above.", "image_prompt": "close detail of a sheet of plywood on a garage floor with hand tools arranged across its surface in an organized pattern, dim overhead light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Letters. Each week a few more. Sentence forming over six weeks.", "image_prompt": "close shot of a smartphone screen displaying a grid of six tool photographs each forming a different letter visible from above, dim ambient light, vertical 9:16 framing"},
+    {"id": 10, "narration": "The sentence read MY KEYS ARE STILL IN HERE.", "image_prompt": "close detail of a plywood sheet with hand tools arranged to spell out a complete sentence visible from above, dim garage light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Searched the rafters. Found a ring of keys on a hook I did not install.", "image_prompt": "close shot of a brass ring of old keys hanging from a small hook attached to a wooden garage rafter, dim flashlight beam visible, vertical 9:16 framing"},
+    {"id": 12, "narration": "The keys are old. None fit anything on my property. Each fits something somewhere.", "image_prompt": "close detail of an old brass ring with eight different aged keys laid out on a wooden workbench, dim ambient light, vertical 9:16 framing"}
+  ]
+}

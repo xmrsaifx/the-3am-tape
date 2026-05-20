@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-wind-chime-no-wind-001",
+  "character": "narrator",
+  "topic": "The wind chime in my backyard rings only on still nights and the pattern is Morse code for my middle name",
+  "title": "The Wind Chime in My Backyard Rings Only When There Is No Wind | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The wind chime in my backyard rings only on still nights. The local weather station reports zero wind.", "image_prompt": "close shot of a single brass wind chime hanging motionless under a wooden porch overhang at night, deep shadow behind, dim porch light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Small backyard. Brass chime my aunt gave me. Hung from the porch rafter.", "image_prompt": "wide exterior of a small fenced backyard at dusk with a wooden porch and a single brass wind chime visible hanging from the eave, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I drink coffee on the porch at six AM.", "image_prompt": "close shot of a ceramic coffee mug resting on a wooden porch railing at dawn, dim early morning light, no people, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed last May. Perfect still nights. Chime ringing for thirty minutes.", "image_prompt": "close detail of a brass wind chime hanging perfectly still in a quiet backyard at night, no wind motion visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Checked the anemometer on my roof.", "image_prompt": "close shot of a small white anemometer on a residential rooftop at night, the cups motionless, dim sky behind, vertical 9:16 framing"},
+    {"id": 6, "narration": "Dead zero. Chime kept ringing.", "image_prompt": "wide shot of a backyard at night with a wind chime hanging from a porch, leaves on the lawn completely undisturbed, dim moonlight, vertical 9:16 framing"},
+    {"id": 7, "narration": "Took the chime down. Hung a piece of string in its place.", "image_prompt": "close shot of a single piece of cotton string hanging from a porch eave hook, dim porch light, vertical 9:16 framing"},
+    {"id": 8, "narration": "String never moved. Hung the chime again. Same pattern. Same nights.", "image_prompt": "close detail of a brass wind chime back in place hanging perfectly motionless under a porch eave, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Recorded the audio for a month. Played it for a musician friend.", "image_prompt": "close shot of a smartphone propped on a porch railing recording a wind chime, the audio recording app visible on the screen, dim porch light, vertical 9:16 framing"},
+    {"id": 10, "narration": "She said the pattern was Morse code. Spelled my middle name letter by letter.", "image_prompt": "close detail of a laptop screen displaying audio waveforms with Morse code dots and dashes annotated above the peaks, dim home office light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Took the chime down. Stored it in the basement.", "image_prompt": "close shot of a brass wind chime resting on a wooden basement shelf beside cardboard boxes, dim single bulb light, vertical 9:16 framing"},
+    {"id": 12, "narration": "I can hear it ringing through the closed basement door at night.", "image_prompt": "wide interior of a dim hallway at night looking at a closed wooden basement door, faint glow visible at the bottom seam, no figures, vertical 9:16 framing"}
+  ]
+}

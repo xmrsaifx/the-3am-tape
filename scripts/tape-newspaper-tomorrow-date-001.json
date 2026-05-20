@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-newspaper-tomorrow-date-001",
+  "character": "narrator",
+  "topic": "The newspaper on my porch arrives every morning with tomorrow's date printed on it",
+  "title": "My Morning Newspaper Arrives With Tomorrow's Date. The Stories Have Not Happened Yet. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The newspaper on my porch arrives every morning with tomorrow's date printed on the masthead.", "image_prompt": "close shot of a rolled morning newspaper resting on a wooden porch with the date band visible at the top of the masthead, dim early morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Suburb. Daily local paper. Subscribed since I retired.", "image_prompt": "wide exterior of a small single story suburban home with a paper box at the end of a long driveway, dim morning light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "Read it with coffee at six AM.", "image_prompt": "close shot of a ceramic coffee mug beside an unfolded newspaper on a wooden kitchen table, dim morning kitchen light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Glanced at the date last fall.", "image_prompt": "close detail of a newspaper masthead with a small date printed beneath the title, the day clearly readable, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Thought it was a printer error.", "image_prompt": "close shot of a hand pointing at the printed date on a newspaper masthead, only the hand and paper visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Every day for two months. Always one day ahead.", "image_prompt": "wide shot of a stack of recent newspapers on a kitchen counter with the top edges of multiple mastheads visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Called the paper. Confirmed they print today's date.", "image_prompt": "close shot of a corded landline phone receiver held to an ear at a kitchen wall, only the hand visible, dim ambient kitchen light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The rest of the paper is dated correctly. Just my copy.", "image_prompt": "close detail of two newspapers laid open side by side with their dates clearly different on each masthead, dim kitchen table light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Started reading the front page carefully.", "image_prompt": "close shot of an open newspaper on a wooden table with several front page articles visible, dim morning light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Article described a car accident on Highway forty seven. Two cars rear ended at three forty seven. It happened exactly.", "image_prompt": "wide shot of a suburban highway intersection at late afternoon with two cars stopped at a slight rear end angle, dim ambient light, no people, vertical 9:16 framing"},
+    {"id": 11, "narration": "I do not read the front page anymore.", "image_prompt": "close shot of a folded newspaper resting on a kitchen counter with the front page facing down, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning's paper had my own obituary in the back section. Dated next Tuesday.", "image_prompt": "close detail of a printed newspaper obituary page with a single boxed obituary visible at the top corner, dim ambient light, vertical 9:16 framing"}
+  ]
+}

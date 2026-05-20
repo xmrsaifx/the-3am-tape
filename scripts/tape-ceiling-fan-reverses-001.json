@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-ceiling-fan-reverses-001",
+  "character": "narrator",
+  "topic": "My ceiling fan rotates counterclockwise every Sunday and the chain does not turn with the blades",
+  "title": "My Ceiling Fan Rotates Counterclockwise Every Sunday. The Chain Stays Still. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My ceiling fan rotates counterclockwise every Sunday. The pull chain does not turn with the blades.", "image_prompt": "close shot of a vintage brass ceiling fan rotating in a small living room at dusk, the pull chain visible hanging perfectly still beneath the motor housing, dim lamp light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Nineteen seventies ranch house. Original brass fan. Original chain.", "image_prompt": "wide interior of a small wood paneled living room with a single brass ceiling fan in the center of the ceiling, dim afternoon light, no people visible, vertical 9:16 framing"},
+    {"id": 3, "narration": "I keep it on low all summer.", "image_prompt": "close detail of a brass ceiling fan motor housing with a small low setting indicator visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed last June. Sunday afternoon. Blades going the wrong direction.", "image_prompt": "close shot of a ceiling fan with the blades motion blurred rotating in a reverse direction, dim warm sunlight through a curtain, vertical 9:16 framing"},
+    {"id": 5, "narration": "Checked the housing switch. Set to summer.", "image_prompt": "close detail of a hand reaching up to the side of a ceiling fan motor housing pointing at a small toggle switch, only the hand visible, dim ambient light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Cut the power at the breaker.", "image_prompt": "close shot of an open electrical breaker box on a wall with one switch flipped down to the off position, dim basement light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Blades kept turning. Chain perfectly still.", "image_prompt": "close detail of a rotating ceiling fan with the chain hanging completely motionless beneath it, dim ambient light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Removed the chain Sunday morning. Tools on the floor.", "image_prompt": "close shot of a pair of needle nose pliers and a small brass chain laying on a hardwood living room floor beneath a ceiling fan, dim ambient light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Monday the chain was reattached. Same notch. Same length.", "image_prompt": "close detail of a brass ceiling fan with the pull chain reattached and hanging neatly beneath the motor housing, dim morning light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Replaced the entire fan with a new one.", "image_prompt": "wide shot of a brand new white ceiling fan installed in the living room, the old brass fan visible in a cardboard box on the floor, dim warm light, vertical 9:16 framing"},
+    {"id": 11, "narration": "The new fan reverses every Sunday too. Chain still still.", "image_prompt": "close shot of the new white ceiling fan rotating counterclockwise with its chain hanging perfectly motionless beneath it, dim ambient light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The old brass fan is in the garage. I can hear it spinning out there too.", "image_prompt": "wide interior of a dim detached garage at night with the brass ceiling fan resting on a workbench, motion blur visible on its blades, dim single bulb light, vertical 9:16 framing"}
+  ]
+}
