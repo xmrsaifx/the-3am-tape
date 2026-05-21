@@ -1,14 +1,15 @@
-name: 3AM Tape — 1/day
+name: 3AM Tape — 2/day
 
 on:
-  # 1 upload/day, public-immediate (daily_pipeline.py default).
-  # Dropped from 4/day after 30 days of data showed the algorithm was
-  # suppressing distribution under high upload volume — new uploads
-  # averaged <20 views while older "starter push" uploads held 400-1200.
-  # Single cron fires at the US prime-time horror window: ~21:00 ET,
-  # right when viewers are scrolling Shorts before bed.
+  # 2 uploads/day, public-immediate (daily_pipeline.py default).
+  # Was 4/day until 2026-05-21 (algo was suppressing distribution under
+  # high upload volume — first 10 uploads avg 660 views, next 44 avg 22).
+  # Bumped to 2/day on 2026-05-21 — the two slots are 14 hours apart so
+  # they hit non-overlapping audience windows (US prime vs EU evening +
+  # PK late), giving the algo two clean shots/day at different viewers.
   schedule:
     - cron: '0 2 * * *'    # 02:00 UTC -> ~21:00 ET (US prime time, "story before bed")
+    - cron: '0 16 * * *'   # 16:00 UTC -> ~21:00 PKT / ~17:00 CET (EU early evening + PK late evening)
   workflow_dispatch:
     inputs:
       topic:

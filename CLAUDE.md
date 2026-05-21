@@ -9,9 +9,10 @@ Fully automated YouTube channel for analog-horror / true-scary-story narration. 
 - **Audience:** Horror Shorts viewers, late-night doom-scrollers
 - **Format:** **YouTube Shorts (vertical 9:16)** — 12 scenes, ~12-15 words narration each, target runtime 60-90 sec. (YouTube raised the Shorts duration cap to 180s in October 2024 — for analog horror narration, 60-90 sec is the sweet spot since the genre needs atmospheric build-up time that pure 60-sec cuts can't deliver.)
 - **Captions:** Anton bold-condensed @ 90pt, white phrase + per-word yellow karaoke highlight (the proven viral-Shorts caption format)
-- **Posting schedule:** **1 upload/day**, public-immediate, via single cron in `.github/workflows/daily.yml`:
+- **Posting schedule:** **2 uploads/day**, public-immediate, via 2 cron triggers in `.github/workflows/daily.yml`:
   - 02:00 UTC → US prime time (~21:00 ET, "horror story before bed" peak)
-  - Dropped from 4/day on 2026-05-21 after 30 days of stats showed the algorithm suppressing distribution under high upload volume. New uploads averaged <20 views while the first ~10 ("starter push") sat at 400-1200. At sub-1k subs YouTube rewards consistency at a sustainable cadence, not raw volume.
+  - 16:00 UTC → EU early evening (~17:00 CET) / PK late evening (~21:00 PKT)
+  - Was 4/day until 2026-05-21 — stats showed algo suppression at high upload volume (first 10 uploads avg 660 views, next 44 avg 22). 2/day splits the algo's daily impression budget across two non-overlapping audience windows (Western evening vs EU/PK evening), which is the sustainable cadence at sub-1k subs without flooding distribution.
 - **Cost:** ~$0/video — same free pipeline as money-crew (Pollinations + edge-tts + FFmpeg)
 
 ---

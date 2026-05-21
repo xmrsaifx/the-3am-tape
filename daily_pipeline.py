@@ -6,8 +6,8 @@ Logic:
      pipeline/script_generator.py from a fresh topic in the bank.
   3. If queue is empty AND no Claude key → fail loudly.
   4. Render via make_video.py (image gen + voice + assemble).
-  5. Upload to YouTube as PUBLIC IMMEDIATELY. Cron fires once daily at 02:00
-     UTC (US prime-time horror window) — see daily.yml. Was 4/day, dropped
+  5. Upload to YouTube as PUBLIC IMMEDIATELY. Cron fires 2x/day at 02:00 and
+     16:00 UTC (US prime + EU/PK evening) — see daily.yml. Was 4/day, dropped
      2026-05-21 after stats showed algo suppression at high upload volume.
   6. Archive the used script to scripts/archive/.
   7. Record the topic so it cools down for 30 days.
@@ -20,7 +20,7 @@ Usage:
     ./venv/bin/python daily_pipeline.py --no-upload              # render but skip upload
     ./venv/bin/python daily_pipeline.py --publish-at <ISO-8601>  # explicit scheduled publish (private + scheduled)
 
-Single host ("narrator"). One video per fire. Cron fires 1x/day from daily.yml.
+Single host ("narrator"). One video per fire. Cron fires 2x/day from daily.yml.
 """
 from __future__ import annotations
 
