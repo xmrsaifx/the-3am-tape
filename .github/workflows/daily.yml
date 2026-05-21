@@ -1,14 +1,14 @@
-name: 3AM Tape — 4/day sprint
+name: 3AM Tape — 1/day
 
 on:
-  # SPRINT MODE: 4 uploads/day, public-immediate (daily_pipeline.py default).
-  # Each cron is timed so render finishes during the corresponding target
-  # audience's peak horror viewing window (~10 min after cron fire).
+  # 1 upload/day, public-immediate (daily_pipeline.py default).
+  # Dropped from 4/day after 30 days of data showed the algorithm was
+  # suppressing distribution under high upload volume — new uploads
+  # averaged <20 views while older "starter push" uploads held 400-1200.
+  # Single cron fires at the US prime-time horror window: ~21:00 ET,
+  # right when viewers are scrolling Shorts before bed.
   schedule:
     - cron: '0 2 * * *'    # 02:00 UTC -> ~21:00 ET (US prime time, "story before bed")
-    - cron: '0 9 * * *'    # 09:00 UTC -> ~10:00 CET (EU mid-morning) / ~14:00 PKT (PK lunch break)
-    - cron: '0 16 * * *'   # 16:00 UTC -> ~21:00 PKT (local late evening) / ~17:00 CET (EU early evening)
-    - cron: '0 22 * * *'   # 22:00 UTC -> ~17:00 ET (US after-work) / ~22:00 GMT (UK prime time)
   workflow_dispatch:
     inputs:
       topic:

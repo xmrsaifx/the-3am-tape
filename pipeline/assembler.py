@@ -52,9 +52,12 @@ CAPTION_HIGHLIGHT_BOX_PADDING = 8
 # 4-5 words is comfortable to read without flickering.
 WORDS_PER_PHRASE = 4
 
-# Background music volume relative to narrator. 0.10 = music at 10% — present
-# but stays well under the voice. Tune higher for more prominent music.
-MUSIC_VOLUME = 0.10
+# Background music volume relative to narrator. 0.13 = present enough to give
+# the analog-horror atmosphere a floor, low enough that the calm narrator voice
+# still dominates. Was 0.10 (money-crew default, kids' beds). Horror narration
+# needs slightly more atmospheric pressure — top channels in the niche sit
+# their drone beds at 0.12-0.18.
+MUSIC_VOLUME = 0.13
 MUSIC_EXTENSIONS = {".mp3", ".m4a", ".wav", ".ogg", ".aac"}
 
 
