@@ -42,8 +42,8 @@ That's it. Drop the file in `scripts/`, commit, push (with confirmation). Next c
 | **Per-scene narration** | ~10–15 words (~5–8 seconds at narrator's slow rate) |
 | **Total narration words** | **95–150** |
 | **Aspect ratio** | 9:16 vertical (1080×1920) |
-| **Voice** | en-US-ChristopherNeural at **-25% rate, -10Hz pitch** (deep horror narration tuning) |
-| **Words-per-second** | ~1.57 wps at the V3 voice tuning. So 100 words ≈ 64 sec. |
+| **Voice** | en-US-ChristopherNeural at **-15% rate, -10Hz pitch** (deep horror narration tuning) |
+| **Words-per-second** | ~1.78 wps at -15% rate. So 100 words ≈ 56 sec. (Was ~1.57 wps at -25% — slowed pacing flagged by viewer feedback 2026-05-22.) |
 
 > **Why 60-90 sec is the sweet spot:** analog horror narration needs space to build dread. Pure 60-sec Shorts cut the atmosphere short. Channels in this niche (Be. Busta, ThatChapter) routinely run 90-120 sec because the genre demands it. Stay ≤180 sec to keep the Shorts classification.
 
@@ -80,7 +80,7 @@ That's it. Drop the file in `scripts/`, commit, push (with confirmation). Next c
 - **No quote marks anywhere.** Pipeline strips them. Render dialogue as reported speech.
 - **Spell out numbers.** TTS at slow rate mangles digits. "two thousand and four" not "2004"; "three AM" not "3 AM".
 - **Allowed punctuation:** letters, digits, spaces, periods, commas, `!`, `?`. Anything else is stripped from captions.
-- **~10-15 words per scene** at narrator's `-25%` rate ≈ 5-8 seconds. Mix impact beats (3-6 words) with standard scenes (10-15 words) for cinematic rhythm.
+- **~10-15 words per scene** at narrator's `-15%` rate ≈ 4-7 seconds. Mix impact beats (3-6 words) with standard scenes (10-15 words) for cinematic rhythm.
 - **Last scene has the punch** — unresolved beat or twist that reframes earlier scenes.
 
 ## Scene 1 hook is everything (the most important rule)

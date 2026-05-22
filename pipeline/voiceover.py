@@ -39,10 +39,13 @@ CHARACTER_VOICES = {
     "narrator": "en-US-ChristopherNeural",
 }
 
-# Horror tuning: slower rate + lower pitch. Tightens dread between phrases
-# and deepens the voice toward the Mr. Nightmare / Dr. Creepen register.
-# Going below -25%/-12Hz starts sounding warbly (V6 was over-tuned).
-NARRATION_RATE = "-25%"
+# Horror tuning: slower rate + lower pitch. Deepens the voice toward the
+# Mr. Nightmare / Dr. Creepen register without sounding warbly.
+# Rate was -25% until 2026-05-22 — viewer feedback (Facebook comment) flagged
+# the pacing as too slow. Bumped to -15%, which still sits below normal
+# speech (preserves dread between phrases) while feeling natural to listen
+# to. -10% and faster start sounding chipper for horror narration.
+NARRATION_RATE = "-15%"
 NARRATION_PITCH = "-10Hz"
 
 
