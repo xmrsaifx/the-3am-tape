@@ -144,6 +144,43 @@ def upload(
     url = f"https://www.youtube.com/watch?v={video_id}"
     when = f" (publishes at {publish_at})" if publish_at else f" ({privacy_status})"
     logger.info(f"upload OK: {url}{when}")
+
+    # Defensive re-flip: YouTube sometimes silently downgrades public API
+    # uploads to "unlisted" — common on channels that haven't completed
+    # advanced features verification, or when automated content review
+    # holds the upload. Read back the actual status; if it doesn't match
+    # what we asked for (and we asked for "public"), force a privacy
+    # update. Channels with intermediate features fully enabled will
+    # accept the flip immediately. Channels still under verification
+    # holds will silently re-downgrade — the warning log makes that
+    # diagnosable from the workflow output.
+    if not publish_at and privacy_status == "public":
+        try:
+            got = youtube.videos().list(part="status", id=video_id).execute()
+            items = got.get("items") or []
+            actual = items[0]["status"]["privacyStatus"] if items else None
+            if actual and actual != "public":
+                logger.warning(
+                    f"  YouTube returned privacyStatus={actual!r} (asked for 'public') — "
+                    f"forcing update. If this keeps happening, complete channel verification "
+                    f"at https://www.youtube.com/verify."
+                )
+                update_privacy(video_id, "public")
+                got2 = youtube.videos().list(part="status", id=video_id).execute()
+                items2 = got2.get("items") or []
+                actual2 = items2[0]["status"]["privacyStatus"] if items2 else None
+                if actual2 == "public":
+                    logger.info(f"  privacy re-flip OK: {video_id} -> public")
+                else:
+                    logger.warning(
+                        f"  privacy re-flip did not stick (still {actual2!r}). "
+                        f"Channel needs YouTube-side verification."
+                    )
+            else:
+                logger.info(f"  privacy verified: {video_id} -> {actual}")
+        except HttpError as e:
+            logger.warning(f"  could not verify post-upload privacy: {e}")
+
     return url
 
 

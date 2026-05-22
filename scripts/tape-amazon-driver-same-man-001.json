@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-amazon-driver-same-man-001",
+  "character": "narrator",
+  "topic": "The Amazon delivery driver for my route has been the same man for eleven years and he has not aged",
+  "title": "The Amazon Driver on My Route Has Not Aged in Eleven Years | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The Amazon driver on my route has been the same man for eleven years. He has not aged.", "image_prompt": "wide shot of a blue Amazon delivery van parked at the curb of a quiet suburban street in afternoon light, a delivery man seen from behind walking up a driveway carrying a package, vertical 9:16 framing"},
+    {"id": 2, "narration": "Quiet street in suburban Maryland. Same brown house. Same porch.", "image_prompt": "wide exterior of a two story brown brick suburban home in late afternoon light, a covered front porch with two wicker chairs, no figures, vertical 9:16 framing"},
+    {"id": 3, "narration": "Packages every few days.", "image_prompt": "close shot of three brown Amazon boxes stacked on a welcome mat at a front door, evening porch light overhead, no figures, vertical 9:16 framing"},
+    {"id": 4, "narration": "Noticed on a side by side photo my wife took for fun.", "image_prompt": "close detail of a phone screen showing two photographs of an Amazon driver in uniform standing on a porch years apart, the man appearing identical, dim kitchen light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Same face. Same hands.", "image_prompt": "close shot of a delivery man's gloved hand resting on a doorframe, only the hand and the blue cuff of the uniform visible, dim porch light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Asked my neighbor. She had photos going back further.", "image_prompt": "wide shot of a kitchen table covered in printed photographs of an Amazon driver at various front porches over a decade, all from behind or in profile, dim overhead light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Same man. Twenty fourteen.", "image_prompt": "close detail of a single old printed photograph showing a delivery van and a uniformed man from the back walking up a sidewalk, the print dated twenty fourteen in the corner, vertical 9:16 framing"},
+    {"id": 8, "narration": "Same uniform. Same lunchbox.", "image_prompt": "close shot of a metal lunchbox sitting on the dashboard of an Amazon delivery van, the blue uniform shirt sleeve resting beside it, vertical 9:16 framing"},
+    {"id": 9, "narration": "Pulled the delivery history on every Amazon account in the house.", "image_prompt": "close detail of a laptop screen showing a long delivery history log with one repeating driver ID highlighted in yellow across years of entries, dim home office light, vertical 9:16 framing"},
+    {"id": 10, "narration": "His employee badge was issued in nineteen ninety three. Before Amazon Logistics existed.", "image_prompt": "close shot of a laminated employee badge clipped to a blue uniform pocket showing a faded issue date of nineteen ninety three, the photo on the badge obscured in shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I waved at him last Tuesday.", "image_prompt": "wide shot of a delivery man standing at the foot of a residential driveway looking toward the camera, his face in shadow under a blue cap, vertical 9:16 framing"},
+    {"id": 12, "narration": "He waved back. He knew my name.", "image_prompt": "close detail of a gloved hand raised in a half wave beside a blue Amazon van door, the figure beyond out of focus in fog, vertical 9:16 framing"}
+  ]
+}

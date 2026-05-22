@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-doorbell-three-seventeen-001",
+  "character": "narrator",
+  "topic": "My Ring doorbell logs motion every night at three seventeen AM and the recording shows an empty porch",
+  "title": "My Doorbell Logs Motion Every Night at 3:17 AM. The Porch Is Empty. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My Ring doorbell logs motion every night at three seventeen. The recording shows an empty porch.", "image_prompt": "close shot of a black Ring doorbell mounted on a beige stucco doorframe at night, the small LED light glowing white, dim porch light overhead, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two story house in suburban Pennsylvania. Front porch. Two cameras. No pets.", "image_prompt": "wide exterior of a small suburban two story home at dusk, a covered front porch with a single overhead light, no figures, no animals, vertical 9:16 framing"},
+    {"id": 3, "narration": "We sleep at eleven.", "image_prompt": "close shot of a darkened upstairs bedroom window from the street at night, curtains drawn, the porch light still on below, vertical 9:16 framing"},
+    {"id": 4, "narration": "Notification at three seventeen. I opened the app and watched the clip.", "image_prompt": "close detail of a smartphone screen showing the Ring app with a motion event timestamp at three seventeen AM, the bedroom around it in deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "The porch was empty.", "image_prompt": "close shot of a smartphone screen showing a Ring camera live view of a porch at night, empty welcome mat visible, no figures in frame, vertical 9:16 framing"},
+    {"id": 6, "narration": "Motion zone fully triggered. Front step. Front rail. Nothing visible.", "image_prompt": "wide overhead view of a residential front porch at night seen through a fisheye doorbell camera lens, motion detection overlay zones drawn in red, no figures, vertical 9:16 framing"},
+    {"id": 7, "narration": "Checked thirty days back.", "image_prompt": "close shot of a laptop screen showing a list of Ring motion events with identical three seventeen AM timestamps repeating down the page, dim home office, vertical 9:16 framing"},
+    {"id": 8, "narration": "Every night. Three seventeen exactly.", "image_prompt": "close detail of a wall clock face in a dim hallway showing three seventeen AM, the hands frozen at the exact minute, vertical 9:16 framing"},
+    {"id": 9, "narration": "Bought a second camera. Pointed it at the doorbell itself.", "image_prompt": "close shot of a small white security camera mounted on a porch ceiling angled directly at a doorbell unit, dim porch light, no figures, vertical 9:16 framing"},
+    {"id": 10, "narration": "The new camera at three seventeen shows the doorbell flashing. Nothing in front of it.", "image_prompt": "close detail of a Ring doorbell unit on a doorframe at night with its white LED illuminated mid trigger, the porch in front of it empty, vertical 9:16 framing"},
+    {"id": 11, "narration": "I unplugged the doorbell at the breaker.", "image_prompt": "close shot of a hand at a residential electrical breaker panel switching off a labeled doorbell circuit, only the hand visible, dim basement light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The Ring app still logs motion at three seventeen.", "image_prompt": "close detail of a smartphone screen at three seventeen AM showing a new Ring motion notification, the room around it pitch dark, vertical 9:16 framing"}
+  ]
+}

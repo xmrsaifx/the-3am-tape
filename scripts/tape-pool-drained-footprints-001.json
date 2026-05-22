@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-pool-drained-footprints-001",
+  "character": "narrator",
+  "topic": "There are wet footprints leading away from my backyard pool but the pool has been drained for six years",
+  "title": "Wet Footprints Lead Out of My Pool. It Has Been Drained Six Years. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There are wet footprints leading away from my backyard pool. The pool has been drained six years.", "image_prompt": "wide shot of an empty backyard in ground concrete pool at dusk, dry leaves at the bottom, wet bare footprints leading away from the edge across the patio, vertical 9:16 framing"},
+    {"id": 2, "narration": "Small yard. In ground concrete pool. Drained when my father died.", "image_prompt": "wide exterior of a small fenced suburban backyard with an empty drained concrete swimming pool, weathered patio furniture stacked beside it, late afternoon light, vertical 9:16 framing"},
+    {"id": 3, "narration": "We use it for storage.", "image_prompt": "close shot of the bottom of an empty concrete pool filled with cardboard boxes and old lawn chairs, dim afternoon light slanting in from above, vertical 9:16 framing"},
+    {"id": 4, "narration": "Found wet prints on the patio. They came from inside the pool.", "image_prompt": "close detail of wet bare footprints on a concrete patio leading from the pool edge outward, the prints dark against the dry surface, late evening light, vertical 9:16 framing"},
+    {"id": 5, "narration": "It had not rained.", "image_prompt": "wide shot of a backyard at twilight with completely dry patio stones and dry grass, no water source visible, the sky clear, vertical 9:16 framing"},
+    {"id": 6, "narration": "Adult size. Bare feet. Six clear prints.", "image_prompt": "close shot of six distinct wet bare adult footprints across a dry concrete patio, the prints visibly fading toward the edge of frame, vertical 9:16 framing"},
+    {"id": 7, "narration": "Climbed down inside.", "image_prompt": "wide shot from the deep end of an empty concrete pool looking up at the sky and the edge of the patio, a metal ladder hanging into the basin, vertical 9:16 framing"},
+    {"id": 8, "narration": "The drain was dry. The walls were dry.", "image_prompt": "close detail of a circular drain at the bottom of a drained pool, the metal grate completely dry and clean, no moisture visible around it, vertical 9:16 framing"},
+    {"id": 9, "narration": "Bleached the patio. Locked the gate. Waited a week.", "image_prompt": "wide shot of a backyard gate with a heavy padlock and chain wrapped around it at dusk, the patio beyond visibly scrubbed clean, vertical 9:16 framing"},
+    {"id": 10, "narration": "New prints last Thursday. Wet. From inside the pool. The gate was still locked.", "image_prompt": "wide shot of a backyard patio with a fresh trail of wet bare footprints leading from a drained pool toward a locked gate, no figures visible, vertical 9:16 framing"},
+    {"id": 11, "narration": "I filled the pool with sand.", "image_prompt": "wide shot of a drained concrete pool filled level with fine pale sand, the surface raked smooth, late afternoon light, vertical 9:16 framing"},
+    {"id": 12, "narration": "There are wet prints in the sand now.", "image_prompt": "close detail of damp bare footprints pressed into pale sand at the surface of a filled in pool, the prints leading toward the patio edge, dim evening light, vertical 9:16 framing"}
+  ]
+}
