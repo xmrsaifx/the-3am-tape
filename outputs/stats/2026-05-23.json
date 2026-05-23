@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "snapshot_at": "2026-05-23T05:54:25.266995+00:00",
+  "snapshot_at": "2026-05-23T17:14:30.321334+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1170,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 64.03
+      "views_per_day": 62.42
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1088,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 52.98
+      "views_per_day": 51.79
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -30,10 +30,10 @@
       "published_at": "2026-04-30T23:18:34Z",
       "privacy_status": "public",
       "duration_sec": 65,
-      "views": 994,
+      "views": 996,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 44.62
+      "views_per_day": 43.79
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 42.28
+      "views_per_day": 41.35
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 43.54
+      "views_per_day": 42.55
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -66,7 +66,7 @@
       "views": 681,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 38.9
+      "views_per_day": 37.87
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 648,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 33.17
+      "views_per_day": 32.39
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 538,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 25.29
+      "views_per_day": 24.74
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 526,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 27.68
+      "views_per_day": 27.01
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 467,
       "likes": 9,
       "comments": 0,
-      "views_per_day": 23.35
+      "views_per_day": 22.81
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 436,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 27.24
+      "views_per_day": 26.46
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 413,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 17.59
+      "views_per_day": 17.24
     },
     {
       "video_id": "LlN3ddk_YGs",
@@ -143,7 +143,7 @@
       "views": 293,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 36.67
+      "views_per_day": 34.63
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -154,7 +154,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 11.93
+      "views_per_day": 11.65
     },
     {
       "video_id": "a-a198MQXWQ",
@@ -165,7 +165,7 @@
       "views": 178,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 28.36
+      "views_per_day": 26.38
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -176,7 +176,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 8.05
+      "views_per_day": 7.85
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -187,7 +187,7 @@
       "views": 147,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 6.68
+      "views_per_day": 6.54
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -198,7 +198,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 7.88
+      "views_per_day": 7.67
     },
     {
       "video_id": "gj58udxbj_o",
@@ -209,7 +209,7 @@
       "views": 125,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 17.19
+      "views_per_day": 16.14
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -220,7 +220,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 5.13
+      "views_per_day": 5.03
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -231,7 +231,7 @@
       "views": 106,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 6.45
+      "views_per_day": 6.27
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -242,7 +242,7 @@
       "views": 90,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 5.0
+      "views_per_day": 4.87
     },
     {
       "video_id": "GD_JH6lo218",
@@ -253,7 +253,7 @@
       "views": 84,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 8.18
+      "views_per_day": 7.82
     },
     {
       "video_id": "9WTSgkfOGEY",
@@ -264,7 +264,18 @@
       "views": 82,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.85
+      "views_per_day": 5.66
+    },
+    {
+      "video_id": "wFPwVp1Omyg",
+      "title": "My Fitness Tracker Logs a Heart Rate Spike at 11:47 PM Every Night While I Sleep | True Scary Story",
+      "published_at": "2026-05-23T05:54:07Z",
+      "privacy_status": "public",
+      "duration_sec": 77,
+      "views": 80,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 80.0
     },
     {
       "video_id": "MA0yO3tm7ro",
@@ -272,10 +283,10 @@
       "published_at": "2026-05-20T06:19:44Z",
       "privacy_status": "public",
       "duration_sec": 94,
-      "views": 70,
+      "views": 71,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 23.47
+      "views_per_day": 20.55
     },
     {
       "video_id": "kzYsToKWyxU",
@@ -286,7 +297,7 @@
       "views": 69,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 12.49
+      "views_per_day": 11.51
     },
     {
       "video_id": "-bZ6ZsLWnRQ",
@@ -297,7 +308,7 @@
       "views": 68,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.03
+      "views_per_day": 4.86
     },
     {
       "video_id": "Uwg6I0HRxDs",
@@ -308,7 +319,7 @@
       "views": 64,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.57
+      "views_per_day": 5.35
     },
     {
       "video_id": "Wp8FIHJXHS8",
@@ -319,7 +330,7 @@
       "views": 63,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.59
+      "views_per_day": 5.37
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -330,7 +341,7 @@
       "views": 54,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 3.18
+      "views_per_day": 3.09
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -341,7 +352,7 @@
       "views": 54,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 2.51
+      "views_per_day": 2.45
     },
     {
       "video_id": "gsdSUPafLiU",
@@ -352,7 +363,7 @@
       "views": 51,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.15
+      "views_per_day": 4.0
     },
     {
       "video_id": "gvJYPeqOTzg",
@@ -360,10 +371,10 @@
       "published_at": "2026-05-20T18:32:50Z",
       "privacy_status": "public",
       "duration_sec": 87,
-      "views": 47,
+      "views": 48,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 19.0
+      "views_per_day": 16.3
     },
     {
       "video_id": "jC5AjOgOyPY",
@@ -374,7 +385,7 @@
       "views": 47,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.62
+      "views_per_day": 3.49
     },
     {
       "video_id": "2npIc2Wl5-8",
@@ -385,7 +396,7 @@
       "views": 46,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 5.42
+      "views_per_day": 5.13
     },
     {
       "video_id": "5KeWtS1fFQ4",
@@ -393,10 +404,10 @@
       "published_at": "2026-05-20T23:38:01Z",
       "privacy_status": "public",
       "duration_sec": 84,
-      "views": 35,
+      "views": 38,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 15.48
+      "views_per_day": 13.9
     },
     {
       "video_id": "LpVzFQZUqOk",
@@ -407,7 +418,7 @@
       "views": 35,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 7.8
+      "views_per_day": 7.06
     },
     {
       "video_id": "C0PpdlGdEZ0",
@@ -418,7 +429,7 @@
       "views": 34,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.4
+      "views_per_day": 3.25
     },
     {
       "video_id": "wkEgnyqRAcw",
@@ -429,7 +440,18 @@
       "views": 31,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 4.42
+      "views_per_day": 4.14
+    },
+    {
+      "video_id": "nzZd1pi1jxA",
+      "title": "The Word HELLO Appears in the Steam on My Bathroom Mirror Every Morning | True Scary Story",
+      "published_at": "2026-05-21T06:23:27Z",
+      "privacy_status": "public",
+      "duration_sec": 83,
+      "views": 26,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 10.6
     },
     {
       "video_id": "92Uo_GkV2Jo",
@@ -440,7 +462,7 @@
       "views": 26,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 6.09
+      "views_per_day": 5.49
     },
     {
       "video_id": "PKV0d6DAcGU",
@@ -451,7 +473,7 @@
       "views": 26,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.07
+      "views_per_day": 2.0
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -459,21 +481,10 @@
       "published_at": "2026-05-08T04:57:09Z",
       "privacy_status": "public",
       "duration_sec": 103,
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.6
-    },
-    {
-      "video_id": "nzZd1pi1jxA",
-      "title": "The Word HELLO Appears in the Steam on My Bathroom Mirror Every Morning | True Scary Story",
-      "published_at": "2026-05-21T06:23:27Z",
-      "privacy_status": "public",
-      "duration_sec": 83,
-      "views": 23,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 11.62
+      "views_per_day": 1.61
     },
     {
       "video_id": "PkU1qkpjt2Q",
@@ -484,7 +495,7 @@
       "views": 23,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.09
+      "views_per_day": 2.01
     },
     {
       "video_id": "XTwcQFKTcjw",
@@ -495,7 +506,7 @@
       "views": 22,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.41
+      "views_per_day": 4.03
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -506,7 +517,18 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.84
+      "views_per_day": 0.83
+    },
+    {
+      "video_id": "rxUpjF9sa5E",
+      "title": "My Downstairs Neighbor Sweeps Every Night at 2:30 AM. He Has Been Gone Nine Months. | True Scary Sto",
+      "published_at": "2026-05-20T12:02:44Z",
+      "privacy_status": "public",
+      "duration_sec": 93,
+      "views": 16,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 4.97
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -517,18 +539,7 @@
       "views": 16,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.05
-    },
-    {
-      "video_id": "rxUpjF9sa5E",
-      "title": "My Downstairs Neighbor Sweeps Every Night at 2:30 AM. He Has Been Gone Nine Months. | True Scary Sto",
-      "published_at": "2026-05-20T12:02:44Z",
-      "privacy_status": "public",
-      "duration_sec": 93,
-      "views": 14,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 5.1
+      "views_per_day": 1.02
     },
     {
       "video_id": "CQY4yR37DGY",
@@ -539,7 +550,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.41
+      "views_per_day": 2.23
     },
     {
       "video_id": "-SxvT0cVqgw",
@@ -550,7 +561,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.48
+      "views_per_day": 1.41
     },
     {
       "video_id": "S71TWp-ddOs",
@@ -561,7 +572,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.28
+      "views_per_day": 2.93
     },
     {
       "video_id": "Y7_n80UbfYQ",
@@ -572,7 +583,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.91
+      "views_per_day": 0.88
     },
     {
       "video_id": "X1u1wExFrrY",
@@ -583,7 +594,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.33
+      "views_per_day": 1.27
     },
     {
       "video_id": "FyFERhTU290",
@@ -594,7 +605,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.3
+      "views_per_day": 1.23
     },
     {
       "video_id": "-rGoC9My2kw",
@@ -605,7 +616,18 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.14
+      "views_per_day": 1.1
+    },
+    {
+      "video_id": "dYDYoXsavQY",
+      "title": "The Closet Light in My Apartment Is On Every Morning. The Fixture Has No Bulb. | True Scary Story",
+      "published_at": "2026-05-22T06:18:47Z",
+      "privacy_status": "public",
+      "duration_sec": 77,
+      "views": 11,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 7.56
     },
     {
       "video_id": "Q6cDdqJEQ-c",
@@ -616,7 +638,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.16
+      "views_per_day": 2.78
     },
     {
       "video_id": "DbwDZpy6Z7M",
@@ -627,7 +649,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.09
+      "views_per_day": 1.92
     },
     {
       "video_id": "z_1I1zkJrRA",
@@ -638,18 +660,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.84
-    },
-    {
-      "video_id": "dYDYoXsavQY",
-      "title": "The Closet Light in My Apartment Is On Every Morning. The Fixture Has No Bulb. | True Scary Story",
-      "published_at": "2026-05-22T06:18:47Z",
-      "privacy_status": "public",
-      "duration_sec": 77,
-      "views": 10,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 10.0
+      "views_per_day": 1.7
     },
     {
       "video_id": "EIDNnhHM4q8",
@@ -660,7 +671,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 6.74
+      "views_per_day": 5.11
     },
     {
       "video_id": "c9blX8gP9jc",
@@ -671,7 +682,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.21
+      "views_per_day": 1.14
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -682,7 +693,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.55
+      "views_per_day": 0.54
     },
     {
       "video_id": "z8-T8zVpR-8",
@@ -693,7 +704,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.48
+      "views_per_day": 0.47
     },
     {
       "video_id": "aIlFSwAX4-c",
@@ -701,10 +712,10 @@
       "published_at": "2026-05-19T23:29:39Z",
       "privacy_status": "public",
       "duration_sec": 83,
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.22
+      "views_per_day": 1.34
     },
     {
       "video_id": "4lzkBZRSfuM",
@@ -715,7 +726,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.07
+      "views_per_day": 0.95
     },
     {
       "video_id": "hdG3nyoc8x0",
@@ -726,7 +737,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.33
+      "views_per_day": 1.01
     },
     {
       "video_id": "hXEDGA6DjfI",
@@ -737,7 +748,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.41
+      "views_per_day": 0.37
     },
     {
       "video_id": "T-c6Gp5Ttig",
@@ -748,7 +759,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.29
+      "views_per_day": 0.27
     },
     {
       "video_id": "0q5_7oHh-YE",
@@ -759,7 +770,18 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.27
+      "views_per_day": 0.25
+    },
+    {
+      "video_id": "WT9-im27rok",
+      "title": "My Building's Fire Escape Ends Three Feet Above the Ground and the Cut Is Clean | True Scary Story",
+      "published_at": "2026-05-22T18:07:57Z",
+      "privacy_status": "public",
+      "duration_sec": 81,
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 1.0
     },
     {
       "video_id": "6CVby3TKBLU",
@@ -770,7 +792,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.34
+      "views_per_day": 0.29
     },
     {
       "video_id": "E_Vkeb6d04k",
@@ -781,7 +803,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.08
+      "views_per_day": 0.07
     },
     {
       "video_id": "drYQWX9f4vc",
@@ -795,11 +817,11 @@
       "views_per_day": 0.06
     },
     {
-      "video_id": "wFPwVp1Omyg",
-      "title": "My Fitness Tracker Logs a Heart Rate Spike at 11:47 PM Every Night While I Sleep | True Scary Story",
-      "published_at": "2026-05-23T05:54:07Z",
+      "video_id": "a9if5HIm2k8",
+      "title": "The Amazon Driver on My Route Has Not Aged in Eleven Years | True Scary Story",
+      "published_at": "2026-05-23T17:13:59Z",
       "privacy_status": "public",
-      "duration_sec": 77,
+      "duration_sec": 65,
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -811,17 +833,6 @@
       "published_at": "2026-05-23T00:47:38Z",
       "privacy_status": "unlisted",
       "duration_sec": 472,
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 0.0
-    },
-    {
-      "video_id": "WT9-im27rok",
-      "title": "My Building's Fire Escape Ends Three Feet Above the Ground and the Cut Is Clean | True Scary Story",
-      "published_at": "2026-05-22T18:07:57Z",
-      "privacy_status": "public",
-      "duration_sec": 81,
       "views": 0,
       "likes": 0,
       "comments": 0,
