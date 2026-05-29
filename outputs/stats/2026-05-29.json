@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "snapshot_at": "2026-05-29T06:36:22.367042+00:00",
+  "snapshot_at": "2026-05-29T19:00:09.661210+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1170,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 48.14
+      "views_per_day": 47.14
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -22,7 +22,7 @@
       "views": 1091,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 41.07
+      "views_per_day": 40.28
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 1002,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 35.4
+      "views_per_day": 34.77
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 889,
       "likes": 23,
       "comments": 2,
-      "views_per_day": 32.86
+      "views_per_day": 32.24
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 33.56
+      "views_per_day": 32.92
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -63,10 +63,10 @@
       "published_at": "2026-05-05T17:42:56Z",
       "privacy_status": "public",
       "duration_sec": 74,
-      "views": 681,
+      "views": 683,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 28.93
+      "views_per_day": 28.39
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 648,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 25.35
+      "views_per_day": 24.85
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 539,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 19.74
+      "views_per_day": 19.37
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -96,10 +96,10 @@
       "published_at": "2026-05-04T05:48:42Z",
       "privacy_status": "public",
       "duration_sec": 75,
-      "views": 527,
+      "views": 528,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 21.05
+      "views_per_day": 20.67
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 468,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 17.98
+      "views_per_day": 17.63
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 438,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 19.88
+      "views_per_day": 19.42
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 413,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 14.0
+      "views_per_day": 13.75
     },
     {
       "video_id": "LlN3ddk_YGs",
@@ -143,7 +143,7 @@
       "views": 293,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 20.9
+      "views_per_day": 20.16
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -154,7 +154,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 9.09
+      "views_per_day": 8.91
     },
     {
       "video_id": "a-a198MQXWQ",
@@ -165,7 +165,7 @@
       "views": 178,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 14.47
+      "views_per_day": 13.88
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -173,10 +173,10 @@
       "published_at": "2026-05-01T06:03:00Z",
       "privacy_status": "public",
       "duration_sec": 83,
-      "views": 152,
+      "views": 153,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 5.42
+      "views_per_day": 5.36
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -187,7 +187,7 @@
       "views": 149,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 6.07
+      "views_per_day": 5.95
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -198,7 +198,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 5.84
+      "views_per_day": 5.71
     },
     {
       "video_id": "gj58udxbj_o",
@@ -209,7 +209,7 @@
       "views": 126,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 9.47
+      "views_per_day": 9.12
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -220,7 +220,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 4.06
+      "views_per_day": 3.99
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -231,7 +231,7 @@
       "views": 109,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 4.85
+      "views_per_day": 4.74
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -242,7 +242,7 @@
       "views": 90,
       "likes": 6,
       "comments": 0,
-      "views_per_day": 3.74
+      "views_per_day": 3.67
     },
     {
       "video_id": "7Qz2wbvMBRU",
@@ -253,7 +253,7 @@
       "views": 85,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 28.23
+      "views_per_day": 24.09
     },
     {
       "video_id": "39rb-jDSLRo",
@@ -264,7 +264,7 @@
       "views": 84,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 16.75
+      "views_per_day": 15.18
     },
     {
       "video_id": "wFPwVp1Omyg",
@@ -275,7 +275,7 @@
       "views": 84,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 13.93
+      "views_per_day": 12.83
     },
     {
       "video_id": "GD_JH6lo218",
@@ -286,7 +286,7 @@
       "views": 84,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 5.16
+      "views_per_day": 5.0
     },
     {
       "video_id": "9WTSgkfOGEY",
@@ -297,7 +297,7 @@
       "views": 83,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.14
+      "views_per_day": 4.04
     },
     {
       "video_id": "MA0yO3tm7ro",
@@ -305,10 +305,10 @@
       "published_at": "2026-05-20T06:19:44Z",
       "privacy_status": "public",
       "duration_sec": 94,
-      "views": 73,
+      "views": 74,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 8.1
+      "views_per_day": 7.77
     },
     {
       "video_id": "kzYsToKWyxU",
@@ -319,7 +319,7 @@
       "views": 70,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 6.06
+      "views_per_day": 5.8
     },
     {
       "video_id": "-bZ6ZsLWnRQ",
@@ -330,7 +330,18 @@
       "views": 68,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.48
+      "views_per_day": 3.39
+    },
+    {
+      "video_id": "ExNtOLm6pns",
+      "title": "My Library Card Has Been Checking Out Books for Two Years in a City I Have Never Visited | True Scar",
+      "published_at": "2026-05-29T06:25:39Z",
+      "privacy_status": "public",
+      "duration_sec": 73,
+      "views": 66,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 66.0
     },
     {
       "video_id": "lMk9PpCbuyY",
@@ -341,7 +352,7 @@
       "views": 66,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 32.94
+      "views_per_day": 26.19
     },
     {
       "video_id": "Uwg6I0HRxDs",
@@ -352,7 +363,7 @@
       "views": 64,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.65
+      "views_per_day": 3.55
     },
     {
       "video_id": "Wp8FIHJXHS8",
@@ -363,7 +374,7 @@
       "views": 63,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.64
+      "views_per_day": 3.54
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -374,7 +385,7 @@
       "views": 56,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 2.43
+      "views_per_day": 2.38
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -385,7 +396,7 @@
       "views": 55,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 2.0
+      "views_per_day": 1.96
     },
     {
       "video_id": "gsdSUPafLiU",
@@ -396,7 +407,7 @@
       "views": 53,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.9
+      "views_per_day": 2.82
     },
     {
       "video_id": "gvJYPeqOTzg",
@@ -407,7 +418,7 @@
       "views": 48,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.65
+      "views_per_day": 5.32
     },
     {
       "video_id": "jC5AjOgOyPY",
@@ -418,7 +429,7 @@
       "views": 48,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.52
+      "views_per_day": 2.46
     },
     {
       "video_id": "2npIc2Wl5-8",
@@ -426,10 +437,10 @@
       "published_at": "2026-05-14T18:08:19Z",
       "privacy_status": "public",
       "duration_sec": 93,
-      "views": 46,
+      "views": 47,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 3.17
+      "views_per_day": 3.13
     },
     {
       "video_id": "5KeWtS1fFQ4",
@@ -440,7 +451,7 @@
       "views": 45,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.43
+      "views_per_day": 5.11
     },
     {
       "video_id": "jcSDYzWqTBA",
@@ -451,7 +462,7 @@
       "views": 43,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 17.25
+      "views_per_day": 14.29
     },
     {
       "video_id": "LpVzFQZUqOk",
@@ -462,7 +473,7 @@
       "views": 36,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.42
+      "views_per_day": 3.26
     },
     {
       "video_id": "C0PpdlGdEZ0",
@@ -473,7 +484,7 @@
       "views": 36,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.25
+      "views_per_day": 2.18
     },
     {
       "video_id": "wkEgnyqRAcw",
@@ -484,7 +495,7 @@
       "views": 33,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.53
+      "views_per_day": 2.43
     },
     {
       "video_id": "92Uo_GkV2Jo",
@@ -495,7 +506,7 @@
       "views": 28,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.72
+      "views_per_day": 2.59
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -506,7 +517,7 @@
       "views": 28,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.33
+      "views_per_day": 1.3
     },
     {
       "video_id": "nzZd1pi1jxA",
@@ -517,7 +528,7 @@
       "views": 27,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.37
+      "views_per_day": 3.17
     },
     {
       "video_id": "PKV0d6DAcGU",
@@ -528,7 +539,7 @@
       "views": 26,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.4
+      "views_per_day": 1.36
     },
     {
       "video_id": "PkU1qkpjt2Q",
@@ -539,7 +550,7 @@
       "views": 24,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.41
+      "views_per_day": 1.37
     },
     {
       "video_id": "rxUpjF9sa5E",
@@ -550,7 +561,7 @@
       "views": 23,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.62
+      "views_per_day": 2.48
     },
     {
       "video_id": "_WmVzlQUNJU",
@@ -561,7 +572,7 @@
       "views": 22,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.83
+      "views_per_day": 4.34
     },
     {
       "video_id": "XTwcQFKTcjw",
@@ -572,7 +583,7 @@
       "views": 22,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.0
+      "views_per_day": 1.91
     },
     {
       "video_id": "dYDYoXsavQY",
@@ -583,7 +594,7 @@
       "views": 20,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.85
+      "views_per_day": 2.66
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -594,7 +605,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.67
+      "views_per_day": 0.65
     },
     {
       "video_id": "-SxvT0cVqgw",
@@ -605,7 +616,7 @@
       "views": 17,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.1
+      "views_per_day": 1.06
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -616,7 +627,7 @@
       "views": 17,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.8
+      "views_per_day": 0.78
     },
     {
       "video_id": "a9if5HIm2k8",
@@ -627,7 +638,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.52
+      "views_per_day": 2.31
     },
     {
       "video_id": "S71TWp-ddOs",
@@ -638,7 +649,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.4
+      "views_per_day": 1.33
     },
     {
       "video_id": "CQY4yR37DGY",
@@ -649,7 +660,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.18
+      "views_per_day": 1.13
     },
     {
       "video_id": "Y7_n80UbfYQ",
@@ -660,7 +671,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.69
+      "views_per_day": 0.67
     },
     {
       "video_id": "EIDNnhHM4q8",
@@ -671,7 +682,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.73
+      "views_per_day": 1.62
     },
     {
       "video_id": "DbwDZpy6Z7M",
@@ -682,7 +693,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.15
+      "views_per_day": 1.1
     },
     {
       "video_id": "FyFERhTU290",
@@ -693,7 +704,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.85
+      "views_per_day": 0.82
     },
     {
       "video_id": "X1u1wExFrrY",
@@ -704,7 +715,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.8
+      "views_per_day": 0.77
     },
     {
       "video_id": "-rGoC9My2kw",
@@ -715,7 +726,18 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.73
+      "views_per_day": 0.7
+    },
+    {
+      "video_id": "8R9rFDxIvLs",
+      "title": "Houses on My Street Skip from 47 to 49 and Nobody Remembers a 48 Ever Existing | True Scary Story",
+      "published_at": "2026-05-27T18:42:37Z",
+      "privacy_status": "public",
+      "duration_sec": 81,
+      "views": 11,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 5.47
     },
     {
       "video_id": "Q6cDdqJEQ-c",
@@ -726,7 +748,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.16
+      "views_per_day": 1.1
     },
     {
       "video_id": "z_1I1zkJrRA",
@@ -737,7 +759,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.91
+      "views_per_day": 0.88
     },
     {
       "video_id": "c9blX8gP9jc",
@@ -748,7 +770,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.7
+      "views_per_day": 0.67
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -759,18 +781,18 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.4
+      "views_per_day": 0.39
     },
     {
-      "video_id": "8R9rFDxIvLs",
-      "title": "Houses on My Street Skip from 47 to 49 and Nobody Remembers a 48 Ever Existing | True Scary Story",
-      "published_at": "2026-05-27T18:42:37Z",
+      "video_id": "6LERVcXxSOY",
+      "title": "The Tools on My Garage Workbench Rearrange into Letters Every Wednesday | True Scary Story",
+      "published_at": "2026-05-25T17:49:45Z",
       "privacy_status": "public",
-      "duration_sec": 81,
+      "duration_sec": 78,
       "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.35
+      "views_per_day": 1.98
     },
     {
       "video_id": "z8-T8zVpR-8",
@@ -781,18 +803,7 @@
       "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.39
-    },
-    {
-      "video_id": "6LERVcXxSOY",
-      "title": "The Tools on My Garage Workbench Rearrange into Letters Every Wednesday | True Scary Story",
-      "published_at": "2026-05-25T17:49:45Z",
-      "privacy_status": "public",
-      "duration_sec": 78,
-      "views": 7,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 1.98
+      "views_per_day": 0.38
     },
     {
       "video_id": "aIlFSwAX4-c",
@@ -803,7 +814,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.54
+      "views_per_day": 0.51
     },
     {
       "video_id": "4lzkBZRSfuM",
@@ -814,7 +825,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.41
+      "views_per_day": 0.39
     },
     {
       "video_id": "mDGWWZEsmew",
@@ -825,7 +836,7 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.99
+      "views_per_day": 1.97
     },
     {
       "video_id": "WT9-im27rok",
@@ -836,7 +847,18 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.46
+      "views_per_day": 0.43
+    },
+    {
+      "video_id": "Gb8cH2JVkBg",
+      "title": "Every Laundromat I Use Returns Children's Clothes That Are Not Mine | True Scary Story",
+      "published_at": "2026-05-28T18:53:05Z",
+      "privacy_status": "public",
+      "duration_sec": 83,
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 1.99
     },
     {
       "video_id": "yrONikxc1CM",
@@ -847,7 +869,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.41
+      "views_per_day": 0.37
     },
     {
       "video_id": "hdG3nyoc8x0",
@@ -858,7 +880,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.27
+      "views_per_day": 0.25
     },
     {
       "video_id": "hXEDGA6DjfI",
@@ -869,7 +891,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.18
+      "views_per_day": 0.17
     },
     {
       "video_id": "RoPvLeMRxFs",
@@ -880,7 +902,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.16
+      "views_per_day": 0.15
     },
     {
       "video_id": "T-c6Gp5Ttig",
@@ -891,7 +913,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.16
+      "views_per_day": 0.15
     },
     {
       "video_id": "0q5_7oHh-YE",
@@ -902,14 +924,14 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.15
+      "views_per_day": 0.14
     },
     {
-      "video_id": "Gb8cH2JVkBg",
-      "title": "Every Laundromat I Use Returns Children's Clothes That Are Not Mine | True Scary Story",
-      "published_at": "2026-05-28T18:53:05Z",
+      "video_id": "QwX1fnnPpFM",
+      "title": "My Microwave Clock Shows 88:88 Every Night at Exactly 2 AM | True Scary Story",
+      "published_at": "2026-05-29T18:50:05Z",
       "privacy_status": "public",
-      "duration_sec": 83,
+      "duration_sec": 81,
       "views": 1,
       "likes": 0,
       "comments": 0,
@@ -924,7 +946,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.42
+      "views_per_day": 0.34
     },
     {
       "video_id": "1yRef8Y_HGM",
@@ -935,7 +957,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.21
+      "views_per_day": 0.19
     },
     {
       "video_id": "6CVby3TKBLU",
@@ -946,7 +968,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.11
+      "views_per_day": 0.1
     },
     {
       "video_id": "E_Vkeb6d04k",
@@ -971,11 +993,11 @@
       "views_per_day": 0.05
     },
     {
-      "video_id": "ExNtOLm6pns",
-      "title": "My Library Card Has Been Checking Out Books for Two Years in a City I Have Never Visited | True Scar",
-      "published_at": "2026-05-29T06:25:39Z",
+      "video_id": "HKJP_GGVMSE",
+      "title": "My Therapist Sent Me Fourteen Years of Transcripts. I Only Attended Six Sessions. | True Scary Story",
+      "published_at": "2026-05-29T12:52:46Z",
       "privacy_status": "public",
-      "duration_sec": 73,
+      "duration_sec": 514,
       "views": 0,
       "likes": 0,
       "comments": 0,
@@ -985,7 +1007,7 @@
       "video_id": "CongFBfhAvM",
       "title": "I Bought a Used Subaru. Every Saved GPS Destination Is a Place I Will Visit in the Future. | True Sc",
       "published_at": "2026-05-29T00:52:29Z",
-      "privacy_status": "unlisted",
+      "privacy_status": "private",
       "duration_sec": 543,
       "views": 0,
       "likes": 0,
@@ -996,19 +1018,8 @@
       "video_id": "MnKx2R649PU",
       "title": "I Bought a Thrift Store Film Camera. The Roll Inside Holds Photos of My Apartment from Before I Move",
       "published_at": "2026-05-28T00:40:46Z",
-      "privacy_status": "unlisted",
+      "privacy_status": "private",
       "duration_sec": 535,
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 0.0
-    },
-    {
-      "video_id": "HKJP_GGVMSE",
-      "title": "My Therapist Sent Me Fourteen Years of Transcripts. I Only Attended Six Sessions. | True Scary Story",
-      "published_at": "2026-05-27T00:44:53Z",
-      "privacy_status": "unlisted",
-      "duration_sec": 514,
       "views": 0,
       "likes": 0,
       "comments": 0,
