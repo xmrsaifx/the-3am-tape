@@ -1,0 +1,167 @@
+{
+  "video_id": "longtape-doorbell-camera-staring-001",
+  "format": "long",
+  "character": "narrator",
+  "topic": "My Ring doorbell camera has twenty seven hours of recorded footage of me standing on my own front porch staring directly into the lens, in clips I have never knowingly recorded",
+  "title": "My Doorbell Camera Recorded Twenty Seven Hours of Me Staring Into the Lens. I Was Never on My Own Porch. | True Scary Story",
+  "thumbnail_text": "27 HOURS. NEVER MOVED.",
+  "description_intro": "I opened the Ring app on a Sunday morning to clear out cloud storage and I found twenty seven hours of motion clips I did not remember recording. Every clip was thirty seconds long. Every clip was timestamped between three and three thirty in the morning. Every clip showed me, in the same gray jacket, standing on my own porch mat, looking up into the lens, not moving. I had been out of state for two of those nights. I have lived in the house alone with my wife for four years.",
+  "description": "I opened the Ring app on a Sunday morning to clear out cloud storage and I found twenty seven hours of motion clips I did not remember recording. Every clip was thirty seconds long. Every clip was timestamped between three and three thirty in the morning. Every clip showed me, in the same gray jacket, standing on my own porch mat, looking up into the lens, not moving. I had been out of state for two of those nights. I have lived in the house alone with my wife for four years.\n\nI tried to dismiss it as a cached image, a looped still, a thumbnail that the Ring servers had stored wrong. Then I opened the account access log and found a device that did not belong to me logged in from a state I have never lived in. The clips had been recorded on Wednesdays. Always Wednesdays. For fourteen weeks in a row.\n\nThere is a detail in the most recent clip that I have not told my wife. The figure on the porch raised a hand toward the lens. The hand has a small scar at the base of the thumb from a kitchen knife in two thousand twenty. I have that scar. Watch to the end. I replaced the doorbell with a different brand and a new account. Two days later there was a clip on the new account too.\n\n#scarystories #truescarystories #horrornarration #analoghorror #scarystoriestotellinthedark #truehorrorstories #creepypasta #foundtapes",
+  "tags": [
+    "scary stories",
+    "true scary stories",
+    "horror narration",
+    "analog horror",
+    "creepypasta",
+    "scary stories to tell in the dark",
+    "true horror stories",
+    "found tapes",
+    "doorbell horror"
+  ],
+  "category_id": "24",
+  "sections": [
+    {
+      "id": 1,
+      "beat": "hook",
+      "beat_chapter_title": "Twenty Seven Hours",
+      "narration": "I opened the Ring app on a Sunday morning to free up cloud storage. The app told me my plan was almost full. I tapped into the event history expecting to delete a week of squirrel clips and delivery notifications. Instead the history showed twenty seven hours of motion events labeled porch motion. Each clip was thirty seconds long. There were over three thousand of them. I tapped one at random from the middle of the list. The clip loaded. The view was the standard fisheye of my own front porch from the doorbell camera. A man was standing in the center of the porch mat. He was wearing a gray jacket. He was looking up directly into the lens. He did not move for thirty seconds. The clip ended. The man was me.",
+      "word_count": 134,
+      "image_prompts": [
+        "close shot of a phone screen showing the Ring app event history with a long list of porch motion clips, the screen glow lighting a kitchen table, horizontal 16:9 framing",
+        "wide overhead shot of a kitchen table with a phone, a coffee mug, and a folded paper towel, dim morning light through a window, no people, horizontal 16:9 framing",
+        "close detail of a doorbell camera lens mounted on a white painted door jamb, the lens reflecting a small porch light, horizontal 16:9 framing",
+        "wide exterior of a suburban front porch from a doorbell camera angle showing a welcome mat and two potted plants, no people, horizontal 16:9 framing",
+        "close shot of a phone screen frozen on a paused video frame showing the silhouette of a figure on a porch mat from above, no face visible, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 2,
+      "beat": "setup_place",
+      "beat_chapter_title": "The House on Bell Court",
+      "narration": "The house is on Bell Court in a small cul de sac built in the early nineteen nineties. There are twelve houses on the street and ours sits at the back of the loop. We bought the house from a young couple who were relocating for work in the spring of two thousand twenty two. The previous owners had installed nothing on the front door except a brass kick plate. My in laws gave us the Ring doorbell as a housewarming gift in the summer of the same year. Ring had sent a contracted electrician to do the install. He had drilled new holes in the jamb, run the chime wiring through the basement, and paired the device with our home network. He had been at the house for about ninety minutes. He had been polite and quiet.",
+      "word_count": 138,
+      "image_prompts": [
+        "wide exterior of a small suburban cul de sac at dusk with low houses arranged around a paved loop, no people, horizontal 16:9 framing",
+        "close shot of a small green street sign reading Bell Court mounted on a corner post, soft evening light, horizontal 16:9 framing",
+        "wide exterior of a two story house at the back of a cul de sac with a single porch light on, dim evening light, horizontal 16:9 framing",
+        "close detail of a brass kick plate at the base of a white front door, scuffed at the edges, horizontal 16:9 framing",
+        "close shot of a doorbell unit screwed into a freshly drilled door jamb with two small dust marks visible on the white paint, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 3,
+      "beat": "setup_routine",
+      "beat_chapter_title": "Saturday Maintenance",
+      "narration": "I review the doorbell clips on Saturday mornings while I drink coffee. It is a habit my wife teases me about. She calls it neighborhood watch for an audience of one. The account is in my name and only two devices are paired to it, my phone and hers. The app sends push notifications when motion triggers the camera, usually four to six times a day. The mailman in the late morning. A delivery in the afternoon. The neighbor's dog walking by in the evening. Once a week I open the full history and delete anything older than seven days to keep the cloud storage low. I had done that maintenance the previous Saturday. The history had been empty after I cleared it. Seven days later the history held twenty seven hours of clips I did not recognize.",
+      "word_count": 138,
+      "image_prompts": [
+        "wide interior of a sunlit kitchen with a phone resting on a wooden table beside a coffee mug, no people in frame, horizontal 16:9 framing",
+        "close shot of a hand holding a coffee mug above a phone screen showing a delivery notification, only the fingers and mug visible, horizontal 16:9 framing",
+        "close detail of an app settings page on a phone screen listing two paired devices under a household account, horizontal 16:9 framing",
+        "wide exterior of a quiet suburban street in the late morning with a mail carrier walking past a row of mailboxes, no faces visible, horizontal 16:9 framing",
+        "close shot of a phone screen showing a confirmation that all recordings older than seven days have been deleted, dim window light beside it, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 4,
+      "beat": "first_wrong_note",
+      "beat_chapter_title": "Clip One",
+      "narration": "I played the first clip in the new history all the way through. The timestamp read three eighteen in the morning on a Wednesday from two weeks earlier. The image was sharp because the porch light had been on. A man was standing dead center on the welcome mat. He was wearing a gray Patagonia jacket with the small white logo on the chest. His hands were at his sides. His feet were shoulder width apart. He was looking up directly at the lens. He did not blink. He did not shift his weight. He did not breathe in any visible way. The porch light did not flicker. A moth crossed the frame about ten seconds in. The man did not react to it. The clip ended at exactly thirty seconds. I own that jacket.",
+      "word_count": 135,
+      "image_prompts": [
+        "close shot of a phone screen displaying a paused doorbell camera clip with a timestamp reading three eighteen in the morning, horizontal 16:9 framing",
+        "wide overhead doorbell camera view of a porch mat with the silhouette of a still figure standing at its center, no face visible, horizontal 16:9 framing",
+        "close detail of a gray Patagonia jacket sleeve and chest with the small white logo, hanging on a wooden hook, horizontal 16:9 framing",
+        "close shot of a porch light fixture mounted above a front door with a small moth resting on the glass, dim night light, horizontal 16:9 framing",
+        "close detail of a welcome mat with worn lettering, viewed from above as if from a doorbell camera, no figures, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 5,
+      "beat": "reaction_dismissal",
+      "beat_chapter_title": "Compilation Glitch",
+      "narration": "My first thought was that Ring had stored a still frame and looped it as a fake clip. I had seen forum posts about thumbnails getting stuck during firmware updates. My second thought was that my own face had been captured during a doorbell answer and cached as a motion event. There had been a delivery on the previous Tuesday. I had opened the door for it in a similar jacket. My third thought was that the clip was a notification preview from somebody pranking me with a doorbell push. I closed the app. I made another cup of coffee. I opened the app again. The history still showed twenty seven hours of clips. The thumbnails for each one were tiny versions of the same composition. A figure on the mat. Looking up. Not moving.",
+      "word_count": 135,
+      "image_prompts": [
+        "wide overhead shot of a kitchen table with a phone face down beside a coffee maker, soft morning light, no people, horizontal 16:9 framing",
+        "close shot of a coffee being poured from a glass carafe into a ceramic mug on a kitchen counter, only the hand on the handle visible, horizontal 16:9 framing",
+        "close detail of a phone screen showing a grid of identical small thumbnails from a doorbell event history, horizontal 16:9 framing",
+        "wide interior of a small suburban entry hall with a closed front door and a packed cardboard box on the floor beside it, no figures, horizontal 16:9 framing",
+        "close shot of a hand thumb hovering over a delete button on a phone screen, only the thumb visible, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 6,
+      "beat": "pattern_recognition",
+      "beat_chapter_title": "Three Eighteen AM",
+      "narration": "I started opening clips at random. The second clip was timestamped three oh four on a Wednesday. The third was three twenty two on a Wednesday. The fourth was three eleven on a Wednesday. I filtered the history by date and the pattern came out clean. Every clip had been recorded between three in the morning and three thirty in the morning. Every clip had been recorded on a Wednesday. The earliest clip in the history was from fourteen weeks before the Saturday I was looking at the app. The latest was from three days earlier. There were twenty seven hours of footage spread across about a hundred and ten clips. Same jacket every time. Same posture every time. Same porch mat. Same direct stare into the lens. Same motionless thirty seconds.",
+      "word_count": 132,
+      "image_prompts": [
+        "close shot of a phone screen showing a filtered list of doorbell clips all timestamped between three and three thirty in the morning, horizontal 16:9 framing",
+        "close detail of a kitchen wall calendar with the Wednesdays of the previous fourteen weeks circled in pencil, horizontal 16:9 framing",
+        "wide overhead doorbell camera view of an empty porch mat at night, the porch light casting a warm halo, no figures, horizontal 16:9 framing",
+        "close shot of a wristwatch on a kitchen counter reading three eighteen in soft focus, no hand visible, horizontal 16:9 framing",
+        "close detail of a notepad on a kitchen table with the word Wednesday written down a column in pencil, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 7,
+      "beat": "investigation",
+      "beat_chapter_title": "Login Log",
+      "narration": "I opened the account settings on the Ring website from my laptop. I went into the access history. There were the two devices I expected, my phone and my wife's phone, both labeled by their model number. Below them was a third device. The label read Pixel seven, Ohio. I have never owned a Pixel phone. I have never lived in Ohio. The Pixel seven had been logging in once a week, on Wednesday nights, at around two fifty in the morning. The login times lined up with the clip timestamps to within minutes. I cross referenced the dates against my own travel calendar. For two of the Wednesdays I had been in California on a work trip. My wife had been at her sister's wedding in Maine. The house had been empty.",
+      "word_count": 133,
+      "image_prompts": [
+        "wide overhead shot of a laptop open on a basement office desk with a single lamp glowing, no people, horizontal 16:9 framing",
+        "close detail of a laptop screen showing an account access history page listing three devices, one labeled Pixel seven Ohio, horizontal 16:9 framing",
+        "close shot of a printed travel itinerary on a desk with two Wednesdays circled in red pen, horizontal 16:9 framing",
+        "wide interior of a darkened basement office with shelves of plastic bins and a single desk lamp casting a small pool of light, no figures, horizontal 16:9 framing",
+        "close detail of a paper wall map of the United States pinned above a desk with a small mark on Ohio, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 8,
+      "beat": "escalation",
+      "beat_chapter_title": "Last Night",
+      "narration": "I left the app open while I made breakfast. A push notification fired on the kitchen counter at nine forty seven in the morning. New porch motion event. I tapped it. The clip had been recorded that morning. The timestamp read three twenty one. I scrubbed through it slowly with my thumb. The figure was on the mat in the same gray jacket, in the same posture, looking up at the lens. He held that pose for twenty eight seconds. Then he did something the other clips had never shown. He raised his right hand slowly toward the camera until the palm filled almost the entire frame. The lens jostled very slightly, like a finger had tapped the housing. He lowered the hand. The clip ended. The next clip notification fired thirty seconds later.",
+      "word_count": 134,
+      "image_prompts": [
+        "close shot of a phone screen on a kitchen counter showing a fresh push notification reading new porch motion event, horizontal 16:9 framing",
+        "close detail of a thumb scrubbing across a video timeline on a phone screen, only the thumb visible, horizontal 16:9 framing",
+        "wide overhead doorbell camera view of a porch mat at night with a still figure standing at its center, no face visible, horizontal 16:9 framing",
+        "close shot of a hand silhouette filling most of a doorbell camera frame, fingers spread, no face visible, horizontal 16:9 framing",
+        "close detail of a doorbell unit on a door jamb with a barely visible smudge on the lens housing, dim night light, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 9,
+      "beat": "peak",
+      "beat_chapter_title": "The Hand",
+      "narration": "I sent the clip to my laptop and zoomed in on the frame where the hand filled the lens. The video quality was high enough to read details. The hand had a small pale scar at the base of the thumb shaped like a check mark. I have that scar from a kitchen knife slip in two thousand twenty. I had been slicing a bagel and the blade had jumped. There is a wrist visible at the bottom of the frame above the cuff of the jacket. The wrist is wearing my watch, a silver field watch my father gave me when I graduated. On the ring finger of the hand is a wedding band. The band has a small engraving inside the curve. The jeweler had shown me that engraving on the day of the appointment.",
+      "word_count": 137,
+      "image_prompts": [
+        "wide overhead shot of a laptop on a kitchen table with a paused video frame showing a hand against a doorbell lens, no people, horizontal 16:9 framing",
+        "close detail of a small pale scar shaped like a check mark at the base of a thumb, the hand resting on a wooden table, horizontal 16:9 framing",
+        "close shot of a silver field watch on a wrist resting on a counter, the dial slightly turned away, no face visible, horizontal 16:9 framing",
+        "close detail of a plain gold wedding band lying on a jeweler's cloth with the inside engraving barely legible, horizontal 16:9 framing",
+        "close detail of a kitchen knife resting on a wooden cutting board with the blade angled toward a sliced bagel, no hands, horizontal 16:9 framing"
+      ]
+    },
+    {
+      "id": 10,
+      "beat": "aftermath",
+      "beat_chapter_title": "New Device",
+      "narration": "I uninstalled the doorbell that afternoon. I unscrewed it from the jamb, wrapped it in a kitchen towel, and put it in a cardboard box in the garage to take to the curb. I deleted the Ring account from the web portal. I drove to a hardware store and bought a Wyze camera from a different manufacturer. I set up a fresh account on a new email address that I created in the store parking lot. I installed the camera on the same jamb that night. I tested it. The view was clean. The mat was empty. I went to bed. Two days later a push notification fired at three nineteen in the morning. The clip showed the same gray jacket. The same porch mat. The figure was standing three steps closer to the camera than before.",
+      "word_count": 137,
+      "image_prompts": [
+        "wide interior of a garage with a cardboard box on a workbench and a kitchen towel folded beside it, single overhead bulb, no people, horizontal 16:9 framing",
+        "close shot of a hand unscrewing a small device from a white painted door jamb with a screwdriver, only the hand visible, horizontal 16:9 framing",
+        "wide exterior of a hardware store parking lot at dusk with a single car in a row of empty spaces, no figures, horizontal 16:9 framing",
+        "close detail of a new camera unit being mounted on a door jamb beside a fresh patch of paint, dim porch light, horizontal 16:9 framing",
+        "wide overhead doorbell camera view of a porch mat at night with a still figure standing noticeably closer to the lens than before, no face visible, horizontal 16:9 framing"
+      ]
+    }
+  ],
+  "total_word_count": 1353,
+  "estimated_runtime_seconds": 613,
+  "estimated_runtime_display": "10:13"
+}
