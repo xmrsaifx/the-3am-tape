@@ -17,15 +17,18 @@ name: 3AM Tape Long — render + upload
 # caching in the pipeline modules.
 
 on:
-  # Auto-fire daily at 23:00 UTC.
-  # ~18:00-19:00 ET (US prime-time bedtime — peak "10-min horror story before
-  # sleep" intent per LONG_FORM.md §3).
+  # Auto-fire daily at 18:00 UTC.
+  # 13:00 ET / 19:00 CET / 23:00 PKT — mid-day US gives YouTube 6-10 hours of
+  # algorithm warmup on a small audience before the late-night "10-min horror
+  # story before sleep" peak (22:00-01:00 ET), which is when long-form
+  # narration completion rates spike. Also directly hits EU early-evening
+  # relax-after-dinner window.
   # Hand-written scripts in scripts/long/ are used FIFO. If the queue is empty
   # at fire time AND ANTHROPIC_API_KEY is set, the prepare job falls back to
   # auto-generating one via pipeline/long_script_generator.py so the cron
   # never silently drops a day.
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 18 * * *'
   workflow_dispatch:
     inputs:
       script:
