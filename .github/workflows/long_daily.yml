@@ -17,18 +17,21 @@ name: 3AM Tape Long — render + upload
 # caching in the pipeline modules.
 
 on:
-  # Auto-fire daily at 18:00 UTC.
-  # 13:00 ET / 19:00 CET / 23:00 PKT — mid-day US gives YouTube 6-10 hours of
-  # algorithm warmup on a small audience before the late-night "10-min horror
-  # story before sleep" peak (22:00-01:00 ET), which is when long-form
-  # narration completion rates spike. Also directly hits EU early-evening
-  # relax-after-dinner window.
-  # Hand-written scripts in scripts/long/ are used FIFO. If the queue is empty
-  # at fire time AND ANTHROPIC_API_KEY is set, the prepare job falls back to
-  # auto-generating one via pipeline/long_script_generator.py so the cron
-  # never silently drops a day.
-  schedule:
-    - cron: '0 18 * * *'
+  # AUTO-CRON PAUSED 2026-06-03 — long-form is not getting algorithmic
+  # surface at the current sub count: 14 long uploads in 14 days averaged
+  # 5.8 views/upload with 50% sitting at 0 views permanently. Render budget
+  # was being spent on videos no algorithm was surfacing. Channel is in
+  # YPP monetization push focused on Shorts (10M views / 90 days target);
+  # long-form pipeline stays intact but only fires on manual dispatch.
+  # Resume the cron once the channel passes ~5k subscribers — at that point
+  # the long-form algorithm has enough subscriber-engagement signal to
+  # actually test the videos on a warm audience.
+  #
+  # Scripts queued in scripts/long/ (12 deep as of 2026-06-03) stay where
+  # they are — manual workflow_dispatch will still FIFO-consume them.
+  #
+  # schedule:
+  #   - cron: '0 18 * * *'
   workflow_dispatch:
     inputs:
       script:
@@ -246,6 +249,10 @@ jobs:
           FFPROBE_BIN: ffprobe
           OUTPUT_DIR: ./outputs
           LOG_LEVEL: INFO
+          # Required since mid-2026. Anonymous Pollinations now 402s on
+          # GitHub Actions shared IPs. Register at enter.pollinations.ai,
+          # paste the sk_... key as repo secret POLLINATIONS_KEY.
+          POLLINATIONS_KEY: ${{ secrets.POLLINATIONS_KEY }}
         run: |
           python make_video.py "${{ needs.prepare.outputs.script_path }}" \
             --section ${{ matrix.section }}

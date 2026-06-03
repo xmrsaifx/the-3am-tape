@@ -9,10 +9,10 @@ Fully automated YouTube channel for analog-horror / true-scary-story narration. 
 - **Audience:** Horror Shorts viewers, late-night doom-scrollers
 - **Format:** **YouTube Shorts (vertical 9:16)** — 12 scenes, ~12-15 words narration each, target runtime 60-90 sec. (YouTube raised the Shorts duration cap to 180s in October 2024 — for analog horror narration, 60-90 sec is the sweet spot since the genre needs atmospheric build-up time that pure 60-sec cuts can't deliver.)
 - **Captions:** Anton bold-condensed @ 90pt, white phrase + per-word yellow karaoke highlight (the proven viral-Shorts caption format)
-- **Posting schedule:** **2 uploads/day**, public-immediate, via 2 cron triggers in `.github/workflows/daily.yml`:
-  - 02:00 UTC → US prime time (~21:00 ET, "horror story before bed" peak)
-  - 16:00 UTC → EU early evening (~17:00 CET) / PK late evening (~21:00 PKT)
-  - Was 4/day until 2026-05-21 — stats showed algo suppression at high upload volume (first 10 uploads avg 660 views, next 44 avg 22). 2/day splits the algo's daily impression budget across two non-overlapping audience windows (Western evening vs EU/PK evening), which is the sustainable cadence at sub-1k subs without flooding distribution.
+- **Posting schedule:** **4 uploads/day Shorts, long-form auto-cron PAUSED**, public-immediate, via `.github/workflows/daily.yml` + `long_daily.yml`:
+  - Shorts cron at 02:00, 09:00, 16:00, 22:00 UTC
+  - Long-form cron is commented out (manual `workflow_dispatch` only) — see [long_daily.yml](.github/workflows/long_daily.yml) for resume conditions.
+  - **Cadence history:** Started 4/day, cut to 2/day on 2026-05-21 on the theory that 4/day was triggering algo suppression (first 10 uploads avg 660 views, next 44 avg 22). Two weeks at 2/day showed no recovery (still ~33 views/upload), strongly suggesting the real cause was launch-boost expiration, not cadence. Restored to 4/day on 2026-06-03 for the YPP monetization push (target: 10M Shorts views in 90 days). Long-form was paused on the same date — 14 long uploads in 14 days averaged 5.8 views with 50% at zero, format isn't getting surface at sub-1k subs.
 - **Cost:** ~$0/video — same free pipeline as money-crew (Pollinations + edge-tts + FFmpeg)
 
 ---

@@ -21,6 +21,7 @@ The pipeline now compensates with:
 """
 from __future__ import annotations
 
+import os
 import random
 import time
 import urllib.parse
@@ -35,7 +36,7 @@ from pipeline.logger import get_logger
 
 logger = get_logger("image_generator")
 
-POLLINATIONS_BASE = "https://image.pollinations.ai/prompt"
+POLLINATIONS_BASE = "https://gen.pollinations.ai/image"
 
 # Pacing: how long to wait between successful scene gens. 7s is enough to
 # avoid burst-rate-limiting on Pollinations without making total render time
@@ -61,7 +62,19 @@ BROWSER_USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 )
-HTTP_HEADERS = {"User-Agent": BROWSER_USER_AGENT, "Accept": "image/png,image/*,*/*"}
+
+
+def _http_headers() -> dict[str, str]:
+    """Build request headers. POLLINATIONS_KEY (set via repo secret on CI, .env
+    on local) is required as of mid-2026 — the anonymous tier started returning
+    402 Payment Required on shared GitHub Actions IP pools. Register at
+    enter.pollinations.ai to obtain a sk_... key; the free Seed tier covers our
+    daily volume."""
+    headers = {"User-Agent": BROWSER_USER_AGENT, "Accept": "image/png,image/*,*/*"}
+    key = os.environ.get("POLLINATIONS_KEY", "").strip()
+    if key:
+        headers["Authorization"] = f"Bearer {key}"
+    return headers
 # The 3AM Tape aesthetic: analog-horror / found-footage / cinematic photoreal.
 # Grain + low-light + dread atmosphere. The film-grain look is doing real
 # work — it sets the analog-horror tone AND masks AI artifacts (wonky hands,
@@ -121,7 +134,7 @@ def generate_scene_image(
     url = _build_url(prompt, seed, width, height, model=model)
     logger.info(f"pollinations: model={model} seed={seed} prompt={prompt[:80]}...")
     dest.parent.mkdir(parents=True, exist_ok=True)
-    with requests.get(url, stream=True, timeout=180, headers=HTTP_HEADERS) as r:
+    with requests.get(url, stream=True, timeout=180, headers=_http_headers()) as r:
         r.raise_for_status()
         with dest.open("wb") as f:
             for chunk in r.iter_content(chunk_size=8192):

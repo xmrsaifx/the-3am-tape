@@ -1,15 +1,19 @@
-name: 3AM Tape — 2/day
+name: 3AM Tape — 4/day
 
 on:
-  # 2 uploads/day, public-immediate (daily_pipeline.py default).
-  # Was 4/day until 2026-05-21 (algo was suppressing distribution under
-  # high upload volume — first 10 uploads avg 660 views, next 44 avg 22).
-  # Bumped to 2/day on 2026-05-21 — the two slots are 14 hours apart so
-  # they hit non-overlapping audience windows (US prime vs EU evening +
-  # PK late), giving the algo two clean shots/day at different viewers.
+  # 4 uploads/day, public-immediate (daily_pipeline.py default).
+  # Bumped back from 2/day on 2026-06-03 — channel is in YPP monetization
+  # push (target: 10M Shorts views in 90 days). The 2/day cut on 2026-05-21
+  # was made on the theory that 4/day was triggering algo suppression
+  # (first 10 uploads avg 660 views, next 44 avg 22), but 2 weeks at 2/day
+  # showed no recovery (still avg ~33/upload), strongly suggesting the
+  # real cause was launch-boost expiration, not cadence. So restore the
+  # original 4-shot daily schedule to maximize lottery tickets per day.
   schedule:
     - cron: '0 2 * * *'    # 02:00 UTC -> ~21:00 ET (US prime time, "story before bed")
+    - cron: '0 9 * * *'    # 09:00 UTC -> ~14:00 PKT / ~10:00 CET / ~05:00 ET (PK afternoon + EU mid-morning)
     - cron: '0 16 * * *'   # 16:00 UTC -> ~21:00 PKT / ~17:00 CET (EU early evening + PK late evening)
+    - cron: '0 22 * * *'   # 22:00 UTC -> ~17:00 ET / ~03:00 PKT next day (US early evening + EU late night)
   workflow_dispatch:
     inputs:
       topic:
@@ -71,6 +75,10 @@ jobs:
           # Optional. Without it daily_pipeline.py runs in JSON-only mode
           # and only renders hand-written scripts in scripts/*.json.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Required since mid-2026. Anonymous Pollinations now 402s on
+          # GitHub Actions shared IPs. Register at enter.pollinations.ai,
+          # paste the sk_... key as repo secret POLLINATIONS_KEY.
+          POLLINATIONS_KEY: ${{ secrets.POLLINATIONS_KEY }}
           # Optional. Without both, Facebook Reels upload is skipped silently.
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
