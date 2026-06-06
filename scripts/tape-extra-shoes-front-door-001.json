@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-extra-shoes-front-door-001",
+  "character": "narrator",
+  "topic": "Every morning there is an extra pair of shoes by my front door that fits me perfectly",
+  "title": "Every Morning There Is an Extra Pair of Shoes by My Front Door. They Fit Me Perfectly. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a pair of shoes by my front door every morning. They are not mine.", "image_prompt": "close shot of a worn pair of leather shoes neatly placed on a doormat just inside an apartment front door, dim entryway light, a deadbolt visible on the door above, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone. Ground floor apartment. One deadbolt, always locked from inside.", "image_prompt": "wide interior of a small ground floor apartment entryway at night, a single front door with a deadbolt, a coat rack, dim ceiling light, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I line my own shoes up every night.", "image_prompt": "close shot of two pairs of shoes lined up neatly against a baseboard wall in a dim hallway, low warm lamp light, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first morning there was a worn pair of brown work boots set beside them.", "image_prompt": "close shot of a pair of scuffed brown leather work boots placed beside newer shoes on a doormat, low morning light through a frosted door window, vertical 9:16 framing"},
+    {"id": 5, "narration": "I threw them in the dumpster.", "image_prompt": "wide shot of an apartment dumpster in an alley at dawn, the lid open, a pair of brown boots resting on top of garbage bags, grey overcast light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Next morning the same boots were back. The dumpster was empty.", "image_prompt": "close shot of the same brown work boots back on the entry doormat, faint morning light, dust motes in the air, vertical 9:16 framing"},
+    {"id": 7, "narration": "I tried them on.", "image_prompt": "close shot of a hand reaching down toward a pair of worn boots on a wooden floor, dim entry light, vertical 9:16 framing"},
+    {"id": 8, "narration": "They fit me exactly. Like they were always mine.", "image_prompt": "close shot of feet wearing worn brown boots standing on a doormat, viewed from above, dim entry light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Every morning a new pair. Always worn. Always my size. Always facing the door.", "image_prompt": "wide shot down a dim apartment hallway lined with many pairs of worn shoes all facing the front door, single overhead bulb, deep shadows, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week the newest pair was muddy, the soles still wet, like someone had just walked in.", "image_prompt": "close shot of a pair of muddy boots on a doormat with wet soles leaving a faint print on the floor, low morning light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I started counting. Sixty pairs now, lined down my hallway.", "image_prompt": "wide shot of a long apartment hallway with dozens of pairs of worn shoes lined along both baseboards receding into shadow, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Each pair is more worn than the last. Someone is wearing my life out.", "image_prompt": "close shot of a single pair of badly worn shoes with split soles on a doormat by a closed front door at night, dim hall light, vertical 9:16 framing"}
+  ]
+}

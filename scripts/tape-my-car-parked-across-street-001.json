@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-my-car-parked-across-street-001",
+  "character": "narrator",
+  "topic": "A car has been parked across the street every night for a month and it is my car",
+  "title": "A Car Has Been Parked Across the Street Every Night for a Month. It Is My Car. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "A car has been parked across the street every night for a month. Last week I realized it is my car.", "image_prompt": "wide shot of a dark residential street at night, a single car parked across the road under a streetlight, vertical 9:16 framing"},
+    {"id": 2, "narration": "Quiet cul de sac. I park in my own driveway. One car, one owner.", "image_prompt": "wide shot of a quiet suburban cul de sac at dusk, a car in a driveway, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "My car sleeps in the drive.", "image_prompt": "close shot of a car parked in a home driveway at night, dim porch light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One night an identical car sat across the road. Same model. Same dent.", "image_prompt": "wide shot of an identical car parked across a dark street, matching the one in the driveway, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Mine was still in the driveway.", "image_prompt": "wide shot of a driveway with a car still parked in it, seen from across the street at night, vertical 9:16 framing"},
+    {"id": 6, "narration": "Same plate. Same crack in the windshield.", "image_prompt": "close shot of a car license plate and a cracked windshield at night, dim streetlight, vertical 9:16 framing"},
+    {"id": 7, "narration": "I walked over with my keys.", "image_prompt": "wide shot of a person walking across a dark street toward a parked car holding keys, only a silhouette, vertical 9:16 framing"},
+    {"id": 8, "narration": "My key unlocked it. My coffee cup was in the holder.", "image_prompt": "close shot of a coffee cup sitting in a car cup holder, dim interior, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each night it parks closer to my house. Now it faces my front door.", "image_prompt": "wide shot of a car parked close to a house facing the front door at night, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night both cars were gone from the drive. One sat across the street, engine warm, lights on.", "image_prompt": "wide shot of a car across a dark street with headlights on and faint exhaust, the driveway empty, vertical 9:16 framing"},
+    {"id": 11, "narration": "I sold my car the next morning.", "image_prompt": "wide shot of an empty home driveway in morning light, an oil stain on the concrete, vertical 9:16 framing"},
+    {"id": 12, "narration": "Tonight a car is parked across the street. It is the one I sold.", "image_prompt": "wide shot of a car parked across a dark street at night under a streetlight, deep shadow, vertical 9:16 framing"}
+  ]
+}

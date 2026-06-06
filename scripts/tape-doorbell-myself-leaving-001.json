@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-doorbell-myself-leaving-001",
+  "character": "narrator",
+  "topic": "My doorbell camera records me leaving the house every night at three but I never leave",
+  "title": "My Doorbell Camera Records Me Leaving the House Every Night at Three. I Never Leave. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My doorbell camera records me leaving the house every night at three in the morning. I never leave.", "image_prompt": "close shot of a smartphone showing a doorbell camera clip of a figure walking away from a front porch at night, timestamp visible, vertical 9:16 framing"},
+    {"id": 2, "narration": "Suburban house. I sleep upstairs. The camera saves each clip to my phone.", "image_prompt": "wide exterior of a two story suburban house at night, a small doorbell camera by the front door, dark windows, vertical 9:16 framing"},
+    {"id": 3, "narration": "I review the clips with my coffee.", "image_prompt": "close shot of a phone and a coffee mug on a kitchen table, the phone showing a video thumbnail, morning light, vertical 9:16 framing"},
+    {"id": 4, "narration": "First clip. The front door opens. I walk out, past the camera, into the dark.", "image_prompt": "doorbell camera wide angle view of a front door opening at night, a figure in a coat stepping out onto a dark porch, fisheye distortion, vertical 9:16 framing"},
+    {"id": 5, "narration": "I was asleep at three.", "image_prompt": "wide shot of a dim bedroom with a person asleep in bed, a clock reading near three, faint light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Same coat. Same walk. Never looking back.", "image_prompt": "doorbell camera view of a coated figure walking down a dark front path away from the house, never looking back, vertical 9:16 framing"},
+    {"id": 7, "narration": "I bolted the door from the inside.", "image_prompt": "close shot of a hand sliding a deadbolt closed on a front door, dim entry light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The clip still came. The door still opened.", "image_prompt": "doorbell camera fisheye view of a front door opening despite a bolted lock, dark porch beyond, vertical 9:16 framing"},
+    {"id": 9, "narration": "He leaves at three and returns at four, carrying something different each night.", "image_prompt": "doorbell camera view of a figure returning up the path before dawn carrying an indistinct object, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night the figure stopped at the door, turned, and waved at the camera.", "image_prompt": "doorbell camera fisheye view of a figure at the door turned toward the camera with one hand raised in a wave, face shadowed, vertical 9:16 framing"},
+    {"id": 11, "narration": "Last night I sat by the door at three to catch him.", "image_prompt": "wide interior shot of a person seated in a chair facing a front door in a dark entryway at night, only a silhouette, vertical 9:16 framing"},
+    {"id": 12, "narration": "The door opened. The clip recorded two of me standing there.", "image_prompt": "doorbell camera fisheye view of an open front door at night with two identical figures standing in the entry, faces shadowed, vertical 9:16 framing"}
+  ]
+}

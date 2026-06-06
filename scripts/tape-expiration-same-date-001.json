@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-expiration-same-date-001",
+  "character": "narrator",
+  "topic": "Everything in my refrigerator has the same expiration date a few weeks in the future",
+  "title": "Everything in My Refrigerator Expires on the Exact Same Day | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Everything in my refrigerator expires on the same exact day. I bought it all weeks apart.", "image_prompt": "close shot of a refrigerator interior packed with food items, a carton of milk in the foreground with a date stamp visible, dim fridge light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone. I shop once a week. Different stores, different days.", "image_prompt": "wide shot of a small dim kitchen at night, a refrigerator with its door closed, single overhead bulb, vertical 9:16 framing"},
+    {"id": 3, "narration": "I noticed while making coffee.", "image_prompt": "close shot of a coffee mug on a kitchen counter beside an open refrigerator casting light, dim early morning, vertical 9:16 framing"},
+    {"id": 4, "narration": "The milk, the eggs, the bread. All stamped the same date. October fourth.", "image_prompt": "close shot of a milk carton, an egg box, and a bread bag arranged on a counter, each with a printed date stamp, dim kitchen light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I checked every label.", "image_prompt": "close shot of hands holding a food jar turning it to read a stamped expiration date, dim kitchen light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Forty items. One date. Cans, jars, everything.", "image_prompt": "wide shot of a kitchen counter covered with dozens of grocery items all turned label out, dim overhead light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I drove out and bought a fresh carton.", "image_prompt": "close shot of a fresh milk carton on a store checkout counter, fluorescent light, vertical 9:16 framing"},
+    {"id": 8, "narration": "At home, the stamp had changed. October fourth.", "image_prompt": "close shot of a milk carton date stamp reading a single date, held in a hand under dim kitchen light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Then the date on my medication bottle. Then my passport. October fourth.", "image_prompt": "close shot of an amber medication bottle and a passport lying on a wooden table, dim lamp light, vertical 9:16 framing"},
+    {"id": 10, "narration": "This morning my phone calendar had one event that day. No title. Just my name.", "image_prompt": "close shot of a phone screen showing a calendar with a single unlabeled event highlighted on a date, dim room light, vertical 9:16 framing"},
+    {"id": 11, "narration": "October fourth is a Saturday. It is three weeks away.", "image_prompt": "close shot of a wall calendar with one date circled in dark ink, dim kitchen light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Everything I own agrees on the day. I am the only one who disagrees.", "image_prompt": "wide shot of a dim kitchen at night, the refrigerator closed, the room still and empty, vertical 9:16 framing"}
+  ]
+}

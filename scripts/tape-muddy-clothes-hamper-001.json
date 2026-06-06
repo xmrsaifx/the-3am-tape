@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-muddy-clothes-hamper-001",
+  "character": "narrator",
+  "topic": "There are muddy work clothes in my hamper every Monday but I work from home",
+  "title": "There Are Muddy Work Clothes in My Hamper Every Monday. I Work From Home. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There are filthy work clothes in my hamper every Monday. Caked in mud. I work from home.", "image_prompt": "close shot of muddy men's coveralls stuffed in a laundry hamper, wet clay caked on the fabric, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone. I have not owned coveralls in my life.", "image_prompt": "wide shot of a small tidy home laundry room at night, a hamper and a washing machine, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I wash my own laundry on Sundays.", "image_prompt": "close shot of folded clean laundry on top of a washing machine, dim daylight, vertical 9:16 framing"},
+    {"id": 4, "narration": "Monday the hamper held men's coveralls, heavy with wet clay.", "image_prompt": "close shot of heavy work coveralls covered in wet clay lying in a hamper, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "They were warm.", "image_prompt": "close shot of a hand touching damp muddy coveralls, faint steam rising, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Boot socks. A torn glove. All my size.", "image_prompt": "close shot of muddy boot socks and a torn work glove on a laundry room floor, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I emptied the hamper and locked the laundry room.", "image_prompt": "close shot of an emptied hamper and a locked laundry room door, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next Monday. Coveralls again. Mud still dripping.", "image_prompt": "close shot of muddy coveralls dripping clay onto a laundry room floor, dim morning light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each week the clay is darker. Lately it smells like a dug grave.", "image_prompt": "close shot of dark clay smeared on work clothes in a hamper, very dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I heard the washer running. Inside, the coveralls turned, alone, in red water.", "image_prompt": "close shot of a washing machine drum spinning coveralls in reddish water, dim laundry room light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I unplugged the machine and slept with the key on me.", "image_prompt": "close shot of an unplugged washing machine cord lying on the floor, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the coveralls were folded on my bed. Clean. My name stitched on the chest.", "image_prompt": "close shot of clean folded coveralls on a bed with a name patch stitched on the chest, dim morning light, vertical 9:16 framing"}
+  ]
+}

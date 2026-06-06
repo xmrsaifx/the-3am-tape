@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-dish-in-sink-washed-001",
+  "character": "narrator",
+  "topic": "There is a washed dish in my sink every morning but I eat out every night",
+  "title": "There Is a Clean Dish in My Sink Every Morning. I Eat Out Every Night. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is one dish in my sink every morning. Washed, set to dry. I eat out every single night.", "image_prompt": "close shot of a single clean white plate resting in a kitchen dish rack, water droplets on it, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone above a diner. I have not cooked in this kitchen once.", "image_prompt": "wide shot of a small tidy apartment kitchen at night, spotless counters, a window overlooking a diner sign, vertical 9:16 framing"},
+    {"id": 3, "narration": "My kitchen stays spotless.", "image_prompt": "close shot of an empty clean kitchen sink and counter, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning a single white plate sat in the rack, still damp.", "image_prompt": "close shot of a damp white plate in a dish rack, faint water beneath, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I did not own that plate.", "image_prompt": "close shot of a plain white plate held in a hand, an unfamiliar pattern, dim kitchen light, vertical 9:16 framing"},
+    {"id": 6, "narration": "A fork beside it. A glass with a lip print that was not mine.", "image_prompt": "close shot of a fork and a drinking glass with a faint lip print in a dish rack, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I emptied the whole rack.", "image_prompt": "close shot of an emptied dish rack, bare and dry, on a kitchen counter, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next dawn, one plate, damp, warm crumbs left in the drain.", "image_prompt": "close shot of a single damp plate with warm crumbs near a sink drain, faint steam, dim morning light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each morning the meal is bigger. Two plates. Then a setting for a whole family.", "image_prompt": "close shot of a place setting for several people drying in a rack, multiple plates and forks, dim kitchen light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I heard cutlery and quiet talking through the kitchen wall. The kitchen was empty.", "image_prompt": "wide shot of an empty kitchen at night, a table set as if for a meal, no people, dim light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I shut the water off at the main and taped the tap.", "image_prompt": "close shot of a kitchen tap wrapped in tape with the water valve shut, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the dishes were done anyway. The towel was wet. Someone had wrung it out.", "image_prompt": "close shot of a damp wrung dish towel draped over a sink edge, clean dishes in the rack, dim morning light, vertical 9:16 framing"}
+  ]
+}

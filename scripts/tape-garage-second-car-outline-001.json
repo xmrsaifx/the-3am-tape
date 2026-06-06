@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-garage-second-car-outline-001",
+  "character": "narrator",
+  "topic": "There is a clean rectangle on my garage floor where a second car has been parked but I own one car",
+  "title": "There Is a Clean Rectangle on My Garage Floor Where a Second Car Has Been Parked | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a clean rectangle on my garage floor, the shape of a car. I have only ever owned one.", "image_prompt": "close shot of a clean car shaped rectangle on a dusty concrete garage floor, dim light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two car garage. I park on the left. The right side has always been empty.", "image_prompt": "wide shot of a two car garage interior, one car on the left, the right bay empty, dim bulb light, vertical 9:16 framing"},
+    {"id": 3, "narration": "The right bay collects dust.", "image_prompt": "close shot of a thin layer of dust on an empty garage floor bay, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning the dust on the right was wiped clean. A car sized rectangle.", "image_prompt": "close shot of a clean rectangle wiped into garage floor dust, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Oil drops in the center.", "image_prompt": "close shot of fresh oil drops on bare concrete in the center of a garage bay, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Four tire marks. A car had been parked there overnight.", "image_prompt": "close shot of four faint tire marks on a garage floor, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I locked the garage and kept the only key.", "image_prompt": "close shot of a hand locking a garage side door with a key, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next dawn, the rectangle was warmer, the oil fresh, faint exhaust in the air.", "image_prompt": "close shot of a fresh oil patch on concrete with faint exhaust haze, dim dawn light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each night the unseen car returns. I hear a door shut and an engine ticking.", "image_prompt": "wide shot of a dim empty garage bay at night, a faint shadow as if a car sits there, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night headlights swept the wall from the empty bay. Nothing was casting them.", "image_prompt": "wide shot of headlight beams sweeping a garage wall from an empty bay, no car present, dim light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I parked my own car in the right bay to fill the space.", "image_prompt": "wide shot of a car parked in the right garage bay, dim bulb light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning my car was on the left again. The right bay was clean, and warm.", "image_prompt": "close shot of a clean warm rectangle on a garage floor, the car gone, dim morning light, vertical 9:16 framing"}
+  ]
+}

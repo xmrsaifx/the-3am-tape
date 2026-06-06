@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-mailbox-letters-from-myself-001",
+  "character": "narrator",
+  "topic": "My mailbox keeps getting letters addressed to me from me postmarked next year",
+  "title": "My Mailbox Keeps Getting Letters Addressed to Me, From Me, Postmarked Next Year | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My mailbox keeps getting letters addressed to me. The return address is also me. Postmarked next year.", "image_prompt": "close shot of a hand holding an envelope at a mailbox, a handwritten address visible, dim evening light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Suburban street. I check the mail each evening. I live alone.", "image_prompt": "wide shot of a suburban street at dusk, a row of mailboxes, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Bills and flyers. Nothing else.", "image_prompt": "close shot of bills and flyers in an open mailbox, dim evening light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One envelope had my name twice. Sender and receiver. A date next March on the stamp.", "image_prompt": "close shot of an envelope showing the same name as sender and receiver, a future date on the postmark, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I opened it.", "image_prompt": "close shot of hands opening a sealed envelope, dim lamp light, vertical 9:16 framing"},
+    {"id": 6, "narration": "My handwriting. It described my day, down to the coffee I spilled.", "image_prompt": "close shot of a handwritten letter describing a day, dim lamp light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I burned it.", "image_prompt": "close shot of a letter burning in a metal sink, a faint flame, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next day, another. Tomorrow's date. Tomorrow's news, exactly right.", "image_prompt": "close shot of another identical envelope in a mailbox, a near future postmark, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each letter is from further ahead, and they warn me. Stay out of the basement. Do not answer Friday.", "image_prompt": "close shot of a handwritten warning on a letter, underlined words, dim lamp light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night's letter was dated the day I die. It begged me to mail it back unopened.", "image_prompt": "close shot of a folded letter on a table with a stark date written at the top, dim light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I did not mail it. I locked it in a drawer.", "image_prompt": "close shot of a letter locked in a wooden desk drawer, a small key in the lock, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the drawer was open. The letter was gone. There is a stamp on my hand.", "image_prompt": "close shot of an open empty desk drawer, and a postage stamp stuck to the back of a hand, dim morning light, vertical 9:16 framing"}
+  ]
+}

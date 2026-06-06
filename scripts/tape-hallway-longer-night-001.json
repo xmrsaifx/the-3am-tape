@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-hallway-longer-night-001",
+  "character": "narrator",
+  "topic": "The hallway to my bedroom gets longer at night",
+  "title": "The Hallway in My House Gets Longer at Night | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The hallway to my bedroom is twenty feet by day. At night it takes a full minute to walk.", "image_prompt": "wide shot down a dim residential hallway toward a closed bedroom door at the far end, warm low light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Single story house. Bedroom at the end of one hallway. Lived here six years.", "image_prompt": "wide shot of a single story house interior, a hallway leading off the living room, dim evening light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Five seconds, day or night. Always was.", "image_prompt": "close shot of bare feet on a hallway runner rug, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One night the walk felt long. My bedroom door stayed far away.", "image_prompt": "wide shot down a hallway that appears unnaturally long, the far door small in the distance, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I counted my steps.", "image_prompt": "wide low shot of a long dim hallway receding into shadow, the floor stretching away, vertical 9:16 framing"},
+    {"id": 6, "narration": "Forty steps at night. Twelve in the morning.", "image_prompt": "wide shot of a hallway in daylight, short and ordinary, a bedroom door close at the end, vertical 9:16 framing"},
+    {"id": 7, "narration": "I left a chair halfway down.", "image_prompt": "close shot of a wooden chair placed halfway down a dim hallway, vertical 9:16 framing"},
+    {"id": 8, "narration": "At night I passed it at step thirty. It should be step six.", "image_prompt": "wide shot of a long dark hallway with a small chair far in the distance, the bedroom door even farther, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "The hallway grows after midnight. The far door shrinks to a dot of light.", "image_prompt": "wide shot down an elongated hallway at night, the far door reduced to a tiny point of light, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I walked for ten minutes and never reached my room.", "image_prompt": "wide shot of an impossibly long dark corridor stretching into blackness, faint light at the unreachable end, vertical 9:16 framing"},
+    {"id": 11, "narration": "I sleep on the couch now, by the front door.", "image_prompt": "wide shot of a person sleeping on a living room couch near a front door, dim lamp light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Some nights I hear my bedroom door open. Far away. Something is coming back up the hall.", "image_prompt": "wide shot down a long dark hallway at night with a faint open door far away and a dim shape emerging, deep shadow, vertical 9:16 framing"}
+  ]
+}

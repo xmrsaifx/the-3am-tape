@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-driver-seat-adjusted-001",
+  "character": "narrator",
+  "topic": "Every morning my car driver's seat is adjusted for someone much taller than me",
+  "title": "Every Morning My Car Seat Is Adjusted for Someone Taller Than Me. I Have the Only Key. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning my driver's seat is pushed all the way back and reclined. I have the only key.", "image_prompt": "close interior shot of a car driver's seat reclined and pushed far back, empty, morning light through the windshield, steering wheel in foreground, vertical 9:16 framing"},
+    {"id": 2, "narration": "An old sedan. Parked in my locked garage. I commute alone.", "image_prompt": "wide shot of a sedan parked inside a closed residential garage, dim light from a single bulb, garage door shut, cardboard boxes along the wall, vertical 9:16 framing"},
+    {"id": 3, "narration": "I set the seat the same way every night.", "image_prompt": "close shot of a hand on a car seat adjustment lever, dim interior, vertical 9:16 framing"},
+    {"id": 4, "narration": "First time I thought I forgot. I am five foot four. The seat was set for someone tall.", "image_prompt": "interior shot from the back seat looking forward at an empty reclined driver's seat set far back, the headrest high, dim garage light through the windows, vertical 9:16 framing"},
+    {"id": 5, "narration": "I checked the doors. Locked.", "image_prompt": "close shot of a car door lock button in the down locked position, dim interior, vertical 9:16 framing"},
+    {"id": 6, "narration": "The mirrors were angled up. For eyes higher than mine.", "image_prompt": "close shot of a rearview mirror and side mirror angled upward, empty car interior reflected, dim morning light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I left flour on the seat.", "image_prompt": "close shot of a thin layer of white flour dusted across a dark car seat, dim interior, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next morning. A long body print. No prints leading out.", "image_prompt": "close shot of a long body impression pressed into flour on a car seat, no other marks, dim interior light, vertical 9:16 framing"},
+    {"id": 9, "narration": "The radio was tuned to a station that does not broadcast in my state.", "image_prompt": "close shot of a car radio display lit showing a station frequency, dim car interior at night, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week I got in at six in the morning. The seat was still warm. The garage was freezing.", "image_prompt": "interior shot of a driver climbing into a car seat at early dawn, garage dim, breath fog visible in the cold air, hands on the wheel seen from behind, vertical 9:16 framing"},
+    {"id": 11, "narration": "I started sleeping with the car key under my pillow.", "image_prompt": "close shot of a single car key resting on a pillow on a bed in a dim bedroom at night, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the seat was set perfectly for me. He has learned my size.", "image_prompt": "close interior shot of an empty driver's seat set upright and forward, neatly positioned, morning light through the windshield, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-shower-handprint-inside-001",
+  "character": "narrator",
+  "topic": "A wet handprint appears on the inside of my shower glass while I shower but I shower alone",
+  "title": "A Wet Handprint Appears on the Inside of My Shower Glass While I Shower | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "A wet handprint appears on the inside of my shower glass while I shower. From the other side. I shower alone.", "image_prompt": "close shot of a wet handprint on fogged shower glass from the inside, dim bathroom light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Small bathroom. A glass shower door. I lock the bathroom out of habit.", "image_prompt": "wide shot of a small bathroom with a glass shower door, dim morning light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Steam fogs the glass.", "image_prompt": "close shot of a fogged steamy glass shower door, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning a handprint pressed through the fog. Large. On the inside, facing me.", "image_prompt": "close shot of a large handprint pressed through the fog on shower glass, facing inward, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I was the only one in there.", "image_prompt": "wide shot of a single person silhouette inside a steamy glass shower, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Fingers spread wide. Dragging slowly downward.", "image_prompt": "close shot of a handprint on fogged glass with fingers dragging downward in streaks, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I wiped it and watched the glass.", "image_prompt": "close shot of a hand wiping a foggy shower glass clear, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "A new print formed under my eyes. No hand made it.", "image_prompt": "close shot of a fresh handprint forming on fogged glass with no hand present, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each shower there are more, large and small, as if a family presses in from the steam.", "image_prompt": "close shot of many overlapping handprints of different sizes on fogged shower glass, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last shower the prints came from my side of the glass. Pushing out. Toward the empty bathroom.", "image_prompt": "close shot of handprints pressing outward from inside fogged shower glass toward an empty bathroom, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I shower at the gym now.", "image_prompt": "wide shot of a row of gym shower stalls, tiled and empty, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the gym mirror fogged. A handprint formed, with a wedding ring I do not wear.", "image_prompt": "close shot of a fogged gym mirror with a handprint and a faint wedding ring mark, dim light, vertical 9:16 framing"}
+  ]
+}

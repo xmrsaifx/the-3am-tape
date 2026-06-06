@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-closet-deeper-inside-001",
+  "character": "narrator",
+  "topic": "My bedroom closet is deeper on the inside than the wall it sits in allows",
+  "title": "My Closet Is Deeper on the Inside Than the Wall Outside Allows | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My bedroom closet is three feet deep inside. The wall it sits in is only one foot thick.", "image_prompt": "close shot of an open bedroom closet interior, a measuring tape extended to a back wall, dim closet light, vertical 9:16 framing"},
+    {"id": 2, "narration": "New apartment. I measured for shelves the day I moved in.", "image_prompt": "wide shot of an empty apartment bedroom on moving day, bare walls, a few boxes, dim daylight, vertical 9:16 framing"},
+    {"id": 3, "narration": "The numbers did not add up.", "image_prompt": "close shot of a notebook with handwritten measurements on a wooden floor, a tape measure beside it, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Inside, my tape read three feet to the back. Outside, the closet meets the hallway at one foot.", "image_prompt": "close shot of a tape measure stretched into a closet showing a long depth, clothes pushed aside, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I measured four times.", "image_prompt": "close shot of hands holding a tape measure against a hallway wall, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Two extra feet that exist nowhere in the building.", "image_prompt": "wide shot of a closet interior appearing deeper than its surrounding wall, dim shadow at the back, vertical 9:16 framing"},
+    {"id": 7, "narration": "I knocked on the back wall.", "image_prompt": "close shot of a fist knocking on a closet back wall, dim closet light, vertical 9:16 framing"},
+    {"id": 8, "narration": "It was hollow. And warm.", "image_prompt": "close shot of a plain closet back wall in dim light, faintly warm toned, deep shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each week the back wall is a little farther away. Last month, six feet.", "image_prompt": "wide shot of an unusually deep closet receding into darkness, clothes hanging along the sides, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night the closet was a hallway. I could not see the end of it.", "image_prompt": "wide shot looking into a closet that has become a long dark hallway, the far end lost in black, dim light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I nailed the closet door shut and pushed a dresser against it.", "image_prompt": "close shot of a closet door nailed shut with a wooden dresser pushed against it, dim bedroom light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the dresser was inside the closet. Facing out.", "image_prompt": "wide shot of a dresser standing inside an open closet facing outward into the bedroom, dim morning light, vertical 9:16 framing"}
+  ]
+}

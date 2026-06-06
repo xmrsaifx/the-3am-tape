@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-second-pillow-dent-001",
+  "character": "narrator",
+  "topic": "There is a head shaped dent in the pillow next to mine every morning but I sleep alone",
+  "title": "There Is a Head-Shaped Dent in the Pillow Next to Mine Every Morning | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a head shaped dent in the pillow beside mine every morning. I sleep alone.", "image_prompt": "close shot of two pillows on a bed, the right one holding a deep head shaped dent, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Queen bed. One side mine. I keep a second pillow only out of habit.", "image_prompt": "wide shot of a queen bed in a dim bedroom, one side slept in, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I sleep on the left. Always have.", "image_prompt": "close shot of the left side of a bed with rumpled sheets, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning the right pillow held a deep dent. A head had rested there.", "image_prompt": "close shot of a pillow with a deep head shaped impression, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I flipped it over.", "image_prompt": "close shot of a hand flipping a pillow over on a bed, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "By morning the dent was back. Strands of grey hair on the case.", "image_prompt": "close shot of a pillow with a head dent and a few grey hairs on the pillowcase, dim morning light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I removed the second pillow entirely.", "image_prompt": "wide shot of a bed with only one pillow remaining, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "I woke with my own head on the left. A dent in the bare sheet on the right.", "image_prompt": "close shot of a head shaped dent pressed into a bare bed sheet beside a pillow, dim morning light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each morning the dent creeps closer. The mattress sinks there now.", "image_prompt": "close shot of a sagging mattress and a dent close beside a slept in spot, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I felt the bed shift as weight settled in beside me. I did not move.", "image_prompt": "wide shot of a dim bed at night, the covers subtly depressed on one side as if weighted, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I bought a single bed and gave the queen away.", "image_prompt": "wide shot of a narrow single bed in a small bedroom, dim lamp light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning there was a dent in the pillow beside me. The single bed has no other side.", "image_prompt": "close shot of a head shaped dent in a pillow on a single bed against a wall, dim morning light, vertical 9:16 framing"}
+  ]
+}

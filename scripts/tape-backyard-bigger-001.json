@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-backyard-bigger-001",
+  "character": "narrator",
+  "topic": "My backyard is bigger every time I mow it and the back fence keeps moving away",
+  "title": "My Backyard Is Bigger Every Time I Mow It | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My backyard is bigger every time I mow it. The back fence keeps moving farther away.", "image_prompt": "wide shot of a suburban backyard at dusk stretching unusually far to a distant fence, mowed grass, vertical 9:16 framing"},
+    {"id": 2, "narration": "Small house, small yard. The mow took ten minutes when I bought it.", "image_prompt": "wide shot of a small modest house with a compact grassy backyard, daylight, vertical 9:16 framing"},
+    {"id": 3, "narration": "I mow every Saturday.", "image_prompt": "close shot of a push lawn mower on cut grass, dim daylight, vertical 9:16 framing"},
+    {"id": 4, "narration": "One Saturday it took an hour. The grass ran on past where the fence should be.", "image_prompt": "wide shot of a backyard lawn extending far past a low fence into open grass, overcast light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I walked to the back fence.", "image_prompt": "wide shot of a person walking toward a distant back fence across a long lawn, only a silhouette, vertical 9:16 framing"},
+    {"id": 6, "narration": "It was twice as far as last week. New grass, never cut.", "image_prompt": "wide shot of an expanse of untouched tall grass beyond a fence line, grey light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I drove a stake at the old fence line.", "image_prompt": "close shot of a wooden stake driven into a lawn at a boundary line, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next week the stake was a hundred feet from the fence.", "image_prompt": "wide shot of a wooden stake standing far from a distant fence across a wide lawn, vertical 9:16 framing"},
+    {"id": 9, "narration": "The yard keeps growing. I cannot see the back of it from the house anymore.", "image_prompt": "wide shot of an enormous backyard lawn vanishing toward a far tree line, the house small behind, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week I found a second house at the far end. It was mine. The lights were on.", "image_prompt": "wide shot of a distant identical house at the far end of a long lawn at dusk, its windows lit, vertical 9:16 framing"},
+    {"id": 11, "narration": "I stopped mowing. The grass out there grows tall and fast.", "image_prompt": "wide shot of an overgrown tall grass yard at twilight, no house visible nearby, vertical 9:16 framing"},
+    {"id": 12, "narration": "At night I see someone mowing near the far house. He waves. He has my walk.", "image_prompt": "wide shot of a distant figure pushing a mower near a far lit house at night, one hand raised in a wave, deep shadow, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-tucked-in-tight-001",
+  "character": "narrator",
+  "topic": "I wake up tucked into bed so tightly I cannot move and I live alone",
+  "title": "I Wake Up Tucked Into Bed So Tightly I Cannot Move. I Live Alone. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning I wake tucked into bed so tightly I cannot move my arms. I live completely alone.", "image_prompt": "wide shot of a person lying in a bed with sheets tucked very tightly across the body, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Small apartment, top floor. I am a restless sleeper. Blankets always end on the floor.", "image_prompt": "wide shot of a small top floor apartment bedroom, a bed with rumpled blankets on the floor, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I never tuck the sheets in.", "image_prompt": "close shot of loose untucked bed sheets hanging off a mattress, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning the sheets were folded tight under the mattress on every side.", "image_prompt": "close shot of bed sheets folded tightly and tucked under a mattress on all sides, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Pinned, like a hospital bed.", "image_prompt": "wide shot of a person lying flat under tightly tucked sheets, arms pinned, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The corners were creased sharp. Hospital folds I never learned.", "image_prompt": "close shot of a sharply creased hospital fold at the corner of a bed sheet, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I slept on top of the covers.", "image_prompt": "wide shot of a person lying on top of folded bed covers, dim night light, vertical 9:16 framing"},
+    {"id": 8, "narration": "I woke underneath them. Tucked tight. Again.", "image_prompt": "wide shot of a person waking under tightly tucked covers again, dim morning light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each morning the sheets are tighter. Last week I could not sit up for a full minute.", "image_prompt": "close shot of very taut bed sheets pulled flat across a mattress, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I felt hands smoothing the blanket flat over my chest while I lay still.", "image_prompt": "close shot of a smooth flat blanket pressed across a sleeping chest, faint hand shaped impressions, dim night light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I threw the sheets out and slept in a sleeping bag on the floor.", "image_prompt": "wide shot of a sleeping bag laid out on a bare bedroom floor, dim lamp light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the sleeping bag was zipped shut over my head. From the outside.", "image_prompt": "close shot of a sleeping bag zipped fully shut over a person's head from the outside, dim morning light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-childhood-room-walled-001",
+  "character": "narrator",
+  "topic": "The door to my childhood bedroom is a wall now but I still hear the knob turn",
+  "title": "The Door to My Childhood Bedroom Is a Wall Now. I Still Hear the Knob Turn. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The door to my childhood bedroom is gone. Smooth wall where it was. I still hear the knob turn at night.", "image_prompt": "close shot of a smooth painted wall in an upstairs hallway where a door once was, a faint outline visible, dim light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I bought my childhood home back this spring. The new owners had renovated everything.", "image_prompt": "wide exterior of a modest two story suburban house in spring daylight, an empty front yard, vertical 9:16 framing"},
+    {"id": 3, "narration": "My old room was upstairs, second on the left.", "image_prompt": "wide shot of an upstairs hallway with several closed doors, dim warm light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Second on the left is flat wall now. Painted over. No frame, no hinges.", "image_prompt": "close shot of a flat painted wall section with no door, a faint rectangular seam under the paint, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I knocked. Solid.", "image_prompt": "close shot of a fist knocking against a smooth wall, dim hallway light, vertical 9:16 framing"},
+    {"id": 6, "narration": "But the hallway is too short by one room.", "image_prompt": "wide shot of a short upstairs hallway with one fewer door than expected, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I checked the old blueprints.", "image_prompt": "close shot of an old house blueprint unrolled on a table, a bedroom marked, dim lamp light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The room is there on paper. Behind the wall.", "image_prompt": "close shot of a blueprint detail showing a bedroom behind a hallway wall, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "At night I hear a doorknob turn where no door is. Then small footsteps inside.", "image_prompt": "close shot of a blank hallway wall at night, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night a child's voice asked through the wall why I locked the door.", "image_prompt": "wide shot of a person standing before a blank hallway wall at night, only a silhouette, dim light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have not slept upstairs since.", "image_prompt": "wide shot of a person asleep on a downstairs couch, dim lamp light, vertical 9:16 framing"},
+    {"id": 12, "narration": "There are crayon marks appearing low on that wall. From the other side.", "image_prompt": "close shot of faint crayon scribbles appearing low on a painted hallway wall, dim light, vertical 9:16 framing"}
+  ]
+}

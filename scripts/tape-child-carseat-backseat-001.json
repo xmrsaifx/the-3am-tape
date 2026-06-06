@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-child-carseat-backseat-001",
+  "character": "narrator",
+  "topic": "There is a child's car seat buckled in my back seat every morning but I have no children",
+  "title": "There Is a Child's Car Seat Buckled in My Back Seat Every Morning. I Have No Children. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a child's car seat buckled into my back seat every morning. I have no children.", "image_prompt": "close shot of a worn grey child's car seat buckled into the back seat of a small car, dim interior morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I drive a two door coupe. I am single. The car lives in a locked garage.", "image_prompt": "wide shot of a two door coupe parked inside a locked garage, dim bulb light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I drive to work alone.", "image_prompt": "close shot of an empty driver seat and steering wheel, morning light through the windshield, vertical 9:16 framing"},
+    {"id": 4, "narration": "One Monday a small grey car seat was strapped in behind me. Worn. Used.", "image_prompt": "close shot of a small worn grey child car seat strapped into a back seat, faint stains on the fabric, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I threw it out.", "image_prompt": "wide shot of a child car seat sitting on top of a curbside garbage bin, grey daylight, vertical 9:16 framing"},
+    {"id": 6, "narration": "Tuesday it was back. Buckled tighter.", "image_prompt": "close shot of the same car seat back in the vehicle with the straps pulled tight, dim interior, vertical 9:16 framing"},
+    {"id": 7, "narration": "I searched the car for a child.", "image_prompt": "close interior shot of a car back seat being inspected, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Crumbs on the seat. A juice cup in the holder.", "image_prompt": "close shot of cracker crumbs scattered on a car seat and a juice cup in a door holder, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each morning the straps are looser, like a child is growing into it.", "image_prompt": "close shot of a child car seat with loosened straps in a back seat, dim morning light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week I heard humming from the back at a red light. The mirror showed the seat empty.", "image_prompt": "interior shot of a rearview mirror reflecting an empty child car seat in the back, dim red light from a traffic signal, vertical 9:16 framing"},
+    {"id": 11, "narration": "I sold the car. Took the bus for a month.", "image_prompt": "wide shot of an empty parking space where a car used to be, an oil stain on the concrete, grey light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning there was a car seat on my bus seat. Buckled to nothing.", "image_prompt": "close shot of a child car seat strapped to a city bus bench seat, empty, dim interior bus light, vertical 9:16 framing"}
+  ]
+}

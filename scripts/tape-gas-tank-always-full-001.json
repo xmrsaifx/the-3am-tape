@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-gas-tank-always-full-001",
+  "character": "narrator",
+  "topic": "My gas tank is always full no matter how far I drive",
+  "title": "My Gas Tank Is Always Full No Matter How Far I Drive | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My gas tank has read full for two months. I have not bought fuel. I drive forty miles a day.", "image_prompt": "close shot of a vehicle fuel gauge needle resting on full, dim dashboard light, vertical 9:16 framing"},
+    {"id": 2, "narration": "An old pickup. Two hundred miles to a tank. I commute across the county.", "image_prompt": "wide shot of an old pickup truck parked on a rural driveway at dusk, fields behind, vertical 9:16 framing"},
+    {"id": 3, "narration": "I always filled up on Fridays.", "image_prompt": "close shot of a gas pump nozzle in a truck fuel tank at a rural station, evening light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One Friday the needle was already on full. I had driven all week.", "image_prompt": "close shot of a dashboard fuel gauge on full, the ignition key turned, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I tapped the gauge. Stuck, I thought.", "image_prompt": "close shot of a finger tapping a fuel gauge on a dashboard, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "It dropped while I drove. By morning, full again.", "image_prompt": "close shot of a fuel gauge needle on full at dawn, dim dashboard glow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I drove until it should have been empty.", "image_prompt": "wide shot of an old pickup on a long empty country road at night, headlights cutting the dark, vertical 9:16 framing"},
+    {"id": 8, "narration": "Three hundred miles. Still full. The engine never coughed.", "image_prompt": "close shot of a fuel gauge still reading full, high odometer numbers, dim dash light, vertical 9:16 framing"},
+    {"id": 9, "narration": "The truck smells of cold gasoline every dawn. The cap is always loose.", "image_prompt": "close shot of an open fuel cap door on the side of a truck at dawn, the cap dangling loose, mist in the air, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I watched the driveway. At three the fuel door opened on its own. Nothing was there.", "image_prompt": "wide shot of a pickup truck in a dark driveway at night, the small fuel door open, no person nearby, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "The odometer keeps climbing overnight while it sits.", "image_prompt": "close shot of a truck odometer reading at dawn, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Wherever it fills up, it brings the smell of wet dirt back with it.", "image_prompt": "close shot of damp dark soil clinging to a truck tire and undercarriage, dim morning light, vertical 9:16 framing"}
+  ]
+}

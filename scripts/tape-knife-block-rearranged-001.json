@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-knife-block-rearranged-001",
+  "character": "narrator",
+  "topic": "The knives in my kitchen rearrange themselves by size every night",
+  "title": "The Knives in My Kitchen Rearrange Themselves by Size Every Night | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning the knives in my block are sorted by size. Smallest to largest. I never sort them.", "image_prompt": "close shot of a wooden knife block on a kitchen counter with knives sorted small to large, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone. A wooden block holds six knives on the counter.", "image_prompt": "wide shot of a small tidy apartment kitchen at night, a knife block on the counter, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I jam them back in any slot.", "image_prompt": "close shot of a hand jamming a knife into a wooden block at a random slot, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning they sat in perfect order. Paring knife to cleaver.", "image_prompt": "close shot of kitchen knives arranged in a block in perfect size order, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I shuffled them, on purpose.", "image_prompt": "close shot of a hand shuffling knives in a wooden block, dim kitchen light, vertical 9:16 framing"},
+    {"id": 6, "narration": "By morning, sorted again. Blades all facing out.", "image_prompt": "close shot of knives sorted in a block with all blades facing outward, dim morning light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I hid the block in a cupboard.", "image_prompt": "close shot of a wooden knife block placed inside a closed kitchen cupboard, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Dawn. The block was on the counter. Sorted.", "image_prompt": "close shot of the knife block back on the counter, knives sorted, dim dawn light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Then the largest knife began sitting apart. On the counter. Pointing at my bedroom door.", "image_prompt": "close shot of a large kitchen knife lying alone on a counter pointing toward a dark doorway, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I woke to a soft scraping. The blades were being lined up in the dark.", "image_prompt": "wide dim shot of a kitchen counter at night, knives partly arranged in a row, deep shadow, no person, vertical 9:16 framing"},
+    {"id": 11, "narration": "I threw every knife into the river.", "image_prompt": "wide shot of a dark river at night from a bank, faint moonlight on the water, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the block was full again. Six knives, sorted, still wet.", "image_prompt": "close shot of a full knife block on a counter, the knives sorted and still wet, dim morning light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-plants-lean-corner-001",
+  "character": "narrator",
+  "topic": "All my houseplants lean toward one empty corner of the room away from the windows",
+  "title": "All My Houseplants Lean Toward One Empty Corner of the Room | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every houseplant I own leans toward the same empty corner of my living room. Away from every window.", "image_prompt": "wide shot of a living room with several houseplants all leaning toward one dim empty corner, soft daylight, vertical 9:16 framing"},
+    {"id": 2, "narration": "Bright apartment. Plants on every sill. I keep them well.", "image_prompt": "wide shot of a bright apartment living room with potted plants on every windowsill, daylight, vertical 9:16 framing"},
+    {"id": 3, "narration": "Plants lean to the light.", "image_prompt": "close shot of a potted plant leaning toward a window in the light, dim room, vertical 9:16 framing"},
+    {"id": 4, "narration": "One week they all bent toward the dark corner by the closet.", "image_prompt": "close shot of houseplants bending toward a dark corner near a closet, away from the windows, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Away from the sun.", "image_prompt": "wide shot of plants in a sunlit room all angled away from the sun toward shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "Every stem, every leaf, pointing at that one spot.", "image_prompt": "close shot of plant stems and leaves all pointing at one corner of a room, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I turned them all around.", "image_prompt": "close shot of hands turning a potted plant around on a sill, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "By morning they had bent back toward the corner.", "image_prompt": "close shot of a potted plant bent back toward a dark corner by morning, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "The plants nearest the corner are dying. The far ones strain so hard the stems snap.", "image_prompt": "close shot of a wilting plant near a dark corner and a strained snapped stem on another, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I sat in that corner in the dark. Every plant turned to face me.", "image_prompt": "wide shot of a person sitting in a dark room corner while every plant faces toward them, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I gave the plants away. The corner stays cold.", "image_prompt": "wide shot of an empty living room corner, cold and bare, no plants, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "My new neighbor says her plants have started leaning. Through the shared wall. Toward me.", "image_prompt": "close shot of a potted plant leaning toward a shared apartment wall, dim light, vertical 9:16 framing"}
+  ]
+}

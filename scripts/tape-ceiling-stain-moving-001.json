@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-ceiling-stain-moving-001",
+  "character": "narrator",
+  "topic": "There is a water stain on my bedroom ceiling shaped like a person that moves closer to my bed each night",
+  "title": "The Water Stain on My Ceiling Is Shaped Like a Man. It Moves Closer to My Bed Each Night. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a water stain on my bedroom ceiling shaped like a man. Each morning it is closer to my bed.", "image_prompt": "close shot looking up at an old plaster bedroom ceiling with a brown water stain vaguely shaped like a standing figure in the far corner, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Old house. Upstairs bedroom. No leak, the plumber swore.", "image_prompt": "wide shot of an upstairs bedroom in an old house, a bed against the wall, sloped ceiling, dim light through a curtained window, vertical 9:16 framing"},
+    {"id": 3, "narration": "It started over the far corner.", "image_prompt": "close shot of a faint brown irregular water stain on a white plaster ceiling corner, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "I photographed it the first night. By the weekend it had crossed half the ceiling.", "image_prompt": "close upward shot of a bedroom ceiling with a large brown stain extending across half the plaster surface, dim overcast light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I told myself it was spreading.", "image_prompt": "wide shot of a person lying in bed seen from the side looking up at a stained ceiling, dim night light, only a silhouette, vertical 9:16 framing"},
+    {"id": 6, "narration": "But stains spread outward. This one moved. It kept its shape.", "image_prompt": "close upward shot of a man shaped brown water stain on a ceiling, its outline distinct against the white plaster, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I marked the edge in pencil.", "image_prompt": "close shot of a hand holding a pencil marking a line along a ceiling stain edge, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "By morning it was a foot past the line.", "image_prompt": "close upward shot of a ceiling stain that has crept past a faint pencil line, the line visible behind the brown edge, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "The shape grew arms. Then what looked like a face, turned downward.", "image_prompt": "close upward shot of a large brown ceiling stain resembling a figure with extended arms and a downturned head shape, dim light, deep shadows, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night it stopped directly over me. The ceiling was damp and warm to the touch.", "image_prompt": "upward shot from a bed of a dark damp ceiling stain directly overhead, the plaster glistening faintly, dim night light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I dragged my mattress down to the living room.", "image_prompt": "wide shot of a mattress on a living room floor, dim lamp light, a low ceiling above, sparse furniture, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning there was a new stain on the living room ceiling. Right above where I slept.", "image_prompt": "close upward shot of a fresh brown figure shaped stain forming on a living room ceiling above a floor mattress, dim morning light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-dining-chairs-pulled-out-001",
+  "character": "narrator",
+  "topic": "The chairs at my dining table are pulled out a little more every day as if someone keeps sitting down",
+  "title": "The Chairs at My Dining Table Are Pulled Out a Little More Every Day | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning the chairs at my dining table are pulled out a little more. As if someone keeps sitting down.", "image_prompt": "wide shot of a wooden dining table surrounded by chairs all pulled slightly out, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone. Six chairs, one table. I only ever use one.", "image_prompt": "wide shot of a modest dining room with a table and six chairs, dim evening light, one place setting, vertical 9:16 framing"},
+    {"id": 3, "narration": "I push them all in at night.", "image_prompt": "close shot of hands pushing a wooden dining chair neatly under a table, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning all six were out a few inches. Evenly. Neatly.", "image_prompt": "wide shot of a dining table with all six chairs pulled out a few inches evenly, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I pushed them back.", "image_prompt": "close shot of a dining chair being pushed back to the table, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "By noon they had crept out again.", "image_prompt": "wide shot of dining chairs crept out from the table again, dim noon light through a window, vertical 9:16 framing"},
+    {"id": 7, "narration": "I marked the floor with tape.", "image_prompt": "close shot of tape marks on a wooden floor around chair legs, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Each dawn the chairs sit farther from the table than the marks.", "image_prompt": "wide shot of dining chairs sitting beyond the floor tape marks, dim dawn light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Now they face inward, angled, like five guests leaning toward the empty head of the table.", "image_prompt": "wide shot of five dining chairs angled inward toward the empty head of a table, dim light, deep shadows, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night the seat cushions were warm and dented when I came down for water.", "image_prompt": "close shot of a dented warm seat cushion on a dining chair, dim night light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I moved the chairs to the garage and ate standing up.", "image_prompt": "wide shot of an empty dining room with no chairs, only a bare table, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning all six were back at the table. Pulled out. Waiting for me to sit.", "image_prompt": "wide shot of six chairs back around the dining table, all pulled out and waiting, dim morning light, vertical 9:16 framing"}
+  ]
+}

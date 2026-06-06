@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-peephole-wrong-hallway-001",
+  "character": "narrator",
+  "topic": "The peephole in my apartment door shows a hallway that is not the one outside",
+  "title": "The Peephole in My Front Door Shows a Hallway That Is Not Mine | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The peephole in my front door shows a hallway that is not mine.", "image_prompt": "close shot of a brass peephole on a white apartment front door, the tiny lens catching dim light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Fourth floor apartment. Carpeted hall, beige walls. Lived here three years.", "image_prompt": "wide shot of a carpeted apartment hallway with beige walls and evenly spaced doors, dim sconce lighting, no people, vertical 9:16 framing"},
+    {"id": 3, "narration": "I always check before opening.", "image_prompt": "close shot of an eye approaching a door peephole from inside, only the door and brass fitting visible, dim entry light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One night the peephole showed bare concrete and a flickering bulb. I opened the door anyway.", "image_prompt": "fisheye distorted view through a peephole showing a bare concrete corridor with a single flickering bulb overhead, deep shadows, vertical 9:16 framing"},
+    {"id": 5, "narration": "My own hallway was there. Beige. Carpeted.", "image_prompt": "wide shot of a normal carpeted beige apartment hallway seen through an open doorway, dim warm light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Closed again, the peephole showed concrete. And a door across from mine.", "image_prompt": "fisheye peephole view of a concrete corridor with a single plain door directly across, dim flickering light, vertical 9:16 framing"},
+    {"id": 7, "narration": "There is no door across from mine.", "image_prompt": "close shot of a white apartment door interior with a brass peephole, dim entry, vertical 9:16 framing"},
+    {"id": 8, "narration": "Through the glass, that door began to open.", "image_prompt": "fisheye peephole view of a plain door across a concrete hall beginning to open into darkness, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Now every night the concrete hallway is there. The far door opens a little more.", "image_prompt": "fisheye peephole view of a concrete corridor, the far door open wider revealing black space beyond, flickering bulb, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night something stood in the gap, close to the glass, looking back at me.", "image_prompt": "fisheye peephole view with a dark indistinct figure standing close to the lens in a concrete hallway, no face visible, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I covered the peephole with tape and hung a coat over it.", "image_prompt": "close shot of a front door peephole covered with masking tape and a coat hung over it, dim entry light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the tape was on the floor. Peeled off from the outside.", "image_prompt": "close shot of a strip of masking tape lying on a carpeted hallway floor outside an apartment door, dim hall light, vertical 9:16 framing"}
+  ]
+}

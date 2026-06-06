@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-gallery-photos-while-asleep-001",
+  "character": "narrator",
+  "topic": "There are photos on my phone taken inside my house of me sleeping that I never took",
+  "title": "There Are Photos on My Phone Taken Inside My House While I Was Asleep | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There are photos on my phone I never took. All of them are of me, asleep, in my own bed.", "image_prompt": "close shot of a smartphone screen displaying a dim photo of a sleeping person in bed, the phone held in a hand, dark bedroom, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone. I lock my phone. It sleeps on the nightstand, face down.", "image_prompt": "wide shot of a small dim bedroom at night, a phone lying face down on a nightstand beside a bed, faint streetlight through curtains, vertical 9:16 framing"},
+    {"id": 3, "narration": "I check my gallery every morning.", "image_prompt": "close shot of a hand scrolling a phone photo gallery in the morning, dim room light, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first one was stamped three forty in the morning. A photo of my sleeping face.", "image_prompt": "close shot of a phone screen showing a grainy timestamped photo of a sleeping face in dim light, the time visible, vertical 9:16 framing"},
+    {"id": 5, "narration": "Taken from above me.", "image_prompt": "close overhead shot of a person sleeping in bed seen from directly above, dim night light, blanket pulled up, vertical 9:16 framing"},
+    {"id": 6, "narration": "Close enough to see my breath fog the lens.", "image_prompt": "close shot of a sleeping face partially obscured, faint fog near the camera, very dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I set a passcode no one knows.", "image_prompt": "close shot of a phone screen showing a passcode entry pad, dim bedroom, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next morning. A new photo. Same time.", "image_prompt": "close shot of a phone screen with a new dim photo of a sleeping figure, timestamp in the corner, dark room, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each night the camera is closer. Then it was beside me on the pillow.", "image_prompt": "close shot of a phone propped on a pillow beside a sleeping person, dim night light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night's photo was taken from under the blanket, looking up at my face.", "image_prompt": "low upward shot from beneath a blanket looking toward a dim sleeping face above, faint light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I sleep at my sister's now. I left the phone at home.", "image_prompt": "wide shot of a tidy guest bedroom at night, a made bed, dim lamp, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning a new photo arrived. Me, asleep, in her guest room.", "image_prompt": "close shot of a phone screen showing a dim photo of a person asleep in an unfamiliar guest room, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-reflection-blinks-late-001",
+  "character": "narrator",
+  "topic": "My reflection in the bathroom mirror blinks a second after I do",
+  "title": "My Reflection Blinks a Second After I Do | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My reflection in the bathroom mirror blinks a half second after I do. Lately it has started to smile on its own.", "image_prompt": "close shot of a bathroom mirror over a sink reflecting a dim face, the reflection slightly off, low light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Old apartment. One mirror over the sink. I shave there each morning.", "image_prompt": "wide shot of a small old apartment bathroom at night, a single mirror over a sink, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I never look long.", "image_prompt": "close shot of a steamy bathroom mirror with a faint reflection, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning I blinked and the reflection blinked a beat too late.", "image_prompt": "close shot of a face reflected in a mirror with eyes half closed, slight asymmetry, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I held my eyes open.", "image_prompt": "close shot of wide open eyes reflected in a bathroom mirror, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "So did it. Then it blinked alone.", "image_prompt": "close shot of a mirror reflection blinking while the viewer does not, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I raised my left hand.", "image_prompt": "close shot of a left hand raised before a bathroom mirror, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The reflection waited, then raised its right.", "image_prompt": "close shot of a mirror reflection raising the opposite hand a beat later, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Now it lags more each day. Sometimes it is still watching after I turn away.", "image_prompt": "close shot of a dim mirror reflection seeming to linger, the room turned away, low light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I leaned in close. The reflection stayed back, smiling, and shook its head.", "image_prompt": "close shot of a face leaning toward a mirror while the reflection stays back faintly smiling, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I covered the mirror with a sheet.", "image_prompt": "close shot of a bathroom mirror covered with a white sheet, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the sheet was on my side. The mirror was bare, and I was already in it.", "image_prompt": "close shot of an uncovered bathroom mirror with a fallen sheet on the floor, a dim figure already in the glass, low light, vertical 9:16 framing"}
+  ]
+}

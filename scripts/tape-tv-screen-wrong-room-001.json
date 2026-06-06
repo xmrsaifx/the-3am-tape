@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-tv-screen-wrong-room-001",
+  "character": "narrator",
+  "topic": "When my television is off the black screen reflects a room that is not mine",
+  "title": "When My TV Is Off, the Black Screen Reflects a Room That Is Not Mine | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "When my television is off, the black screen reflects a room that is not the one I am sitting in.", "image_prompt": "close shot of a black powered off flat screen television reflecting a dim unfamiliar room, dim living room light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Living room. A big flat screen on the wall. I watch it most nights.", "image_prompt": "wide shot of a living room with a large flat screen television on the wall, a couch, dim evening light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Off, it shows my own room back.", "image_prompt": "close shot of a dark TV screen faintly reflecting a normal living room, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One night the dark screen reflected a different room. Older. Wallpaper I have never owned.", "image_prompt": "close shot of a black TV screen reflecting an older room with patterned wallpaper, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I turned around. My room was normal.", "image_prompt": "wide shot of a normal living room with a person on a couch, dim lamp light, vertical 9:16 framing"},
+    {"id": 6, "narration": "In the screen, a hallway behind me that my house does not have.", "image_prompt": "close shot of a dark TV reflecting a hallway behind a couch that should not exist, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I waved at the reflection.", "image_prompt": "close shot of a hand raised in a wave before a dark TV screen, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "My reflection waved. But it sat in the other room.", "image_prompt": "close shot of a TV reflection of a person seated in a different room, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each night the reflected room darkens, and a door at the end of its hallway opens wider.", "image_prompt": "close shot of a dark TV reflecting a dim hallway with a door opening at the end, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night a figure stepped from that door and sat beside my reflection on the couch.", "image_prompt": "close shot of a TV screen reflecting a figure sitting beside a reflection on a couch, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I unplugged the TV and turned it to face the wall.", "image_prompt": "wide shot of a flat screen television turned to face the wall, an unplugged cord hanging, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning it faced the room again. The screen was on, showing the other room.", "image_prompt": "close shot of a powered on TV screen displaying an empty older room, dim morning light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-scale-two-weights-001",
+  "character": "narrator",
+  "topic": "My bathroom scale shows two weights when I step on it but I weigh myself alone",
+  "title": "My Bathroom Scale Shows Two Weights When I Step On It | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My bathroom scale shows two numbers when I step on it. Mine, and a heavier one. I weigh alone.", "image_prompt": "close shot of a digital bathroom scale displaying two stacked numbers, bare feet on it, dim light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Digital scale. Tile bathroom. I check my weight each morning.", "image_prompt": "wide shot of a small tiled bathroom at morning, a digital scale on the floor, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "One number. Always.", "image_prompt": "close shot of a digital scale showing a single weight reading, bare feet, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning it blinked twice. My weight, then a second, forty pounds more.", "image_prompt": "close shot of a digital scale display blinking between two different weight numbers, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I stepped off. Still two.", "image_prompt": "close shot of an empty digital scale on tile still showing two numbers, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "It read both even with the bathroom empty.", "image_prompt": "wide shot of an empty bathroom with a lit scale on the floor reading numbers, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I bought a new scale.", "image_prompt": "close shot of a new boxed bathroom scale on a tile floor, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Same thing. Mine, then the heavier one, gaining each day.", "image_prompt": "close shot of a scale showing two weights, the larger number higher, dim morning light, vertical 9:16 framing"},
+    {"id": 9, "narration": "The second weight climbs as if someone is standing closer behind me.", "image_prompt": "close shot of a scale display with a rising second number, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last week both numbers showed while I stood off the scale, in the doorway.", "image_prompt": "wide shot of a person standing in a bathroom doorway while the scale on the floor glows with numbers, dim light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I threw the scale away.", "image_prompt": "wide shot of an empty bathroom corner where a scale used to be, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Now the bathroom tile creaks under a weight each morning, right where I used to stand.", "image_prompt": "close shot of a bathroom floor tile with faint pressure marks as if weighted, dim morning light, vertical 9:16 framing"}
+  ]
+}

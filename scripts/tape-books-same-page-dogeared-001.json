@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-books-same-page-dogeared-001",
+  "character": "narrator",
+  "topic": "Every book on my shelf is dog-eared on the same page but I never read them",
+  "title": "Every Book on My Shelf Is Dog-Eared on the Same Page. I Never Read Them. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every book on my shelf is folded down at page eighty seven. Hundreds of books. I have opened almost none.", "image_prompt": "close shot of an open book showing a dog-eared folded corner on a page, a full bookshelf behind, dim light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I collect books I mean to read. Three full shelves. Mostly untouched.", "image_prompt": "wide shot of three full bookshelves in a dim study, neat rows of books, dim lamp light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Their spines stay stiff.", "image_prompt": "close shot of stiff unbroken book spines lined on a shelf, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One day I noticed a folded corner. Page eighty seven. Then the next book. Same page.", "image_prompt": "close shot of a folded page corner inside a book, the page number faintly visible, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I checked ten more.", "image_prompt": "close shot of a hand pulling several books from a shelf, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "All of them. Page eighty seven, creased soft from folding.", "image_prompt": "close shot of multiple open books all dog-eared on the same page, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I flattened every corner.", "image_prompt": "close shot of hands flattening folded page corners in a book, dim lamp light, vertical 9:16 framing"},
+    {"id": 8, "narration": "By morning they were folded again. Page eighty seven.", "image_prompt": "close shot of book corners folded down again by morning, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Then a sentence on that page was underlined in every book. The same sentence.", "image_prompt": "close shot of an underlined sentence on a book page, dark ink, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "It read, you are getting closer. Last night new words appeared in my own handwriting.", "image_prompt": "close shot of a book page with a handwritten line added beneath the printed text, dim lamp light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I boxed the books and left them at the curb.", "image_prompt": "wide shot of cardboard boxes of books left at a curb at dusk, grey light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning a new book sat on my pillow. Open to page eighty seven. My name underlined.", "image_prompt": "close shot of an open book resting on a pillow, a name underlined on the page, dim morning light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-fridge-note-handwriting-001",
+  "character": "narrator",
+  "topic": "There is a grocery list on my fridge in my handwriting for food I am allergic to that I never wrote",
+  "title": "There Is a Grocery List on My Fridge in My Handwriting for Food I Am Allergic To | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a grocery list on my fridge in my own handwriting. Every item would kill me. I never wrote it.", "image_prompt": "close shot of a handwritten grocery list held by a magnet on a refrigerator door, dim kitchen light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone. A magnet holds a notepad on the fridge door.", "image_prompt": "wide shot of a small kitchen at night, a notepad magnet on the fridge, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I keep my own lists there.", "image_prompt": "close shot of a handwritten note on a fridge notepad, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning a new list hung there. My handwriting. Peanuts. Shellfish. Foods I am deathly allergic to.", "image_prompt": "close shot of a grocery list with peanuts and shellfish written in a shaky hand, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I throw it away.", "image_prompt": "close shot of a crumpled list dropped into a kitchen trash can, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Next day, the same list. Crossed off, item by item.", "image_prompt": "close shot of the same grocery list with items crossed off one by one, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I checked the fridge.", "image_prompt": "close shot of an open refrigerator interior, food items inside, dim fridge light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The crossed off foods were inside. Bought. Opened.", "image_prompt": "close shot of opened packages of peanuts and shellfish on a fridge shelf, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each day more items are checked, and the food appears in meals I do not remember making.", "image_prompt": "close shot of a grocery list mostly crossed off, dim kitchen light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I woke at the counter, a fork in my hand, a plate of shellfish half eaten.", "image_prompt": "wide shot of a person standing at a kitchen counter at night with a fork and a half eaten plate, dim light, only a silhouette, vertical 9:16 framing"},
+    {"id": 11, "narration": "I unplugged the fridge and threw out every list.", "image_prompt": "close shot of an unplugged refrigerator cord on a kitchen floor, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning a new note hung there. My writing. Tonight you will not stop yourself.", "image_prompt": "close shot of a single handwritten note on a fridge reading a warning line, dim morning light, vertical 9:16 framing"}
+  ]
+}

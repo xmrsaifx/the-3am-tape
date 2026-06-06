@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-fifteenth-stair-001",
+  "character": "narrator",
+  "topic": "My staircase has fourteen steps but some nights there is a fifteenth",
+  "title": "My Staircase Has Fourteen Steps. Some Nights There Are Fifteen. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My staircase has fourteen steps. Some nights, in the dark, I count fifteen.", "image_prompt": "wide shot looking up a dim wooden residential staircase from the bottom, the steps rising to a dark landing, single dim light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Two story house. Lived here twelve years. I know these stairs.", "image_prompt": "wide shot of a two story house interior entry with a carpeted staircase, warm dim lamp light, framed pictures on the wall, vertical 9:16 framing"},
+    {"id": 3, "narration": "Fourteen up to bed. Every night.", "image_prompt": "close shot of worn wooden stair treads receding upward into shadow, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One night my foot found another step where the landing should be.", "image_prompt": "close low shot of a bare foot on a dark wooden stair tread in near darkness, faint light from above, vertical 9:16 framing"},
+    {"id": 5, "narration": "I froze in the dark.", "image_prompt": "wide shot of a staircase in near total darkness with only the faint outline of steps visible, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "I counted down. Fifteen. I turned on the light. Fourteen.", "image_prompt": "wide shot up a lit staircase with all steps clearly visible, warm overhead light, no people, vertical 9:16 framing"},
+    {"id": 7, "narration": "I started counting out loud.", "image_prompt": "close shot of a hand resting on a wooden stair banister in dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "In the dark, always fifteen. In the light, fourteen.", "image_prompt": "wide shot of a staircase half in shadow and half in light, the steps ambiguous in the dark portion, vertical 9:16 framing"},
+    {"id": 9, "narration": "The extra step is near the top. Cold. It does not creak like the others.", "image_prompt": "close shot of a single worn stair tread near the top of a staircase, dim cold light, a pale tone to the wood, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night, on the fifteenth step, something stepped down past me in the dark.", "image_prompt": "wide dim shot of a staircase at night with a faint dark shape descending, motion blur, only a silhouette, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I leave the stair light on now. Always.", "image_prompt": "close shot of a small stair light fixture glowing on a wall beside a staircase at night, vertical 9:16 framing"},
+    {"id": 12, "narration": "The bulb keeps burning out. Only that one. Only at night.", "image_prompt": "close shot of a burnt out light bulb in a stairwell fixture, the staircase dark below, faint moonlight, vertical 9:16 framing"}
+  ]
+}

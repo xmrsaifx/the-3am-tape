@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-mystery-light-switch-001",
+  "character": "narrator",
+  "topic": "There is a light switch in my house that controls nothing and last week it started getting warm",
+  "title": "There Is a Light Switch in My House That Controls Nothing. Last Week It Started Getting Warm. | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a light switch in my hallway that controls nothing. Last week it started getting warm to the touch.", "image_prompt": "close shot of a single old light switch on a hallway wall, the plate faintly worn, dim light, vertical 9:16 framing"},
+    {"id": 2, "narration": "Old house. One switch by the stairs wired to nothing, the inspector said.", "image_prompt": "wide shot of an old house staircase and hallway, a light switch by the stairs, dim warm light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I never flip it.", "image_prompt": "close shot of a finger near an old wall light switch, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One night I touched it. The plate was warm. Like a body had leaned on it.", "image_prompt": "close shot of a hand touching a warm light switch plate, faint heat shimmer, dim hallway light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I flipped it on.", "image_prompt": "close shot of a light switch flipped to the on position, dim hallway, no light change, vertical 9:16 framing"},
+    {"id": 6, "narration": "Nothing in the house lit. But somewhere below, a faint hum started.", "image_prompt": "wide shot of a dim house interior at night, all lights off, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I followed the wire into the wall.", "image_prompt": "close shot of an electrical wire traced along a baseboard into a wall, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "It ran down, behind the basement, to a room not on the plans.", "image_prompt": "wide shot of a dim basement with an old wall, a faint outline of a sealed room, deep shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each night the switch is hotter. When it is on, footsteps pace the hidden room.", "image_prompt": "close shot of a glowing warm light switch plate at night, dim hallway, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I left it off. Something knocked from inside the wall, asking me to turn it on.", "image_prompt": "close shot of a blank basement wall at night, faint dust falling as if knocked, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I taped the switch down in the off position.", "image_prompt": "close shot of a light switch taped down in the off position, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning it was on. The tape was melted. The hidden room is quiet now. Waiting.", "image_prompt": "close shot of a light switch flipped on with melted tape hanging from it, dim morning light, vertical 9:16 framing"}
+  ]
+}
