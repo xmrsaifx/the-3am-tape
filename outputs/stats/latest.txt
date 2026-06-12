@@ -3,75 +3,75 @@ Compared to: 2026-06-11
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-My GPS Keeps Telling Me to Take an Exit That Does Not Exist     1170      —    30.4   31   2     public
-We Moved Into a House That Was Suspiciously Cheap and Now I     1094      —    26.8   30   0     public
-There Is a Door in My Basement That Wasn't There Last Week |    1003      —    23.6   18   0     public
-I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     892      —    21.6   24   2     public
-I Have a Daughter Who Is Not in Any of the Family Photos. Bu     883      —    21.8   43   0     public
-My Grandmother's House Has a Room That Everyone in the Famil     683      —    18.1   20   2     public
-My Smart Doorbell Keeps Recording Someone Standing in Our Ha     648      —    16.3   24   2     public
-I Went Hiking Alone and Found a Campsite That Had Been Waiti     540      —    13.0   17   0     public
-I Was a Security Guard at an Empty Hospital Before They Tore     533      —    13.6   20   0     public
-I Deliver Food at Night and I Have Learned Which Addresses t     469      —    11.7   10   0     public
-I Worked the Night Shift at a Motel Where Eight Rooms Were A     442      —    12.2   10   0     public
+My GPS Keeps Telling Me to Take an Exit That Does Not Exist     1170      —    30.2   31   2     public
+We Moved Into a House That Was Suspiciously Cheap and Now I     1094      —    26.6   30   0     public
+There Is a Door in My Basement That Wasn't There Last Week |    1003      —    23.4   18   0     public
+I Found a Cassette Tape Labeled DO NOT PLAY in My Late Uncle     892      —    21.5   24   2     public
+I Have a Daughter Who Is Not in Any of the Family Photos. Bu     883      —    21.6   43   0     public
+My Grandmother's House Has a Room That Everyone in the Famil     683      —    18.0   20   2     public
+My Smart Doorbell Keeps Recording Someone Standing in Our Ha     648      —    16.2   24   2     public
+I Went Hiking Alone and Found a Campsite That Had Been Waiti     540      —    12.9   17   0     public
+I Was a Security Guard at an Empty Hospital Before They Tore     533      —    13.5   20   0     public
+I Deliver Food at Night and I Have Learned Which Addresses t     469      —    11.6   10   0     public
+I Worked the Night Shift at a Motel Where Eight Rooms Were A     442      —    12.1   10   0     public
 I Worked the Night Shift at a Gas Station Off Highway 49 | T     413      —     9.4   11   0     public
-The Spare Key Under My Flowerpot Is Replaced with a Differen     303      —    41.8    1   0     public
-There Is a Room in My House That Only Appears in the Hallway     296      —    10.5    3   0     public
-A Smoke Detector Chirps from a Hallway My Apartment Does Not     266      —    35.2    3   0     public
+The Spare Key Under My Flowerpot Is Replaced with a Differen     303      —    40.4    1   0     public
+There Is a Room in My House That Only Appears in the Hallway     296      —    10.4    3   0     public
+A Smoke Detector Chirps from a Hallway My Apartment Does Not     266      —    34.1    3   0     public
 There Is a Video on My Drone's SD Card That I Never Recorded     230      —     5.8    3   0     public
-My Smoke Detector Only Beeps When No One Is Home and the App     186     +1     7.0    0   0     public
+My Smoke Detector Only Beeps When No One Is Home and the App     186     +1     6.9    0   0     public
 My Brother Went Missing for Six Hours When We Were Kids and      154      —     3.6    7   0     public
 I Remember a Babysitter We Had When I Was Seven. No One Else     151      —     3.9    3   0     public
 I Have Dreamed of the Same House My Entire Life. I Found It      136      —     3.6    2   0     public
-My Doorbell Camera Records a Child Knocking Every Night at T     126      —     4.6    2   0     public
+My Doorbell Camera Records a Child Knocking Every Night at T     126      —     4.5    2   0     public
 There Is a Recording on My Answering Machine from Someone I      118      —     2.7    1   0     public
 My Imaginary Friend from When I Was Four Has Started Visitin     112      —     3.0    1   0     public
-My Morning Newspaper Arrives With Tomorrow's Date. The Stori     104     +2     8.8    0   0     public
-My Neighbors Are on Vacation but Their Kitchen Light Still T      98      —     8.0    1   0     public
-I Bought a Thrift Store Film Camera. The Roll Inside Holds P      94      —     6.8    1   6     public
-I Found My Grandfather's Old Camcorder and the Last Recordin      90      —     2.4    7   0     public
-The Snack Aisle at My Grocery Store Has Been Moving One Sect      86      —     5.0    0   0     public
+My Morning Newspaper Arrives With Tomorrow's Date. The Stori     104     +2     8.6    0   0     public
+My Neighbors Are on Vacation but Their Kitchen Light Still T      98      —     7.8    1   0     public
+I Bought a Thrift Store Film Camera. The Roll Inside Holds P      94      —     6.7    1   6     public
+I Found My Grandfather's Old Camcorder and the Last Recordin      90      —     2.3    7   0     public
+The Snack Aisle at My Grocery Store Has Been Moving One Sect      86      —     4.9    0   0     public
 My Doorbell Logs Motion Every Night at 3:17 AM. The Porch Is      85      —     4.4    0   0     public
-My Fitness Tracker Logs a Heart Rate Spike at 11:47 PM Every      85      —     4.2    0   0     public
-I Have Hiked the Same Three Mile Trail for Nine Years. This       84      —     2.8    1   0     public
+My Fitness Tracker Logs a Heart Rate Spike at 11:47 PM Every      85      —     4.1    0   0     public
+I Have Hiked the Same Three Mile Trail for Nine Years. This       84      —     2.7    1   0     public
 I Took a Wrong Turn on a Back Road and Ended Up in the Same       83      —     2.4    0   0     public
-My Front Door Keeps Getting Locked from the Inside While I A      76      —     3.3    0   0     public
-Every Wedding Photo on Our Wall Shows a Fifth Person Standin      71      —     2.8    0   0     public
+My Front Door Keeps Getting Locked from the Inside While I A      76      —     3.2    0   0     public
+My Microwave Clock Shows 88:88 Every Night at Exactly 2 AM |      75      —     5.4    0   0     public
+Every Wedding Photo on Our Wall Shows a Fifth Person Standin      71      —     2.7    0   0     public
 My Sleep Tracker Has 43 Missing Nights. I Have No Memory of       69      —     2.0    0   0     public
 My HOA Newsletter Has Been Listing My House With a Different      67      —     4.1    0   0     public
 My Birth Certificate Was Signed by a Doctor Who Died Two Yea      66      —     2.1    0   0     public
 My Electricity Bill Is for a House That Was Demolished in Ni      63      —     2.0    0   0     public
-My Backyard Is Bigger Every Time I Mow It | True Scary Story      57      —    10.3    2   0     public
+My Backyard Is Bigger Every Time I Mow It | True Scary Story      57      —     9.8    2   0     public
 There Was an Empty House at the End of My Street That the Ad      56      —     1.5    3   0     public
 My Truck Broke Down on a Highway with No Other Cars for Thre      55      —     1.7    0   0     public
 My Night Shift at the Call Center Kept Getting Calls from a       55      —     1.3    2   0     public
 My Library Card Has Been Checking Out Books for Two Years in      53      —     3.7    0   0     public
 My Building's Elevator Stops at Floor 13 Every Thursday at 7      48      —     2.1    0   0     public
-My Daughter's Kindergarten Drawings All Show a Tall Man in a      48      —     1.7    1   0     public
+My Daughter's Kindergarten Drawings All Show a Tall Man in a      48      —     1.6    1   0     public
 My Smart Lock Shows Someone Entering My House Every Night at      48      —     1.4    0   0     public
-There Is a Wear Pattern in My Hallway Carpet That Leads to a      45      —     2.7    0   0     public
+There Is a Wear Pattern in My Hallway Carpet That Leads to a      45      —     2.6    0   0     public
 The Backseat Seatbelt of My Car Is Buckled Every Morning. I       45      —     2.0    0   0     public
 My Phone Shows Me Visiting an Abandoned House Every Night at      43      —     1.2    1   0     public
 My Calendar Has a Recurring Friday Meeting I Did Not Create       38      —     1.5    0   0     public
-I Bought a Box of Unmarked VHS Tapes at an Estate Sale for T      38      —     1.3    0   0     public
-My Car's Odometer Drops Twelve Miles Every Sunday Morning |       35      —     3.1    0   0     public
+I Bought a Box of Unmarked VHS Tapes at an Estate Sale for T      38      —     1.2    0   0     public
+My Car's Odometer Drops Twelve Miles Every Sunday Morning |       35      —     3.0    0   0     public
 My House Key Fits a Stranger's Front Door Three Blocks Away       35      —     1.3    1   0     public
 My Cat Brings Me Antique Objects Every Morning From a Baseme      33      —     1.3    0   0     public
-The Word HELLO Appears in the Steam on My Bathroom Mirror Ev      30     +2     1.4    0   0     public
+The Word HELLO Appears in the Steam on My Bathroom Mirror Ev      30     +2     1.3    0   0     public
 My Downstairs Neighbor Sweeps Every Night at 2:30 AM. He Has      30     +2     1.3    0   0     public
-There Is a Contact in My Phone I Did Not Add. The Photo Is M      29      —     3.0    1   0     public
+There Is a Contact in My Phone I Did Not Add. The Photo Is M      29      —     2.9    1   0     public
 I Drove Through a Town That Was Not on Any Map I Owned | Tru      28      —     0.8    0   0     public
 The Closet Light in My Apartment Is On Every Morning. The Fi      26      —     1.2    0   0     public
 I Worked Night Shift at a Storage Facility on Old Lapeer Roa      25      —     0.8    0   0     public
 A Row of Footprints Leads from My Back Porch to My Fence. Th      23      —     1.2    0   0     public
 My Wife Is Not in Any of Our Wedding Photos. No One Else Fin      23      —     0.9    1   0     public
 Houses on My Street Skip from 47 to 49 and Nobody Remembers       22      —     1.4    0   0     public
-My Bathroom Mirror Reflects a Clock on the Wall Behind Me Th      21      —     1.6    0   0     public
 I Bought a Used Phone Online and Someone Is Still Receiving       21      —     0.7    0   0     public
-My Building's Stairwell Loses a Floor Between 4 and 5 Every       20      —     3.0    0   0     public
-My Spotify Plays a Podcast Every Night at 3 AM That Does Not      20      —     2.9    0   0     public
-The Chairs at My Dining Table Are Pulled Out a Little More E      19      —     4.8    0   0     public
-The Amazon Driver on My Route Has Not Aged in Eleven Years |      19     +2     1.0    0   0     public
+My Building's Stairwell Loses a Floor Between 4 and 5 Every       20      —     2.9    0   0     public
+My Spotify Plays a Podcast Every Night at 3 AM That Does Not      20      —     2.8    0   0     public
+The Chairs at My Dining Table Are Pulled Out a Little More E      19      —     4.5    0   0     public
+The Amazon Driver on My Route Has Not Aged in Eleven Years |      19     +2     0.9    0   0     public
 My Ceiling Fan Rotates Counterclockwise Every Sunday. The Ch      19      —     0.9    0   0     public
 The New House Came with a Baby Monitor in the Attic That We       19      —     0.4    0   0     public
 My New Neighbor Knows Things About Me He Should Not Know | T      17      —     0.5    0   0     public
@@ -81,42 +81,42 @@ My Router Logs Show My Dead Father's Laptop Connecting Every      16      —   
 Our Family Christmas Card from 1998 Has Gained an Extra Chil      15      —     0.6    0   0     public
 I Found a Roll of Undeveloped Film in My Dead Grandmother's       15      —     0.6    0   0     public
 I Throw Out the Same Expired Can of Soup Every Week and It K      14      —     1.3    0   0     public
-Letters In My Mailbox Are Addressed To People Who Never Live      14      —     0.6    0   0     public
+Letters In My Mailbox Are Addressed To People Who Never Live      14      —     0.5    0   0     public
 My Dashcam Keeps Saving Footage From Roads I Have Never Driv      14      —     0.4    0   0     public
-My Thermostat Resets Itself to 68 Every Night at Exactly 3:1      13      —     2.2    0   0     public
+My Thermostat Resets Itself to 68 Every Night at Exactly 3:1      13      —     2.1    0   0     public
 My Phone Call Log Shows a Three Minute Call Every Tuesday at      13      —     0.5    0   0     public
-The Door to My Childhood Bedroom Is a Wall Now. I Still Hear      12      —     2.6    0   0     public
+The Door to My Childhood Bedroom Is a Wall Now. I Still Hear      12      —     2.5    0   0     public
 I Worked at a Remote Weather Station and Something Started L      12      —     0.4    0   0     public
 The Previous Tenant Left a Calendar Marked HE COMES BY Every      12      —     0.4    0   0     public
-There Is a Clean Rectangle on My Garage Floor Where a Second      11      —     6.3    0   0     public
+There Is a Clean Rectangle on My Garage Floor Where a Second      11      —     5.5    0   0     public
+There Is a Clean Dish in My Sink Every Morning. I Eat Out Ev      11     +3     2.8    0   0     public
 My Dishwasher Only Finishes Its Cycle When I Am Asleep. It S      11      —     0.5    0   0     public
-The Street Signs on My Block Have Been Changing One Letter a      10      —     1.6    0   0     public
+The Knives in My Kitchen Rearrange Themselves by Size Every       10     +2     8.2    0   0     public
+The Street Signs on My Block Have Been Changing One Letter a      10      —     1.5    0   0     public
 A Grey Sedan Has Been in My Grocery Store Lot Every Single V      10      —     0.3    0   0     public
-Every Book on My Shelf Is Dog-Eared on the Same Page. I Neve       9      —     1.7    0   0     public
+Every Book on My Shelf Is Dog-Eared on the Same Page. I Neve       9      —     1.6    0   0     public
 Faces in My Kindergarten Class Photo Have Been Getting Cross       9      —     0.6    0   0     public
 The Polaroid Camera I Inherited Only Takes Pictures of One S       9      —     0.3    0   0     public
-The Knives in My Kitchen Rearrange Themselves by Size Every        8      —     8.0    0   0     public
-The Hallway in My House Gets Longer at Night | True Scary St       8     +1     6.5    1   0     public
-There Are Photos on My Phone Taken Inside My House While I W       8     +1     4.0    0   0     public
-There Is a Clean Dish in My Sink Every Morning. I Eat Out Ev       8      —     2.1    0   0     public
+There Are Photos on My Phone Taken Inside My House While I W       8     +1     3.6    0   0     public
 Same House. Ten Years. Same Customer. He Gets Younger Every        8      —     0.5    0   0     public
-The Tools on My Garage Workbench Rearrange into Letters Ever       8      —     0.5    0   0     public
+The Tools on My Garage Workbench Rearrange into Letters Ever       8      —     0.4    0   0     public
+The Hallway in My House Gets Longer at Night | True Scary St       7      —     4.7    1   0     public
 Every Laundromat I Use Returns Children's Clothes That Are N       7      —     0.5    0   0     public
-My Gas Tank Is Always Full No Matter How Far I Drive | True        6      —     3.9    0   0     public
-My Staircase Has Fourteen Steps. Some Nights There Are Fifte       6      —     2.4    0   0     public
-My Closet Is Deeper on the Inside Than the Wall Outside Allo       6      —     1.4    0   0     public
-Every Recipe in My Grandmother's Recipe Box Has Been Altered       6      —     0.8    0   0     public
+My Gas Tank Is Always Full No Matter How Far I Drive | True        6      —     3.4    0   0     public
+My Staircase Has Fourteen Steps. Some Nights There Are Fifte       6      —     2.1    0   0     public
+My Closet Is Deeper on the Inside Than the Wall Outside Allo       6      —     1.3    0   0     public
+Every Recipe in My Grandmother's Recipe Box Has Been Altered       6      —     0.7    0   0     public
 My Sister Has Been Sending Me the Same Photo Every Sunday fr       5      —     0.6    0   0     public
 My Doctor's Office Has Been Calling About Appointments I Do        5      —     0.2    0   0     public
 The Water Stain on My Ceiling Is Shaped Like a Man. It Moves       4     +1     0.8    0   0     public
-Wet Footprints Lead Out of My Pool. It Has Been Drained Six        4      —     0.5    0   0     public
+Wet Footprints Lead Out of My Pool. It Has Been Drained Six        4      —     0.4    0   0     public
 My Building's Fire Escape Ends Three Feet Above the Ground a       4      —     0.2    0   0     public
 My Dentist Found a Tooth I Don't Remember Growing and the Ro       4      —     0.2    0   0     public
 I Keep Finding Receipts in My Jacket Pockets for Places I Ha       4      —     0.1    0   0     public
+There Are Muddy Work Clothes in My Hamper Every Monday. I Wo       3     +3     3.0    0   0     public
+My Mailbox Keeps Getting Letters Addressed to Me, From Me, P       3     +3     3.0    0   0     public
 The Streetlight Outside My Window Has Been Broken Six Months       3      —     0.5    0   0     public
-There Are Muddy Work Clothes in My Hamper Every Monday. I Wo       2     +2     2.0    0   0     public
-My Mailbox Keeps Getting Letters Addressed to Me, From Me, P       2     +2     2.0    0   0     public
-There Is a Grocery List on My Fridge in My Handwriting for F       2      —     0.9    0   0     public
+There Is a Grocery List on My Fridge in My Handwriting for F       2      —     0.8    0   0     public
 Every Morning My Car Seat Is Adjusted for Someone Taller Tha       2     +1     0.6    0   0     public
 The Back Left Burner on My Stove Is Warm Every Night. The Ga       2      —     0.3    0   0     public
 There Is a Passenger in My Rearview Mirror at Every Red Ligh       2      —     0.2    0   0     public
@@ -126,7 +126,8 @@ I Bought a Used Paperback. The Margin Notes Are in My Handwr       2      —   
 I Inherited My Grandmother's House and the Neighbors Think I       2      —     0.1    0   0     public
 My Security Camera Saves 47 Seconds of Footage Every Night a       2      —     0.1    0   0     public
 My Dog Barks at the Exact Same Spot in the Kitchen at Eleven       2      —     0.1    0   0     public
-Every Morning There Is an Extra Pair of Shoes by My Front Do       1      —     0.4    0   0     public
+There Is a Light Switch in My House That Controls Nothing. L       1      —     1.0    0   0     public
+Every Morning There Is an Extra Pair of Shoes by My Front Do       1      —     0.3    0   0     public
 Everything in My Refrigerator Expires on the Exact Same Day        1      —     0.3    0   0     public
 My Doorbell Camera Records Me Leaving the House Every Night        1      —     0.3    0   0     public
 An Apartment Building on My Commute Has My Name on the Buzze       1      —     0.1    0   0     public
@@ -137,7 +138,7 @@ The Landline in My New House Describes My Day Before It Happ       1      —   
 I Bought a Box of Cassettes at a Yard Sale. Every Tape Plays       1      —     0.0    0   0     public
 My Smart Home Started Obeying a Voice That Is Not Mine. It K       1      —     0.0    0   0     public
 The Man My Mother Is Dating Is Wearing My Father's Wedding R       1      —     0.0    0   0     public
-There Is a Light Switch in My House That Controls Nothing. L       0      —     0.0    0   0     public
+The Peephole in My Front Door Shows a Hallway That Is Not Mi       0      —     0.0    0   0     public
 A Car Has Been Parked Across the Street Every Night for a Mo       0      —     0.0    0   0     public
 There Is a Child's Car Seat Buckled in My Back Seat Every Mo       0      —     0.0    0   0     public
 My Power Bill Has Been Charging Me for a Second Meter I Do N       0      —     0.0    0   0     public
