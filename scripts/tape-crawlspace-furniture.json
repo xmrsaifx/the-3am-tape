@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-crawlspace-furniture",
+  "character": "narrator",
+  "topic": "The crawlspace under a house is furnished like a lived-in living room the owner never set up.",
+  "title": "Someone Furnished My Crawlspace | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The crawlspace under my house is furnished like a living room I never built.", "image_prompt": "a low crawlspace beneath a house with a sofa and lamp arranged in the dirt, dim flashlight beam, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is eighteen inches of dirt and pipes. You crawl on your belly.", "image_prompt": "a tight dark crawlspace entrance with exposed pipes and bare soil, low light, grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "I only went down to check for a leak.", "image_prompt": "a flashlight pointing into a dark crawlspace hatch in a floor, dim hallway, deep shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "My light caught the leg of an armchair where there should be none.", "image_prompt": "a flashlight beam finding an upholstered armchair leg in a dirt crawlspace, low light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Then a rug. A side table. A lamp, switched on.", "image_prompt": "a glowing lamp on a small table beside a rug in a cramped crawlspace, deep shadow around it, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "The ceiling down there was eight feet high. My floor sat right above me.", "image_prompt": "an impossibly tall furnished room below a house floor joists, lamp light, fog, low light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I crawled closer. The cushions were warm. The lamp bulb was hot.", "image_prompt": "a worn sofa with depressed cushions in a dim underground room, warm lamp glow, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "A coffee mug sat steaming on the table.", "image_prompt": "a ceramic mug with rising steam on a side table in a dark underground living room, low light, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "On the wall hung photographs of my own house, taken from inside that room.", "image_prompt": "framed photos on a dim wall showing a house interior, hung in an underground space, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "One photo showed me, asleep upstairs, taken last night.", "image_prompt": "a single framed photograph on a dark wall showing a person asleep in a bed, low light, grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "I scrambled out and sealed the hatch with screws.", "image_prompt": "a wooden crawlspace hatch screwed shut into a floor, dim hallway light, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "Every night now I hear a lamp click on directly beneath my bed.", "image_prompt": "a bedroom floor at night with faint warm light leaking up through a crawlspace seam, deep shadow, vertical 9:16 framing"}
+  ]
+}

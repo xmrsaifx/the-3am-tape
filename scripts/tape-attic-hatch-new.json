@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-attic-hatch-new",
+  "character": "narrator",
+  "topic": "A hatch appears overnight in a hallway ceiling, opening onto an attic far larger than the house below.",
+  "title": "The Hatch That Wasn't There Yesterday | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There was a hatch in my hallway ceiling that had never existed before.", "image_prompt": "a narrow dim hallway, a square wooden hatch set into the ceiling, faint outline, low light, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I have lived in this small two bedroom house for nine years.", "image_prompt": "exterior of a modest single story suburban house at dusk, fog along the lawn, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I knew every ceiling in it.", "image_prompt": "interior ceiling corners, flat white paint, plain light fixture, low light, soft grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "I dragged the ladder over and pushed the hatch open into the dark.", "image_prompt": "an aluminum step ladder under an open ceiling hatch, darkness above, dim hallway light, vertical 9:16 framing"},
+    {"id": 5, "narration": "My flashlight beam never found a wall.", "image_prompt": "a flashlight beam disappearing into vast black empty attic space, dust motes, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "The attic stretched the length of a warehouse, far past where my walls should end.", "image_prompt": "an enormous empty attic space with distant wooden rafters fading into darkness, single beam of light, fog, vertical 9:16 framing"},
+    {"id": 7, "narration": "I paced my house outside. Forty feet, end to end.", "image_prompt": "a person silhouette pacing along the exterior wall of a house at night, measuring tape, dim porch light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The attic inside measured over two hundred.", "image_prompt": "a long tape measure stretched across dusty attic floorboards vanishing into shadow, low light, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "Footprints crossed the dust up there, leading away from the hatch into nothing.", "image_prompt": "trail of footprints in thick gray dust on attic boards leading into darkness, single light source, vertical 9:16 framing"},
+    {"id": 10, "narration": "The prints came back, and they stopped directly above my bed.", "image_prompt": "an attic floor section directly above a faint ceiling outline of a bedroom below, footprints ending, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I nailed the hatch shut. By morning the nails were on the floor.", "image_prompt": "bent nails scattered on hallway floorboards beneath a ceiling hatch, dim morning light, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "I have never had an attic. The hatch only opens from the other side now.", "image_prompt": "a closed ceiling hatch from below, faint pressure bulging the wood downward, low light, deep shadow, vertical 9:16 framing"}
+  ]
+}

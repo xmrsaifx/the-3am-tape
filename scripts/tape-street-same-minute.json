@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-street-same-minute",
+  "character": "narrator",
+  "topic": "Every house on my street does the exact same thing at the exact same minute each evening.",
+  "title": "My Whole Street Moves in Sync | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every house on my street does the same thing at once.", "image_prompt": "A row of suburban houses at dusk with identical lit windows, low light, soft fog, vertical 9:16 framing"},
+    {"id": 2, "narration": "It happens at nine fourteen, every single evening.", "image_prompt": "A quiet residential street at night, streetlights glowing, deep shadow between houses, vertical 9:16 framing"},
+    {"id": 3, "narration": "Every porch light blinks at once.", "image_prompt": "A line of porch lights along a dark street caught mid flicker, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "Then every front curtain slides shut in the same second.", "image_prompt": "Several front windows with curtains half drawn across a dim street, low light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I started timing them.", "image_prompt": "A hand holding a stopwatch at a dark window overlooking a street, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "Door, light, curtain, all of them, exactly together.", "image_prompt": "A wide view of identical houses with synchronized closing doors, twilight, soft fog, vertical 9:16 framing"},
+    {"id": 7, "narration": "I knocked on my neighbor's door at nine fifteen.", "image_prompt": "A dark front door with a hand reaching to knock, dim porch light, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "No answer, but I heard the whole street breathe out.", "image_prompt": "An empty porch facing a silent street of darkened houses, low light, fog, vertical 9:16 framing"},
+    {"id": 9, "narration": "The next night they all turned to face my window.", "image_prompt": "Rows of dark windows along a street seemingly oriented toward one house, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "At nine fourteen tonight, my own curtain closed by itself.", "image_prompt": "A curtain mid slide across a window with no hand, low interior light, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I never set it. I never touched it.", "image_prompt": "A closed curtain glowing faintly from streetlight outside, dim room, soft grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "I think the street was waiting for me to join in.", "image_prompt": "A single lit window among a row of dark identical houses at night, low light, fog, vertical 9:16 framing"}
+  ]
+}

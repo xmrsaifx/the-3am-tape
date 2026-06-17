@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-dashcam-hitchhiker",
+  "character": "narrator",
+  "topic": "My dashcam catches the same hitchhiker on the same empty road every night.",
+  "title": "The Same Hitchhiker On My Dashcam Every Night | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My dashcam caught the same hitchhiker on the same empty road every single night.","image_prompt":"a dark rural road through a car windshield, a distant figure standing on the shoulder, headlights cutting fog, vertical 9:16 framing"},
+    {"id":2,"narration":"It is the road I take home from work.","image_prompt":"an empty two lane country road at night, faint moon, fields on either side, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"Same spot. Same coat. Same stillness.","image_prompt":"a lone figure in a long coat standing motionless at a roadside, seen from behind, headlight glare, fog, vertical 9:16 framing"},
+    {"id":4,"narration":"At first I thought it was just a tired traveler.","image_prompt":"a dashcam view of a silhouette on the road shoulder, grainy night footage, headlights, vertical 9:16 framing"},
+    {"id":5,"narration":"But he never moved as I passed.","image_prompt":"a still figure at the edge of headlight beams, head turned slightly, deep shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"I checked older footage. He was there a year ago, identical.","image_prompt":"a laptop screen showing grainy old dashcam clips of a roadside figure, dim room, low light, vertical 9:16 framing"},
+    {"id":7,"narration":"So one night I slowed down to look.","image_prompt":"a car slowing on a dark road, brake lights glowing red on the asphalt, fog, vertical 9:16 framing"},
+    {"id":8,"narration":"He was already in my back seat.","image_prompt":"a rear view mirror reflecting a dark shape in the empty back seat, faint dashboard glow, low light, vertical 9:16 framing"},
+    {"id":9,"narration":"The dashcam glitched every night at the exact same second after.","image_prompt":"a frozen distorted dashcam frame, static lines across a dark road, headlights, vertical 9:16 framing"},
+    {"id":10,"narration":"Then the footage showed me stopping, opening the door, letting him in.","image_prompt":"a dashcam still of a car door open on a dark roadside, interior light spilling out, fog, vertical 9:16 framing"},
+    {"id":11,"narration":"I take a different route now. He waits there anyway.","image_prompt":"an alternate empty highway at night, distant lone silhouette under a far streetlamp, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"This morning the dashcam recorded the drive I never took.","image_prompt":"a dashcam screen playing footage of a moving dark road while the car sits parked in a garage, low light, vertical 9:16 framing"}
+  ]
+}

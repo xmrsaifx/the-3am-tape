@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-hangers-swinging",
+  "character": "narrator",
+  "topic": "Empty hangers in a closet swing as if coats were just lifted away.",
+  "title": "The Empty Hangers In My Closet Swing By Themselves | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"The empty hangers in my closet swing as if someone just lifted a coat away.","image_prompt":"a row of empty wire hangers on a closet rod, slightly tilted, dim closet light, deep shadow, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"My bedroom closet is narrow, with a single bare bulb.","image_prompt":"a narrow closet with a single hanging bulb, clothes pushed to one side, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"I close the door fully every night.","image_prompt":"a closet door pulled shut in a dark bedroom, faint light at the seam, shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"One morning three empty hangers were still gently swaying.","image_prompt":"three empty hangers caught mid swing, motion blur, dim closet, vertical 9:16 framing"},
+    {"id":5,"narration":"No window. No draft. Nothing.","image_prompt":"a sealed window with heavy curtains in a still dark room, no movement, vertical 9:16 framing"},
+    {"id":6,"narration":"The next night I counted my coats before bed.","image_prompt":"a hand counting coats on a closet rod, warm lamp light, long shadows, vertical 9:16 framing"},
+    {"id":7,"narration":"By dawn, one coat was gone and its hanger swung alone.","image_prompt":"a single empty hanger swinging beside hung coats, dim closet, grain, vertical 9:16 framing"},
+    {"id":8,"narration":"Each morning another coat vanished. The swinging always pointed toward the door.","image_prompt":"empty hangers all tilted in the same direction toward an open closet door, shadow beyond, vertical 9:16 framing"},
+    {"id":9,"narration":"So I sat up all night and watched the closet.","image_prompt":"a person sitting in a dark bedroom facing a closet, back to camera, faint light, vertical 9:16 framing"},
+    {"id":10,"narration":"At three, the hangers swung hard, and the closet smelled of cold outside air.","image_prompt":"a closet doorway with hangers swinging violently, faint fog spilling out, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"Every coat I own is gone now.","image_prompt":"an empty closet rod with only bare swinging hangers, dim bulb, long shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"Last night a coat I have never seen was hanging there instead.","image_prompt":"a single unfamiliar dark coat hanging alone in an empty closet, low light, fog, vertical 9:16 framing"}
+  ]
+}

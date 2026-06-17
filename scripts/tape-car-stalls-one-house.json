@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-car-stalls-one-house",
+  "character": "narrator",
+  "topic": "My car stalls every time I try to drive past one particular house on my street.",
+  "title": "My Car Stalls At The Same House Every Time | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My car stalled every single time I tried to pass one house on my street.","image_prompt":"a stalled car at the curb in front of a dark house at dusk, dim porch light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"It is an ordinary house. Grey shutters, empty driveway.","image_prompt":"a plain two story suburban house with grey shutters, overcast sky, no cars, fog, vertical 9:16 framing"},
+    {"id":3,"narration":"Every other house, the engine ran fine.","image_prompt":"a car driving smoothly down a quiet residential street, soft evening light, low light, vertical 9:16 framing"},
+    {"id":4,"narration":"At that one address, the engine always died at the mailbox.","image_prompt":"a rusted mailbox in front of a dark house, a stalled car beside it, dim streetlamp, vertical 9:16 framing"},
+    {"id":5,"narration":"The radio would whisper my name.","image_prompt":"a car dashboard radio glowing faintly in a dark cabin, static on the display, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"A mechanic found nothing wrong. The car restarted past the property line.","image_prompt":"an open car hood at a repair garage, work lamp, oil stains, deep shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"So I knocked on the door.","image_prompt":"a dark front door of an old house, peeling paint, dim porch light, fog, vertical 9:16 framing"},
+    {"id":8,"narration":"No one answered. But the curtain moved.","image_prompt":"a window with a thin curtain pulled slightly aside, darkness behind the glass, low light, vertical 9:16 framing"},
+    {"id":9,"narration":"A neighbor told me the house had burned down years ago.","image_prompt":"an old faded photograph of a charred house ruin, held in a hand, dim light, vertical 9:16 framing"},
+    {"id":10,"narration":"That night my car stalled, and every door locked on its own.","image_prompt":"a car interior at night, door lock buttons down, dark house looming through the windshield, vertical 9:16 framing"},
+    {"id":11,"narration":"I take the long way around now. It takes an extra hour.","image_prompt":"a long winding road leaving a neighborhood at dusk, headlights, fog, vertical 9:16 framing"},
+    {"id":12,"narration":"Last week the grey shutters appeared on my own house.","image_prompt":"a suburban house at dawn with fresh grey shutters that do not match the trim, dim morning light, vertical 9:16 framing"}
+  ]
+}

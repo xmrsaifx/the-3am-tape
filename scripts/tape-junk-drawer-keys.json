@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-junk-drawer-keys",
+  "character": "narrator",
+  "topic": "A kitchen junk drawer fills with one new unfamiliar key every morning.",
+  "title": "A New Key Appears In My Junk Drawer Every Morning | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My junk drawer fills with unfamiliar keys, one new key every morning.","image_prompt":"an open kitchen drawer full of assorted old keys, dim overhead light, deep shadow inside the drawer, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"I have lived in this apartment for six quiet years.","image_prompt":"a small tidy apartment kitchen at dusk, low warm light, long shadows, vertical 9:16 framing"},
+    {"id":3,"narration":"The drawer holds batteries, takeout menus, rubber bands.","image_prompt":"a cluttered junk drawer with batteries and menus and rubber bands, dim light, vertical 9:16 framing"},
+    {"id":4,"narration":"One Monday a brass key I did not own sat on top.","image_prompt":"a single old brass key resting on top of drawer clutter, harsh angled light, shadow, vertical 9:16 framing"},
+    {"id":5,"narration":"I thought a friend had left it.","image_prompt":"a hand holding a brass key up to a window, dim gray light behind, vertical 9:16 framing"},
+    {"id":6,"narration":"But the next morning there were two. The morning after, three.","image_prompt":"a small pile of mismatched keys on a wooden counter, low light, grain, vertical 9:16 framing"},
+    {"id":7,"narration":"So I counted them and locked the drawer each night.","image_prompt":"a closed kitchen drawer with a small padlock, dim kitchen, deep shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"Every morning the lock held, and a new key waited inside.","image_prompt":"an open locked drawer revealing one extra shining key, harsh light from above, vertical 9:16 framing"},
+    {"id":9,"narration":"One key was warm, like it had just been pulled from a pocket.","image_prompt":"a hand cupping a single key, warm glow, dark surroundings, fog, vertical 9:16 framing"},
+    {"id":10,"narration":"Then I tried the newest key on my own front door. It turned.","image_prompt":"a key inserted into a front door lock from inside a dark hallway, dim light, shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"Every key in that drawer opens this apartment.","image_prompt":"a kitchen drawer overflowing with dozens of keys, dim light, long shadow across the floor, vertical 9:16 framing"},
+    {"id":12,"narration":"Which means somewhere, that many people can let themselves in.","image_prompt":"a dark apartment hallway seen from inside, the front door slightly ajar, fog beyond, vertical 9:16 framing"}
+  ]
+}

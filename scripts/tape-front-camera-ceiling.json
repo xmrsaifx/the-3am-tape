@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-front-camera-ceiling",
+  "character": "narrator",
+  "topic": "My phone's front camera turns on by itself at night and records the ceiling above my bed.",
+  "title": "My Phone Records My Ceiling Every Night While I Sleep | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My phone records the ceiling above my bed every night while I sleep.", "image_prompt": "a phone propped on a nightstand, front camera facing up, faint recording light on, dark bedroom, low light, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I found dozens of videos I never made.", "image_prompt": "a phone screen showing a long list of unnamed video files, blue glow in a dark room, deep shadow, vertical 9:16 framing"},
+    {"id": 3, "narration": "Each one starts at three in the morning.", "image_prompt": "a phone clock reading the dead of night, dim screen light, fog, film grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "Every clip is just my ceiling, grey and still.", "image_prompt": "a plain bedroom ceiling filmed from below, faint shadows in the corners, low light, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "Then I watched one all the way through.", "image_prompt": "a hand holding a phone close in darkness, video of a ceiling playing, tense glow, vertical 9:16 framing"},
+    {"id": 6, "narration": "At the eight minute mark, a shadow leaned into frame.", "image_prompt": "a ceiling on a phone screen with a dark shape entering from the edge, deep shadow, fog, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I set my own camera to watch the next night.", "image_prompt": "two phones on a nightstand facing the bed, recording lights glowing, dark room, low light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Both phones caught it. The same shape. The same time.", "image_prompt": "a split of two identical dark ceiling videos on two screens, matching shadow shape, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "The shape leans closer to where my face would be.", "image_prompt": "a dim ceiling video, a dark silhouette bending low over the camera, heavy shadow, fog, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night the recording ended with my own eyes open, staring up.", "image_prompt": "a phone screen frozen on a dark frame from a low angle near a pillow, faint reflection, grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "I do not remember waking up at all.", "image_prompt": "an empty rumpled bed in grey dawn light, phone on the nightstand, low light, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "But in every clip, I am awake before the shape arrives.", "image_prompt": "a dark bedroom from a low ceiling angle, faint outline of an awake figure in bed, fog, grain, vertical 9:16 framing"}
+  ]
+}

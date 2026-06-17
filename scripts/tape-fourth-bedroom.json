@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-fourth-bedroom",
+  "character": "narrator",
+  "topic": "A three-bedroom house keeps revealing a fourth bedroom in a different location each time.",
+  "title": "There Is A Fourth Bedroom In My House | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The listing said three bedrooms, but I keep finding a fourth in a different place each time.", "image_prompt": "a dim doorway opening onto an unfamiliar small bedroom with a single bed, low light, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is a tidy three bedroom house. I counted them at the showing.", "image_prompt": "a real estate floor plan on paper showing three bedrooms, dim desk lamp, grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "Three doors. Three rooms. I was certain.", "image_prompt": "a hallway with three closed bedroom doors in a row, dim light, soft shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "Then one night a fourth door stood at the end of the hall.", "image_prompt": "a dim hallway with a fourth door at the far end that should not exist, deep shadow, low light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Inside was a made bed and a window facing the wrong way.", "image_prompt": "a small bedroom with a neatly made bed and a window showing impossible darkness, low light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "The next day that door was gone, just blank wall.", "image_prompt": "an empty hallway wall where a door had been, faint outline in the plaster, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "Days later it reappeared behind my coat closet.", "image_prompt": "an open closet revealing a hidden bedroom doorway behind the hanging coats, dim light, grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "Always the same room. Same bed. Same wrong window.", "image_prompt": "the same small bedroom with a made bed and a dark misplaced window, deep shadow, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each time the bed looked more slept in, the sheets warmer.", "image_prompt": "a small bed with rumpled warm sheets in a dim bedroom, an impression in the pillow, low light, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night the fourth door opened from inside my own bedroom wall.", "image_prompt": "a bedroom wall splitting open into a dark doorway beside a sleeping area, deep shadow, fog, vertical 9:16 framing"},
+    {"id": 11, "narration": "A framed photo sat on its nightstand. It was my family, but one face was wrong.", "image_prompt": "a framed family photograph on a dim nightstand, one figure blurred and indistinct, low light, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "Tonight the wrong face is sleeping in the fourth bed, waiting for the room to move.", "image_prompt": "a made bed in a dim bedroom with a faint impression of a figure under the blanket, deep shadow, low light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-toaster-burns-word",
+  "character": "narrator",
+  "topic": "A toaster burns the same word into the bread every morning.",
+  "title": "My Toaster Burns The Same Word Into My Bread Every Morning | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My toaster burns the same word into the bread every single morning.","image_prompt":"a slice of toast with a faint burned pattern across it, on a plate in a dim kitchen, low light, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"It is a cheap chrome toaster I bought years ago.","image_prompt":"an old chrome two slot toaster on a kitchen counter, dim morning light, shadow, vertical 9:16 framing"},
+    {"id":3,"narration":"I make toast the same way each day.","image_prompt":"a hand lowering bread into a toaster, soft window light, deep shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"One morning the word stay was scorched across both slices.","image_prompt":"two slices of toast with a dark scorched marking, on a counter, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"I laughed. Then I stopped laughing.","image_prompt":"a plate of toast on a kitchen table, an empty chair across from it, gloomy light, vertical 9:16 framing"},
+    {"id":6,"narration":"Every loaf after that came out burned with the same word.","image_prompt":"a stack of toast slices each bearing a faint dark mark, dim kitchen, grain, vertical 9:16 framing"},
+    {"id":7,"narration":"So I bought a brand new toaster and threw the old one out.","image_prompt":"a shiny new toaster still in its box on a counter, low light, shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"The first slice from the new one read stay as well.","image_prompt":"a single slice of toast with a dark scorched word, harsh angled light, deep shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"I stopped making toast. The smell of burning woke me anyway.","image_prompt":"a dark kitchen at night with faint smoke near a toaster, dim glow, fog, vertical 9:16 framing"},
+    {"id":10,"narration":"Each morning a fresh burned slice waited, though I had toasted nothing.","image_prompt":"a single plated slice of toast on an empty counter at dawn, gray light, shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I packed my bags. I left the bread in the cupboard.","image_prompt":"a packed suitcase by a kitchen doorway, dim light, long shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"This morning the toast at my new place read welcome home.","image_prompt":"a slice of toast with a faint scorched marking on an unfamiliar counter, dim light, fog, vertical 9:16 framing"}
+  ]
+}

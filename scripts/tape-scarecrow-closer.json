@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-scarecrow-closer",
+  "character": "narrator",
+  "topic": "A scarecrow appeared in the field behind my house, closer to my door every week.",
+  "title": "The Scarecrow Is Getting Closer | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "A scarecrow stands in the field behind my house, closer each week.", "image_prompt": "A distant scarecrow in a wide misty field at dusk, low light, soft fog, vertical 9:16 framing"},
+    {"id": 2, "narration": "There was never a scarecrow there before this autumn.", "image_prompt": "An empty harvested field behind a small house at twilight, deep shadow, vertical 9:16 framing"},
+    {"id": 3, "narration": "It just appeared one foggy morning.", "image_prompt": "A lone scarecrow silhouette in heavy field fog at dawn, low light, vertical 9:16 framing"},
+    {"id": 4, "narration": "By the next week it stood twenty paces nearer the fence.", "image_prompt": "A scarecrow nearer to a wooden fence line behind a yard, dim evening light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I marked its place with stakes.", "image_prompt": "Wooden stakes pressed into a field beside a distant scarecrow, low light, soft grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "Each week it passed every mark, always closer to me.", "image_prompt": "A scarecrow standing past a line of stakes in a foggy field, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I walked out to inspect it once.", "image_prompt": "A person approaching a tall scarecrow across an open field at dusk, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "Its head had turned to follow the path back to my door.", "image_prompt": "A scarecrow with its straw head angled toward a distant house, low light, fog, vertical 9:16 framing"},
+    {"id": 9, "narration": "Now it stands just beyond my back fence at night.", "image_prompt": "A scarecrow looming close behind a low wooden fence in the dark, dim moonlight, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "This morning its boots were muddy, and the field was dry.", "image_prompt": "The base of a scarecrow with mud caked boots over dry cracked ground, low light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I locked every door and stopped looking out the window.", "image_prompt": "A closed back door with curtains drawn, faint light at the edges, dim room, vertical 9:16 framing"},
+    {"id": 12, "narration": "Tonight the field is empty, and something stands on my porch.", "image_prompt": "An empty foggy field at night beyond a yard, a tall shape near the porch, deep shadow, vertical 9:16 framing"}
+  ]
+}

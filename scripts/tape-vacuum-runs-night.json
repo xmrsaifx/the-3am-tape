@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-vacuum-runs-night",
+  "character": "narrator",
+  "topic": "A robot vacuum runs at three in the morning and maps a person in the hallway.",
+  "title": "My Robot Vacuum Maps A Person Standing In My Hallway | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My robot vacuum runs at three in the morning and maps a person standing in the hallway.","image_prompt":"a small robot vacuum glowing in a dark hallway, faint light along the floor, deep shadow, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"I bought it to clean while I sleep.","image_prompt":"a robot vacuum docked on a charger in a dim living room at night, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"I scheduled it for noon. Only noon.","image_prompt":"a phone app showing a cleaning schedule, held in a dim room, blue glow, vertical 9:16 framing"},
+    {"id":4,"narration":"One night I heard it whirring down the hall.","image_prompt":"a dark hallway with a faint moving light along the baseboard, shadow, vertical 9:16 framing"},
+    {"id":5,"narration":"The clock said three exactly.","image_prompt":"a bedside clock glowing in the dark reading near three, dim room, vertical 9:16 framing"},
+    {"id":6,"narration":"In the morning the app showed its map, with a tall gap in the hall.","image_prompt":"a phone screen showing a room map with a person shaped blank spot, dark room, vertical 9:16 framing"},
+    {"id":7,"narration":"The vacuum had carefully cleaned around two standing feet.","image_prompt":"a robot vacuum path curving around an empty patch of hallway floor, dim light, grain, vertical 9:16 framing"},
+    {"id":8,"narration":"Every night at three, it ran. Every map showed the figure.","image_prompt":"a laptop displaying several floor maps each with a human shaped void, dark room, blue glow, vertical 9:16 framing"},
+    {"id":9,"narration":"The shape stood closer to my door each time.","image_prompt":"a dark hallway leading to a bedroom door, faint outline of empty space, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"Last night the map placed the figure beside my bed.","image_prompt":"a phone map glowing with a tall blank silhouette next to a bed marker, dark bedroom, vertical 9:16 framing"},
+    {"id":11,"narration":"I unplugged the vacuum and locked it away.","image_prompt":"a robot vacuum shut inside a dark closet, faint light at the door seam, shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"This morning it had cleaned itself out, and mapped me, lying still.","image_prompt":"a phone map showing a person shaped void on a bed, robot vacuum nearby, dim light, fog, vertical 9:16 framing"}
+  ]
+}

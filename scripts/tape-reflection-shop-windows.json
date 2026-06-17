@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-reflection-shop-windows",
+  "character": "narrator",
+  "topic": "My reflection in shop windows lags a step behind me as I walk.",
+  "title": "My Reflection Walks a Step Behind Me | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "In shop windows my reflection lags one step behind me.", "image_prompt": "A darkened storefront window reflecting a blurred figure offset from the street, dim evening light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I walk the same downtown street to work every day.", "image_prompt": "A quiet city sidewalk lined with glass shopfronts at twilight, low light, soft fog, vertical 9:16 framing"},
+    {"id": 3, "narration": "Glass after glass, always behind.", "image_prompt": "A long row of shop windows along an empty street, faint reflections, deep shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "Then one morning it stopped while I kept walking.", "image_prompt": "A storefront reflection of a standing figure as the sidewalk ahead is empty, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I doubled back fast.", "image_prompt": "A blurred figure turning sharply on a wet sidewalk, motion grain, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The reflection was still there, watching me from the glass.", "image_prompt": "A silhouette pressed close to the inside of a dark shop window, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I tested every window on the block.", "image_prompt": "A person standing before a large reflective window on a foggy street, faint double image, vertical 9:16 framing"},
+    {"id": 8, "narration": "Each one held my reflection a step further behind than before.", "image_prompt": "Three shop windows in a row each showing a reflection offset more than the last, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Soon it was half a street back, never catching up.", "image_prompt": "A distant reflected silhouette far down a row of glass storefronts, dim evening, soft fog, vertical 9:16 framing"},
+    {"id": 10, "narration": "Today it turned the corner before I reached it.", "image_prompt": "An empty street corner with a faint figure vanishing past the edge of a window, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I take the back alleys now, where there is no glass.", "image_prompt": "A narrow brick alley with no windows, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "But it has a head start now, and it knows my route.", "image_prompt": "A lone figure walking away down a foggy alley at dusk, low light, vertical 9:16 framing"}
+  ]
+}

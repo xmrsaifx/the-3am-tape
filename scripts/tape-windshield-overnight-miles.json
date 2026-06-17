@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-windshield-overnight-miles",
+  "character": "narrator",
+  "topic": "My windshield is covered in bugs and dust each morning as if I drove all night, and the odometer agrees.",
+  "title": "My Car Drives Itself While I Sleep | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Every morning my windshield was caked with bugs, like I had driven all night.","image_prompt":"close composition of a car windshield smeared with dead insects and road dust at dawn, dim grey light, suburban driveway, fog, vertical 9:16 framing"},
+    {"id":2,"narration":"I live in a quiet town. I park in my own driveway.","image_prompt":"a small sedan parked in a narrow residential driveway, early morning fog, dim streetlight, deep shadow, vertical 9:16 framing"},
+    {"id":3,"narration":"I never drive at night.","image_prompt":"a dark empty garage interior with a single car, faint moonlight through a window, low light, vertical 9:16 framing"},
+    {"id":4,"narration":"One Tuesday the dust on the hood was thick, and the dawn felt wrong.","image_prompt":"a car hood coated in fine pale dust under weak morning sun, suburban street, hazy atmosphere, vertical 9:16 framing"},
+    {"id":5,"narration":"So I wrote down the odometer.","image_prompt":"a hand pointing at a dashboard odometer reading in dim cabin light, blurred steering wheel, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"By morning it had climbed two hundred miles. The seat was still warm.","image_prompt":"a worn driver seat in a dark car interior, faint dashboard glow, condensation on windows, vertical 9:16 framing"},
+    {"id":7,"narration":"I hid my keys in a drawer that night.","image_prompt":"a set of car keys lying inside an open wooden drawer, single lamp, deep shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"The keys were back in the ignition by sunrise.","image_prompt":"a car ignition with keys inserted, dim cabin, soft dawn light through windshield, vertical 9:16 framing"},
+    {"id":9,"narration":"The bugs got bigger. Mud now. Then long strands of someone else's hair.","image_prompt":"a windshield wiper tangled with dark hair strands and mud, overcast light, fog, vertical 9:16 framing"},
+    {"id":10,"narration":"One morning the passenger seat was reclined, and it smelled of someone.","image_prompt":"an empty reclined passenger seat in a dark car, faint indentation in the cushion, low light, vertical 9:16 framing"},
+    {"id":11,"narration":"I sold the car. The buyer called me weeks later, terrified.","image_prompt":"a used car on a gravel lot at dusk, faded for sale sign, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"He asked who kept leaving notes that said, please stop locking the doors.","image_prompt":"a folded handwritten note tucked under a windshield wiper, dim grey morning, fog, vertical 9:16 framing"}
+  ]
+}

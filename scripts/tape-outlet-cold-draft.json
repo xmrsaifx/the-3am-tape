@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-outlet-cold-draft",
+  "character": "narrator",
+  "topic": "A power outlet on an interior wall blows cold air, revealing a hidden room behind it.",
+  "title": "Cold Air Came Out Of My Outlet | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Cold air was blowing out of a power outlet on an inside wall of my house.", "image_prompt": "a white electrical outlet on a plain wall, faint mist drifting from the slots, low light, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is the wall between my bedroom and the hall closet.", "image_prompt": "a bedroom wall with a closed closet beside it, dim lamp light, soft grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "An interior wall. No outside. No vents.", "image_prompt": "a blank interior wall with a single outlet near the floor, low light, vertical 9:16 framing"},
+    {"id": 4, "narration": "I felt the draft one night while charging my phone.", "image_prompt": "a phone charger plugged into a wall outlet, a hand held near it feeling the air, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "The air smelled like a cellar that had been shut for years.", "image_prompt": "faint cold vapor pouring from an outlet, dust on the baseboard below, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "I unscrewed the cover. Behind it was not a wall. It was open space.", "image_prompt": "an outlet cover removed revealing a dark gap behind the wall, no studs visible, low light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I slid my phone camera through the hole and recorded.", "image_prompt": "a phone pushed into a small wall opening, screen glowing, dark hollow beyond, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "The footage showed a room. A chair. A door on the far side.", "image_prompt": "grainy dark photo of a small empty room behind a wall, a single wooden chair and a closed door, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "The room measured larger than my whole house could hold.", "image_prompt": "a deep hidden room stretching back farther than seems possible, dim light at the far door, fog, vertical 9:16 framing"},
+    {"id": 10, "narration": "On the next recording, the chair had turned to face the hole.", "image_prompt": "a wooden chair in a dark hidden room now angled toward the camera, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "I plastered over the outlet. The cold air finds new sockets now.", "image_prompt": "a patch of fresh plaster over a wall with another outlet nearby leaking faint mist, low light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Every outlet in the house breathes cold now, and the far door is always a little more open.", "image_prompt": "several outlets along a dim hallway wall, thin cold vapor at each, deep shadow, vertical 9:16 framing"}
+  ]
+}

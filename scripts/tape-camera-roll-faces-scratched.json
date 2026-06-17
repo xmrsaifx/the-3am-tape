@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-camera-roll-faces-scratched",
+  "character": "narrator",
+  "topic": "Every face in my phone's camera roll is being scratched out, one photo per day.",
+  "title": "Every Face In My Camera Roll Is Being Scratched Out | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every face in my camera roll is being scratched out.", "image_prompt": "a smartphone lying on a bedside table, screen showing a grid of photo thumbnails, dim lamp light, deep shadow, VHS grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone in a small apartment near the train line.", "image_prompt": "a cramped apartment interior at night, window reflecting distant train lights, low light, film grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "I scroll my photos every morning with coffee.", "image_prompt": "a hand holding a phone over a coffee mug on a kitchen counter, soft morning haze, muted colors, vertical 9:16 framing"},
+    {"id": 4, "narration": "One picture of my sister had a thin scratch across her face.", "image_prompt": "a close view of a phone screen showing a portrait photo with a single white scratch line, harsh contrast, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "I told myself it was a screen glitch.", "image_prompt": "fingers pressing against a cracked-looking phone display in dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "The next day my father's face was gone too, scratched clean.", "image_prompt": "a phone screen displaying a family photo with one face obscured by frantic scratch marks, fluorescent buzz, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I checked the backup folder. Same marks there.", "image_prompt": "a laptop screen in a dark room showing a cloud photo backup interface, blue glow, low light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Every morning, one more face removed. Always someone I loved.", "image_prompt": "a wall of printed photographs, several faces blacked out, dim apartment lighting, fog of dust, vertical 9:16 framing"},
+    {"id": 9, "narration": "Soon only my own photos were left untouched.", "image_prompt": "a phone gallery showing a long column of selfies, all intact, surrounded by scratched images, eerie glow, vertical 9:16 framing"},
+    {"id": 10, "narration": "This morning my face was the only one left whole.", "image_prompt": "a single selfie glowing on a phone screen in total darkness, every other thumbnail ruined, heavy grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have stopped opening the gallery at all now.", "image_prompt": "a phone face-down on a duvet in a shadowed bedroom, faint light leaking from its edges, vertical 9:16 framing"},
+    {"id": 12, "narration": "But each scratch appeared the night before each of them died.", "image_prompt": "an empty bed beside a bedside table holding a phone, cold blue night light, deep shadow, film grain, vertical 9:16 framing"}
+  ]
+}

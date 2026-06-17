@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-gps-home-wrong-address",
+  "character": "narrator",
+  "topic": "My car's GPS lists Home as an address two hours away I have never lived at.",
+  "title": "My GPS Says Home Is An Address I Never Lived At | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My car's GPS lists Home as an address two hours away.", "image_prompt": "a car dashboard navigation screen glowing in the dark, a route pin labeled far off, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I have driven the same commute for nine years.", "image_prompt": "a quiet suburban street at dusk seen through a windshield, dim headlights, low light, fog, vertical 9:16 framing"},
+    {"id": 3, "narration": "I never set that address. I never lived there.", "image_prompt": "a finger hovering over a GPS screen showing an unfamiliar address, dark car interior, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "I deleted it. The next morning it returned.", "image_prompt": "a navigation favorites list with one stubborn entry glowing, dim dashboard light, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "So one night I followed it.", "image_prompt": "a dark country road through a windshield, headlights cutting into fog, low light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "It led me down roads with no streetlights at all.", "image_prompt": "an empty unlit rural road, tall trees pressing in, headlight beams in mist, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "The address was an old farmhouse, dark and sagging.", "image_prompt": "a derelict farmhouse at night, broken windows, overgrown yard, fog, film grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "My name was on the rusted mailbox at the gate.", "image_prompt": "a rusted leaning mailbox by a gravel drive, faded letters visible, dim moonlight, deep shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "A single light was on in an upstairs window.", "image_prompt": "a dark farmhouse with one glowing yellow upstairs window, silhouette of curtains, fog, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "Through the curtains, a figure waved like it knew me.", "image_prompt": "a lit upstairs window with a faint human silhouette behind thin curtains, dark house, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I drove home and did not get out of the car for hours.", "image_prompt": "a car parked in a dim driveway, person sitting still inside, faint dashboard glow, low light, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "Now my real address has vanished from the GPS entirely.", "image_prompt": "a navigation screen with an empty home field and one distant pin remaining, dark car, fog, deep shadow, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-fax-machine-basement",
+  "character": "narrator",
+  "topic": "There is a fax machine in my basement I never installed, printing notes in my own handwriting.",
+  "title": "A Fax Machine I Never Installed Is Writing In My Handwriting | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There is a fax machine in my basement I never installed.", "image_prompt": "an old beige fax machine on a dusty basement shelf, single bare bulb above, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I bought this house last spring, fully furnished and cheap.", "image_prompt": "a dim unfinished basement with stored boxes and cobwebs, low light, fog, film grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "It is not plugged into any line.", "image_prompt": "a fax machine with a loose disconnected cord hanging beside it, dusty floor, deep shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "One night it whirred to life and printed a page.", "image_prompt": "a fax machine feeding out a curling page under a dim bulb, dark basement, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "The note was in my own handwriting.", "image_prompt": "a hand holding a fax page covered in shaky handwriting, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "It described what I had eaten for dinner that night.", "image_prompt": "a handwritten fax note on a wooden basement table, faint bulb glow, fog, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "The pages kept coming, every night, each one mine.", "image_prompt": "a pile of curled fax pages collecting on a dusty basement floor, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "They started describing things before I did them.", "image_prompt": "a fax page held up to a bare bulb, handwriting visible through the paper, dark basement, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "One predicted I would fall on the basement stairs. I did.", "image_prompt": "a steep dim basement staircase seen from the bottom, single light at the top, fog, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night the page described my own funeral, with a date.", "image_prompt": "a single fax page lying alone on a cold basement floor under a bulb, low light, grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "I unplugged nothing. There was nothing to unplug.", "image_prompt": "a fax machine with no visible cables in a shadowed basement corner, dim bulb, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "The date it gave me is tomorrow.", "image_prompt": "a calendar page on a basement wall with one date circled, faint bulb light, fog, grain, vertical 9:16 framing"}
+  ]
+}

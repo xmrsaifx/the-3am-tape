@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-receipts-closed-station",
+  "character": "narrator",
+  "topic": "Gas receipts appear in my car from a station that closed twenty years ago.",
+  "title": "Gas Receipts From A Station Closed Twenty Years Ago | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Gas receipts kept appearing in my car from a station that closed twenty years ago.","image_prompt":"a curled paper gas receipt resting on a car dashboard, faded print, dim morning light, low light, vertical 9:16 framing"},
+    {"id":2,"narration":"I found them in the cup holder each morning.","image_prompt":"a car cup holder with a crumpled receipt inside, dim cabin, deep shadow, vertical 9:16 framing"},
+    {"id":3,"narration":"Same station name. Same blurred logo.","image_prompt":"a close composition of a faded gas receipt with smudged lettering, low light, vertical 9:16 framing"},
+    {"id":4,"narration":"The dates printed on them were always last night.","image_prompt":"a fresh receipt held in a hand showing a recent timestamp, dim car interior, vertical 9:16 framing"},
+    {"id":5,"narration":"But that station burned down in two thousand four.","image_prompt":"an abandoned overgrown gas station ruin at dusk, broken pumps, fog, deep shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"My fuel gauge sat full every single morning.","image_prompt":"a car fuel gauge needle pinned at full in a dim dashboard, low light, vertical 9:16 framing"},
+    {"id":7,"narration":"I drove out to the old station at night.","image_prompt":"a car approaching a dark derelict gas station, headlights on cracked pavement, fog, vertical 9:16 framing"},
+    {"id":8,"narration":"The pumps were rusted shut. But one light flickered on.","image_prompt":"a single flickering canopy light over a rusted abandoned fuel pump, deep shadow, low light, vertical 9:16 framing"},
+    {"id":9,"narration":"A receipt printed itself from the dead machine.","image_prompt":"a thin paper strip emerging from a rusted gas pump slot, dim flickering light, vertical 9:16 framing"},
+    {"id":10,"narration":"It listed my license plate and the words, see you tonight.","image_prompt":"a freshly printed receipt held in a hand with faint typed lettering, dark station behind, low light, vertical 9:16 framing"},
+    {"id":11,"narration":"I never went back. The receipts kept coming anyway.","image_prompt":"a small pile of curled receipts on a car passenger seat, dim dawn light, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"Last night's receipt was signed in my own handwriting.","image_prompt":"a receipt with a looping handwritten signature at the bottom, resting on a dark dashboard, low light, vertical 9:16 framing"}
+  ]
+}

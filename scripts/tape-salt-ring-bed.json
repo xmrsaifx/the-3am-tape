@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-salt-ring-bed",
+  "character": "narrator",
+  "topic": "A ring of coarse salt appears around the bed each morning.",
+  "title": "A Ring Of Salt Appears Around My Bed Every Morning | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"A ring of coarse salt appears around my bed each morning, and I own no such salt.","image_prompt":"a ring of coarse white salt circling a bed on a dark wood floor, dim morning light, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"I live alone in a small house outside town.","image_prompt":"a modest bedroom with a single bed, gray light through thin curtains, shadow, vertical 9:16 framing"},
+    {"id":3,"narration":"I keep the place clean. Spotless, even.","image_prompt":"a tidy bedroom floor, neatly made bed, soft window light, deep shadow corners, vertical 9:16 framing"},
+    {"id":4,"narration":"The first morning I thought a bag had spilled.","image_prompt":"a hand brushing coarse salt off a wooden floor near a bed, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"But it formed a perfect circle.","image_prompt":"a flawless circle of salt around a bed seen from above, dim light, long shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"I swept it away. By the next dawn the ring was back, unbroken.","image_prompt":"a fresh unbroken ring of salt on a clean floor at dawn, gray light, grain, vertical 9:16 framing"},
+    {"id":7,"narration":"So I taped paper over every gap in the room.","image_prompt":"strips of paper taped over a door frame and window edges in a dim bedroom, shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"The tape held all night. The ring still appeared by morning.","image_prompt":"a sealed bedroom door with intact tape and a salt ring on the floor, dim light, vertical 9:16 framing"},
+    {"id":9,"narration":"Then I read that salt rings are meant to keep something in.","image_prompt":"an open old book on a bed under lamplight, dark room, shadows, vertical 9:16 framing"},
+    {"id":10,"narration":"That night I woke inside the circle, and the salt was on the wrong side.","image_prompt":"a bed encircled by salt with a gap broken on one edge, dim moonlight, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"Now I lay the salt myself, every night, before I sleep.","image_prompt":"a hand pouring coarse salt in a line on a dark floor by a bed, dim lamp light, vertical 9:16 framing"},
+    {"id":12,"narration":"I still do not know which one of us it is keeping inside.","image_prompt":"a bed inside a closed salt ring at night, faint window glow, fog, vertical 9:16 framing"}
+  ]
+}

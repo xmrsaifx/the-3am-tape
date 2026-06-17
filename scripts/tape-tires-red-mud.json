@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-tires-red-mud",
+  "character": "narrator",
+  "topic": "My tires are caked in red mud each morning though I only ever drive paved city streets.",
+  "title": "My Tires Are Caked In Red Mud Every Morning | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My tires were caked in thick red mud each morning, though I only drive paved city streets.","image_prompt":"a car tire coated in wet red clay mud on a clean city street, dim dawn light, low light, vertical 9:16 framing"},
+    {"id":2,"narration":"I live downtown. Concrete and asphalt everywhere.","image_prompt":"a grey city street lined with buildings at dawn, wet pavement, fog, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"No red soil for fifty miles.","image_prompt":"a distant red clay field under an overcast sky, bare and empty, deep shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"The mud was packed deep in the treads, still damp.","image_prompt":"a close composition of a car tire tread packed with damp red mud, dim garage light, vertical 9:16 framing"},
+    {"id":5,"narration":"I washed all four. By dawn they were filthy again.","image_prompt":"a clean car parked in a garage with one muddy red tire, single bulb, deep shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"The odometer never moved. The mileage stayed exactly the same.","image_prompt":"a dashboard odometer in a dim cabin, blurred steering wheel, low light, vertical 9:16 framing"},
+    {"id":7,"narration":"I followed the red trail from my driveway.","image_prompt":"faint red mud tire tracks leading down a wet driveway into fog, dim dawn, vertical 9:16 framing"},
+    {"id":8,"narration":"The tracks stopped at my garage. They started there too.","image_prompt":"red muddy tracks ending abruptly on clean concrete before a closed garage door, low light, vertical 9:16 framing"},
+    {"id":9,"narration":"Then I found a gravesite worth of red clay in the wheel wells.","image_prompt":"thick red clay packed into a car wheel well, dim garage lamp, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"Buried in the mud was a small wooden cross.","image_prompt":"a small weathered wooden cross half buried in red mud on a garage floor, dim light, fog, vertical 9:16 framing"},
+    {"id":11,"narration":"I parked it on the street after that, far from the house.","image_prompt":"a lone car parked on a foggy empty street far from any house, dim streetlamp, low light, vertical 9:16 framing"},
+    {"id":12,"narration":"This morning the red mud led from the car to my front door.","image_prompt":"a trail of red muddy footprints leading up a porch to a front door at dawn, deep shadow, vertical 9:16 framing"}
+  ]
+}

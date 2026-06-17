@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-printer-prints-night",
+  "character": "narrator",
+  "topic": "My printer spits out a page each night: a photo taken inside my own house.",
+  "title": "My Printer Prints A Photo From Inside My House Each Night | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My printer spits out a photo of my own house each night.", "image_prompt": "an office printer in a dark room feeding out a glossy photo page, faint status light, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "It sits in my home office, unplugged from any computer.", "image_prompt": "a small home office desk with a printer and tangled cables, dim lamp light, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Every morning, one fresh page in the tray.", "image_prompt": "a printer output tray holding a single printed photo, soft morning light, fog, film grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first photo showed my living room at night.", "image_prompt": "a grainy printed photo of a dark living room interior held in a hand, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "It was a room I had not been in.", "image_prompt": "an empty dim living room, furniture in shadow, faint window glow, low light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "Each photo moved closer to my bedroom door.", "image_prompt": "a printed photo of a hallway pointing toward a closed door, held over a desk, dim light, fog, vertical 9:16 framing"},
+    {"id": 7, "narration": "I unplugged the printer fully and emptied the paper tray.", "image_prompt": "hands pulling a power cord from a wall behind a printer, dark office, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "The next morning, a new photo waited anyway.", "image_prompt": "an unplugged printer with a single fresh photo in its tray, cold morning light, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "The newest photo showed my bedroom, my bed, me sleeping.", "image_prompt": "a printed photo of a dark bedroom with a sleeping figure shape, held in a trembling hand, fog, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "Whoever took it was standing right beside my pillow.", "image_prompt": "a low angle printed photo of a bed from very close, dark room, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I stopped sleeping in that room. I locked the office.", "image_prompt": "a closed office door with a key turning in the lock, dim hallway, low light, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the photo showed me, awake, locking that very door.", "image_prompt": "a printed photo of a figure from behind locking a door, slid under the same door, fog, deep shadow, vertical 9:16 framing"}
+  ]
+}

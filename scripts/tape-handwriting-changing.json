@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-handwriting-changing",
+  "character": "narrator",
+  "topic": "My handwriting changes a little every day into someone else's.",
+  "title": "My Handwriting Is Becoming Someone Else's | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My handwriting changes a little more into someone else's every day.", "image_prompt": "A spiral notebook open on a desk, two distinct handwriting styles on the page, low light, soft grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I noticed it in my grocery lists on the fridge.", "image_prompt": "A handwritten grocery list pinned under a magnet on a dim refrigerator door, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "The letters lean wrong now.", "image_prompt": "Close view of slanted cursive on lined paper under a desk lamp, deep shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "Then I found words I never wrote in my own notebook.", "image_prompt": "A notebook page with unfamiliar handwriting filling the margins, dim light, soft grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "I tested it slowly.", "image_prompt": "A hand gripping a pen pressed hard against paper on a dark desk, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "My signature came out as a stranger's name, not mine.", "image_prompt": "A signed line on a document showing an unreadable foreign signature, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I compared it to last year's letters.", "image_prompt": "Old letters spread across a table beside a new page, contrasting handwriting, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The change had been creeping in for months without me seeing.", "image_prompt": "A stack of dated journals open to different pages, handwriting shifting, low light, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "Now my hand writes things while I think of nothing.", "image_prompt": "A pen moving across paper with a relaxed open hand, dim desk light, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night it wrote, let me finish what you started.", "image_prompt": "A single line of unfamiliar handwriting on white paper under harsh lamp light, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have hidden every pen in the house.", "image_prompt": "An empty desk drawer with no pens, faint light inside, dim room, vertical 9:16 framing"},
+    {"id": 12, "narration": "But this morning the note was already there, in my hand.", "image_prompt": "A folded note resting on a pillow in pale morning light, soft grain, vertical 9:16 framing"}
+  ]
+}

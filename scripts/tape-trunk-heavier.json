@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-trunk-heavier",
+  "character": "narrator",
+  "topic": "My car drives heavier every day and the trunk is locked, and I lost the key.",
+  "title": "My Trunk Gets Heavier Every Day And I Lost The Key | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My car drove heavier every day, and the trunk was locked, and I had lost the key.","image_prompt":"a closed car trunk in a dim garage, single overhead bulb, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"It started feeling sluggish on my morning commute.","image_prompt":"a car merging onto a grey highway at dawn, overcast sky, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"The back of the car sagged lower each week.","image_prompt":"a sedan parked on a level street with the rear sitting noticeably low, fog, dim light, vertical 9:16 framing"},
+    {"id":4,"narration":"I assumed bad shocks until I heard it shift in turns.","image_prompt":"a car taking a curve on an empty road at night, headlights sweeping fog, vertical 9:16 framing"},
+    {"id":5,"narration":"Something slid across the trunk floor.","image_prompt":"the underside view of a car trunk lid, faint scratch marks, deep shadow, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"I tried prying it. The lock was warm to the touch.","image_prompt":"hands gripping a car trunk seam with a flat tool, dim garage lamp, vertical 9:16 framing"},
+    {"id":7,"narration":"I called a locksmith for the next morning.","image_prompt":"a phone glowing on a workbench beside scattered tools, dark garage, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"Overnight the car sank to its axles. Something thumped twice.","image_prompt":"a car sitting very low on its rear wheels in a shadowed garage, fog, dim bulb, vertical 9:16 framing"},
+    {"id":9,"narration":"The locksmith arrived, touched the trunk, and walked straight back to his van.","image_prompt":"a service van parked in a driveway at dawn, open back doors, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"He said something inside was knocking to be let out.","image_prompt":"a closed car trunk with faint dents pushing outward from inside, dim garage light, vertical 9:16 framing"},
+    {"id":11,"narration":"I drove it to a scrapyard and left it running.","image_prompt":"a scrapyard at dusk, rows of crushed cars, a lone sedan with headlights on, fog, vertical 9:16 framing"},
+    {"id":12,"narration":"The key turned up in my pocket that night, still warm.","image_prompt":"a single car key resting in an open palm under a bedside lamp, deep shadow, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-bricked-fireplace-warm",
+  "character": "narrator",
+  "topic": "A fireplace bricked over years ago grows warm at night with the sound of a fire crackling behind it.",
+  "title": "The Sealed Fireplace Is Still Burning | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The fireplace in my living room was bricked shut decades ago, yet it is warm.", "image_prompt": "an old fireplace sealed with mismatched bricks in a dim living room, faint heat shimmer, low light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I bought the house knowing the chimney had been capped and filled.", "image_prompt": "exterior of an old house with a capped brick chimney against a gray sky, fog, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "The bricks are cold all day.", "image_prompt": "a bricked over fireplace in flat daylight, plain mantel, soft shadow, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "But after midnight the whole wall radiates heat.", "image_prompt": "a sealed brick fireplace at night glowing faintly warm, dim room, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "And I can hear a fire crackling behind the brick.", "image_prompt": "close view of mortar between bricks with faint orange light leaking through, low light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "I pressed my ear to it. Logs settling. Embers popping in the dark.", "image_prompt": "a hand pressed flat against warm fireplace bricks, faint glow at the seams, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I drilled a small hole through the mortar one night.", "image_prompt": "a drill bit boring into fireplace mortar, dust falling, dim work light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Orange light poured out, and warm smoke that smelled of pine.", "image_prompt": "a thin beam of orange firelight escaping a drilled hole in dark bricks, faint smoke, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Through the hole I saw flames in a hearth that should not exist.", "image_prompt": "a tiny glimpse of a burning fireplace seen through a small hole in a brick wall, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "Then a hand reached out of the fire and patched the hole from inside.", "image_prompt": "a small patched spot of fresh mortar on a brick wall lit by faint orange glow, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "A mason said the brick is two feet thick with nothing behind it.", "image_prompt": "a brick fireplace with a flashlight shining on solid mortar, no opening, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Tonight the crackling is louder, and something keeps feeding a fire that cannot be there.", "image_prompt": "a warm bricked fireplace at night, faint orange seams brighter than before, deep shadow, grain, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-clock-thirteen-chimes",
+  "character": "narrator",
+  "topic": "A grandfather clock chimes thirteen at midnight and on the thirteenth something moves.",
+  "title": "My Grandfather Clock Chimes Thirteen At Midnight | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My grandfather clock chimes thirteen at midnight, and on the thirteenth, something moves.","image_prompt":"a tall antique grandfather clock in a dim hallway, pendulum mid swing, deep shadow, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"It came with the house, too heavy to ever move out.","image_prompt":"a large wooden grandfather clock against a wall in an old dark living room, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"For years it kept perfect time.","image_prompt":"a close framed antique clock face with ornate hands, dim warm light, shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"Then one midnight I counted the chimes. There were thirteen.","image_prompt":"a grandfather clock with hands near twelve in a dark room, faint glow, vertical 9:16 framing"},
+    {"id":5,"narration":"On the final chime, the front door unlatched.","image_prompt":"a front door slightly ajar in a dark entryway, fog beyond the gap, deep shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"It only chimes thirteen once a month, on the thirteenth.","image_prompt":"a wall calendar with the thirteenth circled, beside a dim clock, low light, vertical 9:16 framing"},
+    {"id":7,"narration":"So that night I sat in the dark and waited.","image_prompt":"a person seated in a dark room facing a tall clock, back to camera, faint light, vertical 9:16 framing"},
+    {"id":8,"narration":"At the thirteenth chime, the pendulum stopped, and footsteps crossed upstairs.","image_prompt":"a still grandfather clock pendulum frozen mid swing, dark staircase behind, shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"Every thirteenth, the steps came lower, one floor closer to me.","image_prompt":"a dark staircase leading down into a shadowed hallway, faint light, fog, vertical 9:16 framing"},
+    {"id":10,"narration":"Last thirteenth, the chimes rang while the footsteps stood right behind my chair.","image_prompt":"a chair in a dark room facing a clock, a long shadow stretching across the floor behind it, vertical 9:16 framing"},
+    {"id":11,"narration":"I stopped the clock myself. I removed its hands.","image_prompt":"a grandfather clock with its glass open and hands missing from the face, dim light, shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"Tonight at midnight it chimed thirteen anyway, and the door is open again.","image_prompt":"an open front door at midnight, fog rolling into a dark entryway, deep shadow, vertical 9:16 framing"}
+  ]
+}

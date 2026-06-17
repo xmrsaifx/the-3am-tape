@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-earbuds-whisper",
+  "character": "narrator",
+  "topic": "My wireless earbuds play soft whispering when nothing is connected to them.",
+  "title": "My Earbuds Whisper When Nothing Is Connected | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My wireless earbuds whisper to me when nothing is connected.", "image_prompt": "a single white wireless earbud resting on a dark wooden table, faint light glinting off it, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I work from home and wear them all day.", "image_prompt": "a cluttered home desk with a laptop and an open earbud case, dim afternoon light, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "First it was just static. Soft and low.", "image_prompt": "an earbud close on a desk surface, faint blue charging glow, fog, film grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "Then the static began shaping itself into words.", "image_prompt": "an earbud lying in shadow with a faint sound-wave reflection on the desk, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "I checked the phone. Nothing was paired.", "image_prompt": "a phone screen showing an empty bluetooth device list, dark room, blue glow, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The whisper kept describing the room I was sitting in.", "image_prompt": "a dim living room seen from a low angle, a single earbud glowing on the arm of a chair, fog, vertical 9:16 framing"},
+    {"id": 7, "narration": "I left them in their case overnight to be sure.", "image_prompt": "a closed earbud case on a nightstand, faint light leaking from the seam, dark bedroom, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "By morning the case was warm and still whispering.", "image_prompt": "hands holding a slightly open earbud case, faint glow inside, dim morning light, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "It started saying my name, then asking me to come closer.", "image_prompt": "a single earbud on a pillow in a dark room, soft glow, deep shadow, fog, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night it whispered that it was already inside the house.", "image_prompt": "a dim hallway viewed from a doorway, a faint glowing earbud on the floor far down it, low light, grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "I threw them away. I bought a new pair.", "image_prompt": "a kitchen bin lid open with an earbud case dropped inside, dim kitchen light, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "The new ones whispered the same name on the very first day.", "image_prompt": "a brand new sealed earbud box on a counter, faint glow leaking from the lid seam, fog, grain, vertical 9:16 framing"}
+  ]
+}

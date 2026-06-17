@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-smartwatch-extra-heartbeat",
+  "character": "narrator",
+  "topic": "My smartwatch records a second heartbeat lying next to mine every night.",
+  "title": "My Smartwatch Records A Second Heartbeat In My Bed | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My smartwatch records a second heartbeat beside mine every night.", "image_prompt": "a smartwatch on a nightstand glowing with a heart rate graph, dark bedroom, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone and I always sleep on the left side.", "image_prompt": "a wide empty bed with one rumpled side, faint window light, low light, fog, vertical 9:16 framing"},
+    {"id": 3, "narration": "The sleep graph showed two rhythms every night.", "image_prompt": "a phone screen displaying two overlapping heartbeat lines, blue glow in a dark room, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "The second one was slower, calmer than mine.", "image_prompt": "a close view of a watch face showing a low pulse number, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "At first I blamed a faulty sensor.", "image_prompt": "hands turning over a smartwatch in dim lamp light, exposed sensor on the back, low light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "But the second heartbeat came from the right side of the bed.", "image_prompt": "an empty pillow with a faint body-shaped dent, dark bedroom, fog, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I put the watch on the empty pillow to test it.", "image_prompt": "a smartwatch resting alone on a white pillow, faint glow, dark room, grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "It still read a heartbeat. Strong and steady.", "image_prompt": "a watch on a pillow showing an active pulse reading, eerie blue glow, deep shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "The second rhythm started speeding up to match my fear.", "image_prompt": "a phone graph with two heart lines climbing together, tense red glow, dark room, fog, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night both heartbeats stopped at the exact same second.", "image_prompt": "a watch face showing a flat heart rate line, dim bedroom, deep shadow, low light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I woke gasping, alive, the sheets cold beside me.", "image_prompt": "a tangled cold side of a bed in grey dawn light, faint mist, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "The watch still records that second heartbeat, even when I take it off.", "image_prompt": "a smartwatch left on an empty nightstand glowing with a pulse graph, dark room, fog, deep shadow, vertical 9:16 framing"}
+  ]
+}

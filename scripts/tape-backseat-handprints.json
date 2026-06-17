@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-backseat-handprints",
+  "character": "narrator",
+  "topic": "Small handprints appear on the inside of my back windows every morning.",
+  "title": "Small Handprints On My Back Window Every Morning | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Every morning there were small handprints on the inside of my back windows.","image_prompt":"a car back window from inside, small smudged child handprints on the fogged glass, dim grey dawn, low light, vertical 9:16 framing"},
+    {"id":2,"narration":"I drive alone. No kids. The doors lock automatically.","image_prompt":"an empty back seat of a sedan, neat and bare, faint morning light through tinted windows, deep shadow, vertical 9:16 framing"},
+    {"id":3,"narration":"I cleaned them off every day.","image_prompt":"a hand wiping a streaked back window with a cloth, dim garage light, vertical 9:16 framing"},
+    {"id":4,"narration":"Then they started appearing higher, like the hands were growing.","image_prompt":"handprints smeared near the top corner of a car window, overcast light through glass, fog, vertical 9:16 framing"},
+    {"id":5,"narration":"I parked under a streetlight and watched all night.","image_prompt":"a car parked beneath a flickering streetlamp at night, empty road, deep shadow, headlights off, vertical 9:16 framing"},
+    {"id":6,"narration":"At three in the morning the glass fogged from a breath inside.","image_prompt":"a car window fogging over from the inside, a single streetlamp glow, dark cabin, vertical 9:16 framing"},
+    {"id":7,"narration":"I aimed my phone camera at the empty back seat.","image_prompt":"a phone propped on a dashboard pointing toward a dark empty back seat, faint screen glow, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"The footage showed the prints forming. No hand. Just the prints.","image_prompt":"a grainy phone screen showing a car interior, smudges appearing on glass, distorted low light, vertical 9:16 framing"},
+    {"id":9,"narration":"The next night, the prints pressed outward, reaching toward the front.","image_prompt":"handprints stretched along the side window pulling toward the driver area, dim cabin, fog, vertical 9:16 framing"},
+    {"id":10,"narration":"Then one tiny print appeared on my shoulder, from behind.","image_prompt":"a driver seat from behind, a faint small handprint on the dark fabric of the shoulder, dim dashboard glow, vertical 9:16 framing"},
+    {"id":11,"narration":"I sold the car. I still feel them reaching.","image_prompt":"an empty driveway at dusk where a car used to be, oil stain on concrete, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"My new car had handprints too, before I had even driven it.","image_prompt":"a brand new car interior with small smudged handprints on the rear glass, showroom light dimmed, vertical 9:16 framing"}
+  ]
+}

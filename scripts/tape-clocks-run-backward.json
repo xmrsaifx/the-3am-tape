@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-clocks-run-backward",
+  "character": "narrator",
+  "topic": "Every clock in the house runs backward for one hour before dawn.",
+  "title": "Every Clock In My House Runs Backward At Three AM | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Between three and four every morning, every clock in my house runs backward.","image_prompt":"a dim hallway lined with several wall clocks, hands blurred, faint moonlight through a window, deep shadow, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"I rent a small place at the end of a quiet street.","image_prompt":"a small single-story house at the end of an empty street at night, low porch light, fog, vertical 9:16 framing"},
+    {"id":3,"narration":"I work late. I sleep poorly.","image_prompt":"a rumpled bed with a bedside lamp glowing, an empty coffee mug, late night gloom, vertical 9:16 framing"},
+    {"id":4,"narration":"One night I woke and watched the kitchen clock tick the wrong way.","image_prompt":"a kitchen wall clock close framed from below, the second hand caught mid sweep, dim overhead light, shadows, vertical 9:16 framing"},
+    {"id":5,"narration":"I told myself I was dreaming.","image_prompt":"a darkened kitchen doorway, a silhouette of a person standing, faint light behind, grain, vertical 9:16 framing"},
+    {"id":6,"narration":"But the microwave, the oven, my phone, all of them counted down together.","image_prompt":"a kitchen counter with a glowing microwave display and oven clock, both blurred, low light, vertical 9:16 framing"},
+    {"id":7,"narration":"So I started recording the screens each night.","image_prompt":"a phone on a tripod aimed at a glowing clock in a dark room, red recording dot, vertical 9:16 framing"},
+    {"id":8,"narration":"Every recording showed the same hour erased and replayed.","image_prompt":"a laptop screen showing paused video of a clock, a dark room behind it, blue glow, vertical 9:16 framing"},
+    {"id":9,"narration":"By the fourth night, things on my shelves had moved back too.","image_prompt":"a bookshelf with objects slightly out of place, a knocked photo frame, dim lamp light, vertical 9:16 framing"},
+    {"id":10,"narration":"Then at three exactly, I heard my own front door close, from the inside.","image_prompt":"a front door viewed from inside a dark entryway, a coat on a hook swinging, deep shadow, fog beyond the glass, vertical 9:16 framing"},
+    {"id":11,"narration":"I have not slept through that hour since.","image_prompt":"a person sitting on the edge of a bed in the dark, back to camera, faint window light, vertical 9:16 framing"},
+    {"id":12,"narration":"Last week the clocks stopped reversing. Now they simply wait for me.","image_prompt":"a single wall clock with both hands pointing straight up, dim room, long shadow across the floor, vertical 9:16 framing"}
+  ]
+}

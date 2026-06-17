@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-snow-footprints-circle",
+  "character": "narrator",
+  "topic": "Fresh snow each morning shows one set of footprints circling my house, never entering.",
+  "title": "Footprints Circle My House in the Snow | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning fresh snow shows one set of footprints circling my house.", "image_prompt": "A single trail of footprints curving around a small house in fresh snow, dim dawn light, soft fog, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone at the end of a quiet country road.", "image_prompt": "An isolated house at the end of a snowy road, low light, deep shadow, vertical 9:16 framing"},
+    {"id": 3, "narration": "The prints never approach the door.", "image_prompt": "Footprints in snow stopping short of a front porch, dim morning light, vertical 9:16 framing"},
+    {"id": 4, "narration": "They circle the whole house, then simply stop at the start.", "image_prompt": "A complete loop of footprints around a house in unbroken snow, low light, fog, vertical 9:16 framing"},
+    {"id": 5, "narration": "I followed them once.", "image_prompt": "A person bent over a trail of footprints in deep snow, deep shadow, soft grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "They went around and around, with no end and no beginning.", "image_prompt": "Footprints forming an endless ring in fresh snow around a yard, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I stayed up to watch the snow that night.", "image_prompt": "A dark window looking out over a moonlit snowy yard, deep shadow, low light, vertical 9:16 framing"},
+    {"id": 8, "narration": "By dawn the prints were there, but I had seen no one.", "image_prompt": "Fresh footprints in snow at sunrise with no figure in sight, soft fog, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each morning the circle tightens, drawing closer to my walls.", "image_prompt": "A ring of footprints in snow pressed near the foundation of a house, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Today the prints stopped, facing the door, and pointed inward.", "image_prompt": "Two footprints in snow halted directly before a front door, deep shadow, low light, vertical 9:16 framing"},
+    {"id": 11, "narration": "There were none leading away, only the ones coming in.", "image_prompt": "A single trail of footprints leading up to a closed door and ending, dim dawn light, vertical 9:16 framing"},
+    {"id": 12, "narration": "The snow inside my hallway still has not melted.", "image_prompt": "A faint trail of melting snow across a dim interior hallway floor, low light, soft grain, vertical 9:16 framing"}
+  ]
+}

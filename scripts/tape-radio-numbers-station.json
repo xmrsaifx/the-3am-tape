@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-radio-numbers-station",
+  "character": "narrator",
+  "topic": "My car radio only finds a station reading numbers; last night it read my license plate.",
+  "title": "My Car Radio Read My License Plate Out Loud | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My car radio only finds one station, and it reads numbers aloud.", "image_prompt": "a car radio dial glowing in the dark, a single frequency locked in, dim dashboard light, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "It started on my long drive home from the coast.", "image_prompt": "an empty highway at night through a windshield, headlights and road lines, fog, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Every other station was only dead air.", "image_prompt": "a hand turning a radio tuning knob, static bars on the display, dark car interior, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "The voice read long strings of numbers, slow and flat.", "image_prompt": "a glowing car stereo with a faint sound wave, dim cabin, deep shadow, fog, vertical 9:16 framing"},
+    {"id": 5, "narration": "Then the numbers became my phone number.", "image_prompt": "a car dashboard at night, faint phone resting in a cup holder, dim glow, low light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "Then my date of birth, digit by digit.", "image_prompt": "a dark car interior lit only by the radio display, empty road ahead through glass, fog, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I pulled over and turned the car off completely.", "image_prompt": "a car stopped on a gravel shoulder at night, hazard lights faint, surrounding darkness, grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "The radio kept reading, even with the engine dead.", "image_prompt": "a dark dashboard with a still-glowing radio and no ignition light, deep shadow, fog, vertical 9:16 framing"},
+    {"id": 9, "narration": "Last night the voice read my license plate, slow and clear.", "image_prompt": "a rear license plate lit by red tail lights on a dark road, fog, film grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "Then it said it was right behind me.", "image_prompt": "a rearview mirror reflecting empty dark road and faint distant headlights, dim cabin, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I sold the car the next day to anyone who would take it.", "image_prompt": "a car parked under a dim streetlight with a for sale sign in the window, fog, low light, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "My new car found the same station the moment I started it.", "image_prompt": "a different car dashboard at night with the same lone frequency glowing, deep shadow, fog, vertical 9:16 framing"}
+  ]
+}

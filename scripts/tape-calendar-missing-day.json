@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-calendar-missing-day",
+  "character": "narrator",
+  "topic": "A wall calendar is missing the same date every month and those days cannot be remembered.",
+  "title": "My Calendar Is Missing The Same Day Every Month | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My wall calendar is missing the same date every single month.","image_prompt":"a paper wall calendar in a dim kitchen, one date square blank and torn, low light, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"It hangs in my kitchen, above the little table where I drink coffee.","image_prompt":"a small kitchen table beneath a hanging calendar, a coffee mug, morning gloom through curtains, vertical 9:16 framing"},
+    {"id":3,"narration":"I noticed it in spring.","image_prompt":"a hand reaching toward a calendar page, soft window light, deep shadow at the edges, vertical 9:16 framing"},
+    {"id":4,"narration":"The seventeenth was gone. No number, no line, just smooth paper.","image_prompt":"a close framed calendar grid with one square blank and seamless, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"I checked my phone. The same day was blank there.","image_prompt":"a phone showing a calendar app with one date faded out, held in a dark room, vertical 9:16 framing"},
+    {"id":6,"narration":"And I could not recall a single thing I had done that day.","image_prompt":"a person standing at a window looking out, back to camera, foggy glass, dim interior, vertical 9:16 framing"},
+    {"id":7,"narration":"So I began writing notes to myself the night before.","image_prompt":"a sticky note pad and pen on a nightstand, a lamp glowing, shadows, vertical 9:16 framing"},
+    {"id":8,"narration":"Each note vanished by morning. Every month, the same date, erased.","image_prompt":"an empty sticky note on a table where writing should be, soft morning light, grain, vertical 9:16 framing"},
+    {"id":9,"narration":"My neighbors swore that day never happened at all.","image_prompt":"a quiet suburban street through a window, empty driveways, gray overcast, vertical 9:16 framing"},
+    {"id":10,"narration":"Then I found one note that survived, in handwriting almost like mine.","image_prompt":"a single sticky note with faint scrawled writing on a dark counter, harsh angled light, vertical 9:16 framing"},
+    {"id":11,"narration":"It said I spend those days somewhere else, and I always agree to go.","image_prompt":"an open door to a dark room, a coat and keys gone from the hook, dim hallway, vertical 9:16 framing"},
+    {"id":12,"narration":"Tomorrow is the seventeenth again. I have started packing without knowing why.","image_prompt":"a small packed bag by a front door at dusk, fog outside the window, deep shadow, vertical 9:16 framing"}
+  ]
+}

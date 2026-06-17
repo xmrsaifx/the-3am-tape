@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-backyard-hole-deeper",
+  "character": "narrator",
+  "topic": "A hole in my backyard is deeper every morning, with no dirt piled beside it.",
+  "title": "The Hole in My Yard Gets Deeper | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The hole in my backyard is deeper every morning, with no dirt.", "image_prompt": "A dark circular hole in a grassy backyard with no soil piled around it, dim morning light, soft fog, vertical 9:16 framing"},
+    {"id": 2, "narration": "It appeared near the back fence after a quiet weekend.", "image_prompt": "A weathered wooden fence behind a lawn with a small opening in the ground, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "At first it was barely a dip.", "image_prompt": "A shallow depression in green grass under gray morning light, soft grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "But each dawn the edges sank lower, the bottom out of sight.", "image_prompt": "A deepening dark pit in a lawn, the bottom lost in shadow, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I measured it with a rope.", "image_prompt": "A coil of rope beside a dark hole in the grass, low light, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "Twelve feet, then twenty, then the rope ran out.", "image_prompt": "A taut rope disappearing into a black hole in the ground, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I shone a flashlight down the shaft.", "image_prompt": "A flashlight beam pointing into a deep dark pit in a backyard at night, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "Something at the bottom shifted away from my light.", "image_prompt": "A narrow beam of light vanishing into darkness inside a pit, faint movement, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Every night now I hear soft digging from below.", "image_prompt": "A dark backyard at night with a black hole near the fence, dim moonlight, fog, vertical 9:16 framing"},
+    {"id": 10, "narration": "This morning the hole had moved closer to my back door.", "image_prompt": "A dark pit in the grass just steps from a back porch door, dim dawn light, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I filled it with concrete. By sunrise it was open again.", "image_prompt": "A broken patch of dried concrete with a fresh dark hole through it, low light, vertical 9:16 framing"},
+    {"id": 12, "narration": "It was never being dug downward. It was being climbed up.", "image_prompt": "A dark opening in a lawn at dawn with disturbed grass at one edge, soft fog, low light, vertical 9:16 framing"}
+  ]
+}

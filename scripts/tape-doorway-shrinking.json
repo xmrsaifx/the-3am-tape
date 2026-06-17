@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-doorway-shrinking",
+  "character": "narrator",
+  "topic": "The doorway to a kitchen grows slightly shorter every morning until the resident must crawl through it.",
+  "title": "The Doorway Gets Shorter Every Morning | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "I have to duck now to enter my own kitchen, and last month I did not.", "image_prompt": "a low kitchen doorway with the top of the frame unusually close to the floor, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is an ordinary kitchen at the end of a short hall.", "image_prompt": "a plain kitchen seen through a doorway from a dim hall, counter and sink, low light, grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "I walked through that doorway upright for six years.", "image_prompt": "a normal height interior doorway in a hallway, soft shadow, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One day my hair brushed the top of the frame.", "image_prompt": "the top edge of a door frame very close to head height, faint scuff mark on the wood, low light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I measured. It was three inches shorter than the others.", "image_prompt": "a tape measure held vertically inside a doorway, the number low, dim light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "Every morning after that it had dropped a little more.", "image_prompt": "a doorway noticeably lower than the matching one across the hall, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I taped a pencil line on the frame each night.", "image_prompt": "a series of pencil marks descending down the side of a door frame, dim light, soft grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "Every dawn the line had risen. The doorway always shrank by night.", "image_prompt": "pencil marks on a door frame with the newest mark far below the others, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Now it reaches my waist. I stoop and shuffle through sideways.", "image_prompt": "a waist height doorway opening into a dim kitchen, the ceiling beyond seeming normal, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I realized the kitchen on the other side has not shrunk at all.", "image_prompt": "a tiny low doorway opening onto a full sized kitchen with high ceilings, impossible scale, low light, vertical 9:16 framing"},
+    {"id": 11, "narration": "Tomorrow I will have to crawl in on my hands and knees.", "image_prompt": "a doorway only a foot high at the base of a wall, dark kitchen beyond, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "I keep wondering what will happen the morning the gap is gone, with me still inside.", "image_prompt": "an almost fully closed doorway, a thin sliver of dark kitchen visible at the bottom, low light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-shadow-wrong-way",
+  "character": "narrator",
+  "topic": "My shadow falls the wrong way from the sun, and lately it moves on its own.",
+  "title": "My Shadow Falls the Wrong Way | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My shadow points toward the sun, not away from it.", "image_prompt": "A long human shadow stretching toward a low bright sun on cracked pavement, impossible angle, dim afternoon haze, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "I first noticed it in my own driveway last spring.", "image_prompt": "An empty suburban driveway at dusk, single long shadow across the concrete, low light, soft fog, vertical 9:16 framing"},
+    {"id": 3, "narration": "Every morning since, the same.", "image_prompt": "A back porch in pale morning light, a shadow falling the wrong direction across worn floorboards, vertical 9:16 framing"},
+    {"id": 4, "narration": "Then I saw it lift a hand while both of mine hung still.", "image_prompt": "A silhouette shadow on a wall with one arm raised, the figure casting it standing with arms down, low light, vertical 9:16 framing"},
+    {"id": 5, "narration": "I froze on the sidewalk.", "image_prompt": "An empty sidewalk at twilight, a single dark shadow stretched unnaturally long, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "Neighbors looked, then looked away, pretending they saw nothing.", "image_prompt": "Distant figures on a quiet residential street turning away, blurred backs, dim evening light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I filmed it for an hour.", "image_prompt": "A phone propped on a fence recording a shadow on the grass, low light, soft grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "On playback, my shadow turned its head before I did.", "image_prompt": "A shadow of a head turned sideways on a brick wall while the silhouette faces forward, deep shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "After that it began drifting farther from my feet each day.", "image_prompt": "A shadow separated from a standing figure by a visible gap on a sunlit lawn, low light, vertical 9:16 framing"},
+    {"id": 10, "narration": "This morning it stood up while I was still lying down.", "image_prompt": "A standing human shadow cast across a bedroom floor and bed, no person upright, dawn light through blinds, vertical 9:16 framing"},
+    {"id": 11, "narration": "I keep the curtains shut now, and the lights off.", "image_prompt": "A dark bedroom with heavy closed curtains, a thin line of light at the floor, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "But shadows do not need my light. They only need me.", "image_prompt": "A silhouette of a person against a faintly glowing window, a second shadow on the wall behind, low light, vertical 9:16 framing"}
+  ]
+}

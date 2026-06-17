@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-old-phone-still-rings",
+  "character": "narrator",
+  "topic": "My old disconnected phone, dead in a drawer, rings every night at the same minute.",
+  "title": "My Dead Phone Rings Every Night At The Same Minute | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My old phone has no battery, yet it rings every single night.", "image_prompt": "an old cracked smartphone lying dark in a cluttered drawer, faint glow on its screen, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I keep it in a drawer in my bedroom, switched off for years.", "image_prompt": "an open bedside drawer holding tangled cables and a dead phone, dim lamp light, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "It always rings at twelve seventeen exactly.", "image_prompt": "a phone screen lit in darkness showing a call clock, fog, film grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first night I thought I had imagined the sound.", "image_prompt": "a person's silhouette sitting up in a dark bed, faint glow from a drawer, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "The next night it rang again. Same minute.", "image_prompt": "a glowing phone face-up in a drawer in a black room, harsh contrast, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "I opened it. No battery inside, just an empty slot.", "image_prompt": "hands holding an opened phone case with a missing battery compartment, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I drove it to the lake and threw it in.", "image_prompt": "a dark lake shore at night, ripples spreading, a faint glow sinking under the water, fog, grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "That night, twelve seventeen, the drawer rang again.", "image_prompt": "the same bedside drawer glowing from within, empty room, low light, deep shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "I finally answered. Static, then breathing, then my own voice.", "image_prompt": "a hand lifting a glowing phone to a silhouetted ear in the dark, harsh screen light, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "My voice said I would be there soon. It used my name.", "image_prompt": "a phone screen glowing in a dark room with an active call timer, fog, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have not slept past midnight since.", "image_prompt": "a person sitting awake on the edge of a bed at night, faint window light, low light, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "Twelve seventeen was the minute I was born.", "image_prompt": "an old hospital wristband resting beside a dead phone on a nightstand, dim light, deep shadow, vertical 9:16 framing"}
+  ]
+}

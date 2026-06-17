@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-skylight-wrong-sky",
+  "character": "narrator",
+  "topic": "A skylight shows a sky that never matches the actual weather outside the house.",
+  "title": "My Skylight Shows The Wrong Sky | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My skylight shows a clear night sky while rain hammers every other window in the house.", "image_prompt": "a ceiling skylight showing stars while rain streaks the walls below, dim room, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "It sits above the stairwell, the only skylight in the place.", "image_prompt": "a square skylight set into a high ceiling above a dim stairwell, low light, grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "For years it matched the weather outside.", "image_prompt": "a skylight showing overcast gray daylight, plain ceiling, soft shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "Then one storm it stayed bright blue and calm.", "image_prompt": "a skylight glowing with calm blue daylight while the room below is dark and stormy, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "I went outside. Solid clouds. Pouring rain.", "image_prompt": "a person silhouette standing in heavy rain looking up at a dark stormy sky, dim light, fog, vertical 9:16 framing"},
+    {"id": 6, "narration": "From below, the same skylight showed a sunset that did not belong to my town.", "image_prompt": "a skylight glowing orange with an unfamiliar sunset, dark room interior beneath, low light, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I climbed onto the roof to check the glass.", "image_prompt": "a person silhouette on a dim sloped rooftop beside a skylight at night, fog, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "From the roof the skylight was dark. Only from inside did it show another sky.", "image_prompt": "a dark skylight viewed from outside on a roof, no glow, dim night, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "The skies it showed grew stranger. Two moons. A green dusk. Birds I did not know.", "image_prompt": "a skylight revealing an alien dusk with two pale moons, dark room below, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "One night a shape passed across that other sky and paused, looking down.", "image_prompt": "a skylight showing a dim sky with a vague dark silhouette overhead, low light, fog, vertical 9:16 framing"},
+    {"id": 11, "narration": "I covered it with plywood. The wood glows faintly at the edges now.", "image_prompt": "a plywood panel screwed over a ceiling skylight, thin light leaking at the seams, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "Whatever sky is up there, something in it has started watching back.", "image_prompt": "a covered skylight at night with faint colored light bleeding around the boards, low light, grain, vertical 9:16 framing"}
+  ]
+}

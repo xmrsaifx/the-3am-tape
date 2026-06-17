@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-extra-step-porch",
+  "character": "narrator",
+  "topic": "A front porch grows one extra step every month until the staircase descends below street level.",
+  "title": "My Porch Keeps Growing One More Step | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My front porch had three steps when I bought the house. This morning it had eleven.", "image_prompt": "a wooden front porch staircase descending far lower than the surrounding yard, fog, dim morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is a normal blue house on a normal street.", "image_prompt": "a small blue two story house on a quiet suburban street, overcast sky, low light, grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "Three steps. I counted them every day for years.", "image_prompt": "three weathered wooden porch steps leading to a front door, soft shadow, dim light, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning there were four. I told myself I had miscounted.", "image_prompt": "four wooden porch steps photographed from above, the bottom one paler than the rest, low light, vertical 9:16 framing"},
+    {"id": 5, "narration": "By summer there were seven.", "image_prompt": "a longer wooden porch staircase of seven steps, the yard sloping oddly around it, fog, dim light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The new step appeared every month, always at the bottom, always older than the rest.", "image_prompt": "the lowest porch step weathered gray and cracked beneath newer boards, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I marked the street level with chalk and waited.", "image_prompt": "a white chalk line drawn across the curb beside a porch staircase, dim overcast light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Last week the staircase passed below the street.", "image_prompt": "a wooden staircase continuing downward past the level of the asphalt road, into shadow, fog, vertical 9:16 framing"},
+    {"id": 9, "narration": "The bottom steps now end in cold air and a smell like wet stone.", "image_prompt": "lower porch steps descending into a dark pit of cold mist below ground level, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I heard footsteps climbing up, slow, one step at a time.", "image_prompt": "a long dark porch staircase descending into blackness, faint dust disturbed on a lower step, low light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I keep the door locked. The footsteps stop just below the count I can see.", "image_prompt": "a locked front door behind a porch railing, staircase falling away into fog below, dim light, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning there were twelve steps. Whatever is climbing is almost level with me now.", "image_prompt": "the top of a porch staircase, the topmost step worn smooth by something, deep shadow, grain, vertical 9:16 framing"}
+  ]
+}

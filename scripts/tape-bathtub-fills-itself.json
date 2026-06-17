@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-bathtub-fills-itself",
+  "character": "narrator",
+  "topic": "A bathtub fills itself with warm water every night.",
+  "title": "My Bathtub Fills With Warm Water By Itself Every Night | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My bathtub fills with warm water by itself every single night.","image_prompt":"a white bathtub full of still water in a dim bathroom, faint steam rising, low light, grain, vertical 9:16 framing"},
+    {"id":2,"narration":"It is an old apartment, with an old clawfoot tub.","image_prompt":"a vintage clawfoot bathtub in a small tiled bathroom, dim overhead light, shadow, vertical 9:16 framing"},
+    {"id":3,"narration":"The faucet drips. Nothing more.","image_prompt":"a close framed old bathtub faucet with a single drop falling, dim light, vertical 9:16 framing"},
+    {"id":4,"narration":"The first night I found it full, I assumed I had forgotten.","image_prompt":"a bathtub brimming with water, soft reflection of bathroom light, deep shadow corners, vertical 9:16 framing"},
+    {"id":5,"narration":"But the water was warm. I had been asleep for hours.","image_prompt":"steam curling above still bathwater in a dark bathroom, faint glow, vertical 9:16 framing"},
+    {"id":6,"narration":"So I shut the valve under the sink completely.","image_prompt":"a hand turning a shutoff valve under a bathroom sink, dim flashlight beam, shadows, vertical 9:16 framing"},
+    {"id":7,"narration":"The next morning the tub was full again, and warmer.","image_prompt":"a full bathtub with heavy steam in a cold tiled room, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"Every night it filled. Every night the water held the same heat.","image_prompt":"still warm bathwater reflecting a faint ceiling light, dark bathroom, grain, vertical 9:16 framing"},
+    {"id":9,"narration":"Then I noticed the water was always slightly lower than I left it.","image_prompt":"a bathtub of water with a faint waterline mark on the porcelain, dim light, vertical 9:16 framing"},
+    {"id":10,"narration":"As if, just before I woke, someone had climbed out.","image_prompt":"wet footprints leading away from a full bathtub across a tiled floor, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I keep the bathroom door locked now. It does not help.","image_prompt":"a locked bathroom door from the hallway, faint light at the floor gap, fog, vertical 9:16 framing"},
+    {"id":12,"narration":"Last night the water was cold, and someone had folded a towel for me.","image_prompt":"a neatly folded towel resting on the edge of a full bathtub, dim light, shadow, vertical 9:16 framing"}
+  ]
+}

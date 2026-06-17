@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-jogger-graying",
+  "character": "narrator",
+  "topic": "The same jogger passes my window every morning, a little slower and grayer each day.",
+  "title": "The Jogger Who Ages Outside My Window | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The same jogger passes my window slower and grayer each morning.", "image_prompt": "A blurred jogger seen through a rain streaked window at dawn, dim light, soft grain, vertical 9:16 framing"},
+    {"id": 2, "narration": "I drink my coffee at this window every day at seven.", "image_prompt": "A coffee mug on a sill before a quiet suburban street at dawn, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Same path, same hour, always.", "image_prompt": "An empty sidewalk along a row of houses in pale morning fog, low light, vertical 9:16 framing"},
+    {"id": 4, "narration": "But last week his run had become a tired shuffle.", "image_prompt": "A distant slow figure walking heavily on a foggy street at dawn, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "His hair had gone white.", "image_prompt": "A back view of a gray haired figure on a misty sidewalk, low light, soft grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "Each day he is older, bent further, moving slower past me.", "image_prompt": "A stooped silhouette leaning forward on a quiet street, dim morning light, fog, vertical 9:16 framing"},
+    {"id": 7, "narration": "I went outside to look closer.", "image_prompt": "An open front door framing a foggy empty street at dawn, deep shadow inside, vertical 9:16 framing"},
+    {"id": 8, "narration": "He left no footprints, and the street stayed silent.", "image_prompt": "A wet empty sidewalk with no tracks, faint morning mist, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "This morning he stopped, and slowly turned toward my window.", "image_prompt": "A distant hunched figure facing a house window through fog, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "He raised one frail arm and pointed straight at me.", "image_prompt": "A back lit silhouette with one arm extended on a misty street, low light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I have not opened the curtains since.", "image_prompt": "A closed curtain glowing faintly with morning light behind it, dim room, soft grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "Tomorrow at seven, I am afraid he will not be alone.", "image_prompt": "Two distant gray figures standing still on a foggy sidewalk at dawn, low light, vertical 9:16 framing"}
+  ]
+}

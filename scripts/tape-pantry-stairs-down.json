@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-pantry-stairs-down",
+  "character": "narrator",
+  "topic": "A staircase descending into the ground appears in a pantry of a house that has no basement.",
+  "title": "A Staircase Appeared In My Pantry | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "A staircase going down appeared in my pantry, and my house has no basement.", "image_prompt": "a small pantry with a dark stairwell descending into the floor between shelves, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is a narrow pantry off the kitchen, lined with shelves.", "image_prompt": "a narrow pantry with canned goods on wooden shelves, dim overhead bulb, grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "The floor there was solid tile for years.", "image_prompt": "a tiled pantry floor under shelves, flat light, soft shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning the back wall was gone and stairs led down into the dark.", "image_prompt": "an opening in a pantry floor with stone steps descending into blackness, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "Cold air rose from it, smelling of earth.", "image_prompt": "faint cold mist rising from a dark stairwell in a pantry floor, low light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "The steps were old stone, worn smooth in the center as if walked for years.", "image_prompt": "worn stone staircase steps curving down into darkness, hollowed in the middle, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I went down twelve steps with a lantern before I lost my nerve.", "image_prompt": "a lantern light on stone stairs descending into a dark earthen tunnel, fog, low light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The stairs kept going. I counted forty before they vanished into black.", "image_prompt": "a long stone staircase descending endlessly into darkness below a house, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "At the bottom, far below, a single light was on.", "image_prompt": "a faint warm light glowing at the distant bottom of a dark descending stairwell, fog, low light, vertical 9:16 framing"},
+    {"id": 10, "narration": "Something down there began climbing toward the glow of my lantern.", "image_prompt": "a dark staircase with a vague shadow rising from below toward the viewer, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "I shut the pantry door. The stairs were tile again by noon.", "image_prompt": "a closed pantry door, ordinary tile floor visible through the gap, dim light, soft shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "But every night the cold air returns, and the stairs are waiting by dawn.", "image_prompt": "a dark stairwell reopened in a pantry floor at night, cold mist rising, deep shadow, low light, vertical 9:16 framing"}
+  ]
+}

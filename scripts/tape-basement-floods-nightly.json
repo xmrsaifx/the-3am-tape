@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-basement-floods-nightly",
+  "character": "narrator",
+  "topic": "A basement floods with warm clean water every night and is completely dry again by dawn.",
+  "title": "My Basement Floods Every Single Night | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every night my basement fills with warm clean water, and by dawn it is bone dry.", "image_prompt": "a dim basement half filled with still clear water reflecting a single bulb, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is a plain concrete basement under a plain house.", "image_prompt": "an empty gray concrete basement with a water heater and stairs, low light, grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "No leaks. No drains. No source.", "image_prompt": "a dry concrete basement floor with no drains visible, dim bulb light, soft shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first night I found it knee deep and warm as a bath.", "image_prompt": "still warm water rising knee high in a dim basement, faint steam, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "The water was clear. It tasted clean.", "image_prompt": "clear calm water surface in a basement reflecting a hanging bulb, low light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "Each night the level rose higher, always gone by morning, the floor perfectly dry.", "image_prompt": "a completely dry basement floor in dim morning light, faint water line on the wall, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I dropped a coin in one night and marked the spot.", "image_prompt": "a coin sinking through clear water in a flooded basement, ripples spreading, low light, vertical 9:16 framing"},
+    {"id": 8, "narration": "By morning the coin was gone, and so was every drop.", "image_prompt": "a dry basement floor with a chalk mark and no coin, dim light, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "The water rose to the ceiling now, pressing against the floor above.", "image_prompt": "a basement filled nearly to the ceiling with still clear water, submerged bulb glowing, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night I saw something float up through it, slow, and look toward the stairs.", "image_prompt": "a dim shape suspended deep in flooded basement water near a staircase, low light, fog, vertical 9:16 framing"},
+    {"id": 11, "narration": "I padlocked the basement door. The lock is wet every morning.", "image_prompt": "a closed basement door with a padlock dripping water onto the floor, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "The water line climbs the stairs a little higher each night now.", "image_prompt": "wet stair treads ascending from a dark basement, a damp mark higher than before, low light, grain, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-parking-spot-name-date",
+  "character": "narrator",
+  "topic": "My office parking spot has my name and a death date painted on the curb.",
+  "title": "My Name And A Death Date Painted On My Parking Spot | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My office parking spot had my full name and a death date painted on the curb.","image_prompt":"a concrete parking curb with faded white painted lettering, dim underground garage, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"I park in the same spot every workday.","image_prompt":"a numbered space in an empty office parking garage, flickering fluorescent light, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"Spot forty seven, level two.","image_prompt":"a parking level pillar marked with a worn number, dim concrete garage, fog, vertical 9:16 framing"},
+    {"id":4,"narration":"One Monday the curb was freshly painted with letters.","image_prompt":"a wet white painted curb with crisp lettering, drips still glistening, dim garage lamp, vertical 9:16 framing"},
+    {"id":5,"narration":"It was my name. The date was this Friday.","image_prompt":"a close composition of painted curb lettering partly in shadow, single overhead light, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"I reported it. The cameras showed no one painting it.","image_prompt":"a security monitor showing a grainy empty parking garage, dim control room, deep shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"I painted over it myself that evening.","image_prompt":"hands rolling grey paint over a curb in a dim garage, paint can nearby, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"By morning the name bled back through, darker.","image_prompt":"a grey curb with dark lettering ghosting up through the fresh paint, dim fluorescent light, vertical 9:16 framing"},
+    {"id":9,"narration":"Every other spot stayed blank. Only mine kept the date.","image_prompt":"a row of clean parking curbs with one marked curb among them, dim garage, fog, vertical 9:16 framing"},
+    {"id":10,"narration":"On Friday a car was already parked there, mine, engine warm.","image_prompt":"a sedan parked in a numbered garage spot, faint exhaust haze, dim overhead light, low light, vertical 9:16 framing"},
+    {"id":11,"narration":"I never drove it there. I had been home all day.","image_prompt":"an empty home driveway at dusk with no car, porch light, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"The date on the curb now reads tomorrow.","image_prompt":"a parking curb with freshly altered painted numbers, single garage lamp, fog, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-backseat-lake-water",
+  "character": "narrator",
+  "topic": "My back seat is soaking wet every morning and smells of lake water.",
+  "title": "My Back Seat Is Soaked With Lake Water Every Morning | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My back seat was soaking wet every morning, and it smelled of lake water.","image_prompt":"a dark car back seat with damp fabric and a puddle in the footwell, dim grey dawn, low light, vertical 9:16 framing"},
+    {"id":2,"narration":"I park in a covered garage. It never rains inside.","image_prompt":"a dry concrete garage interior with a single parked car, overhead bulb, deep shadow, vertical 9:16 framing"},
+    {"id":3,"narration":"The nearest lake is forty miles away.","image_prompt":"a still dark lake at dawn surrounded by reeds, heavy fog, low light, vertical 9:16 framing"},
+    {"id":4,"narration":"The water was cold and left green weeds on the seat.","image_prompt":"strands of dark green lake weed draped over a damp car seat, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"I dried it. By dawn it was soaked again.","image_prompt":"a soaked car footwell with water pooling, faint morning light through tinted glass, vertical 9:16 framing"},
+    {"id":6,"narration":"The carpet held the shape of someone sitting there.","image_prompt":"a wet impression in the back seat cushion shaped like a seated form, dim cabin, low light, vertical 9:16 framing"},
+    {"id":7,"narration":"I set a towel down and a camera overnight.","image_prompt":"a folded towel on a car back seat with a small camera clipped to the headrest, dark cabin, vertical 9:16 framing"},
+    {"id":8,"narration":"The footage showed the seat darken with water at three in the morning.","image_prompt":"a grainy night camera frame of a back seat slowly soaking dark, faint glow, low light, vertical 9:16 framing"},
+    {"id":9,"narration":"Then wet footprints led from the seat to the garage door.","image_prompt":"dark wet footprints crossing a concrete garage floor toward a closed door, dim bulb, fog, vertical 9:16 framing"},
+    {"id":10,"narration":"One morning a single muddy shoe sat in the footwell, not mine.","image_prompt":"a single waterlogged shoe sitting in a damp car footwell, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"A girl had drowned in that lake decades ago, they told me.","image_prompt":"an old faded newspaper clipping about a lake on a kitchen table, dim lamp, low light, vertical 9:16 framing"},
+    {"id":12,"narration":"Last night the water reached the front seat, still rising.","image_prompt":"a car driver footwell beginning to fill with dark water, dim dashboard glow, fog, vertical 9:16 framing"}
+  ]
+}

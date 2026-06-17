@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-side-mirror-figure",
+  "character": "narrator",
+  "topic": "A figure in my side mirror gets closer each day though nothing is behind me.",
+  "title": "The Figure In My Side Mirror Gets Closer Each Day | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"A figure in my side mirror got closer each day, though nothing was ever behind me.","image_prompt":"a car side mirror reflecting a distant dark figure on an empty road, headlights, fog, vertical 9:16 framing"},
+    {"id":2,"narration":"I noticed it on my drive home from work.","image_prompt":"a grey highway at dusk through a windshield, taillights ahead, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"A small shape, far back. Then a little closer.","image_prompt":"a side mirror showing a faint silhouette on the road horizon, deep shadow, fog, vertical 9:16 framing"},
+    {"id":4,"narration":"Each morning the figure had gained a few feet.","image_prompt":"a side mirror reflecting a closer dark figure standing on the asphalt, dim dawn light, vertical 9:16 framing"},
+    {"id":5,"narration":"But the road behind me was always empty.","image_prompt":"a view through a rear windshield of a completely empty road, overcast, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"I started checking both mirrors at every light.","image_prompt":"a driver hand adjusting a side mirror at a red traffic light, dim cabin glow, fog, vertical 9:16 framing"},
+    {"id":7,"narration":"Only the left mirror showed him. The glass felt cold.","image_prompt":"a close view of a car side mirror with a dark reflected shape, frost at the edges, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"By Friday he filled the whole mirror.","image_prompt":"a side mirror almost entirely darkened by a looming silhouette, faint headlight rim, deep shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"I covered the mirror with tape and drove.","image_prompt":"a car side mirror wrapped in dark tape, parking lot at dusk, dim light, vertical 9:16 framing"},
+    {"id":10,"narration":"Then I saw him in the rearview, smiling, in my back seat.","image_prompt":"a rearview mirror reflecting a dark shape seated behind the driver, faint dashboard glow, low light, vertical 9:16 framing"},
+    {"id":11,"narration":"I park facing the wall now, no mirrors visible.","image_prompt":"a car parked nose first against a blank garage wall, dim bulb, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"This morning my own reflection was a step behind me.","image_prompt":"a bathroom mirror at dawn with a dim doorway behind, faint second shape in the shadows, low light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-birds-facing-window",
+  "character": "narrator",
+  "topic": "The birds on my lawn all face my window, motionless, arranged in neat rows.",
+  "title": "The Birds on My Lawn Face My Window | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every bird on my lawn faces my window, still, in neat rows.", "image_prompt": "A green lawn covered with small birds arranged in straight rows facing a house window, dim morning light, soft fog, vertical 9:16 framing"},
+    {"id": 2, "narration": "I first saw them while making breakfast one gray morning.", "image_prompt": "A kitchen window overlooking a lawn dotted with motionless birds, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "Dozens of them, none of them moving.", "image_prompt": "A wide lawn covered in silent perched birds, deep shadow, soft grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "They were lined up too straight to be an accident.", "image_prompt": "Rows of birds in perfect parallel lines across grass, dim light, fog, vertical 9:16 framing"},
+    {"id": 5, "narration": "I tapped the glass hard.", "image_prompt": "A hand against a window pane facing a lawn of still birds, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Not one bird flinched, and every eye stayed on me.", "image_prompt": "A dense group of birds all oriented toward a single window, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I stepped onto the porch to scatter them.", "image_prompt": "An open back door facing a lawn covered in motionless birds, dim morning light, vertical 9:16 framing"},
+    {"id": 8, "narration": "They turned their heads together, tracking me without a sound.", "image_prompt": "Rows of birds with heads turned in unison toward a figure, low light, soft fog, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each morning there are more, the rows reaching closer.", "image_prompt": "An expanding field of silent birds advancing toward a house, dim light, fog, vertical 9:16 framing"},
+    {"id": 10, "narration": "This morning the front row pressed against my back door.", "image_prompt": "A tight cluster of birds gathered against a closed back door, deep shadow, low light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I keep every curtain shut, but I feel them waiting.", "image_prompt": "A drawn curtain glowing faintly with dawn light, dim room, soft grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "They are not watching me. They are facing what stands behind me.", "image_prompt": "A lawn of birds staring past a window into a dim interior, deep shadow, low light, vertical 9:16 framing"}
+  ]
+}

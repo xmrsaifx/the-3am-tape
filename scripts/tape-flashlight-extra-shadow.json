@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-flashlight-extra-shadow",
+  "character": "narrator",
+  "topic": "My phone flashlight casts a second shadow of me that moves on its own.",
+  "title": "My Phone Flashlight Casts A Second Shadow Of Me | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My phone flashlight throws a second shadow of me onto the wall.", "image_prompt": "a hand holding a phone with its flashlight on, two overlapping human shadows cast on a peeling wall, harsh white beam, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "I noticed it in my hallway, late, walking to the kitchen.", "image_prompt": "a narrow dark apartment hallway, single phone light source, long shadows stretching toward a door, low light, film grain, vertical 9:16 framing"},
+    {"id": 3, "narration": "One light. One person. Two shadows.", "image_prompt": "a bare wall lit by a single harsh beam, two distinct silhouettes side by side, fog, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first shadow matched me exactly, the way shadows should.", "image_prompt": "a silhouette of a standing figure cast crisply on a wall, dim hallway, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "The second one did not.", "image_prompt": "a second blurred human silhouette beside a sharper one, both on a dim wall, eerie low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "When I stood still, it kept turning its head toward me.", "image_prompt": "two shadows on a wall, one facing forward, one turned sideways, harsh phone beam, fog, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I tested it in every room. Always there.", "image_prompt": "a phone flashlight illuminating a bedroom wall, double shadow visible, scattered furniture silhouettes, low light, vertical 9:16 framing"},
+    {"id": 8, "narration": "It only appears under my flashlight. Never any other light.", "image_prompt": "a wall half lit by a ceiling bulb showing one shadow, half by a phone beam showing two, contrast, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "Lately it raises an arm before I raise mine.", "image_prompt": "two wall shadows, one with an arm lifted, the standing figure's arms still down, harsh beam, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night it stepped out of the wall and toward me.", "image_prompt": "a darkened room, a shadow detaching from the wall as a freestanding dark shape, phone light glaring, fog, heavy grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "I keep the flashlight off now. I walk in the dark.", "image_prompt": "a pitch black hallway with a faint phone outline in a hand, no beam, total darkness, vertical 9:16 framing"},
+    {"id": 12, "narration": "But in the dark I can still feel it walking with me.", "image_prompt": "an empty dark corridor with a faint second set of footprints in dust, low light, deep shadow, grain, vertical 9:16 framing"}
+  ]
+}
