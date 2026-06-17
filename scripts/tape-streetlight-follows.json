@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-streetlight-follows",
+  "character": "narrator",
+  "topic": "One streetlight turns on only when I pass beneath it, then follows me home.",
+  "title": "A Streetlight Follows Me Home Every Night | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"One streetlight switched on only when I walked beneath it, then followed me home.","image_prompt":"A single glowing streetlight on a dark empty street, halo of haze, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"I walked home the same way from the train each night.","image_prompt":"A long dim sidewalk leading away from a small train platform at night, fog, vertical 9:16 framing"},
+    {"id":3,"narration":"The street had a dozen lamps, all dead.","image_prompt":"A row of dark unlit streetlamps along an empty road at night, faint moonlight, shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"As I passed under one, it flickered to life behind me.","image_prompt":"A streetlamp glowing alone behind a dark figure walking away, hazy light, deep shadow, vertical 9:16 framing"},
+    {"id":5,"narration":"I turned. It went dark.","image_prompt":"A suddenly dark streetlamp on a quiet road with faint residual glow, night fog, vertical 9:16 framing"},
+    {"id":6,"narration":"The next lamp lit as I reached it, exactly above my head.","image_prompt":"A bright streetlamp directly overhead casting a circle of light on wet pavement, night, vertical 9:16 framing"},
+    {"id":7,"narration":"I stopped walking. The light stayed lit, waiting.","image_prompt":"A single lit streetlamp glowing over an empty stretch of dark road, halo of fog, vertical 9:16 framing"},
+    {"id":8,"narration":"When I moved, the next lamp ahead came on too.","image_prompt":"Two streetlamps lit in sequence down a dark road toward a distant house, hazy glow, vertical 9:16 framing"},
+    {"id":9,"narration":"Light by light, it walked me all the way to my gate.","image_prompt":"A trail of glowing streetlamps leading to a small dim house at night, deep shadow, fog, vertical 9:16 framing"},
+    {"id":10,"narration":"Then the lamp over my porch switched on, though my house has none.","image_prompt":"A bright unfamiliar lamp glowing above a front porch that has no fixture, night, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"Now I take the long way, through streets with no lamps at all.","image_prompt":"A figure from behind walking a pitch dark path between houses, faint moonlight, fog, vertical 9:16 framing"},
+    {"id":12,"narration":"Last night a new lamp stood at the end of that path, already lit.","image_prompt":"A solitary glowing streetlamp at the end of a dark unlit lane, halo of haze, deep shadow, vertical 9:16 framing"}
+  ]
+}

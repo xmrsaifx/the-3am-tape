@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-for-sale-sign",
+  "character": "narrator",
+  "topic": "A For Sale sign appears in my yard at night, listing me as the seller with a sold date.",
+  "title": "A For Sale Sign Appeared in My Yard | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"A For Sale sign appeared in my yard at night, listing me as the seller.","image_prompt":"A real estate For Sale sign standing in a dim front yard at dusk, fog, long shadows, vertical 9:16 framing"},
+    {"id":2,"narration":"I had owned the house outright for eleven years.","image_prompt":"A modest house behind a neat lawn in fading evening light, dim glow, deep shadow, vertical 9:16 framing"},
+    {"id":3,"narration":"The house was never for sale.","image_prompt":"An empty front yard with a faint depression in the grass at twilight, low light, vertical 9:16 framing"},
+    {"id":4,"narration":"I pulled the sign up and threw it in the shed.","image_prompt":"A For Sale sign lying inside a dim cluttered shed, faint light, deep shadow, vertical 9:16 framing"},
+    {"id":5,"narration":"By dawn it stood in the yard again.","image_prompt":"A For Sale sign upright in a dewy front lawn at dawn, gray fog, dim light, vertical 9:16 framing"},
+    {"id":6,"narration":"Now it carried a sold sticker, with a date already on it.","image_prompt":"A For Sale sign with a red SOLD banner across it in a dim yard, twilight, shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"I called the number printed at the bottom.","image_prompt":"A phone held up before a real estate sign at dusk, dim glow, deep shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"My own voice answered and said the deal was nearly done.","image_prompt":"A dim front porch with a glowing phone screen, fog, long shadows, vertical 9:16 framing"},
+    {"id":9,"narration":"Boxes I never packed appeared stacked by my door.","image_prompt":"Sealed cardboard moving boxes stacked beside a front door at dusk, dim light, shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"The sold date on the sign was tomorrow.","image_prompt":"A close view of a SOLD real estate sign showing a date, dim twilight, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I sat awake all night watching the door.","image_prompt":"A silhouette seated facing a front door in a dark room, faint streetlight, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"At dawn new owners had keys, and asked who I was.","image_prompt":"Unfamiliar figures standing on a porch at dawn holding keys, backs turned, fog, vertical 9:16 framing"}
+  ]
+}

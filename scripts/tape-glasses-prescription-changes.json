@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-glasses-prescription-changes",
+  "character": "narrator",
+  "topic": "My glasses grow a little stronger every morning, blurring whatever is near.",
+  "title": "My Glasses Get Stronger Every Morning | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning my glasses are a little stronger, blurring whatever is close.", "image_prompt": "A pair of glasses resting on an open book on a nightstand, lenses catching dim light, deep shadow, grainy film, vertical 9:16 framing"},
+    {"id": 2, "narration": "I have worn the same pair for nine years.", "image_prompt": "A worn glasses case on a cluttered desk, scratched surface, low warm lamp light, shadow, vertical 9:16 framing"},
+    {"id": 3, "narration": "I clean them on my shirt and set them down.", "image_prompt": "Glasses folded beside a folded cloth on a wooden desk, soft side light, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "One day the room nearby went soft and smeared.", "image_prompt": "A blurred bedroom interior as if seen through wrong lenses, sharp distant window, dim light, vertical 9:16 framing"},
+    {"id": 5, "narration": "But far away, everything was sharp.", "image_prompt": "A distant doorway in crisp focus down a blurred dim hallway, low light, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "The optometrist said the lenses kept changing on their own.", "image_prompt": "An optometrist phoropter machine in a dim exam room, dials and lenses, cold clinical light, shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "Each dawn the near world dissolved further.", "image_prompt": "A breakfast table dissolving into smear in the foreground, sharp far wall, grey morning light, grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "I could no longer see my own hands.", "image_prompt": "Blurred hands held up before a face, the room beyond crisp and dim, low light, deep shadow, vertical 9:16 framing"},
+    {"id": 9, "narration": "But far down the hall, something stood very clearly.", "image_prompt": "A tall dark silhouette standing sharp at the end of a blurred dim corridor, fog, grainy film, vertical 9:16 framing"},
+    {"id": 10, "narration": "It only appeared when I wore them.", "image_prompt": "Glasses on a table reflecting a distant standing shape, surroundings soft and dim, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I took them off. The figure stayed, just blurred now.", "image_prompt": "A hazy upright form in a dim hallway without lenses, soft edges, low light, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning it was close, and finally in perfect focus.", "image_prompt": "A dark coat and shoulders very near and sharp in dim light, face out of frame, heavy shadow, vertical 9:16 framing"}
+  ]
+}

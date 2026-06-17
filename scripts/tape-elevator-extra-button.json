@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-elevator-extra-button",
+  "character": "narrator",
+  "topic": "A button appeared in my office elevator for a floor the building does not have.",
+  "title": "The Button For A Floor That Doesn't Exist | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My elevator grew a button overnight, for a floor my building does not have.","image_prompt":"Close still of an elevator control panel, dim warm bulb, one extra unlabeled button glowing faintly below the rest, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"I work on the fourteenth floor of an old downtown tower.","image_prompt":"Empty office tower lobby at dusk, polished floor reflecting amber light, brass elevator doors closed, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"Same ride, same hour, every single morning for years.","image_prompt":"Interior of an empty elevator, brushed steel walls, fluorescent ceiling panel buzzing, faint grain, vertical 9:16 framing"},
+    {"id":4,"narration":"That morning the panel had a number that should not exist. Thirteen.","image_prompt":"Elevator button panel detail, a worn button marked thirteen lit dim red, scuffed metal, harsh overhead light, vertical 9:16 framing"},
+    {"id":5,"narration":"My building skips thirteen. Always has.","image_prompt":"Old building floor directory plate on a wall, numbers jumping from twelve to fourteen, dust, dim corridor light, vertical 9:16 framing"},
+    {"id":6,"narration":"I checked the directory in the lobby. It still skipped that number.","image_prompt":"Lobby wall directory board, mounted letters and numbers, gap where thirteen should be, soft fluorescent glow, vertical 9:16 framing"},
+    {"id":7,"narration":"So one evening, alone, I pressed it.","image_prompt":"A hand reaching toward a glowing elevator button in shadow, fingertip almost touching, harsh single light source, vertical 9:16 framing"},
+    {"id":8,"narration":"The doors closed. The elevator dropped. The numbers above counted down past one.","image_prompt":"Elevator floor indicator above doors, glowing numerals descending below one into blank, dark interior, vertical 9:16 framing"},
+    {"id":9,"narration":"It kept dropping. Far longer than any basement could be.","image_prompt":"Dark elevator shaft seen through a gap in doors, endless cables vanishing downward, faint emergency light, vertical 9:16 framing"},
+    {"id":10,"narration":"The doors opened on a hallway identical to mine, but every nameplate was mine.","image_prompt":"Long office corridor lined with identical doors, every door plate blank and pale, flickering fluorescent tubes, vertical 9:16 framing"},
+    {"id":11,"narration":"I mashed every button until it carried me back up.","image_prompt":"Elevator panel with all buttons lit at once, trembling hand pulled back, stark white light, vertical 9:16 framing"},
+    {"id":12,"narration":"This morning the button was gone. But my desk upstairs felt slightly warm.","image_prompt":"An empty office desk by a window at dawn, chair pushed slightly out, faint indentation in the seat, grey light, vertical 9:16 framing"}
+  ]
+}

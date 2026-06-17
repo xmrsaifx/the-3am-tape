@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-break-room-extra-mug",
+  "character": "narrator",
+  "topic": "A mug with my name appears in the office break room each morning, still warm.",
+  "title": "The Warm Mug With My Name Each Morning | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"A mug with my name appears in the break room each morning, still warm.","image_prompt":"A single mug on a break room counter under dim light, faint steam rising, empty room behind, vertical 9:16 framing"},
+    {"id":2,"narration":"I am always the first one into the office.","image_prompt":"An empty office break room before dawn, dark counters, one window letting in grey light, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"I unlock the door, flip the lights, start the coffee.","image_prompt":"A hand on a light switch in a dark break room, coffee machine in shadow, faint glow, vertical 9:16 framing"},
+    {"id":4,"narration":"One morning a mug sat out, full, my name on the side.","image_prompt":"Close still of a ceramic mug with a name printed on it, dark coffee inside, dim counter light, vertical 9:16 framing"},
+    {"id":5,"narration":"I touched it. Warm. Freshly poured. I was alone.","image_prompt":"A hand near a steaming mug on a counter, faint steam curling, deep shadow around, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"It happened again the next day. And the day after that.","image_prompt":"A warm mug on the same counter spot, morning light faint through blinds, empty room, vertical 9:16 framing"},
+    {"id":7,"narration":"I came in earlier, before the building even unlocked.","image_prompt":"An office building exterior in pre-dawn dark, one entrance dimly lit, empty parking lot, vertical 9:16 framing"},
+    {"id":8,"narration":"The mug was already waiting. Steam still curling off it.","image_prompt":"A steaming mug alone on a dark counter, faint coffee aroma haze, single dim bulb above, vertical 9:16 framing"},
+    {"id":9,"narration":"I checked the cameras. They showed me, already there, pouring it.","image_prompt":"Grainy security camera still of a break room, a faint figure at the counter, timestamp glow, low light, vertical 9:16 framing"},
+    {"id":10,"narration":"But I had not arrived yet when the footage was filmed.","image_prompt":"A dark break room with a faceless silhouette standing at the counter holding a mug, dim light, vertical 9:16 framing"},
+    {"id":11,"narration":"I poured it out. Next morning, two warm mugs waited.","image_prompt":"Two steaming mugs side by side on a dim counter, both with printed names, faint steam, low light, vertical 9:16 framing"},
+    {"id":12,"narration":"There are five now. One for each year I have worked here.","image_prompt":"A row of five warm mugs lined on a break room counter, faint steam, grey dawn light, deep shadow, vertical 9:16 framing"}
+  ]
+}

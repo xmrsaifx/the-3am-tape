@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-under-bed-dust-cleared",
+  "character": "narrator",
+  "topic": "The dust under my bed is wiped clean in the shape of someone lying there.",
+  "title": "Someone Lies Under My Bed | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "The dust under my bed was wiped clean, shaped like a person.", "image_prompt": "still photograph looking under a bed at dusty floorboards with a clean human shaped patch, dim light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I had just moved into an old furnished room.", "image_prompt": "still photograph of a sparse furnished bedroom with an old wooden bed, boxes unpacked, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I dropped an earring and looked underneath to find it.", "image_prompt": "still photograph of a hand reaching into shadow under a bed, dim floor, vertical 9:16 framing"},
+    {"id": 4, "narration": "The clean patch was long, with arms at its sides.", "image_prompt": "still photograph of dust on floorboards cleared in a long body outline beneath a bed, low light, vertical 9:16 framing"},
+    {"id": 5, "narration": "My skin went cold. I backed away fast.", "image_prompt": "still photograph of an empty bedroom floor seen from the doorway, deep shadow under the bed, vertical 9:16 framing"},
+    {"id": 6, "narration": "I swept the whole floor and let the dust settle.", "image_prompt": "still photograph of a broom leaning by a bed on swept floorboards, dim evening light, vertical 9:16 framing"},
+    {"id": 7, "narration": "Each morning the shape returned, cleaner than before.", "image_prompt": "still photograph of a faint human shaped clean patch in fresh dust under a bed, pale morning light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The outline matched my own height exactly.", "image_prompt": "still photograph of a tape measure laid along a clean body outline on a dusty floor, dim light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Then I noticed it had begun to roll over.", "image_prompt": "still photograph of a shifted clean outline in dust turned onto its side under a bed, low light, vertical 9:16 framing"},
+    {"id": 10, "narration": "By the last morning it faced up, toward me.", "image_prompt": "still photograph of a clean human outline in dust beneath a bed lying face up, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I sleep on the couch in the front room now.", "image_prompt": "still photograph of a person sized lump under blankets on a couch, dim living room at night, vertical 9:16 framing"},
+    {"id": 12, "narration": "There is fresh dust under the couch, already cleared.", "image_prompt": "still photograph of a clean shape in the dust beneath a couch, dim floor, low light, vertical 9:16 framing"}
+  ]
+}

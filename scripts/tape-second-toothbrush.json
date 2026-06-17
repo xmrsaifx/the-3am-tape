@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-second-toothbrush",
+  "character": "narrator",
+  "topic": "A second toothbrush, damp and used, appears in my holder.",
+  "title": "A Second Toothbrush Kept Appearing | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"A second toothbrush, damp and clearly used, kept appearing in my holder.","image_prompt":"Two toothbrushes in a ceramic holder, one extra and dripping, dim bathroom light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"I lived completely alone in a top floor studio.","image_prompt":"A small studio bathroom with a single sink and mirror, frosted window, low gray light, vertical 9:16 framing"},
+    {"id":3,"narration":"One brush. One mug. That was always all I owned.","image_prompt":"A lone toothbrush standing in a holder beside a single mug, tidy sink, dim warm light, vertical 9:16 framing"},
+    {"id":4,"narration":"Then a stranger's toothbrush stood beside mine. Worn flat.","image_prompt":"An unfamiliar frayed toothbrush leaning next to a newer one in a holder, cold light, deep shadow, vertical 9:16 framing"},
+    {"id":5,"narration":"I threw it away at once.","image_prompt":"A toothbrush dropped into a small bathroom trash bin, dim light, shadows on the tile, vertical 9:16 framing"},
+    {"id":6,"narration":"Next morning it was back, damp again, bristles still warm.","image_prompt":"A damp worn toothbrush returned to a holder, water beading on the bristles, dim light, vertical 9:16 framing"},
+    {"id":7,"narration":"I marked mine and hid the holder inside a drawer.","image_prompt":"A bathroom drawer pulled open with a toothbrush holder tucked inside, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"By dawn the holder sat on the sink. Two brushes again.","image_prompt":"A toothbrush holder back on the sink edge holding two brushes, an open drawer behind, low light, vertical 9:16 framing"},
+    {"id":9,"narration":"The stranger's brush grew more worn each passing day.","image_prompt":"A heavily frayed splayed toothbrush beside a normal one in a holder, harsh dim light, vertical 9:16 framing"},
+    {"id":10,"narration":"One night I heard brushing from the dark bathroom.","image_prompt":"A dark bathroom doorway with faint light on a sink, a toothbrush holder just visible, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I moved apartments and took only my own brush.","image_prompt":"A packed box on a bare bathroom floor, an empty toothbrush holder on the sink, gray light, vertical 9:16 framing"},
+    {"id":12,"narration":"In the new flat, two brushes waited the very first morning.","image_prompt":"Two toothbrushes in a holder in an unfamiliar clean bathroom, one already damp, dim light, vertical 9:16 framing"}
+  ]
+}

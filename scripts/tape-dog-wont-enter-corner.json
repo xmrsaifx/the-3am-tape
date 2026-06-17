@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-dog-wont-enter-corner",
+  "character": "narrator",
+  "topic": "My dog refuses to enter one corner of the yard where the grass never grows.",
+  "title": "My Dog Won't Enter This Corner of the Yard | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My dog would not step into one corner of the yard where grass never grew.","image_prompt":"A bare dirt patch in the corner of a green backyard, dim twilight, long shadows, vertical 9:16 framing"},
+    {"id":2,"narration":"We had played in that yard every single day for years.","image_prompt":"A fenced backyard with a worn play path in the grass at dusk, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"He chased his ball everywhere but there.","image_prompt":"A tennis ball resting alone in a bare dirt corner of a yard, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"He would freeze at its edge and growl low.","image_prompt":"A dog silhouette standing rigid at the edge of a dark yard corner, twilight, fog, vertical 9:16 framing"},
+    {"id":5,"narration":"Then he stopped going outside at all.","image_prompt":"A dog seen from behind sitting at a back door staring out at a dim yard, deep shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"I knelt in that corner and felt the soil was warm.","image_prompt":"A hand pressing into bare dark soil in a yard corner, dim evening light, shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"I dug down two feet with a shovel that night.","image_prompt":"A shallow hole dug in bare yard soil beside a shovel, faint flashlight glow, deep shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"I struck wood. A small door, flush with the earth.","image_prompt":"A weathered wooden hatch revealed in dug soil, partly uncovered, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"Cold air rose from the seam, smelling of rain.","image_prompt":"A wooden hatch in soil with faint mist seeping from its edges, night, dim glow, vertical 9:16 framing"},
+    {"id":10,"narration":"When I leaned close I heard my own dog barking beneath it.","image_prompt":"A closed earth set wooden hatch in deep shadow under a single flashlight beam, fog, vertical 9:16 framing"},
+    {"id":11,"narration":"My dog was asleep on the couch inside the whole time.","image_prompt":"A dog asleep on a couch seen from behind in a dim living room, low warm light, shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"I buried it again. The barking still rises some nights.","image_prompt":"A filled in patch of bare soil in a dark yard corner, twilight fog, long shadows, vertical 9:16 framing"}
+  ]
+}

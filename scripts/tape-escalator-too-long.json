@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-escalator-too-long",
+  "character": "narrator",
+  "topic": "The down escalator at the mall runs far longer than the floor below allows.",
+  "title": "The Escalator That Went Too Far Down | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"The down escalator at the mall runs far longer than the floor below allows.","image_prompt":"A long mall escalator descending into dim light, metal steps gleaming, empty handrails, low light, vertical 9:16 framing"},
+    {"id":2,"narration":"It is the same mall I have walked through for years.","image_prompt":"An empty shopping mall corridor at closing, shuttered storefronts, polished floor reflecting dim light, vertical 9:16 framing"},
+    {"id":3,"narration":"Upper floor to ground floor. A short ride, always.","image_prompt":"Close still of escalator steps emerging from the comb plate, brushed metal, faint overhead glow, vertical 9:16 framing"},
+    {"id":4,"narration":"One late night, the ride down just kept going.","image_prompt":"View down a steep escalator vanishing into shadow, the bottom not visible, dim emergency light, vertical 9:16 framing"},
+    {"id":5,"narration":"The floor I knew passed by. The steps kept descending.","image_prompt":"A mall floor seen from a moving escalator, lights dimming below, deep shadow swallowing the steps, vertical 9:16 framing"},
+    {"id":6,"narration":"I counted. Three times longer than it should ever be.","image_prompt":"Endless escalator steps stretching downward, handrail vanishing into darkness, faint flicker of lights, vertical 9:16 framing"},
+    {"id":7,"narration":"I tried to climb back up. The steps carried me down faster.","image_prompt":"A figure's hand gripping an escalator handrail, steps moving downward in motion blur, dim light, vertical 9:16 framing"},
+    {"id":8,"narration":"At the bottom was the same mall floor. Dark and emptier.","image_prompt":"A dim copy of a mall floor, identical storefronts but all unlit and shuttered, cold shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"Every up escalator there only went further down.","image_prompt":"Multiple mall escalators all descending into darkness, no upward path, faint emergency glow, vertical 9:16 framing"},
+    {"id":10,"narration":"In a dark window I saw my own reflection, riding up, leaving.","image_prompt":"A darkened storefront window reflecting an escalator with a faint silhouette ascending away, low light, vertical 9:16 framing"},
+    {"id":11,"narration":"I found a stairwell and ran up until daylight cracked through.","image_prompt":"A grey concrete stairwell with faint daylight at the top, worn steps, harsh shadow below, vertical 9:16 framing"},
+    {"id":12,"narration":"The mall closed years ago. I read that this morning, online.","image_prompt":"An abandoned mall exterior at dawn, dead escalators visible through dusty glass, overgrown entrance, grey light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-fence-gate-open",
+  "character": "narrator",
+  "topic": "My back gate is open every morning, latched from the outside.",
+  "title": "My Back Gate Opens From the Outside | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Every morning my back gate stood open, latched from the outside.","image_prompt":"A wooden backyard gate swung open in morning fog, latch hanging loose, dim gray light, vertical 9:16 framing"},
+    {"id":2,"narration":"My yard was fenced tall on every side, with one gate.","image_prompt":"A tall wooden fence enclosing a small backyard at dusk, single gate, long shadows, vertical 9:16 framing"},
+    {"id":3,"narration":"I latched it shut each night before dark.","image_prompt":"A hand closing a metal gate latch in fading light, deep shadow, dim glow, vertical 9:16 framing"},
+    {"id":4,"narration":"The latch only reaches from outside the fence.","image_prompt":"A close view of a gate latch mounted on the outer side of a wooden fence, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"So someone stood out there every night.","image_prompt":"An empty grassy strip behind a tall fence at twilight, faint streetlight, fog, vertical 9:16 framing"},
+    {"id":6,"narration":"In the mud beyond the gate I found one set of footprints.","image_prompt":"A single trail of bare footprints in wet mud leading away from a fence gate, dim dawn light, vertical 9:16 framing"},
+    {"id":7,"narration":"I followed them across the field at first light.","image_prompt":"Footprints crossing a foggy open field toward distant trees, gray morning, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"The prints circled my house, then ended at my own door.","image_prompt":"Muddy footprints ending at a closed back door of a house, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"I padlocked the gate. The lock was open by dawn, unbroken.","image_prompt":"An open padlock hanging from a closed gate latch, intact and undamaged, gray fog, dim light, vertical 9:16 framing"},
+    {"id":10,"narration":"Then the footprints started appearing inside my house too.","image_prompt":"Faint muddy footprints crossing a wooden interior floor in dim hallway light, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I keep the gate locked. It no longer matters.","image_prompt":"A locked backyard gate seen from inside the fence at dusk, long shadows, dim glow, vertical 9:16 framing"},
+    {"id":12,"narration":"Last night I latched it myself and found the latch already on the inside.","image_prompt":"A gate latch unexpectedly mounted on the inner side of a fence, dim night light, deep shadow, vertical 9:16 framing"}
+  ]
+}

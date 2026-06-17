@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-closet-door-open-inch",
+  "character": "narrator",
+  "topic": "My closet door is open one inch wider every single morning.",
+  "title": "The Closet Door Opens An Inch | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning my closet door stood one inch wider open.", "image_prompt": "still photograph of a closet door ajar by a narrow gap, darkness inside, dim bedroom light, vertical 9:16 framing"},
+    {"id": 2, "narration": "My bedroom is small, the closet right beside my bed.", "image_prompt": "still photograph of a tidy small bedroom with a tall closet beside the headboard, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I close that door fully every night. Always.", "image_prompt": "still photograph of a hand pressing a closet door shut, soft lamp glow, dim room, vertical 9:16 framing"},
+    {"id": 4, "narration": "At first the gap was thin, easy to ignore.", "image_prompt": "still photograph of a closet door with a hairline gap, faint shadow line, dim morning light, vertical 9:16 framing"},
+    {"id": 5, "narration": "Then I started measuring it with a strip of tape.", "image_prompt": "still photograph of a strip of masking tape marking a closet door edge, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "One inch wider. Every single morning. Never less.", "image_prompt": "still photograph of a tape measure held against the gap of an open closet door, dim room, vertical 9:16 framing"},
+    {"id": 7, "narration": "I wedged a chair against it before I slept.", "image_prompt": "still photograph of a wooden chair tilted against a closet door, dim bedroom at night, vertical 9:16 framing"},
+    {"id": 8, "narration": "By morning the chair sat aside, the door wider still.", "image_prompt": "still photograph of a chair moved away from a closet now standing open, deep shadow inside, vertical 9:16 framing"},
+    {"id": 9, "narration": "Counting backward, in twenty nights it would stand fully open.", "image_prompt": "still photograph of a closet door open halfway, total blackness within, low light, vertical 9:16 framing"},
+    {"id": 10, "narration": "On the last night, I stayed awake and watched.", "image_prompt": "still photograph of a watchful silhouette of bedding facing a dark closet, faint moonlight, vertical 9:16 framing"},
+    {"id": 11, "narration": "At dawn the door was shut, and I had not slept.", "image_prompt": "still photograph of a fully closed closet door in grey morning light, quiet bedroom, vertical 9:16 framing"},
+    {"id": 12, "narration": "But my chair now sat inside, facing the bed.", "image_prompt": "still photograph of a single chair placed inside an open closet facing outward, deep shadow, vertical 9:16 framing"}
+  ]
+}

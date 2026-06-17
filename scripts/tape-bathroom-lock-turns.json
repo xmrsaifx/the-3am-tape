@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-bathroom-lock-turns",
+  "character": "narrator",
+  "topic": "My bathroom door locks itself from the inside while the room is empty.",
+  "title": "My Bathroom Locked Itself From Inside | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My bathroom door locked itself from the inside while the room was empty.","image_prompt":"A closed bathroom door with a small turn lock engaged, dim hallway light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"It was the only bathroom in my narrow rented flat.","image_prompt":"A short hallway ending at a single bathroom door, faded paint, low gray light, vertical 9:16 framing"},
+    {"id":3,"narration":"I lived alone. I never locked that door.","image_prompt":"A bathroom door standing slightly ajar onto a dim tiled room, soft shadow, low light, vertical 9:16 framing"},
+    {"id":4,"narration":"One evening I found it locked, with no one inside.","image_prompt":"A locked bathroom door handle in close view, dim hallway light catching the metal, deep shadow, vertical 9:16 framing"},
+    {"id":5,"narration":"I forced it open. The room was empty.","image_prompt":"An empty dim bathroom seen through a pushed open door, sink and tub still, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"But the floor inside was wet, and the air was warm.","image_prompt":"A damp tiled bathroom floor with faint puddles, steam haze in the air, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"Each night the lock turned again. I heard the click.","image_prompt":"A bathroom door lock mechanism in shadow, faint light from beneath the door, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"It happened at the same hour, every single night.","image_prompt":"A dark hallway with a thin band of light glowing under a closed bathroom door, deep shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"I removed the lock entirely with a screwdriver.","image_prompt":"A removed door lock and a screwdriver lying on the floor beside a bathroom door, dim light, vertical 9:16 framing"},
+    {"id":10,"narration":"That night the door held shut as if locked from within.","image_prompt":"A closed bathroom door with no lock, faint light leaking beneath, a hand pressed against it, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I pressed my ear to the wood and heard water running.","image_prompt":"An ear against a closed bathroom door in a dim hallway, faint shadow at the gap below, low light, vertical 9:16 framing"},
+    {"id":12,"narration":"When it finally opened, the mirror was fogged from a shower.","image_prompt":"A bathroom mirror thick with fresh condensation in an otherwise empty room, dim warm light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-mirror-fog-childs-writing",
+  "character": "narrator",
+  "topic": "Words appear in the fog on my mirror after every shower, in a child's handwriting.",
+  "title": "Words Appeared In My Mirror Fog | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"After every shower, words appeared in the fog of my mirror.","image_prompt":"A steamed bathroom mirror with faint letter shapes emerging in the condensation, dim warm light, soft fog, vertical 9:16 framing"},
+    {"id":2,"narration":"It was my bathroom, in a house I bought last spring.","image_prompt":"A modest bathroom with an old framed mirror above a porcelain sink, evening light through a small window, vertical 9:16 framing"},
+    {"id":3,"narration":"Hot shower. Thick steam. Then the mirror would fog white.","image_prompt":"Steam rising past a fogged mirror in a tiled bathroom, blurred reflection, low warm light, vertical 9:16 framing"},
+    {"id":4,"narration":"One night the fog held three uneven letters. A child's hand.","image_prompt":"A foggy mirror with crooked childlike letters drawn in the condensation, dripping streaks, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"I wiped it clean and backed away.","image_prompt":"A hand-smeared streak across a foggy mirror, droplets running down, deep shadow, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"Next night, more words. Help me find my shoe.","image_prompt":"Childlike writing in mirror fog spelling out shaky words, steam curling, dim bathroom light, vertical 9:16 framing"},
+    {"id":7,"narration":"I photographed the glass before every shower. Always wiped clean.","image_prompt":"A phone held up to a clear bathroom mirror taking a photo, reflection of a dim room, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"But the writing returned, lower each time, as if growing smaller.","image_prompt":"Faint child handwriting appearing near the bottom edge of a fogged mirror, condensation streaks, dim light, vertical 9:16 framing"},
+    {"id":9,"narration":"I stopped showering at home. Used the gym for a week.","image_prompt":"An empty dry bathroom with a clean mirror, dust on the sink, gray daylight, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"When I returned, the dry mirror already held the words.","image_prompt":"A completely dry bathroom mirror with childlike letters visible in the surface, no steam, cold light, vertical 9:16 framing"},
+    {"id":11,"narration":"I covered it with a sheet and slept in another room.","image_prompt":"A bathroom mirror draped with a white sheet, faint outline beneath, dim hallway light spilling in, vertical 9:16 framing"},
+    {"id":12,"narration":"The contractor said a child died in that bathroom long ago.","image_prompt":"An old vintage photo of a small bathroom resting on a dusty shelf, faded edges, low light, vertical 9:16 framing"}
+  ]
+}

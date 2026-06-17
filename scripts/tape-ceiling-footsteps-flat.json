@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-ceiling-footsteps-flat",
+  "character": "narrator",
+  "topic": "Footsteps cross my ceiling every night, though I live on the top floor.",
+  "title": "Footsteps Above The Top Floor | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Footsteps crossed my ceiling each night, though no floor exists above.", "image_prompt": "still photograph looking up at a cracked bedroom ceiling at night, faint lamp glow below, vertical 9:16 framing"},
+    {"id": 2, "narration": "My flat sits on the very top floor of the building.", "image_prompt": "still photograph of a tall apartment building exterior at night, top windows lit, dim sky, vertical 9:16 framing"},
+    {"id": 3, "narration": "Above me there is only roof and cold sky.", "image_prompt": "still photograph of a flat rooftop under a grey overcast night, low light, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first night, slow steps moved from wall to wall.", "image_prompt": "still photograph of a dim ceiling corner with a hairline crack, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "I held my breath and counted them. Thirteen steps.", "image_prompt": "still photograph of an open mouthed pillow and tangled sheets in a dark room, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "I climbed to the roof and found only gravel.", "image_prompt": "still photograph of an empty gravel rooftop at night, a single vent pipe, dim light, vertical 9:16 framing"},
+    {"id": 7, "narration": "No hatch, no access, no way for anyone up there.", "image_prompt": "still photograph of a sealed roof access panel painted shut, dim corridor light, vertical 9:16 framing"},
+    {"id": 8, "narration": "Yet the steps returned, the same path, the same count.", "image_prompt": "still photograph of a ceiling seen from below with faint dust trickling down, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Then they slowed and stopped directly above my bed.", "image_prompt": "still photograph of a ceiling directly over a bed, single faint stain spreading, dim lamp, vertical 9:16 framing"},
+    {"id": 10, "narration": "Something knelt up there, and the plaster gently sagged.", "image_prompt": "still photograph of a slightly bowed ceiling panel above a bed, hairline cracks, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I moved my bed to the corner the next day.", "image_prompt": "still photograph of a bed pushed into a room corner, dim morning light, vertical 9:16 framing"},
+    {"id": 12, "narration": "Now the footsteps cross to the corner each night too.", "image_prompt": "still photograph of a shadowed ceiling corner above a bed, faint flaking plaster, low light, vertical 9:16 framing"}
+  ]
+}

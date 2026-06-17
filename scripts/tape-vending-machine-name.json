@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-vending-machine-name",
+  "character": "narrator",
+  "topic": "The vending machine at work dispenses snacks with my name printed on the wrappers.",
+  "title": "The Vending Machine Knew My Name | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"The vending machine at work started printing my name on the wrappers.","image_prompt":"A glowing vending machine in a dim office break room at night, rows of snacks behind glass, low light, vertical 9:16 framing"},
+    {"id":2,"narration":"It sits in the break room on the second floor.","image_prompt":"Empty office break room, single vending machine casting cold light on tiled floor, fluorescent buzz, vertical 9:16 framing"},
+    {"id":3,"narration":"I buy the same snack every afternoon. Always have.","image_prompt":"Close still of a vending machine keypad and coin slot, worn buttons, faint reflection, dim light, vertical 9:16 framing"},
+    {"id":4,"narration":"That day the wrapper had my full name where the brand should be.","image_prompt":"A snack wrapper held in a hand, label area blurred and pale instead of branding, harsh overhead light, vertical 9:16 framing"},
+    {"id":5,"narration":"I bought another. Same name. Same printing.","image_prompt":"Two identical snack wrappers on a break room table, plain pale labels, cold fluorescent glow, vertical 9:16 framing"},
+    {"id":6,"narration":"Every slot, every snack, every wrapper now carried my name.","image_prompt":"Vending machine interior through the glass, rows of pale wrappers all identical, cold light, faint grain, vertical 9:16 framing"},
+    {"id":7,"narration":"I checked the machine after hours. The brand stickers were untouched.","image_prompt":"A hand opening a vending machine service panel in dim light, wiring and racks inside, shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"But every product inside, behind the glass, already wore my name.","image_prompt":"Close still of vending machine shelves behind glass, dozens of blank pale labels facing out, cold glow, vertical 9:16 framing"},
+    {"id":9,"narration":"Then the wrappers began listing dates. My dates. Past and future.","image_prompt":"A snack wrapper on a desk showing rows of faint printed numbers, dim lamp light, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"This morning the newest wrapper showed today, and a time tonight.","image_prompt":"A single wrapper lit by a phone screen on a dark table, faint time-like marks on the label, low light, vertical 9:16 framing"},
+    {"id":11,"narration":"I unplugged it. The screen still glowed, naming me, counting down.","image_prompt":"An unplugged vending machine with its display faintly lit in a dark break room, loose cord on the floor, vertical 9:16 framing"},
+    {"id":12,"narration":"I never bought one. So who keeps emptying the slots each night?","image_prompt":"Vending machine at dawn with several empty slots, crumpled pale wrapper on the floor below, grey light, vertical 9:16 framing"}
+  ]
+}

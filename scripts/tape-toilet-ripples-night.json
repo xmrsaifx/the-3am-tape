@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-toilet-ripples-night",
+  "character": "narrator",
+  "topic": "The toilet water ripples every night at the same time, as if something moves below.",
+  "title": "My Toilet Rippled Every Night At The Same Time | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Every night at the same hour, my toilet water rippled on its own.","image_prompt":"A still toilet bowl with faint concentric ripples on the water surface, dim bathroom light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"It was the only toilet in my quiet second floor flat.","image_prompt":"A plain white toilet in a small tiled bathroom, frosted window, low gray light, vertical 9:16 framing"},
+    {"id":3,"narration":"Three in the morning. I woke to the same soft sound.","image_prompt":"A dark bathroom at night, faint light catching the rim of a toilet bowl, deep shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"The water moved as if something stirred far below.","image_prompt":"Close view of rippling water inside a toilet bowl, a faint dark depth beneath, cold dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"I stood frozen in the doorway.","image_prompt":"A bathroom doorway looking toward a dimly lit toilet, shadows pooling on the floor, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"Each ripple rose, paused, then sank, like slow breathing.","image_prompt":"Ripples spreading across toilet water and pulling inward, faint reflection of the ceiling, dim light, vertical 9:16 framing"},
+    {"id":7,"narration":"I dropped a coin in to mark the depth.","image_prompt":"A small coin sinking into the water of a toilet bowl, faint glint, dark interior, dim light, vertical 9:16 framing"},
+    {"id":8,"narration":"By morning the coin was gone. The ripples never stopped.","image_prompt":"An empty toilet bowl with still water and no coin visible, deep shadow under the rim, low light, vertical 9:16 framing"},
+    {"id":9,"narration":"I shut the lid and stacked heavy books on top.","image_prompt":"A closed toilet lid weighed down with a stack of old books, dim bathroom light, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"At three the books slid off. The lid lifted slightly.","image_prompt":"Books toppled on a bathroom floor beside a toilet with its lid raised a crack, faint light, vertical 9:16 framing"},
+    {"id":11,"narration":"I taped my phone above it to film overnight.","image_prompt":"A phone mounted on a small tripod aimed at a toilet bowl, recording light glowing, dark bathroom, vertical 9:16 framing"},
+    {"id":12,"narration":"The footage showed a hand reaching up, then pulling back down.","image_prompt":"A blurry grainy still of a pale shape just below the water of a toilet bowl, deep shadow, vertical 9:16 framing"}
+  ]
+}

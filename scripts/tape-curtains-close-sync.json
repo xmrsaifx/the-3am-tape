@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-curtains-close-sync",
+  "character": "narrator",
+  "topic": "Every curtain on my street closes at the same exact second at dusk.",
+  "title": "Every Curtain on My Street Closes at Once | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Every curtain on my street closed at the same exact second each dusk.","image_prompt":"A row of suburban houses at dusk with darkened windows, fading orange sky, long shadows, vertical 9:16 framing"},
+    {"id":2,"narration":"I moved to this quiet block in early spring.","image_prompt":"A peaceful tree lined residential street in soft evening light, dim glow, vertical 9:16 framing"},
+    {"id":3,"narration":"I noticed it on my evening walks.","image_prompt":"An empty sidewalk along a row of houses at twilight, streetlight haze, deep shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"At the same moment, every window went dark together.","image_prompt":"A street of houses with curtains drawn across every window at once, dusk, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"I started timing it.","image_prompt":"A wristwatch held up against a darkening street of houses, fading light, shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"Each night, the same minute. Never a second apart.","image_prompt":"Identical darkened front windows along a quiet street at twilight, fog, dim glow, vertical 9:16 framing"},
+    {"id":7,"narration":"I knocked on a neighbor's door to ask why.","image_prompt":"A hand at a dim front door under a porch light, deep shadow, twilight, vertical 9:16 framing"},
+    {"id":8,"narration":"They said the curtains close on their own. They never touch them.","image_prompt":"A drawn curtain seen from outside a dim lit window at night, soft glow, shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"So I left mine open one night and watched the street.","image_prompt":"A view from inside a dark room through an open window onto a dim street, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"At dusk my curtains pulled shut by themselves, and the street faced my window.","image_prompt":"A closed curtain backlit by streetlight with faint shadows of houses beyond, night, dim glow, vertical 9:16 framing"},
+    {"id":11,"narration":"Now I close mine early, before the others can.","image_prompt":"A drawn curtain in a dim room with fading evening light at its edges, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"The houses across the street have no people. Only the curtains move.","image_prompt":"A row of dark empty houses at night with curtains drawn, no lights inside, fog, vertical 9:16 framing"}
+  ]
+}

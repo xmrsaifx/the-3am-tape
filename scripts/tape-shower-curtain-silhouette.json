@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-shower-curtain-silhouette",
+  "character": "narrator",
+  "topic": "A silhouette shows through my shower curtain when I am not in the shower.",
+  "title": "A Silhouette Behind My Shower Curtain | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"A silhouette showed through my shower curtain when no one was inside.","image_prompt":"A closed translucent shower curtain with a faint dark shape behind it, dim bathroom light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"My bathroom was small, the tub tucked behind a plastic curtain.","image_prompt":"A narrow bathroom with a bathtub hidden behind a pale shower curtain, frosted window, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"I always left the curtain open after drying off.","image_prompt":"An empty bathtub with the shower curtain pushed fully to one side, dripping faucet, dim light, vertical 9:16 framing"},
+    {"id":4,"narration":"But each evening I found it drawn shut.","image_prompt":"A shower curtain pulled completely closed across a tub, soft folds, dim warm light, deep shadow, vertical 9:16 framing"},
+    {"id":5,"narration":"My breath caught in my throat.","image_prompt":"A bathroom doorway looking toward a closed shower curtain, faint shape behind the plastic, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"Behind the plastic stood the outline of a tall figure.","image_prompt":"A dark elongated human silhouette pressing faintly against a translucent shower curtain, dim cold light, vertical 9:16 framing"},
+    {"id":7,"narration":"I tore the curtain back. The tub sat empty and dry.","image_prompt":"An empty dry bathtub with the curtain yanked aside, water stains on the wall, low light, deep shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"It happened every night. Curtain shut. Shape waiting inside.","image_prompt":"A shadowy figure outline behind a closed shower curtain, faint light from above, fog in the air, vertical 9:16 framing"},
+    {"id":9,"narration":"I took the curtain down completely and hid it in the closet.","image_prompt":"A bare shower rod with no curtain over an empty tub, dim bathroom light, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"That night the bare tub still held a standing shadow.","image_prompt":"An empty bathtub with no curtain, a faint dark shape rising from the drain end, cold dim light, vertical 9:16 framing"},
+    {"id":11,"narration":"I started showering at a friend's place across town.","image_prompt":"A packed overnight bag on a bathroom floor, the tub empty behind it, gray light, vertical 9:16 framing"},
+    {"id":12,"narration":"My friend asked why a wet figure stood in her tub.","image_prompt":"A dripping shower curtain in an unfamiliar bathroom, faint dark outline behind it, dim light, vertical 9:16 framing"}
+  ]
+}

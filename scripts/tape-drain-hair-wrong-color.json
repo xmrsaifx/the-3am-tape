@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-drain-hair-wrong-color",
+  "character": "narrator",
+  "topic": "The hair I pull from my shower drain is a color I have never had.",
+  "title": "The Hair In My Drain Was The Wrong Color | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"The hair I pulled from my shower drain was never my color.","image_prompt":"A clump of pale hair tangled over a metal shower drain, water pooling, dim bathroom light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"I lived alone in a ground floor flat with one bathroom.","image_prompt":"A small tiled shower stall with a round chrome drain, frosted glass door, low gray light, vertical 9:16 framing"},
+    {"id":3,"narration":"My hair is short and black. Always has been.","image_prompt":"A comb with a few short dark hairs resting on a sink edge, dim warm light, vertical 9:16 framing"},
+    {"id":4,"narration":"But the drain coughed up long strands of pale blonde.","image_prompt":"Long blonde hair strands wrapped around a shower drain cover, standing water, cold light, vertical 9:16 framing"},
+    {"id":5,"narration":"I dropped it on the tile.","image_prompt":"A wet clump of light hair lying on wet bathroom tiles, droplets scattered, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"Every shower after, more of it. Always the same shade.","image_prompt":"A drain cover clogged with pale hair, water backing up over white tile, low light, vertical 9:16 framing"},
+    {"id":7,"narration":"I bleached the pipes and ran scalding water for an hour.","image_prompt":"Steam rising from a running shower over a chrome drain, water swirling, dim warm light, vertical 9:16 framing"},
+    {"id":8,"narration":"Next morning the blonde returned, longer than any human hair.","image_prompt":"An impossibly long strand of pale hair coiled around a drain and across the tub floor, cold light, vertical 9:16 framing"},
+    {"id":9,"narration":"I unscrewed the drain cover to look down the pipe.","image_prompt":"A removed drain cover beside a dark open pipe hole in a shower floor, a screwdriver nearby, dim light, vertical 9:16 framing"},
+    {"id":10,"narration":"The pipe was packed full of pale hair, still warm.","image_prompt":"A dark drain opening stuffed with pale hair rising toward the surface, faint steam, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I called a plumber. He refused to finish the job.","image_prompt":"An abandoned plumber toolbox open on a wet bathroom floor, the drain exposed, gray light, vertical 9:16 framing"},
+    {"id":12,"narration":"The last tenant, he said, was a blonde woman never found.","image_prompt":"A faded missing person flyer curling on a damp tiled wall, edges peeling, dim light, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-pen-writes-alone",
+  "character": "narrator",
+  "topic": "A pen on my desk writes one line each night, finishing a letter I never began.",
+  "title": "A Pen On My Desk Writes By Itself | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Each night a pen on my desk writes one new line of a letter I never started.", "image_prompt": "A fountain pen lying across a sheet of handwritten paper on a dark desk, dim lamp light, deep shadow, grainy film, vertical 9:16 framing"},
+    {"id": 2, "narration": "I work from a small study above the garage.", "image_prompt": "A cramped home study at night, bookshelves, single desk lamp, heavy shadow in corners, muted color, vertical 9:16 framing"},
+    {"id": 3, "narration": "I cap the pen and leave the page blank.", "image_prompt": "A capped pen resting on a blank sheet of paper, warm low lamp glow, long shadow, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first morning one sentence sat there in my handwriting.", "image_prompt": "A single line of cursive at the top of a blank page, harsh side light, shallow focus, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "I never wrote it.", "image_prompt": "A hand hovering above written words without touching the page, dim lamp light, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "Each night added one more line, addressed to me.", "image_prompt": "A page slowly filling with lines of cursive, the salutation visible, dim study light, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I locked the pen in a drawer and bought a new one.", "image_prompt": "A pen sealed inside a desk drawer, key in the lock, low warm light, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "By dawn the new pen had written the next line.", "image_prompt": "A different pen resting on fresh handwriting on a page, dim lamp glow, grainy film, vertical 9:16 framing"},
+    {"id": 9, "narration": "The letter described my own days back to me.", "image_prompt": "A full page of cursive describing daily routines, pen across it, harsh side light, shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night it wrote what I would do tomorrow.", "image_prompt": "A page with future tense cursive lines, lamp casting long shadow over the desk, grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "Every prediction came true by evening.", "image_prompt": "A checked off page beside a watch on a dark desk, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "Tonight the final line says goodbye, and the pen is gone.", "image_prompt": "A blank space at the foot of a written page where a pen should lie, empty desk, dim lamp light, vertical 9:16 framing"}
+  ]
+}

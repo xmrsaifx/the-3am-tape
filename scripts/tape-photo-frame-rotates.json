@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-photo-frame-rotates",
+  "character": "narrator",
+  "topic": "The photos in my frames are swapped each night for the same people, a year older.",
+  "title": "The Photos In My Frames Keep Aging | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Each night the photos in my frames swap for the same faces, a year older.", "image_prompt": "A row of framed family photos on a mantel, glass reflecting dim light, deep shadow behind, grainy film, vertical 9:16 framing"},
+    {"id": 2, "narration": "I keep my whole family along the living room shelf.", "image_prompt": "A long shelf of framed photographs in a dim living room, soft lamp glow, dust in the air, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I dust those frames every Sunday.", "image_prompt": "A cloth wiping a photo frame on a shelf, warm side light, long shadow, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning my mother looked older than the night before.", "image_prompt": "A single framed portrait of an older woman from behind the glass, faint reflection, dim light, shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "Then everyone aged a little more.", "image_prompt": "Several framed photos showing slightly older faces, soft focus, dim shelf light, grain, vertical 9:16 framing"},
+    {"id": 6, "narration": "I compared them to old albums in the drawer.", "image_prompt": "An open photo album beside framed pictures on a table, faded prints, low lamp light, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "The frames kept aging. The albums never changed.", "image_prompt": "A framed photo held next to an album page, the same face older in one, dim light, grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "Soon the faces were gray and thin and tired.", "image_prompt": "Framed portraits of elderly figures on a dim mantel, glass glare, heavy shadow, grainy film, vertical 9:16 framing"},
+    {"id": 9, "narration": "My own photo joined them, aging fastest.", "image_prompt": "A framed self portrait among others showing an older worn face, dim shelf light, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "One night every frame went black and empty.", "image_prompt": "A shelf of frames all containing only blackness, dim room, faint lamp glow, grain, vertical 9:16 framing"},
+    {"id": 11, "narration": "The next day the obituaries listed each of them.", "image_prompt": "A folded newspaper obituary page on a table beside an empty frame, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "Only my frame still ages, and it is nearly black.", "image_prompt": "A single dim self portrait frame on an empty shelf, the image fading to dark, low light, grain, vertical 9:16 framing"}
+  ]
+}

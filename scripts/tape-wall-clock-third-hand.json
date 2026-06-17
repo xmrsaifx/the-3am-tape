@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-wall-clock-third-hand",
+  "character": "narrator",
+  "topic": "My wall clock grew a third hand that points at me wherever I stand.",
+  "title": "My Clock Grew A Hand That Points At Me | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My wall clock grew a third hand, and it points at me wherever I stand.", "image_prompt": "An old round wall clock in a dim room, three hands on its face, low light, deep shadow, grainy film, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is the same clock from my grandmother's kitchen.", "image_prompt": "A vintage kitchen wall clock above a stove, faded paint, dim warm light, shadow, muted color, vertical 9:16 framing"},
+    {"id": 3, "narration": "I wind it every Sunday night.", "image_prompt": "A hand winding the back of a wall clock, dim room, lamp glow, long shadow, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning a thin extra hand had appeared.", "image_prompt": "A clock face with a slender unusual third hand, harsh side light, shallow focus, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "It was not pointing at any number.", "image_prompt": "Close clock face with a hand pointing off the dial toward the viewer, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "It was pointing across the room, straight at me.", "image_prompt": "A wall clock seen from across a dim room, its extra hand aimed forward, low light, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I walked the room. The hand followed every step.", "image_prompt": "A clock on a wall with its thin hand angled toward a shadowed corner, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "I covered it with a cloth and went to bed.", "image_prompt": "A wall clock draped under a dark cloth, faint outline beneath, dim room, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "The cloth was on the floor by dawn, the hand still aimed.", "image_prompt": "A fallen cloth on floorboards below an uncovered clock, dim grey light, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "Then the hand began to speed up, hour by hour.", "image_prompt": "A blurred fast moving clock hand on a dim face, motion smear, low light, grainy film, vertical 9:16 framing"},
+    {"id": 11, "narration": "I took it down and the hand kept turning anyway.", "image_prompt": "A clock face up on a table in a dim room, its hand mid spin, lamp glow, shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning the hand stopped, aimed at my empty chair.", "image_prompt": "A clock pointing toward a vacant wooden chair in a dim room, grey light, deep shadow, grain, vertical 9:16 framing"}
+  ]
+}

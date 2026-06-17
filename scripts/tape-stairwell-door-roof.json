@@ -1,0 +1,68 @@
+{
+  "video_id": "tape-stairwell-door-roof",
+  "character": "narrator",
+  "topic": "The stairwell has one more door at the top than the building has floors.",
+  "title": "One More Door Than The Building Has Floors | True Scary Story",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Our stairwell has one more door at the top than the building has floors.",
+      "image_prompt": "A bare concrete stairwell rising steeply, painted floor numbers, a single door at the very top in shadow, low light, vertical 9:16 framing"
+    },
+    {
+      "id": 2,
+      "narration": "I work in a plain eight floor office building downtown.",
+      "image_prompt": "An office building exterior at dusk, eight rows of lit windows, grey sky, faint streetlight glow, vertical 9:16 framing"
+    },
+    {
+      "id": 3,
+      "narration": "I take the stairs for exercise. Eight flights, every day.",
+      "image_prompt": "Looking up a tall stairwell, flights folding back on themselves, harsh single bulbs, deep shadow, vertical 9:16 framing"
+    },
+    {
+      "id": 4,
+      "narration": "One evening I kept climbing past the eighth floor door.",
+      "image_prompt": "A stairwell landing with a door marked eight, more steps continuing upward into dark, dim light, vertical 9:16 framing"
+    },
+    {
+      "id": 5,
+      "narration": "There were more stairs. There should not have been.",
+      "image_prompt": "A flight of concrete stairs rising into shadow above a top landing, no window, faint flicker, vertical 9:16 framing"
+    },
+    {
+      "id": 6,
+      "narration": "At the top sat a ninth door, unnumbered, slightly ajar.",
+      "image_prompt": "A plain grey door at the top of a stairwell, no number plate, opened a crack to darkness, dim bulb, vertical 9:16 framing"
+    },
+    {
+      "id": 7,
+      "narration": "I counted floors from the street the next morning. Only eight.",
+      "image_prompt": "View up an office building facade from the sidewalk, eight floors of windows, flat roofline, grey light, vertical 9:16 framing"
+    },
+    {
+      "id": 8,
+      "narration": "Yet the stairwell always climbed to nine. Always one more.",
+      "image_prompt": "A stairwell top landing with an extra door above the highest numbered one, harsh shadow, vertical 9:16 framing"
+    },
+    {
+      "id": 9,
+      "narration": "I pushed the ninth door. Behind it, the eighth floor office, repeating.",
+      "image_prompt": "An open door revealing an office floor identical to the one below, dim and empty, cold light, vertical 9:16 framing"
+    },
+    {
+      "id": 10,
+      "narration": "My own coat hung on my chair, though I still wore mine.",
+      "image_prompt": "An office chair with a coat draped over it, empty desk, faint lamp glow, deep shadow around, vertical 9:16 framing"
+    },
+    {
+      "id": 11,
+      "narration": "I backed out and ran down, counting. I passed nine landings.",
+      "image_prompt": "A figure's hand on a stairwell rail descending fast, landings blurring, harsh light from above, vertical 9:16 framing"
+    },
+    {
+      "id": 12,
+      "narration": "Now the stairwell has ten doors. I think I am still up there.",
+      "image_prompt": "A very tall stairwell looking up toward many stacked doors fading into darkness, faint top light, vertical 9:16 framing"
+    }
+  ]
+}

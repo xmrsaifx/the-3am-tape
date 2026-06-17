@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-headboard-knocks",
+  "character": "narrator",
+  "topic": "Three knocks come from inside my headboard every night.",
+  "title": "Three Knocks Inside My Headboard | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Three knocks came from inside my headboard every night.", "image_prompt": "still photograph of a solid wooden headboard behind a pillow, dim bedroom, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is a heavy old bed I inherited from family.", "image_prompt": "still photograph of an antique wooden bed frame in a sparse room, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "The headboard is solid wood, no hollow inside.", "image_prompt": "still photograph of a close view of dense wood grain on a headboard, dim lamp glow, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first knocks were soft, like a polite request.", "image_prompt": "still photograph of a pillow against a dark headboard, faint light from a bedside lamp, vertical 9:16 framing"},
+    {"id": 5, "narration": "I sat up, my heart loud in my chest.", "image_prompt": "still photograph of rumpled sheets thrown back in a dark room, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "Always three. Always at the same late hour.", "image_prompt": "still photograph of a dim bedside clock face near a headboard, deep shadow, vertical 9:16 framing"},
+    {"id": 7, "narration": "I pulled the bed apart looking for the cause.", "image_prompt": "still photograph of a dismantled bed frame leaning against a wall, tools on the floor, dim light, vertical 9:16 framing"},
+    {"id": 8, "narration": "The wood was whole, with no gap, no space inside.", "image_prompt": "still photograph of a solid headboard panel held up to dim light, unbroken grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "So I knocked back three times, just to answer.", "image_prompt": "still photograph of a knuckles resting against a wooden headboard, low lamp light, vertical 9:16 framing"},
+    {"id": 10, "narration": "It answered with three knocks, then a fourth.", "image_prompt": "still photograph of a headboard in near total darkness, a single thin crack down the wood, vertical 9:16 framing"},
+    {"id": 11, "narration": "I gave the bed away and bought a plain new one.", "image_prompt": "still photograph of a simple new bed frame in an empty room, grey daylight, vertical 9:16 framing"},
+    {"id": 12, "narration": "The new headboard knocked three times that very first night.", "image_prompt": "still photograph of a plain modern headboard in a dark room, faint moonlight on the wood, vertical 9:16 framing"}
+  ]
+}

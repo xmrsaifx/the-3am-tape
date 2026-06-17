@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-faucet-drips-word",
+  "character": "narrator",
+  "topic": "My bathroom faucet drips in a pattern that always spells the same word.",
+  "title": "My Faucet Dripped The Same Word | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My bathroom faucet dripped in a pattern that always spelled one word.","image_prompt":"A chrome faucet with a single drop hanging from the spout, dark sink basin below, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"It was the only sink in my tiny old apartment.","image_prompt":"A worn porcelain sink under a small mirror in a cramped bathroom, faded tile, low gray light, vertical 9:16 framing"},
+    {"id":3,"narration":"At night the drips kept me awake. Long, short, long.","image_prompt":"A dark bathroom at night with a faintly lit dripping faucet, water rings in the basin, deep shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"One night I counted them. They made a rhythm. A code.","image_prompt":"A hand cupped under a slowly dripping faucet, water collecting, dim cold light, vertical 9:16 framing"},
+    {"id":5,"narration":"I wrote it down. It spelled a name.","image_prompt":"A notepad on a sink edge with shaky pencil marks, a dripping faucet behind it, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"My grandmother's name. She had died in this very apartment.","image_prompt":"An old framed photograph resting against a bathroom mirror, faded and dim, soft shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"I shut the water main and let the pipes drain.","image_prompt":"A hand turning a rusted water shutoff valve under a sink, dark pipes, dim light, vertical 9:16 framing"},
+    {"id":8,"narration":"The faucet still dripped. Same name, every single night.","image_prompt":"A dripping faucet over a dry cracked sink basin, single drop falling, cold dim light, vertical 9:16 framing"},
+    {"id":9,"narration":"I wrapped the spout tight and weighed it with a towel.","image_prompt":"A faucet wrapped in a bound towel held by a heavy object, dark sink below, dim light, vertical 9:16 framing"},
+    {"id":10,"narration":"The drips found me anyway, tapping inside the walls.","image_prompt":"A tiled bathroom wall with faint water stains spreading, dark grout lines, deep shadow, low light, vertical 9:16 framing"},
+    {"id":11,"narration":"I recorded it and played it for my mother.","image_prompt":"A phone lying face up on a sink playing a recording, the screen glowing faintly in the dark, vertical 9:16 framing"},
+    {"id":12,"narration":"She went pale. That was what my grandmother called me.","image_prompt":"An empty dim bathroom with a single drop frozen mid fall beneath the faucet, deep shadow, vertical 9:16 framing"}
+  ]
+}

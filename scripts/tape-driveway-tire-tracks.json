@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-driveway-tire-tracks",
+  "character": "narrator",
+  "topic": "Fresh tire tracks lead into my driveway each morning and stop at the garage, with no car.",
+  "title": "Tire Tracks in My Driveway, But No Car | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Fresh tire tracks led into my driveway each morning and stopped at the garage.","image_prompt":"Wet tire tracks leading up a driveway to a closed garage at dawn, fog, dim light, vertical 9:16 framing"},
+    {"id":2,"narration":"There was never a car at the end of them.","image_prompt":"An empty driveway before a closed garage door, gray morning mist, long shadows, vertical 9:16 framing"},
+    {"id":3,"narration":"I live alone and own no vehicle.","image_prompt":"A quiet house with an empty cracked driveway at dawn, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"The tracks were warm and the gravel freshly pressed.","image_prompt":"Close view of fresh tire impressions in damp gravel, faint mist, dim morning light, vertical 9:16 framing"},
+    {"id":5,"narration":"They ended at a wall, not a door.","image_prompt":"Tire tracks ending at a solid garage wall with no opening, gray fog, deep shadow, vertical 9:16 framing"},
+    {"id":6,"narration":"I raked the driveway smooth and waited up.","image_prompt":"A freshly raked smooth gravel driveway at dusk, low light, long shadows, vertical 9:16 framing"},
+    {"id":7,"narration":"I never heard an engine, never saw headlights.","image_prompt":"A dark empty driveway at night with no lights, faint streetlight haze, fog, vertical 9:16 framing"},
+    {"id":8,"narration":"But by dawn the tracks were there again, deeper than before.","image_prompt":"Deep fresh tire tracks pressed into raked gravel at dawn, mist, dim light, vertical 9:16 framing"},
+    {"id":9,"narration":"The garage began to smell of gasoline and rain.","image_prompt":"A dim closed garage interior with faint haze and shadow, single bare bulb, vertical 9:16 framing"},
+    {"id":10,"narration":"This morning the tracks led out of the garage, toward my front door.","image_prompt":"Tire tracks leading from a garage across gravel toward a house front door, dawn fog, vertical 9:16 framing"},
+    {"id":11,"narration":"I keep the garage shut. The tracks come anyway.","image_prompt":"A padlocked garage door with tire tracks ending before it, gray morning, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"My neighbor said the last owner drove off one night and never returned.","image_prompt":"An old faded house at twilight with an empty driveway, fog, long shadows, vertical 9:16 framing"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-bus-passenger-follows",
+  "character": "narrator",
+  "topic": "The same passenger boards my bus every day and steps off one pace behind me.",
+  "title": "The Passenger Who Got Off One Step Behind Me | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"The same passenger boards my bus every day and steps off one pace behind me.","image_prompt":"Interior of a dim city bus at dusk, empty seats, one shadowed figure seated at the back, low light, vertical 9:16 framing"},
+    {"id":2,"narration":"I take the same route home every evening after work.","image_prompt":"A city bus pulling up to a stop in fading light, windows glowing, wet street reflecting, vertical 9:16 framing"},
+    {"id":3,"narration":"Same seat, same window, same gray streets sliding by.","image_prompt":"View through a rain-streaked bus window of grey streets at dusk, faint reflection of the cabin, vertical 9:16 framing"},
+    {"id":4,"narration":"I first noticed them because they boarded at no real stop.","image_prompt":"A bus door open on an empty roadside with no stop sign, dim streetlight, deep shadow beyond, vertical 9:16 framing"},
+    {"id":5,"narration":"They sat behind me. They got off when I got off.","image_prompt":"Bus interior aisle seen from front, a single dark silhouette seated mid-cabin, fluorescent flicker, vertical 9:16 framing"},
+    {"id":6,"narration":"Always one pace back. Always matching my steps exactly.","image_prompt":"A sidewalk at night seen from above, one figure walking with a second shadow trailing close behind, streetlight glow, vertical 9:16 framing"},
+    {"id":7,"narration":"I changed routes, changed times, changed buses entirely.","image_prompt":"A different bus stop at night with a new route sign, empty bench, dim amber streetlight, vertical 9:16 framing"},
+    {"id":8,"narration":"They were already aboard each one, seated, waiting, behind my seat.","image_prompt":"Back of a bus seat with a shadowy figure just visible in the row behind, dim cabin light, vertical 9:16 framing"},
+    {"id":9,"narration":"I asked the driver. He said only I had boarded all week.","image_prompt":"A bus driver silhouette from behind at the wheel, empty mirror reflection, dim dashboard glow, vertical 9:16 framing"},
+    {"id":10,"narration":"At my stop I spun around fast. The seat was empty, still warm.","image_prompt":"An empty bus seat in close detail, fabric faintly pressed, weak overhead light, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I walked home alone, counting footsteps. Mine, and one more.","image_prompt":"A lone figure walking a dark empty street, long shadow stretching ahead, sparse streetlights, vertical 9:16 framing"},
+    {"id":12,"narration":"My doorbell footage shows two of us arriving. Both with my face.","image_prompt":"Grainy doorbell camera still of a porch at night, a figure at the door and a second just behind, low light, vertical 9:16 framing"}
+  ]
+}

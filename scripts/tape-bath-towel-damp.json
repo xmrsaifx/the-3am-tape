@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-bath-towel-damp",
+  "character": "narrator",
+  "topic": "My hung towel is damp and warm every morning, though I only shower at night.",
+  "title": "My Towel Was Warm Every Morning | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My hung towel was damp and warm every morning, though I shower at night.","image_prompt":"A bath towel hanging on a hook with a faint wet sheen, dim bathroom light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"My bathroom was small, one hook beside the tub.","image_prompt":"A narrow bathroom with a single towel hook near a bathtub, frosted window, low gray light, vertical 9:16 framing"},
+    {"id":3,"narration":"I always showered at night. The towel dried by dawn.","image_prompt":"A folded dry towel on a hook beside an empty tub, faint morning light, soft shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"But each morning it hung heavy, warm, freshly soaked.","image_prompt":"A drooping damp towel on a hook with water darkening the fabric, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":5,"narration":"I pressed my hand to it. Body warm.","image_prompt":"A hand resting flat against a damp hanging towel, faint wet patches, low warm light, vertical 9:16 framing"},
+    {"id":6,"narration":"The tub was dry. Only the towel had been used.","image_prompt":"A bone dry empty bathtub beside a soaked towel on the wall hook, cold dim light, vertical 9:16 framing"},
+    {"id":7,"narration":"I swapped it for a fresh towel and locked the door.","image_prompt":"A crisp folded dry towel on a hook in a tidy bathroom, the door closed behind, dim light, vertical 9:16 framing"},
+    {"id":8,"narration":"Morning came. The fresh towel hung damp and warm.","image_prompt":"A new towel sagging wet on a hook, droplets at the hem, low light, deep shadow, vertical 9:16 framing"},
+    {"id":9,"narration":"It smelled of soap I had never bought.","image_prompt":"A bar of unfamiliar soap on a tub edge beside a damp towel, dim warm light, vertical 9:16 framing"},
+    {"id":10,"narration":"One dawn the towel still dripped, and the floor held wet footprints.","image_prompt":"Wet bare footprints leading from a tub across pale bathroom tile toward the door, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I started taking the towel to bed with me.","image_prompt":"A folded towel resting on a rumpled bed in dim light, a dark doorway beyond, deep shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"By morning it was gone, hanging warm in the bathroom again.","image_prompt":"A damp towel back on its bathroom hook, faint steam in the air, dim light, vertical 9:16 framing"}
+  ]
+}

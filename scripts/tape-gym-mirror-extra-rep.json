@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-gym-mirror-extra-rep",
+  "character": "narrator",
+  "topic": "In the gym mirror, my reflection keeps lifting after I have stopped.",
+  "title": "My Reflection Kept Lifting After I Stopped | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"In the gym mirror, my reflection kept lifting after I had already stopped.","image_prompt":"A dim gym weight room facing a long wall mirror, barbell rack, low warm light, faint reflection in the glass, vertical 9:16 framing"},
+    {"id":2,"narration":"It is a basement gym, open all night, almost always empty.","image_prompt":"Empty basement gym at night, rubber flooring, fluorescent tubes buzzing, machines casting long shadows, vertical 9:16 framing"},
+    {"id":3,"narration":"I lift alone at the same late hour every night.","image_prompt":"A single barbell loaded on the floor before a mirror wall, deep shadow, harsh overhead light, grain, vertical 9:16 framing"},
+    {"id":4,"narration":"That night I racked the weight, exhaled, and looked up.","image_prompt":"Close still of hands chalked and resting on a barbell, dim gym light behind, sweat on metal, vertical 9:16 framing"},
+    {"id":5,"narration":"My reflection did one more rep without me.","image_prompt":"A wall mirror reflecting an empty bench and barbell, faint motion blur in the glass, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"I froze. The reflection set the bar down a beat too late.","image_prompt":"Reflection of a weight bench in a gym mirror, barbell slightly out of place versus the real one, dim glow, vertical 9:16 framing"},
+    {"id":7,"narration":"I filmed it the next night, propping my phone against a dumbbell.","image_prompt":"A phone leaning against a dumbbell on gym floor, screen glowing faintly, mirror wall beyond in shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"On the video, the reflection kept moving for three full seconds.","image_prompt":"Grainy phone footage of a gym mirror, blurred reflected figure mid-motion, fluorescent flicker, vertical 9:16 framing"},
+    {"id":9,"narration":"Each night the delay grew. My reflection lifted longer, harder, hungrier.","image_prompt":"Long gym mirror at night, reflection slightly darker and more defined than the dim room, deep shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"Last night I stopped. In the glass, it stepped toward me.","image_prompt":"A gym mirror with a silhouette in the reflection standing closer to the glass than the empty room allows, low light, vertical 9:16 framing"},
+    {"id":11,"narration":"I left the bar on the floor and never went back.","image_prompt":"Abandoned barbell on an empty gym floor, lights half off, exit sign glowing red in the dark, vertical 9:16 framing"},
+    {"id":12,"narration":"My mirror at home now shows me resting between sets I never did.","image_prompt":"A bathroom mirror in dim light reflecting an empty room, faint outline where a figure would stand, soft shadow, vertical 9:16 framing"}
+  ]
+}

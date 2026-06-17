@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-sprinklers-run-rain",
+  "character": "narrator",
+  "topic": "My sprinklers run during the rain, and the water they spray is warm.",
+  "title": "My Sprinklers Run in the Rain | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"My sprinklers ran during the rain, and the water they sprayed was warm.","image_prompt":"Lawn sprinklers spraying across a yard in heavy rain at dusk, misty haze, dim light, vertical 9:16 framing"},
+    {"id":2,"narration":"I bought the house with the system already buried.","image_prompt":"A wide green lawn before a quiet house under gray storm clouds, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"I had never once turned them on.","image_prompt":"A rusted sprinkler control box on a garage wall, switches off, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":4,"narration":"They started every night at three, rain or dry.","image_prompt":"Sprinkler heads rising from a dark wet lawn at night, faint streetlight glow, fog, vertical 9:16 framing"},
+    {"id":5,"narration":"The water steamed in the cold air.","image_prompt":"Faint steam rising from sprinkler spray over a dark lawn at night, dim haze, vertical 9:16 framing"},
+    {"id":6,"narration":"I cupped it in my hands. It was warm as breath.","image_prompt":"Two cupped hands catching sprinkler water on a dark lawn, faint glow, deep shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"I shut the main valve and capped every head.","image_prompt":"A capped sprinkler head and a closed valve in dim soil, flashlight glow, shadow, vertical 9:16 framing"},
+    {"id":8,"narration":"At three they rose through the caps and ran anyway.","image_prompt":"Sprinklers spraying over a dark lawn despite capped fittings, night, misty haze, vertical 9:16 framing"},
+    {"id":9,"narration":"The grass where they sprayed grew thick and far too green.","image_prompt":"A patch of unnaturally lush dark green grass on a dim lawn at dusk, fog, shadow, vertical 9:16 framing"},
+    {"id":10,"narration":"Beneath that grass the soil was soft, and shaped like a person.","image_prompt":"A faint human shaped depression in soft dark soil beneath thick grass, dim light, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I never dug there. I water it now myself.","image_prompt":"A hose laid across a dark green lawn patch at dusk, low light, long shadows, vertical 9:16 framing"},
+    {"id":12,"narration":"On warm nights I hear the spray whisper my own name.","image_prompt":"Sprinklers misting over a dark lawn under faint moonlight, heavy haze, deep shadow, vertical 9:16 framing"}
+  ]
+}

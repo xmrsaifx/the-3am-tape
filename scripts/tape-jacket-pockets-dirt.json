@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-jacket-pockets-dirt",
+  "character": "narrator",
+  "topic": "My coat pockets fill with dark grave dirt and a different key every morning.",
+  "title": "My Coat Pockets Fill With Grave Dirt | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning my coat pockets are full of dark dirt and a strange key.", "image_prompt": "A heavy coat hanging on a hook, dark soil spilling from a pocket onto the floor, dim hallway light, deep shadow, grainy film, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is the only coat I own, hung by the door.", "image_prompt": "A single dark coat on a wall hook by a front door, dim entry, low light, muted color, vertical 9:16 framing"},
+    {"id": 3, "narration": "I empty those pockets every night.", "image_prompt": "Hands turning out an empty coat pocket over a dark floor, lamp glow, long shadow, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first morning my hand came out filthy and cold.", "image_prompt": "A hand pulling dark crumbling soil from a coat pocket, harsh side light, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "The dirt smelled of damp earth and rot.", "image_prompt": "A pile of dark moist soil on a wooden floor beneath a coat, dim light, shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "Underneath was an old iron key I did not know.", "image_prompt": "An old rusted iron key resting in dark dirt on a floor, dim lamp light, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "Every dawn brought fresh dirt and a different key.", "image_prompt": "A row of mismatched old keys laid out on a dark table, dim light, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 8, "narration": "I took the dirt to a lab to be tested.", "image_prompt": "A small bag of dark soil on a cold steel counter, clinical light, shadow, grainy film, vertical 9:16 framing"},
+    {"id": 9, "narration": "They said it was grave soil, very old.", "image_prompt": "A microscope slide of dark earth in a dim laboratory, cold light, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "One key finally fit the gate of the old cemetery.", "image_prompt": "An iron key in a rusted cemetery gate lock at dusk, fog, dim grey light, bare trees, vertical 9:16 framing"},
+    {"id": 11, "narration": "Inside, fresh dirt was heaped on an open empty plot.", "image_prompt": "An open empty grave with dark soil piled beside it at dusk, fog, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 12, "narration": "The headstone there carried my own name.", "image_prompt": "A weathered headstone with a faint engraved name in a foggy graveyard, dim grey light, grain, vertical 9:16 framing"}
+  ]
+}

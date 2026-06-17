@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-closet-clothes-not-mine",
+  "character": "narrator",
+  "topic": "Clothes in my exact size that I never bought keep appearing in my closet.",
+  "title": "The Clothes I Never Bought | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "There were shirts in my closet I had never bought.", "image_prompt": "still photograph of a row of hanging shirts in a dim bedroom closet, low light, deep shadow between the hangers, vertical 9:16 framing"},
+    {"id": 2, "narration": "I rent a small apartment alone, third floor, no roommates.", "image_prompt": "still photograph of a quiet small apartment hallway at dusk, dim light through a single window, vertical 9:16 framing"},
+    {"id": 3, "narration": "Every morning I dress in the same gray routine.", "image_prompt": "still photograph of a closet rail with folded gray clothing on a shelf, soft morning shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning a navy coat hung where nothing had been.", "image_prompt": "still photograph of a single dark navy coat hanging alone on a closet rail, low light, vertical 9:16 framing"},
+    {"id": 5, "narration": "It fit me perfectly. That was the wrong part.", "image_prompt": "still photograph of an empty coat sleeve hanging, faint dust motes in a thin beam of light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The tag was cut. Inside, my own name in pen.", "image_prompt": "still photograph of hands holding a coat collar where a cloth tag has been cut away, dim lamp light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I emptied the closet and counted everything I owned.", "image_prompt": "still photograph of clothes piled on a bed beside an emptied open closet, low evening light, vertical 9:16 framing"},
+    {"id": 8, "narration": "By dawn another piece had appeared, again my exact size.", "image_prompt": "still photograph of a new folded sweater resting on a closet shelf, pale dawn light across it, vertical 9:16 framing"},
+    {"id": 9, "narration": "Soon the rail was full of a stranger's careful taste.", "image_prompt": "still photograph of a densely packed closet rail of varied coats and shirts, deep shadow at the back, vertical 9:16 framing"},
+    {"id": 10, "narration": "Behind the last hanger, the wall had a small worn door.", "image_prompt": "still photograph of a low half height door revealed at the back of a closet behind clothes, darkness beyond, vertical 9:16 framing"},
+    {"id": 11, "narration": "I moved out that week and told no one why.", "image_prompt": "still photograph of cardboard moving boxes stacked in an empty bedroom at night, single bare bulb, vertical 9:16 framing"},
+    {"id": 12, "narration": "Every shirt smelled faintly of someone who lived here first.", "image_prompt": "still photograph of a folded shirt held to the light, faint fabric texture, dim lamp glow, vertical 9:16 framing"}
+  ]
+}

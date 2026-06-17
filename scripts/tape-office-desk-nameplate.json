@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-office-desk-nameplate",
+  "character": "narrator",
+  "topic": "There is a desk in my office with my nameplate that I never sat at, and it is always warm.",
+  "title": "The Desk With My Name I Never Sat At | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"There is a desk in my office with my name on it, and I never sat there.","image_prompt":"An empty office desk with a small engraved nameplate, monitor dark, chair angled out, dim fluorescent light, vertical 9:16 framing"},
+    {"id":2,"narration":"My real desk is across the floor, by the windows.","image_prompt":"Wide open-plan office at dusk, rows of identical desks, one desk near tall windows lit by grey light, vertical 9:16 framing"},
+    {"id":3,"narration":"I had walked past that empty corner for two years.","image_prompt":"A quiet office corner with a single unused desk in shadow, carpet faintly worn around it, low light, vertical 9:16 framing"},
+    {"id":4,"narration":"One Monday a nameplate sat there. My name, spelled exactly right.","image_prompt":"Close still of a brass nameplate on a desk edge, engraved letters catching dim light, dust on the surface, vertical 9:16 framing"},
+    {"id":5,"narration":"I laughed. Then I touched the chair.","image_prompt":"An office chair seen from behind, fabric back faintly creased, soft pool of overhead light, deep shadow around, vertical 9:16 framing"},
+    {"id":6,"narration":"The seat was warm. As if someone had just stood up.","image_prompt":"Empty office chair seat in close detail, fabric slightly compressed, faint heat shimmer suggestion, dim light, vertical 9:16 framing"},
+    {"id":7,"narration":"I came in before everyone for a week to watch it.","image_prompt":"Dark empty office before dawn, single desk lamp glowing in a far corner, long shadows across carpet, vertical 9:16 framing"},
+    {"id":8,"narration":"Every morning the chair was warm. Every morning, no one was there.","image_prompt":"The unused desk at dawn, chair pushed out as if just vacated, pale window light, faint grain, vertical 9:16 framing"},
+    {"id":9,"narration":"Then little things appeared. My coffee order. My handwriting on the notepad.","image_prompt":"Desk surface with a paper coffee cup and an open notepad covered in scrawled handwriting, dim lamp light, vertical 9:16 framing"},
+    {"id":10,"narration":"On the notepad it said, please stop sitting in my chair across the floor.","image_prompt":"Close still of a notepad page with handwritten lines, pen resting on it, shadow of an unseen figure on the wall, vertical 9:16 framing"},
+    {"id":11,"narration":"I asked to switch desks. They said I already had two.","image_prompt":"An empty office hallway with glass-walled rooms, reflection of overhead lights stretching on, low light, vertical 9:16 framing"},
+    {"id":12,"narration":"That night, from the windows, I watched myself working in the corner.","image_prompt":"View across a dark office toward a far desk where a faceless silhouette sits typing, glow of one monitor, vertical 9:16 framing"}
+  ]
+}

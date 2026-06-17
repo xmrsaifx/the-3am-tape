@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-nightstand-water-glass",
+  "character": "narrator",
+  "topic": "A full glass of water appears on my nightstand every night.",
+  "title": "The Glass By My Bed | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "A full glass of water waited on my nightstand again.", "image_prompt": "still photograph of a single full glass of water on a dark wooden nightstand, dim lamp light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live alone in a quiet ground floor flat.", "image_prompt": "still photograph of a small ground floor bedroom with drawn curtains, low evening light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I never keep water by the bed. It spills.", "image_prompt": "still photograph of a bare nightstand beside a made bed, soft shadow, dim room, vertical 9:16 framing"},
+    {"id": 4, "narration": "Yet there it sat, filled exactly to the brim.", "image_prompt": "still photograph of a brimming glass of water catching faint light on a nightstand, deep shadow behind, vertical 9:16 framing"},
+    {"id": 5, "narration": "I poured it out and went back to bed.", "image_prompt": "still photograph of an empty glass tipped over a bathroom sink, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "By morning it stood full again, faintly warm.", "image_prompt": "still photograph of a full glass of water on a nightstand in pale dawn light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I marked the rim and measured it each night.", "image_prompt": "still photograph of a glass with a thin marker line near the rim, dim desk lamp, vertical 9:16 framing"},
+    {"id": 8, "narration": "Always the same level. Always placed by my left hand.", "image_prompt": "still photograph of a glass positioned precisely at the left edge of a nightstand, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Then a second glass appeared beside the first.", "image_prompt": "still photograph of two full glasses of water side by side on a nightstand, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "As if someone now expected two of us here.", "image_prompt": "still photograph of two glasses on a nightstand beside an empty pillow indentation, moonlight, vertical 9:16 framing"},
+    {"id": 11, "narration": "I removed the nightstand entirely the following day.", "image_prompt": "still photograph of an empty wall where a nightstand once stood, faint dust outline, dim room, vertical 9:16 framing"},
+    {"id": 12, "narration": "Now the glasses wait on the floor, where I sleep.", "image_prompt": "still photograph of two glasses of water on bare floorboards beside a low mattress, low light, vertical 9:16 framing"}
+  ]
+}

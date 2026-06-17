@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-umbrella-wet-no-rain",
+  "character": "narrator",
+  "topic": "My umbrella is wet by the door every morning, though it has not rained in weeks.",
+  "title": "My Umbrella Is Wet But It Never Rains | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My umbrella drips by the door each morning, and it has not rained in weeks.", "image_prompt": "A closed umbrella propped against a wall by a front door, a dark puddle beneath it, dim hallway light, grainy film, vertical 9:16 framing"},
+    {"id": 2, "narration": "I live in a dry town where summer cracks the soil.", "image_prompt": "A parched suburban street at dusk, cracked dry earth, brown grass, hazy low light, muted color, vertical 9:16 framing"},
+    {"id": 3, "narration": "I leave the umbrella by the door, always dry.", "image_prompt": "A neatly furled umbrella standing in a hallway stand, soft lamp glow, long shadows, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "One morning it was soaked through and cold.", "image_prompt": "A drenched umbrella leaning by a door, water beading on its fabric, dim grey light, deep shadow, vertical 9:16 framing"},
+    {"id": 5, "narration": "The sky outside was bone dry.", "image_prompt": "A cloudless pale dawn sky over dry rooftops seen through a window, dust on the glass, low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The water smelled of river silt and old leaves.", "image_prompt": "A dark puddle on hallway floorboards with floating bits of leaf, harsh side light, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I locked it in a cupboard and waited.", "image_prompt": "An umbrella shut inside a wooden cupboard, door ajar, thin slice of light, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "By dawn the cupboard floor was flooded too.", "image_prompt": "Water pooling out from under a cupboard door across a wood floor, dim light, reflection, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "Wet footprints began circling the umbrella each night.", "image_prompt": "A ring of wet bare footprints around an umbrella on a floor, dim hallway, deep shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "One print was small, like a child standing very still.", "image_prompt": "A single small wet footprint on dark floorboards, lamp light catching the sheen, grainy film, vertical 9:16 framing"},
+    {"id": 11, "narration": "I threw the umbrella in the river to be rid of it.", "image_prompt": "An umbrella floating away on a dark slow river at dusk, fog over the water, low light, vertical 9:16 framing"},
+    {"id": 12, "narration": "It was back by my door at dawn, still dripping.", "image_prompt": "A wet umbrella propped against a front door again, river water pooling beneath, dim grey light, grain, vertical 9:16 framing"}
+  ]
+}

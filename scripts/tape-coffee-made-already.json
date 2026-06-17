@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-coffee-made-already",
+  "character": "narrator",
+  "topic": "A fresh pot of coffee is made before I wake, with two cups already poured.",
+  "title": "Two Cups Of Coffee Were Already Poured | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "I wake to fresh coffee I never made, and two cups poured.", "image_prompt": "A kitchen counter at dawn with a steaming coffee pot and two filled mugs, dim grey light, deep shadow, grainy film, vertical 9:16 framing"},
+    {"id": 2, "narration": "It is just me in this narrow apartment.", "image_prompt": "A narrow apartment kitchen, single chair at a small table, closed curtains, low light, muted color, vertical 9:16 framing"},
+    {"id": 3, "narration": "I wake at six every day.", "image_prompt": "An old alarm clock on a nightstand reading early hours, dim bedroom, faint window glow, shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first morning the pot was warm and full.", "image_prompt": "A glass coffee pot full and steaming on a machine, soft kitchen light, condensation, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "Two mugs. Both steaming.", "image_prompt": "Two ceramic mugs side by side with rising steam, dark counter, harsh side light, deep shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "One mug always faced the empty chair across from mine.", "image_prompt": "A kitchen table with two mugs, one before an empty wooden chair, dim morning light, grain, vertical 9:16 framing"},
+    {"id": 7, "narration": "I set up a camera facing the kitchen overnight.", "image_prompt": "A small camera on a tripod aimed at a dark kitchen doorway, red light blinking, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "The footage cut to static at three each night.", "image_prompt": "A camera screen showing heavy static and scan lines, dim room glow, grainy film, vertical 9:16 framing"},
+    {"id": 9, "narration": "The second mug began emptying a little by morning.", "image_prompt": "A coffee mug half drained with a lipstick faint ring on the rim, low light, shallow focus, grain, vertical 9:16 framing"},
+    {"id": 10, "narration": "One day a wet ring sat where no cup had been.", "image_prompt": "A damp circular stain on a bare table beside the chair, dim light, deep shadow, vertical 9:16 framing"},
+    {"id": 11, "narration": "I stopped drinking it. The second cup still emptied.", "image_prompt": "Two mugs on a counter, one clearly lower than the other, grey dawn light, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "This morning both cups were waiting, and the chair was pulled out.", "image_prompt": "A kitchen table with two steaming mugs and a chair pulled away from it, dim light, fog, vertical 9:16 framing"}
+  ]
+}

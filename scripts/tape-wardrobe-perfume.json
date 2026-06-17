@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-wardrobe-perfume",
+  "character": "narrator",
+  "topic": "My wardrobe smells of an old woman's perfume that fades by noon.",
+  "title": "The Perfume In My Wardrobe | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My wardrobe smelled of an old woman's perfume every morning.", "image_prompt": "still photograph of an open vintage wooden wardrobe with hanging clothes, dim bedroom light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I bought the wardrobe secondhand for my new flat.", "image_prompt": "still photograph of a tall antique wardrobe standing alone in a sparse room, low light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I am a young man. I own no perfume.", "image_prompt": "still photograph of a row of plain shirts on a wardrobe rail, dim shadow, vertical 9:16 framing"},
+    {"id": 4, "narration": "The scent was floral, powdery, warm, and very close.", "image_prompt": "still photograph of soft folded clothes on a wardrobe shelf, faint light, deep shadow behind, vertical 9:16 framing"},
+    {"id": 5, "narration": "It clung to my clothes and turned my stomach.", "image_prompt": "still photograph of a shirt collar held up to dim light, fabric texture visible, vertical 9:16 framing"},
+    {"id": 6, "narration": "By noon it always faded completely, every single day.", "image_prompt": "still photograph of an open wardrobe in bright midday light, clothes plain and still, vertical 9:16 framing"},
+    {"id": 7, "narration": "I washed everything and lined the shelves with new paper.", "image_prompt": "still photograph of fresh lining paper laid on empty wardrobe shelves, dim room, vertical 9:16 framing"},
+    {"id": 8, "narration": "Next morning the perfume returned, stronger than before.", "image_prompt": "still photograph of an open wardrobe at dawn, hanging coats swaying slightly, low light, vertical 9:16 framing"},
+    {"id": 9, "narration": "I found a photograph wedged behind the back panel.", "image_prompt": "still photograph of hands sliding an old faded photograph from behind a wooden wardrobe panel, dim light, vertical 9:16 framing"},
+    {"id": 10, "narration": "An old woman, smiling, standing in this very room.", "image_prompt": "still photograph of a faded vintage photo of a room interior held in a hand, the figure turned away, dim light, vertical 9:16 framing"},
+    {"id": 11, "narration": "I burned the photograph and aired the room for days.", "image_prompt": "still photograph of ash in a metal bowl by an open window, grey daylight, vertical 9:16 framing"},
+    {"id": 12, "narration": "Now the perfume lingers on my pillow until noon.", "image_prompt": "still photograph of a single pillow on an unmade bed in soft morning light, dim room, vertical 9:16 framing"}
+  ]
+}

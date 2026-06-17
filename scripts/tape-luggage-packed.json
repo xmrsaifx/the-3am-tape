@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-luggage-packed",
+  "character": "narrator",
+  "topic": "My suitcase in the closet is packed for a trip I never planned, and it repacks itself.",
+  "title": "My Suitcase Packs Itself For A Trip | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My closet suitcase is packed for a trip I never planned, and it keeps repacking.", "image_prompt": "A packed suitcase open on a closet floor, folded clothes inside, dim wardrobe light, deep shadow, grainy film, vertical 9:16 framing"},
+    {"id": 2, "narration": "I have not traveled in years.", "image_prompt": "A dusty closet with an old suitcase tucked in the corner, low light, cobwebs, muted color, vertical 9:16 framing"},
+    {"id": 3, "narration": "The case had sat empty since I moved in.", "image_prompt": "An empty open suitcase on a bedroom floor, lid raised, dim grey light, shadow, grain, vertical 9:16 framing"},
+    {"id": 4, "narration": "One day it was full of clothes that fit me.", "image_prompt": "A suitcase neatly packed with folded shirts, soft side light, deep shadow inside, grain, vertical 9:16 framing"},
+    {"id": 5, "narration": "None of them were mine.", "image_prompt": "An unfamiliar folded jacket held up in dim light over a suitcase, low light, shadow, vertical 9:16 framing"},
+    {"id": 6, "narration": "A train ticket lay on top, dated this Friday.", "image_prompt": "A paper train ticket resting on folded clothes inside a suitcase, dim lamp light, grainy texture, vertical 9:16 framing"},
+    {"id": 7, "narration": "I emptied the case and locked the closet.", "image_prompt": "An empty suitcase beside a closed closet door, key in the lock, dim hallway light, deep shadow, vertical 9:16 framing"},
+    {"id": 8, "narration": "By morning it was packed again, the ticket reprinted.", "image_prompt": "A repacked suitcase with a fresh ticket on top, dim closet light, grain, vertical 9:16 framing"},
+    {"id": 9, "narration": "Each ticket moved a day closer, to a place I did not know.", "image_prompt": "Several train tickets fanned out on a dark floor, faint print, harsh side light, shadow, vertical 9:16 framing"},
+    {"id": 10, "narration": "Last night the case sat by my front door, ready.", "image_prompt": "A packed suitcase standing upright beside a front door, coat hung above it, dim light, fog, vertical 9:16 framing"},
+    {"id": 11, "narration": "The ticket now read tonight, and bore my name.", "image_prompt": "A close train ticket with a printed name on a dark table, dim lamp glow, deep shadow, grain, vertical 9:16 framing"},
+    {"id": 12, "narration": "The departure platform listed is the cemetery on the hill.", "image_prompt": "A foggy hilltop cemetery gate at dusk seen down a path, dim grey light, bare trees, vertical 9:16 framing"}
+  ]
+}

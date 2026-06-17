@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-parking-garage-level",
+  "character": "narrator",
+  "topic": "There is a parking level the elevator stops at but the stairs never reach.",
+  "title": "The Parking Level The Stairs Never Reached | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"There is a parking level the elevator stops at, but the stairs never reach.","image_prompt":"A dim concrete parking garage level, rows of empty spaces, flickering tube lights, deep shadow at the far end, vertical 9:16 framing"},
+    {"id":2,"narration":"I park in the same downtown garage every working day.","image_prompt":"Entrance ramp of a multilevel parking garage at dusk, painted level numbers on concrete, low light, vertical 9:16 framing"},
+    {"id":3,"narration":"Six levels down, level two, same spot every time.","image_prompt":"A single parked car in an otherwise empty garage level, harsh overhead light, oil-stained concrete, vertical 9:16 framing"},
+    {"id":4,"narration":"One evening the elevator buttons listed a level between two and three.","image_prompt":"Close still of parking garage elevator buttons, an extra unlabeled button glowing between the numbers, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"The doors opened there. The numbers on the wall were wrong.","image_prompt":"Garage elevator doors open onto a concrete level, painted wall number smeared and unreadable, cold light, vertical 9:16 framing"},
+    {"id":6,"narration":"Cars filled every space. None of them had license plates.","image_prompt":"Rows of identical parked cars under flickering garage lights, blank where plates should be, deep shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"I took the stairs the next day, counting every landing down.","image_prompt":"A bare concrete stairwell descending, painted level numbers on each landing, harsh single bulb, vertical 9:16 framing"},
+    {"id":8,"narration":"The stairs skipped it. Two went straight to three. No door.","image_prompt":"A stairwell landing where the wall is blank concrete with no door, painted numbers jumping, dim light, vertical 9:16 framing"},
+    {"id":9,"narration":"Only the elevator knew it was there. So I rode down again.","image_prompt":"Interior of a garage elevator descending, floor numbers ticking on the panel, cold reflected light, vertical 9:16 framing"},
+    {"id":10,"narration":"My own car sat there, engine warm, doors locked, with me inside.","image_prompt":"A parked car under garage lights with a faint silhouette seated at the wheel, fogged windows, deep shadow, vertical 9:16 framing"},
+    {"id":11,"narration":"I ran for the ramp. There was no ramp on that level.","image_prompt":"A concrete garage level with solid walls on every side, no exit ramp, flickering tubes, long shadow, vertical 9:16 framing"},
+    {"id":12,"narration":"I park aboveground now. But my car always smells faintly of concrete.","image_prompt":"A car parked outdoors at dawn in an open lot, faint mist, grey overcast light, empty surroundings, vertical 9:16 framing"}
+  ]
+}

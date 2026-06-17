@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-medicine-cabinet-rearranged",
+  "character": "narrator",
+  "topic": "The medicine cabinet behind my mirror rearranges itself nightly, and new pills appear.",
+  "title": "My Medicine Cabinet Rearranged Itself | True Scary Story",
+  "scenes": [
+    {"id":1,"narration":"Every night the medicine cabinet behind my mirror rearranged itself.","image_prompt":"An open bathroom mirror cabinet with bottles arranged in neat rows on glass shelves, dim cold light, deep shadow, vertical 9:16 framing"},
+    {"id":2,"narration":"It hung above my sink in a quiet rented flat.","image_prompt":"A bathroom sink with a mirrored medicine cabinet above it, frosted window beside, muted gray light, vertical 9:16 framing"},
+    {"id":3,"narration":"I am tidy. Tallest bottles left. Smallest on the right.","image_prompt":"Medicine bottles lined by height on a glass shelf, orderly rows, soft bathroom light, vertical 9:16 framing"},
+    {"id":4,"narration":"One morning the order was reversed. Every bottle had moved.","image_prompt":"Medicine bottles rearranged out of order on a glass shelf, one tipped over, dim light, vertical 9:16 framing"},
+    {"id":5,"narration":"I told myself I was tired.","image_prompt":"A hand reaching toward an open medicine cabinet, reflection blurred in the door glass, low light, vertical 9:16 framing"},
+    {"id":6,"narration":"Then a bottle appeared that I had never bought.","image_prompt":"An unfamiliar amber pill bottle without a label sitting among other bottles on a shelf, cold light, deep shadow, vertical 9:16 framing"},
+    {"id":7,"narration":"I photographed the shelves and taped the cabinet shut.","image_prompt":"A mirrored cabinet door sealed with strips of tape, faint reflection of a dim room, low light, vertical 9:16 framing"},
+    {"id":8,"narration":"By morning the tape hung loose. New bottles inside.","image_prompt":"Peeling tape dangling from a cabinet door slightly ajar, bottles visible within, dim light, vertical 9:16 framing"},
+    {"id":9,"narration":"Each new bottle held a name. None of them mine.","image_prompt":"A pill bottle with a typed name label held in shadow, other bottles blurred behind, low light, vertical 9:16 framing"},
+    {"id":10,"narration":"Last night, a bottle with my own name and tomorrow's date.","image_prompt":"A single amber pill bottle with a stark white label on an empty glass shelf, harsh dim light, vertical 9:16 framing"},
+    {"id":11,"narration":"I moved out that week and left the cabinet full.","image_prompt":"An open medicine cabinet crowded with bottles in an otherwise empty bare bathroom, gray daylight, vertical 9:16 framing"},
+    {"id":12,"narration":"The new tenant called, asking why I left her medicine.","image_prompt":"A closed mirrored cabinet reflecting an empty bathroom doorway, faint fog on the glass, dim light, vertical 9:16 framing"}
+  ]
+}

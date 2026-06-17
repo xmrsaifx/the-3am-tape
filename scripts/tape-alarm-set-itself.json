@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-alarm-set-itself",
+  "character": "narrator",
+  "topic": "My alarm is set for three seventeen every night, and I never set it.",
+  "title": "The Alarm I Never Set | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "My phone alarm rang at three seventeen, and I never set it.", "image_prompt": "still photograph of a phone screen glowing on a dark nightstand, dim bedroom, deep shadow, vertical 9:16 framing"},
+    {"id": 2, "narration": "I sleep in a one bedroom flat near the river.", "image_prompt": "still photograph of a darkened bedroom with a single curtained window, faint streetlight outside, vertical 9:16 framing"},
+    {"id": 3, "narration": "I always set my alarm for seven, never earlier.", "image_prompt": "still photograph of a hand setting a bedside phone, soft lamp light, dim surroundings, vertical 9:16 framing"},
+    {"id": 4, "narration": "That first night it woke me at the wrong hour.", "image_prompt": "still photograph of a glowing phone face up on rumpled sheets in darkness, vertical 9:16 framing"},
+    {"id": 5, "narration": "I deleted it, certain I had made a mistake.", "image_prompt": "still photograph of a thumb hovering over a dark phone screen in low light, vertical 9:16 framing"},
+    {"id": 6, "narration": "The next night, same time, the same single alarm.", "image_prompt": "still photograph of a bedside clock and phone both lit faintly in a black room, vertical 9:16 framing"},
+    {"id": 7, "narration": "I checked the history. It was added from this device.", "image_prompt": "still photograph of a phone showing a list of times on a dim nightstand, lamp off, vertical 9:16 framing"},
+    {"id": 8, "narration": "Every entry was made while I was asleep.", "image_prompt": "still photograph of an empty bed seen from above, sheets thrown back, low moonlight, vertical 9:16 framing"},
+    {"id": 9, "narration": "So one night I stayed awake to watch it.", "image_prompt": "still photograph of wide open eyes reflected faintly in a dark window, low light, vertical 9:16 framing"},
+    {"id": 10, "narration": "At three seventeen the screen lit on its own, untouched.", "image_prompt": "still photograph of a phone screen brightening alone on a nightstand in total darkness, vertical 9:16 framing"},
+    {"id": 11, "narration": "I unplugged everything and slept at a friend's place.", "image_prompt": "still photograph of a folded blanket on a strangers couch, dim living room at night, vertical 9:16 framing"},
+    {"id": 12, "narration": "It still rings at three seventeen, wherever I sleep now.", "image_prompt": "still photograph of a glowing phone on an unfamiliar nightstand in the dark, vertical 9:16 framing"}
+  ]
+}

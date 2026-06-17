@@ -1,0 +1,20 @@
+{
+  "video_id": "tape-blanket-pulled-night",
+  "character": "narrator",
+  "topic": "My blanket is pulled to the floor every night, though I sleep without moving.",
+  "title": "Something Pulls My Blanket | True Scary Story",
+  "scenes": [
+    {"id": 1, "narration": "Every morning my blanket lay pooled on the floor.", "image_prompt": "still photograph of a blanket crumpled on bedroom floorboards beside a bed, pale morning light, vertical 9:16 framing"},
+    {"id": 2, "narration": "I rent the top room of an old narrow house.", "image_prompt": "still photograph of a small attic bedroom with sloped ceiling, single bed, dim light, vertical 9:16 framing"},
+    {"id": 3, "narration": "I sleep flat and still. I barely move.", "image_prompt": "still photograph of a neatly tucked bed with a folded blanket, soft shadow, low light, vertical 9:16 framing"},
+    {"id": 4, "narration": "The first time, I blamed a bad and restless dream.", "image_prompt": "still photograph of twisted bedsheets half off a mattress at dawn, dim room, vertical 9:16 framing"},
+    {"id": 5, "narration": "But the blanket lay folded, not thrown, on the floor.", "image_prompt": "still photograph of a neatly folded blanket resting on floorboards at the foot of a bed, vertical 9:16 framing"},
+    {"id": 6, "narration": "Folded the way I was never taught to fold.", "image_prompt": "still photograph of a precisely folded blanket square on a dark floor, low light, vertical 9:16 framing"},
+    {"id": 7, "narration": "I tucked it tight and pinned the corners down.", "image_prompt": "still photograph of bed corners tucked firmly under a mattress, hands smoothing the fabric, dim lamp, vertical 9:16 framing"},
+    {"id": 8, "narration": "By dawn the pins lay stacked, the blanket folded again.", "image_prompt": "still photograph of small safety pins stacked in a neat pile on bare floorboards, dim morning light, vertical 9:16 framing"},
+    {"id": 9, "narration": "Then I felt the slow tug while still half awake.", "image_prompt": "still photograph of a blanket edge sliding off the foot of a bed in darkness, vertical 9:16 framing"},
+    {"id": 10, "narration": "Something wanted me uncovered. I never learned why.", "image_prompt": "still photograph of an exposed empty bed with no blanket, sheets pulled tight, cold moonlight, vertical 9:16 framing"},
+    {"id": 11, "narration": "I sleep in a zipped bag on the same bed now.", "image_prompt": "still photograph of a sleeping bag laid across a bare mattress, dim attic room, vertical 9:16 framing"},
+    {"id": 12, "narration": "Each morning the zip is open, and I am cold.", "image_prompt": "still photograph of an unzipped sleeping bag splayed open on a bed at dawn, pale light, vertical 9:16 framing"}
+  ]
+}
