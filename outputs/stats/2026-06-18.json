@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "snapshot_at": "2026-06-18T07:00:01.068690+00:00",
+  "snapshot_at": "2026-06-18T12:43:53.608456+00:00",
   "videos": [
     {
       "video_id": "OllojEHEVkg",
@@ -11,7 +11,7 @@
       "views": 1170,
       "likes": 31,
       "comments": 2,
-      "views_per_day": 26.4
+      "views_per_day": 26.26
     },
     {
       "video_id": "lBBy5MMq5l0",
@@ -19,10 +19,10 @@
       "published_at": "2026-05-02T17:01:39Z",
       "privacy_status": "public",
       "duration_sec": 74,
-      "views": 1094,
+      "views": 1095,
       "likes": 30,
       "comments": 0,
-      "views_per_day": 23.49
+      "views_per_day": 23.39
     },
     {
       "video_id": "e6EqBjKGh9I",
@@ -33,7 +33,7 @@
       "views": 1005,
       "likes": 18,
       "comments": 0,
-      "views_per_day": 20.8
+      "views_per_day": 20.7
     },
     {
       "video_id": "LzHaLdXeThE",
@@ -44,7 +44,7 @@
       "views": 892,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 18.95
+      "views_per_day": 18.85
     },
     {
       "video_id": "uUNrXPi2LiM",
@@ -55,7 +55,7 @@
       "views": 883,
       "likes": 43,
       "comments": 0,
-      "views_per_day": 19.06
+      "views_per_day": 18.96
     },
     {
       "video_id": "qyKP5bB4Oso",
@@ -66,7 +66,7 @@
       "views": 684,
       "likes": 20,
       "comments": 2,
-      "views_per_day": 15.7
+      "views_per_day": 15.62
     },
     {
       "video_id": "oFPFrFOVxq4",
@@ -77,7 +77,7 @@
       "views": 648,
       "likes": 24,
       "comments": 2,
-      "views_per_day": 14.22
+      "views_per_day": 14.14
     },
     {
       "video_id": "fcSRZ1XvR9U",
@@ -88,7 +88,7 @@
       "views": 540,
       "likes": 17,
       "comments": 0,
-      "views_per_day": 11.41
+      "views_per_day": 11.35
     },
     {
       "video_id": "GL-gOWzQ2c4",
@@ -99,7 +99,7 @@
       "views": 533,
       "likes": 20,
       "comments": 0,
-      "views_per_day": 11.83
+      "views_per_day": 11.77
     },
     {
       "video_id": "Ld2vmhMgAIE",
@@ -110,7 +110,7 @@
       "views": 472,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 10.25
+      "views_per_day": 10.2
     },
     {
       "video_id": "ESVfPkNp0U0",
@@ -121,7 +121,7 @@
       "views": 443,
       "likes": 10,
       "comments": 0,
-      "views_per_day": 10.53
+      "views_per_day": 10.48
     },
     {
       "video_id": "ovJJkNL0ZUg",
@@ -132,7 +132,7 @@
       "views": 413,
       "likes": 11,
       "comments": 0,
-      "views_per_day": 8.34
+      "views_per_day": 8.3
     },
     {
       "video_id": "97T2pHsRJDc",
@@ -143,7 +143,7 @@
       "views": 307,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 23.56
+      "views_per_day": 23.14
     },
     {
       "video_id": "LlN3ddk_YGs",
@@ -154,7 +154,7 @@
       "views": 296,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 8.7
+      "views_per_day": 8.64
     },
     {
       "video_id": "PQbxHGsJ2sg",
@@ -165,7 +165,7 @@
       "views": 267,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 20.04
+      "views_per_day": 19.68
     },
     {
       "video_id": "Fkd213nTFNs",
@@ -176,7 +176,7 @@
       "views": 230,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 5.07
+      "views_per_day": 5.05
     },
     {
       "video_id": "a-a198MQXWQ",
@@ -187,7 +187,7 @@
       "views": 187,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.79
+      "views_per_day": 5.74
     },
     {
       "video_id": "DApJ-WQjRpw",
@@ -198,7 +198,7 @@
       "views": 154,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 3.21
+      "views_per_day": 3.19
     },
     {
       "video_id": "6ixiCm87sEQ",
@@ -209,7 +209,7 @@
       "views": 151,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 3.39
+      "views_per_day": 3.37
     },
     {
       "video_id": "wOHZBe1C9bQ",
@@ -220,7 +220,7 @@
       "views": 136,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 3.14
+      "views_per_day": 3.12
     },
     {
       "video_id": "gj58udxbj_o",
@@ -231,7 +231,7 @@
       "views": 126,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 3.78
+      "views_per_day": 3.75
     },
     {
       "video_id": "UpKJ-YEHQGk",
@@ -242,7 +242,7 @@
       "views": 118,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.41
+      "views_per_day": 2.39
     },
     {
       "video_id": "mPwSm34Ja3Y",
@@ -253,7 +253,7 @@
       "views": 112,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.64
+      "views_per_day": 2.62
     },
     {
       "video_id": "0Xhu1uit5Nk",
@@ -264,7 +264,7 @@
       "views": 105,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.98
+      "views_per_day": 5.9
     },
     {
       "video_id": "ArKoMMWqvF4",
@@ -275,7 +275,7 @@
       "views": 99,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 5.49
+      "views_per_day": 5.42
     },
     {
       "video_id": "MnKx2R649PU",
@@ -286,7 +286,7 @@
       "views": 94,
       "likes": 1,
       "comments": 6,
-      "views_per_day": 4.82
+      "views_per_day": 4.76
     },
     {
       "video_id": "4JwPcBPbDlE",
@@ -297,7 +297,7 @@
       "views": 90,
       "likes": 7,
       "comments": 0,
-      "views_per_day": 2.04
+      "views_per_day": 2.03
     },
     {
       "video_id": "7Qz2wbvMBRU",
@@ -308,7 +308,7 @@
       "views": 89,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.86
+      "views_per_day": 3.83
     },
     {
       "video_id": "39rb-jDSLRo",
@@ -319,7 +319,7 @@
       "views": 86,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.44
+      "views_per_day": 3.4
     },
     {
       "video_id": "wFPwVp1Omyg",
@@ -330,7 +330,7 @@
       "views": 86,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.3
+      "views_per_day": 3.27
     },
     {
       "video_id": "GD_JH6lo218",
@@ -341,7 +341,7 @@
       "views": 84,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.31
+      "views_per_day": 2.3
     },
     {
       "video_id": "9WTSgkfOGEY",
@@ -352,7 +352,7 @@
       "views": 83,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.07
+      "views_per_day": 2.06
     },
     {
       "video_id": "MA0yO3tm7ro",
@@ -363,7 +363,7 @@
       "views": 79,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.72
+      "views_per_day": 2.7
     },
     {
       "video_id": "QwX1fnnPpFM",
@@ -374,7 +374,7 @@
       "views": 78,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.0
+      "views_per_day": 3.95
     },
     {
       "video_id": "kzYsToKWyxU",
@@ -385,7 +385,7 @@
       "views": 71,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.25
+      "views_per_day": 2.23
     },
     {
       "video_id": "-bZ6ZsLWnRQ",
@@ -396,7 +396,7 @@
       "views": 69,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.74
+      "views_per_day": 1.73
     },
     {
       "video_id": "lMk9PpCbuyY",
@@ -407,7 +407,7 @@
       "views": 68,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.09
+      "views_per_day": 3.05
     },
     {
       "video_id": "Uwg6I0HRxDs",
@@ -418,7 +418,7 @@
       "views": 66,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.76
+      "views_per_day": 1.75
     },
     {
       "video_id": "Wp8FIHJXHS8",
@@ -429,7 +429,7 @@
       "views": 63,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.69
+      "views_per_day": 1.68
     },
     {
       "video_id": "yi_SNKY8ix0",
@@ -440,7 +440,7 @@
       "views": 58,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 5.12
+      "views_per_day": 5.01
     },
     {
       "video_id": "ExNtOLm6pns",
@@ -451,7 +451,7 @@
       "views": 56,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.8
+      "views_per_day": 2.76
     },
     {
       "video_id": "Th56oRW5BrM",
@@ -462,7 +462,7 @@
       "views": 56,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 1.3
+      "views_per_day": 1.29
     },
     {
       "video_id": "gsdSUPafLiU",
@@ -473,7 +473,7 @@
       "views": 55,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.44
+      "views_per_day": 1.43
     },
     {
       "video_id": "TRhq-UgMSfg",
@@ -484,7 +484,7 @@
       "views": 55,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 1.16
+      "views_per_day": 1.15
     },
     {
       "video_id": "gvJYPeqOTzg",
@@ -495,7 +495,7 @@
       "views": 49,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.72
+      "views_per_day": 1.7
     },
     {
       "video_id": "2npIc2Wl5-8",
@@ -506,7 +506,7 @@
       "views": 48,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.39
+      "views_per_day": 1.38
     },
     {
       "video_id": "jC5AjOgOyPY",
@@ -517,7 +517,7 @@
       "views": 48,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.23
+      "views_per_day": 1.22
     },
     {
       "video_id": "5KeWtS1fFQ4",
@@ -528,7 +528,7 @@
       "views": 47,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.66
+      "views_per_day": 1.65
     },
     {
       "video_id": "PJSGf3EvS1E",
@@ -539,7 +539,7 @@
       "views": 46,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 8.31
+      "views_per_day": 7.96
     },
     {
       "video_id": "jcSDYzWqTBA",
@@ -550,7 +550,7 @@
       "views": 46,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.04
+      "views_per_day": 2.02
     },
     {
       "video_id": "0rDVKBrQFsA",
@@ -561,7 +561,7 @@
       "views": 43,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.05
+      "views_per_day": 1.04
     },
     {
       "video_id": "LpVzFQZUqOk",
@@ -572,7 +572,7 @@
       "views": 39,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.28
+      "views_per_day": 1.27
     },
     {
       "video_id": "C0PpdlGdEZ0",
@@ -594,7 +594,7 @@
       "views": 37,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.18
+      "views_per_day": 2.15
     },
     {
       "video_id": "92Uo_GkV2Jo",
@@ -605,7 +605,7 @@
       "views": 37,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.22
+      "views_per_day": 1.21
     },
     {
       "video_id": "wkEgnyqRAcw",
@@ -616,7 +616,7 @@
       "views": 35,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.06
+      "views_per_day": 1.05
     },
     {
       "video_id": "dYDYoXsavQY",
@@ -627,7 +627,7 @@
       "views": 33,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.22
+      "views_per_day": 1.21
     },
     {
       "video_id": "rxUpjF9sa5E",
@@ -638,7 +638,7 @@
       "views": 32,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.11
+      "views_per_day": 1.1
     },
     {
       "video_id": "NXv2223_1O8",
@@ -649,7 +649,7 @@
       "views": 31,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 9.32
+      "views_per_day": 8.69
     },
     {
       "video_id": "d_B9-tuWm4I",
@@ -660,7 +660,7 @@
       "views": 31,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.01
+      "views_per_day": 1.97
     },
     {
       "video_id": "nzZd1pi1jxA",
@@ -671,7 +671,7 @@
       "views": 31,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.11
+      "views_per_day": 1.1
     },
     {
       "video_id": "liFFEn0NuII",
@@ -682,7 +682,7 @@
       "views": 29,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 5.76
+      "views_per_day": 5.5
     },
     {
       "video_id": "PKV0d6DAcGU",
@@ -693,7 +693,7 @@
       "views": 28,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.73
+      "views_per_day": 0.72
     },
     {
       "video_id": "9-3gs5kUW_Y",
@@ -704,7 +704,7 @@
       "views": 25,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.96
+      "views_per_day": 1.92
     },
     {
       "video_id": "PkU1qkpjt2Q",
@@ -726,7 +726,7 @@
       "views": 24,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.98
+      "views_per_day": 0.97
     },
     {
       "video_id": "XTwcQFKTcjw",
@@ -748,7 +748,7 @@
       "views": 23,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.07
+      "views_per_day": 1.06
     },
     {
       "video_id": "o9JqrAj2n8E",
@@ -759,7 +759,7 @@
       "views": 22,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.75
+      "views_per_day": 1.72
     },
     {
       "video_id": "MQ9cPHd5WaU",
@@ -770,7 +770,7 @@
       "views": 22,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.16
+      "views_per_day": 1.14
     },
     {
       "video_id": "EIDNnhHM4q8",
@@ -803,7 +803,7 @@
       "views": 20,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.05
+      "views_per_day": 2.0
     },
     {
       "video_id": "a9if5HIm2k8",
@@ -814,7 +814,7 @@
       "views": 20,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.78
+      "views_per_day": 0.77
     },
     {
       "video_id": "sJkZe9Hk36g",
@@ -825,7 +825,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.57
+      "views_per_day": 3.42
     },
     {
       "video_id": "8AncuHBpg04",
@@ -836,7 +836,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.29
+      "views_per_day": 3.16
     },
     {
       "video_id": "-nycnQ2EzOQ",
@@ -847,7 +847,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.81
+      "views_per_day": 2.72
     },
     {
       "video_id": "2IVDum2DJzM",
@@ -869,7 +869,7 @@
       "views": 17,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.21
+      "views_per_day": 1.19
     },
     {
       "video_id": "qyvHUfiDkW8",
@@ -891,7 +891,7 @@
       "views": 16,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.55
+      "views_per_day": 1.51
     },
     {
       "video_id": "MKMXnNK8BC0",
@@ -902,7 +902,7 @@
       "views": 16,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.97
+      "views_per_day": 0.96
     },
     {
       "video_id": "S71TWp-ddOs",
@@ -935,7 +935,7 @@
       "views": 16,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.4
+      "views_per_day": 0.39
     },
     {
       "video_id": "v-xewlTbUns",
@@ -946,7 +946,7 @@
       "views": 15,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 4.2
+      "views_per_day": 3.94
     },
     {
       "video_id": "DbwDZpy6Z7M",
@@ -979,7 +979,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 10.64
+      "views_per_day": 9.0
     },
     {
       "video_id": "76KBT8Sz6bA",
@@ -990,7 +990,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.91
+      "views_per_day": 1.85
     },
     {
       "video_id": "mpTgdjenICI",
@@ -1001,7 +1001,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.47
+      "views_per_day": 1.43
     },
     {
       "video_id": "1bYKA5oNs6Q",
@@ -1012,7 +1012,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.21
+      "views_per_day": 1.18
     },
     {
       "video_id": "r6CCBsPQNYY",
@@ -1034,7 +1034,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.35
+      "views_per_day": 4.03
     },
     {
       "video_id": "vKOz7mO5yFA",
@@ -1045,7 +1045,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.06
+      "views_per_day": 1.98
     },
     {
       "video_id": "yEnILwVAIwA",
@@ -1056,7 +1056,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.73
+      "views_per_day": 1.68
     },
     {
       "video_id": "0NI5nADLPTk",
@@ -1067,7 +1067,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.67
+      "views_per_day": 1.62
     },
     {
       "video_id": "z_1I1zkJrRA",
@@ -1078,7 +1078,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.41
+      "views_per_day": 0.4
     },
     {
       "video_id": "S6SyHfxIiJg",
@@ -1089,7 +1089,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.44
+      "views_per_day": 1.4
     },
     {
       "video_id": "X1u1wExFrrY",
@@ -1122,7 +1122,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.91
+      "views_per_day": 0.9
     },
     {
       "video_id": "Q6cDdqJEQ-c",
@@ -1144,7 +1144,7 @@
       "views": 10,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 3.77
+      "views_per_day": 3.46
     },
     {
       "video_id": "3gmxcbtNBCU",
@@ -1155,7 +1155,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.54
+      "views_per_day": 1.48
     },
     {
       "video_id": "jU_7urUi10I",
@@ -1166,7 +1166,7 @@
       "views": 10,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.43
+      "views_per_day": 1.38
     },
     {
       "video_id": "AeAzIvLfllM",
@@ -1177,7 +1177,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.91
+      "views_per_day": 0.89
     },
     {
       "video_id": "mDGWWZEsmew",
@@ -1188,7 +1188,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.48
+      "views_per_day": 0.47
     },
     {
       "video_id": "c9blX8gP9jc",
@@ -1210,7 +1210,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.87
+      "views_per_day": 1.78
     },
     {
       "video_id": "G9Cb36KojgY",
@@ -1221,7 +1221,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.05
+      "views_per_day": 1.03
     },
     {
       "video_id": "6LERVcXxSOY",
@@ -1254,7 +1254,7 @@
       "views": 8,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.85
+      "views_per_day": 1.75
     },
     {
       "video_id": "t_P-y25q10c",
@@ -1265,7 +1265,18 @@
       "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.8
+      "views_per_day": 0.78
+    },
+    {
+      "video_id": "sHiuKoS27A0",
+      "title": "The Water Stain on My Ceiling Is Shaped Like a Man. It Moves Closer to My Bed Each Night. | True Sca",
+      "published_at": "2026-06-07T11:15:03Z",
+      "privacy_status": "public",
+      "duration_sec": 69,
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 0.72
     },
     {
       "video_id": "Gb8cH2JVkBg",
@@ -1287,18 +1298,18 @@
       "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.36
+      "views_per_day": 0.35
     },
     {
-      "video_id": "sHiuKoS27A0",
-      "title": "The Water Stain on My Ceiling Is Shaped Like a Man. It Moves Closer to My Bed Each Night. | True Sca",
-      "published_at": "2026-06-07T11:15:03Z",
+      "video_id": "l9uZBN1bbVU",
+      "title": "The Alarm I Never Set | True Scary Story",
+      "published_at": "2026-06-17T23:23:52Z",
       "privacy_status": "public",
-      "duration_sec": 69,
+      "duration_sec": 55,
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.65
+      "views_per_day": 7.0
     },
     {
       "video_id": "wEoIU-qlhXA",
@@ -1309,7 +1320,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.52
+      "views_per_day": 0.51
     },
     {
       "video_id": "LeHgXJqZtlc",
@@ -1320,7 +1331,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.51
+      "views_per_day": 0.5
     },
     {
       "video_id": "aIlFSwAX4-c",
@@ -1334,17 +1345,6 @@
       "views_per_day": 0.24
     },
     {
-      "video_id": "l9uZBN1bbVU",
-      "title": "The Alarm I Never Set | True Scary Story",
-      "published_at": "2026-06-17T23:23:52Z",
-      "privacy_status": "public",
-      "duration_sec": 55,
-      "views": 5,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 5.0
-    },
-    {
       "video_id": "7lxa7jkCcgU",
       "title": "My Wife Reads Aloud in Her Sleep. A Different Page Each Night. The Book Does Not Exist. | True Scary",
       "published_at": "2026-06-16T07:20:43Z",
@@ -1353,7 +1353,7 @@
       "views": 5,
       "likes": 0,
       "comments": 2,
-      "views_per_day": 2.52
+      "views_per_day": 2.25
     },
     {
       "video_id": "WBhDxwEvYbk",
@@ -1364,7 +1364,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.03
+      "views_per_day": 1.85
     },
     {
       "video_id": "2WwBLmCmSlo",
@@ -1375,7 +1375,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.57
+      "views_per_day": 0.55
     },
     {
       "video_id": "7p5ph1tHIK8",
@@ -1386,7 +1386,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.34
+      "views_per_day": 0.33
     },
     {
       "video_id": "WT9-im27rok",
@@ -1419,7 +1419,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.32
+      "views_per_day": 2.04
     },
     {
       "video_id": "_AEY5LxYqAY",
@@ -1430,7 +1430,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.74
+      "views_per_day": 1.58
     },
     {
       "video_id": "6qEwcpPJJls",
@@ -1441,7 +1441,7 @@
       "views": 4,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.0
+      "views_per_day": 0.94
     },
     {
       "video_id": "jWT5kHlGaUQ",
@@ -1452,7 +1452,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.66
+      "views_per_day": 0.64
     },
     {
       "video_id": "yqvNrBZ-Nm8",
@@ -1463,7 +1463,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.34
+      "views_per_day": 0.33
     },
     {
       "video_id": "T-c6Gp5Ttig",
@@ -1485,7 +1485,7 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.37
+      "views_per_day": 0.36
     },
     {
       "video_id": "cNV26LAN3uk",
@@ -1496,7 +1496,7 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.33
+      "views_per_day": 0.32
     },
     {
       "video_id": "DzMPNf9htDg",
@@ -1521,6 +1521,17 @@
       "views_per_day": 0.21
     },
     {
+      "video_id": "TB42IMmVMMs",
+      "title": "The Hatch That Wasn't There Yesterday | True Scary Story",
+      "published_at": "2026-06-18T06:49:31Z",
+      "privacy_status": "public",
+      "duration_sec": 63,
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 2.0
+    },
+    {
       "video_id": "RJlujcbcnqM",
       "title": "There Is a Head-Shaped Dent in the Pillow Next to Mine Every Morning | True Scary Story",
       "published_at": "2026-06-13T17:21:58Z",
@@ -1529,7 +1540,7 @@
       "views": 2,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.44
+      "views_per_day": 0.42
     },
     {
       "video_id": "RGqJyXjM-bs",
@@ -1752,11 +1763,11 @@
       "views_per_day": 0.02
     },
     {
-      "video_id": "TB42IMmVMMs",
-      "title": "The Hatch That Wasn't There Yesterday | True Scary Story",
-      "published_at": "2026-06-18T06:49:31Z",
+      "video_id": "rLz8Jpde1X4",
+      "title": "Small Handprints On My Back Window Every Morning | True Scary Story",
+      "published_at": "2026-06-18T12:33:20Z",
       "privacy_status": "public",
-      "duration_sec": 63,
+      "duration_sec": 62,
       "views": 0,
       "likes": 0,
       "comments": 0,
