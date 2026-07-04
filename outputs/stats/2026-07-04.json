@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "snapshot_at": "2026-07-04T11:11:09.300219+00:00",
+  "snapshot_at": "2026-07-04T17:13:59.650103+00:00",
   "videos": [
     {
       "video_id": "97T2pHsRJDc",
@@ -11,7 +11,7 @@
       "views": 307,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 10.51
+      "views_per_day": 10.42
     },
     {
       "video_id": "LlN3ddk_YGs",
@@ -22,7 +22,7 @@
       "views": 296,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 5.9
+      "views_per_day": 5.87
     },
     {
       "video_id": "PQbxHGsJ2sg",
@@ -33,7 +33,7 @@
       "views": 269,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 9.12
+      "views_per_day": 9.04
     },
     {
       "video_id": "a-a198MQXWQ",
@@ -44,7 +44,7 @@
       "views": 188,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.88
+      "views_per_day": 3.86
     },
     {
       "video_id": "gj58udxbj_o",
@@ -55,7 +55,7 @@
       "views": 126,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 2.55
+      "views_per_day": 2.53
     },
     {
       "video_id": "0Xhu1uit5Nk",
@@ -66,7 +66,7 @@
       "views": 105,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.11
+      "views_per_day": 3.09
     },
     {
       "video_id": "ArKoMMWqvF4",
@@ -77,7 +77,7 @@
       "views": 99,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.9
+      "views_per_day": 2.87
     },
     {
       "video_id": "MnKx2R649PU",
@@ -88,7 +88,7 @@
       "views": 94,
       "likes": 1,
       "comments": 6,
-      "views_per_day": 2.63
+      "views_per_day": 2.62
     },
     {
       "video_id": "7Qz2wbvMBRU",
@@ -99,7 +99,18 @@
       "views": 89,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.27
+      "views_per_day": 2.26
+    },
+    {
+      "video_id": "wFPwVp1Omyg",
+      "title": "My Fitness Tracker Logs a Heart Rate Spike at 11:47 PM Every Night While I Sleep | True Scary Story",
+      "published_at": "2026-05-23T05:54:07Z",
+      "privacy_status": "public",
+      "duration_sec": 77,
+      "views": 87,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 2.05
     },
     {
       "video_id": "39rb-jDSLRo",
@@ -110,7 +121,7 @@
       "views": 86,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.09
+      "views_per_day": 2.07
     },
     {
       "video_id": "GD_JH6lo218",
@@ -121,7 +132,7 @@
       "views": 84,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.6
+      "views_per_day": 1.59
     },
     {
       "video_id": "QwX1fnnPpFM",
@@ -132,7 +143,7 @@
       "views": 83,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.33
+      "views_per_day": 2.31
     },
     {
       "video_id": "MA0yO3tm7ro",
@@ -143,7 +154,7 @@
       "views": 79,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.75
+      "views_per_day": 1.74
     },
     {
       "video_id": "kzYsToKWyxU",
@@ -154,7 +165,7 @@
       "views": 71,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.49
+      "views_per_day": 1.48
     },
     {
       "video_id": "lMk9PpCbuyY",
@@ -165,18 +176,7 @@
       "views": 69,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.81
-    },
-    {
-      "video_id": "-bZ6ZsLWnRQ",
-      "title": "My Sleep Tracker Has 43 Missing Nights. I Have No Memory of Where I Went | True Scary Story",
-      "published_at": "2026-05-09T17:08:32Z",
-      "privacy_status": "public",
-      "duration_sec": 110,
-      "views": 69,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 1.24
+      "views_per_day": 1.79
     },
     {
       "video_id": "Uwg6I0HRxDs",
@@ -187,7 +187,7 @@
       "views": 66,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.23
+      "views_per_day": 1.22
     },
     {
       "video_id": "Wp8FIHJXHS8",
@@ -198,7 +198,7 @@
       "views": 63,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.18
+      "views_per_day": 1.17
     },
     {
       "video_id": "ExNtOLm6pns",
@@ -209,7 +209,7 @@
       "views": 62,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.71
+      "views_per_day": 1.7
     },
     {
       "video_id": "yi_SNKY8ix0",
@@ -220,7 +220,18 @@
       "views": 59,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 2.15
+      "views_per_day": 2.13
+    },
+    {
+      "video_id": "PJSGf3EvS1E",
+      "title": "The Peephole in My Front Door Shows a Hallway That Is Not Mine | True Scary Story",
+      "published_at": "2026-06-12T18:07:15Z",
+      "privacy_status": "public",
+      "duration_sec": 71,
+      "views": 55,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 2.5
     },
     {
       "video_id": "gsdSUPafLiU",
@@ -231,18 +242,7 @@
       "views": 55,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.01
-    },
-    {
-      "video_id": "PJSGf3EvS1E",
-      "title": "The Peephole in My Front Door Shows a Hallway That Is Not Mine | True Scary Story",
-      "published_at": "2026-06-12T18:07:15Z",
-      "privacy_status": "public",
-      "duration_sec": 71,
-      "views": 54,
-      "likes": 1,
-      "comments": 0,
-      "views_per_day": 2.49
+      "views_per_day": 1.0
     },
     {
       "video_id": "gvJYPeqOTzg",
@@ -253,7 +253,7 @@
       "views": 49,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.1
+      "views_per_day": 1.09
     },
     {
       "video_id": "jcSDYzWqTBA",
@@ -264,7 +264,7 @@
       "views": 48,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.24
+      "views_per_day": 1.23
     },
     {
       "video_id": "2npIc2Wl5-8",
@@ -275,7 +275,7 @@
       "views": 48,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.95
+      "views_per_day": 0.94
     },
     {
       "video_id": "jC5AjOgOyPY",
@@ -297,7 +297,7 @@
       "views": 47,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.41
+      "views_per_day": 2.38
     },
     {
       "video_id": "5KeWtS1fFQ4",
@@ -308,7 +308,7 @@
       "views": 47,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.06
+      "views_per_day": 1.05
     },
     {
       "video_id": "_87wi_K3h3Y",
@@ -319,7 +319,7 @@
       "views": 41,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.24
+      "views_per_day": 1.23
     },
     {
       "video_id": "LpVzFQZUqOk",
@@ -330,7 +330,7 @@
       "views": 39,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.84
+      "views_per_day": 0.83
     },
     {
       "video_id": "C0PpdlGdEZ0",
@@ -341,7 +341,18 @@
       "views": 38,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.73
+      "views_per_day": 0.72
+    },
+    {
+      "video_id": "v-xewlTbUns",
+      "title": "My Basement TV Turns On Every Night and Plays a Channel That Does Not Exist | True Scary Story",
+      "published_at": "2026-06-14T17:19:29Z",
+      "privacy_status": "public",
+      "duration_sec": 70,
+      "views": 37,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 1.85
     },
     {
       "video_id": "92Uo_GkV2Jo",
@@ -352,18 +363,7 @@
       "views": 37,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.8
-    },
-    {
-      "video_id": "v-xewlTbUns",
-      "title": "My Basement TV Turns On Every Night and Plays a Channel That Does Not Exist | True Scary Story",
-      "published_at": "2026-06-14T17:19:29Z",
-      "privacy_status": "public",
-      "duration_sec": 70,
-      "views": 36,
-      "likes": 1,
-      "comments": 0,
-      "views_per_day": 1.82
+      "views_per_day": 0.79
     },
     {
       "video_id": "wkEgnyqRAcw",
@@ -399,6 +399,17 @@
       "views_per_day": 0.76
     },
     {
+      "video_id": "8AncuHBpg04",
+      "title": "There Is a Light Switch in My House That Controls Nothing. Last Week It Started Getting Warm. | True",
+      "published_at": "2026-06-12T12:26:31Z",
+      "privacy_status": "public",
+      "duration_sec": 74,
+      "views": 32,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 1.44
+    },
+    {
       "video_id": "rxUpjF9sa5E",
       "title": "My Downstairs Neighbor Sweeps Every Night at 2:30 AM. He Has Been Gone Nine Months. | True Scary Sto",
       "published_at": "2026-05-20T12:02:44Z",
@@ -408,17 +419,6 @@
       "likes": 0,
       "comments": 0,
       "views_per_day": 0.71
-    },
-    {
-      "video_id": "8AncuHBpg04",
-      "title": "There Is a Light Switch in My House That Controls Nothing. Last Week It Started Getting Warm. | True",
-      "published_at": "2026-06-12T12:26:31Z",
-      "privacy_status": "public",
-      "duration_sec": 74,
-      "views": 31,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 1.41
     },
     {
       "video_id": "nzZd1pi1jxA",
@@ -440,7 +440,7 @@
       "views": 30,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.41
+      "views_per_day": 1.4
     },
     {
       "video_id": "o9JqrAj2n8E",
@@ -462,7 +462,7 @@
       "views": 29,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.32
+      "views_per_day": 2.27
     },
     {
       "video_id": "jWT5kHlGaUQ",
@@ -470,10 +470,10 @@
       "published_at": "2026-06-12T06:31:20Z",
       "privacy_status": "public",
       "duration_sec": 72,
-      "views": 28,
+      "views": 29,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.26
+      "views_per_day": 1.29
     },
     {
       "video_id": "PKV0d6DAcGU",
@@ -492,10 +492,10 @@
       "published_at": "2026-06-24T11:50:29Z",
       "privacy_status": "public",
       "duration_sec": 56,
-      "views": 27,
+      "views": 26,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 2.71
+      "views_per_day": 2.54
     },
     {
       "video_id": "9-3gs5kUW_Y",
@@ -506,7 +506,7 @@
       "views": 26,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.9
+      "views_per_day": 0.89
     },
     {
       "video_id": "PkU1qkpjt2Q",
@@ -528,7 +528,7 @@
       "views": 24,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.37
+      "views_per_day": 1.35
     },
     {
       "video_id": "8R9rFDxIvLs",
@@ -539,7 +539,7 @@
       "views": 24,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.64
+      "views_per_day": 0.63
     },
     {
       "video_id": "_WmVzlQUNJU",
@@ -572,7 +572,7 @@
       "views": 23,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.87
+      "views_per_day": 0.86
     },
     {
       "video_id": "Z_wNUAUmFXQ",
@@ -583,7 +583,7 @@
       "views": 22,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.85
+      "views_per_day": 0.84
     },
     {
       "video_id": "MQ9cPHd5WaU",
@@ -605,7 +605,7 @@
       "views": 21,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.77
+      "views_per_day": 1.74
     },
     {
       "video_id": "Tl6Of7taUrI",
@@ -616,7 +616,7 @@
       "views": 21,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.65
+      "views_per_day": 1.62
     },
     {
       "video_id": "-nycnQ2EzOQ",
@@ -627,7 +627,7 @@
       "views": 21,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.92
+      "views_per_day": 0.91
     },
     {
       "video_id": "76KBT8Sz6bA",
@@ -638,7 +638,7 @@
       "views": 21,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.89
+      "views_per_day": 0.88
     },
     {
       "video_id": "mpTgdjenICI",
@@ -649,7 +649,7 @@
       "views": 21,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.82
+      "views_per_day": 0.81
     },
     {
       "video_id": "EIDNnhHM4q8",
@@ -671,18 +671,7 @@
       "views": 21,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.41
-    },
-    {
-      "video_id": "a9if5HIm2k8",
-      "title": "The Amazon Driver on My Route Has Not Aged in Eleven Years | True Scary Story",
-      "published_at": "2026-05-23T17:13:59Z",
-      "privacy_status": "public",
-      "duration_sec": 65,
-      "views": 20,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 0.48
+      "views_per_day": 0.4
     },
     {
       "video_id": "sJkZe9Hk36g",
@@ -693,7 +682,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.88
+      "views_per_day": 0.87
     },
     {
       "video_id": "0NI5nADLPTk",
@@ -715,7 +704,7 @@
       "views": 18,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.67
+      "views_per_day": 0.66
     },
     {
       "video_id": "6kE4aoPbBHk",
@@ -726,7 +715,7 @@
       "views": 17,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.61
+      "views_per_day": 2.52
     },
     {
       "video_id": "l9uZBN1bbVU",
@@ -737,7 +726,7 @@
       "views": 17,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.03
+      "views_per_day": 1.02
     },
     {
       "video_id": "tvPixSArMSI",
@@ -759,7 +748,7 @@
       "views": 16,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.88
+      "views_per_day": 1.83
     },
     {
       "video_id": "z_5MvO2dYtE",
@@ -770,7 +759,7 @@
       "views": 16,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.84
+      "views_per_day": 1.79
     },
     {
       "video_id": "1bYKA5oNs6Q",
@@ -781,7 +770,7 @@
       "views": 16,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.58
+      "views_per_day": 0.57
     },
     {
       "video_id": "MKMXnNK8BC0",
@@ -803,7 +792,7 @@
       "views": 16,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.35
+      "views_per_day": 0.34
     },
     {
       "video_id": "FyFERhTU290",
@@ -825,7 +814,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.05
+      "views_per_day": 2.9
     },
     {
       "video_id": "lPImCj2xLEQ",
@@ -836,7 +825,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.5
+      "views_per_day": 2.4
     },
     {
       "video_id": "YEIUYuu1o3w",
@@ -847,7 +836,7 @@
       "views": 15,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.83
+      "views_per_day": 1.77
     },
     {
       "video_id": "x3vgc6A2WOI",
@@ -858,7 +847,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.14
+      "views_per_day": 1.12
     },
     {
       "video_id": "pHOIHBmLuwg",
@@ -869,7 +858,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.78
+      "views_per_day": 0.77
     },
     {
       "video_id": "DbwDZpy6Z7M",
@@ -880,7 +869,7 @@
       "views": 15,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.32
+      "views_per_day": 0.31
     },
     {
       "video_id": "CQY4yR37DGY",
@@ -913,7 +902,7 @@
       "views": 14,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.59
+      "views_per_day": 0.58
     },
     {
       "video_id": "62r0D0cycJM",
@@ -924,7 +913,7 @@
       "views": 13,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 10.67
+      "views_per_day": 8.84
     },
     {
       "video_id": "FW0g3xDNgiA",
@@ -935,7 +924,7 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.9
+      "views_per_day": 0.88
     },
     {
       "video_id": "3GtItsS_gr0",
@@ -946,7 +935,18 @@
       "views": 13,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.88
+      "views_per_day": 0.87
+    },
+    {
+      "video_id": "rLz8Jpde1X4",
+      "title": "Small Handprints On My Back Window Every Morning | True Scary Story",
+      "published_at": "2026-06-18T12:33:20Z",
+      "privacy_status": "public",
+      "duration_sec": 62,
+      "views": 13,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 0.8
     },
     {
       "video_id": "Y03I0kEftxo",
@@ -957,7 +957,7 @@
       "views": 13,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.69
+      "views_per_day": 0.68
     },
     {
       "video_id": "z_1I1zkJrRA",
@@ -979,7 +979,7 @@
       "views": 12,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.03
+      "views_per_day": 1.01
     },
     {
       "video_id": "nfARX-xoDmM",
@@ -990,18 +990,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.89
-    },
-    {
-      "video_id": "rLz8Jpde1X4",
-      "title": "Small Handprints On My Back Window Every Morning | True Scary Story",
-      "published_at": "2026-06-18T12:33:20Z",
-      "privacy_status": "public",
-      "duration_sec": 62,
-      "views": 12,
-      "likes": 1,
-      "comments": 0,
-      "views_per_day": 0.75
+      "views_per_day": 0.87
     },
     {
       "video_id": "jU_7urUi10I",
@@ -1012,7 +1001,7 @@
       "views": 12,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.52
+      "views_per_day": 0.51
     },
     {
       "video_id": "S6SyHfxIiJg",
@@ -1034,7 +1023,7 @@
       "views": 12,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.46
+      "views_per_day": 0.45
     },
     {
       "video_id": "X1u1wExFrrY",
@@ -1067,7 +1056,7 @@
       "views": 11,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.85
+      "views_per_day": 0.83
     },
     {
       "video_id": "9Cx0_WI2Zks",
@@ -1078,7 +1067,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.8
+      "views_per_day": 0.79
     },
     {
       "video_id": "M82XicVH-U4",
@@ -1089,7 +1078,7 @@
       "views": 11,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.7
+      "views_per_day": 0.69
     },
     {
       "video_id": "7lxa7jkCcgU",
@@ -1100,7 +1089,7 @@
       "views": 11,
       "likes": 0,
       "comments": 2,
-      "views_per_day": 0.61
+      "views_per_day": 0.6
     },
     {
       "video_id": "YQchyu7IKoI",
@@ -1144,7 +1133,7 @@
       "views": 10,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.09
+      "views_per_day": 1.06
     },
     {
       "video_id": "OkI1hWlzyJ4",
@@ -1155,7 +1144,7 @@
       "views": 10,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.49
+      "views_per_day": 0.48
     },
     {
       "video_id": "3gmxcbtNBCU",
@@ -1188,7 +1177,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.37
+      "views_per_day": 0.36
     },
     {
       "video_id": "mDGWWZEsmew",
@@ -1221,7 +1210,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.43
+      "views_per_day": 0.42
     },
     {
       "video_id": "G9Cb36KojgY",
@@ -1243,7 +1232,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.25
+      "views_per_day": 0.24
     },
     {
       "video_id": "6LERVcXxSOY",
@@ -1257,6 +1246,17 @@
       "views_per_day": 0.23
     },
     {
+      "video_id": "pxEuOcB1tBI",
+      "title": "The Parking Level The Stairs Never Reached | True Scary Story",
+      "published_at": "2026-07-03T17:28:19Z",
+      "privacy_status": "public",
+      "duration_sec": 72,
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 8.0
+    },
+    {
       "video_id": "k294lr3cF5o",
       "title": "The Birds on My Lawn Face My Window | True Scary Story",
       "published_at": "2026-06-20T06:16:09Z",
@@ -1265,7 +1265,7 @@
       "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.56
+      "views_per_day": 0.55
     },
     {
       "video_id": "TB42IMmVMMs",
@@ -1287,7 +1287,7 @@
       "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.27
+      "views_per_day": 0.26
     },
     {
       "video_id": "fTT21fvZYOA",
@@ -1320,7 +1320,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.23
+      "views_per_day": 0.22
     },
     {
       "video_id": "WT9-im27rok",
@@ -1345,17 +1345,6 @@
       "views_per_day": 0.15
     },
     {
-      "video_id": "pxEuOcB1tBI",
-      "title": "The Parking Level The Stairs Never Reached | True Scary Story",
-      "published_at": "2026-07-03T17:28:19Z",
-      "privacy_status": "public",
-      "duration_sec": 72,
-      "views": 6,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 6.0
-    },
-    {
       "video_id": "RbGWEAKIGeY",
       "title": "There Is A Fourth Bedroom In My House | True Scary Story",
       "published_at": "2026-06-27T17:13:06Z",
@@ -1364,7 +1353,7 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.89
+      "views_per_day": 0.86
     },
     {
       "video_id": "NTTqYqadqrE",
@@ -1375,7 +1364,7 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.59
+      "views_per_day": 0.57
     },
     {
       "video_id": "AjhKOQ3UMms",
@@ -1386,7 +1375,7 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.52
+      "views_per_day": 0.51
     },
     {
       "video_id": "1tpAS7lpnhI",
@@ -1397,7 +1386,7 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.34
+      "views_per_day": 0.33
     },
     {
       "video_id": "_AEY5LxYqAY",
@@ -1430,7 +1419,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.87
+      "views_per_day": 0.83
     },
     {
       "video_id": "rwF1uDi5t2Y",
@@ -1441,7 +1430,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.81
+      "views_per_day": 0.77
     },
     {
       "video_id": "JYU6FEiODu4",
@@ -1452,7 +1441,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.63
+      "views_per_day": 0.61
     },
     {
       "video_id": "Gykzpat6KLw",
@@ -1474,7 +1463,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.27
+      "views_per_day": 0.26
     },
     {
       "video_id": "6qEwcpPJJls",
@@ -1485,7 +1474,7 @@
       "views": 5,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.25
+      "views_per_day": 0.24
     },
     {
       "video_id": "cNV26LAN3uk",
@@ -1510,6 +1499,17 @@
       "views_per_day": 0.11
     },
     {
+      "video_id": "3KMIV5ddP0Y",
+      "title": "A Pen On My Desk Writes By Itself | True Scary Story",
+      "published_at": "2026-07-04T05:43:40Z",
+      "privacy_status": "public",
+      "duration_sec": 49,
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 4.0
+    },
+    {
       "video_id": "ECPVhXnIUgQ",
       "title": "A Staircase Appeared In My Pantry | True Scary Story",
       "published_at": "2026-07-03T11:42:13Z",
@@ -1518,7 +1518,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 4.0
+      "views_per_day": 3.25
     },
     {
       "video_id": "AF8kVG30NlA",
@@ -1529,7 +1529,7 @@
       "views": 4,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.14
+      "views_per_day": 1.07
     },
     {
       "video_id": "k1qORQ9c6no",
@@ -1540,7 +1540,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.01
+      "views_per_day": 0.95
     },
     {
       "video_id": "2JXpR5uk_SM",
@@ -1551,7 +1551,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.77
+      "views_per_day": 0.73
     },
     {
       "video_id": "m5AEHPAyGX8",
@@ -1562,7 +1562,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.73
+      "views_per_day": 0.69
     },
     {
       "video_id": "eTYXvNHwIjo",
@@ -1573,7 +1573,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.37
+      "views_per_day": 0.36
     },
     {
       "video_id": "mL60tfupUrw",
@@ -1584,7 +1584,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.33
+      "views_per_day": 0.32
     },
     {
       "video_id": "0T3wYLrPkOM",
@@ -1595,7 +1595,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.29
+      "views_per_day": 0.28
     },
     {
       "video_id": "WBKCFeHsENg",
@@ -1606,7 +1606,7 @@
       "views": 4,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.17
+      "views_per_day": 0.16
     },
     {
       "video_id": "T-c6Gp5Ttig",
@@ -1628,7 +1628,7 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.67
+      "views_per_day": 0.63
     },
     {
       "video_id": "xahCFWEGfGQ",
@@ -1639,7 +1639,7 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.64
+      "views_per_day": 0.6
     },
     {
       "video_id": "DVlcFHQWVQI",
@@ -1650,7 +1650,7 @@
       "views": 3,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.32
+      "views_per_day": 0.31
     },
     {
       "video_id": "VEH3QWKl20k",
@@ -1697,6 +1697,17 @@
       "views_per_day": 0.06
     },
     {
+      "video_id": "xjweL9FyUNY",
+      "title": "My Name And A Death Date Painted On My Parking Spot | True Scary Story",
+      "published_at": "2026-07-03T23:12:39Z",
+      "privacy_status": "public",
+      "duration_sec": 58,
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 2.0
+    },
+    {
       "video_id": "G3ZQFIyS7UY",
       "title": "My Dead Phone Rings Every Night At The Same Minute | True Scary Story",
       "published_at": "2026-07-02T23:06:02Z",
@@ -1705,7 +1716,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.33
+      "views_per_day": 1.14
     },
     {
       "video_id": "FsWg4CIfXgs",
@@ -1716,7 +1727,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.01
+      "views_per_day": 0.9
     },
     {
       "video_id": "TWD-C45UD2M",
@@ -1727,7 +1738,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.68
+      "views_per_day": 0.63
     },
     {
       "video_id": "3oFiiV3IFJk",
@@ -1738,7 +1749,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.54
+      "views_per_day": 0.5
     },
     {
       "video_id": "lAGkAomLLgQ",
@@ -1749,7 +1760,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.28
+      "views_per_day": 0.27
     },
     {
       "video_id": "UNJPt0uRyNQ",
@@ -1760,7 +1771,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.27
+      "views_per_day": 0.26
     },
     {
       "video_id": "sDtNoQ8RQTI",
@@ -1771,7 +1782,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.26
+      "views_per_day": 0.25
     },
     {
       "video_id": "GwkdFlDNRRo",
@@ -1873,22 +1884,11 @@
       "views_per_day": 0.04
     },
     {
-      "video_id": "3KMIV5ddP0Y",
-      "title": "A Pen On My Desk Writes By Itself | True Scary Story",
-      "published_at": "2026-07-04T05:43:40Z",
+      "video_id": "LDNgBVJkMLY",
+      "title": "The Photos In My Frames Keep Aging | True Scary Story",
+      "published_at": "2026-07-04T11:00:27Z",
       "privacy_status": "public",
-      "duration_sec": 49,
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 1.0
-    },
-    {
-      "video_id": "xjweL9FyUNY",
-      "title": "My Name And A Death Date Painted On My Parking Spot | True Scary Story",
-      "published_at": "2026-07-03T23:12:39Z",
-      "privacy_status": "public",
-      "duration_sec": 58,
+      "duration_sec": 53,
       "views": 1,
       "likes": 0,
       "comments": 0,
@@ -1903,7 +1903,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.58
+      "views_per_day": 0.51
     },
     {
       "video_id": "LUYTdQx34EU",
@@ -1914,7 +1914,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.37
+      "views_per_day": 0.34
     },
     {
       "video_id": "Zk97mq4zvf8",
@@ -1925,7 +1925,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.24
+      "views_per_day": 0.22
     },
     {
       "video_id": "C1yuWJNDb4o",
@@ -2104,11 +2104,11 @@
       "views_per_day": 0.02
     },
     {
-      "video_id": "LDNgBVJkMLY",
-      "title": "The Photos In My Frames Keep Aging | True Scary Story",
-      "published_at": "2026-07-04T11:00:27Z",
+      "video_id": "EkOK-I92ZNw",
+      "title": "I Age Years in Every Photo | True Scary Story",
+      "published_at": "2026-07-04T17:13:30Z",
       "privacy_status": "public",
-      "duration_sec": 53,
+      "duration_sec": 54,
       "views": 0,
       "likes": 0,
       "comments": 0,
