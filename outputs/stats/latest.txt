@@ -4,14 +4,15 @@ Compared to: 2026-07-07
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
 The Spare Key Under My Flowerpot Is Replaced with a Differen     307      —     9.2    1   0     public
-There Is a Room in My House That Only Appears in the Hallway     296      —     5.5    3   0     public
-A Smoke Detector Chirps from a Hallway My Apartment Does Not     270      —     8.1    3   0     public
+There Is a Room in My House That Only Appears in the Hallway     296      —     5.4    3   0     public
+A Smoke Detector Chirps from a Hallway My Apartment Does Not     270      —     8.0    3   0     public
 My Smoke Detector Only Beeps When No One Is Home and the App     188      —     3.6    0   0     public
-My Doorbell Camera Records a Child Knocking Every Night at T     126      —     2.4    2   0     public
+My Doorbell Camera Records a Child Knocking Every Night at T     126      —     2.3    2   0     public
 My Morning Newspaper Arrives With Tomorrow's Date. The Stori     105      —     2.8    0   0     public
 My Neighbors Are on Vacation but Their Kitchen Light Still T      99      —     2.6    1   0     public
 I Bought a Thrift Store Film Camera. The Roll Inside Holds P      94      —     2.4    1   6     public
-The Snack Aisle at My Grocery Store Has Been Moving One Sect      89      —     2.1    0   0     public
+I Bought a Thrift Store Film Camera. The Roll Inside Holds P      94      —     2.4    1   6     public
+The Snack Aisle at My Grocery Store Has Been Moving One Sect      89      —     2.0    0   0     public
 My Fitness Tracker Logs a Heart Rate Spike at 11:47 PM Every      87      —     1.9    0   0     public
 My Doorbell Logs Motion Every Night at 3:17 AM. The Porch Is      86      —     1.9    0   0     public
 My Microwave Clock Shows 88:88 Every Night at Exactly 2 AM |      83      —     2.1    0   0     public
@@ -20,7 +21,7 @@ Every Wedding Photo on Our Wall Shows a Fifth Person Standin      71      —   
 My HOA Newsletter Has Been Listing My House With a Different      69      —     1.6    0   0     public
 My Library Card Has Been Checking Out Books for Two Years in      62      —     1.5    0   0     public
 My Backyard Is Bigger Every Time I Mow It | True Scary Story      59      —     1.9    2   0     public
-The Peephole in My Front Door Shows a Hallway That Is Not Mi      58      —     2.3    1   0     public
+The Peephole in My Front Door Shows a Hallway That Is Not Mi      58      —     2.2    1   0     public
 My Building's Elevator Stops at Floor 13 Every Thursday at 7      49      —     1.0    0   0     public
 When My TV Is Off, the Black Screen Reflects a Room That Is       48      —     2.0    1   0     public
 There Is a Wear Pattern in My Hallway Carpet That Leads to a      48      —     1.1    0   0     public
@@ -32,15 +33,15 @@ There Is a Light Switch in My House That Controls Nothing. L      39     +4     
 My Calendar Has a Recurring Friday Meeting I Did Not Create       39      —     0.8    0   0     public
 My Cat Brings Me Antique Objects Every Morning From a Baseme      37      —     0.7    0   0     public
 My House Key Fits a Stranger's Front Door Three Blocks Away       36      —     0.7    1   0     public
-There Is a Contact in My Phone I Did Not Add. The Photo Is M      34      —     0.9    1   0     public
-A Car Has Been Parked Across the Street Every Night for a Mo      33      —     1.3    1   0     public
+There Is a Contact in My Phone I Did Not Add. The Photo Is M      35     +1     1.0    1   0     public
+A Car Has Been Parked Across the Street Every Night for a Mo      33      —     1.2    1   0     public
 The Closet Light in My Apartment Is On Every Morning. The Fi      33      —     0.7    0   0     public
 My Downstairs Neighbor Sweeps Every Night at 2:30 AM. He Has      32      —     0.7    0   0     public
 My Building's Stairwell Loses a Floor Between 4 and 5 Every       31      —     0.9    0   0     public
 The Word HELLO Appears in the Steam on My Bathroom Mirror Ev      31      —     0.6    0   0     public
 My Reflection Blinks a Second After I Do | True Scary Story       30      —     1.2    0   0     public
-My Car Stalls At The Same House Every Time | True Scary Stor      29      —     1.8    0   0     public
-My Dog Won't Enter This Corner of the Yard | True Scary Stor      26      —     1.9    1   0     public
+My Car Stalls At The Same House Every Time | True Scary Stor      29      —     1.7    0   0     public
+My Dog Won't Enter This Corner of the Yard | True Scary Stor      26      —     1.8    1   0     public
 My Spotify Plays a Podcast Every Night at 3 AM That Does Not      26      —     0.8    0   0     public
 A Row of Footprints Leads from My Back Porch to My Fence. Th      25      —     0.6    0   0     public
 I Bought an Old House at Auction. The Previous Owner Had Nai      24      —     1.1    1   0     public
@@ -57,41 +58,40 @@ Every Face In My Camera Roll Is Being Scratched Out | True S      21      —   
 The Knives in My Kitchen Rearrange Themselves by Size Every       21      —     0.8    0   0     public
 My Ceiling Fan Rotates Counterclockwise Every Sunday. The Ch      21      —     0.4    0   0     public
 The Amazon Driver on My Route Has Not Aged in Eleven Years |      20      —     0.4    0   0     public
-All My Houseplants Lean Toward One Empty Corner of the Room       19      —     0.8    0   0     public
+All My Houseplants Lean Toward One Empty Corner of the Room       19      —     0.7    0   0     public
 There Are Photos on My Phone Taken Inside My House While I W      19      —     0.7    0   0     public
 My Glasses Get Stronger Every Morning | True Scary Story          18     +3     1.8    0   0     public
 My Phone Records My Ceiling Every Night While I Sleep | True      18      —     1.7    0   0     public
 The Button For A Floor That Doesn't Exist | True Scary Story      18      —     1.4    0   0     public
 The Alarm I Never Set | True Scary Story                          17      —     0.8    1   0     public
 My Grocery Receipt Listed Items I Never Bought at Prices fro      17      —     0.5    0   0     public
-The Parking Level The Stairs Never Reached | True Scary Stor      16      —     3.4    0   0     public
-The Empty Hangers In My Closet Swing By Themselves | True Sc      16      —     1.8    0   0     public
-The Escalator That Went Too Far Down | True Scary Story           16      —     1.3    1   0     public
+The Parking Level The Stairs Never Reached | True Scary Stor      16      —     3.2    0   0     public
+The Empty Hangers In My Closet Swing By Themselves | True Sc      16      —     1.7    0   0     public
+The Escalator That Went Too Far Down | True Scary Story           16      —     1.2    1   0     public
 My Thermostat Resets Itself to 68 Every Night at Exactly 3:1      16      —     0.5    0   0     public
 I Throw Out the Same Expired Can of Soup Every Week and It K      16      —     0.4    0   0     public
 Our Family Christmas Card from 1998 Has Gained an Extra Chil      16      —     0.3    0   0     public
 My Porch Keeps Growing One More Step | True Scary Story           15      —     1.2    1   0     public
 The Passenger Who Got Off One Step Behind Me | True Scary St      15      —     0.9    0   0     public
-There Is a Voicemail Saved on My Phone in My Own Voice That       15      —     0.7    0   0     public
+There Is a Voicemail Saved on My Phone in My Own Voice That       15      —     0.6    0   0     public
 Letters In My Mailbox Are Addressed To People Who Never Live      15      —     0.3    0   0     public
 I Found a Roll of Undeveloped Film in My Dead Grandmother's       15      —     0.3    0   0     public
 My Hallway Wallpaper Has Been Peeling in a Pattern That Spel      14      —     0.6    1   0     public
 There Are Muddy Work Clothes in My Hamper Every Monday. I Wo      14      —     0.5    0   0     public
 There Is a Clean Rectangle on My Garage Floor Where a Second      14      —     0.5    1   0     public
 My Closet Is Deeper on the Inside Than the Wall Outside Allo      14      —     0.5    0   0     public
-Cold Air Came Out Of My Outlet | True Scary Story                 13      —     2.5    1   0     public
+Gas Receipts From A Station Closed Twenty Years Ago | True S      13     +3     4.3    0   0     public
+Cold Air Came Out Of My Outlet | True Scary Story                 13      —     2.4    1   0     public
 Every Clock In My House Runs Backward At Three AM | True Sca      13      —     0.8    1   0     public
 My Bathtub Fills With Warm Water By Itself Every Night | Tru      13      —     0.7    0   0     public
 My Bathroom Locked Itself From Inside | True Scary Story          13      —     0.7    0   0     public
-Small Handprints On My Back Window Every Morning | True Scar      13      —     0.7    1   0     public
+Small Handprints On My Back Window Every Morning | True Scar      13      —     0.6    1   0     public
 The Hallway in My House Gets Longer at Night | True Scary St      13      —     0.5    1   0     public
 My Phone Call Log Shows a Three Minute Call Every Tuesday at      13      —     0.2    0   0     public
 The Sealed Fireplace Is Still Burning | True Scary Story          12      —     0.7    0   0     public
 My Staircase Has Fourteen Steps. Some Nights There Are Fifte      12      —     0.4    0   0     public
 Everything in My Refrigerator Expires on the Exact Same Day       12      —     0.4    0   0     public
-I Worked at a Remote Weather Station and Something Started L      12      —     0.2    0   0     public
-Gas Receipts From A Station Closed Twenty Years Ago | True S      11     +1     4.0    0   0     public
-My Calendar Is Missing The Same Day Every Month | True Scary      11      —     0.7    1   0     public
+My Calendar Is Missing The Same Day Every Month | True Scary      11      —     0.6    1   0     public
 The Warm Mug With My Name Each Morning | True Scary Story         11      —     0.6    0   0     public
 My Back Seat Is Soaked With Lake Water Every Morning | True       11      —     0.6    0   0     public
 My Wife Reads Aloud in Her Sleep. A Different Page Each Nigh      11      —     0.5    0   2     public
@@ -100,40 +100,39 @@ Every Morning There Is an Extra Pair of Shoes by My Front Do      11      —   
 The Street Signs on My Block Have Been Changing One Letter a      11      —     0.3    0   0     public
 My Sister Has Been Sending Me the Same Photo Every Sunday fr      11      —     0.3    0   0     public
 My Dishwasher Only Finishes Its Cycle When I Am Asleep. It S      11      —     0.2    0   0     public
-My Printer Prints A Photo From Inside My House Each Night |       10      —     3.1    0   0     public
-Tire Tracks in My Driveway, But No Car | True Scary Story         10      —     0.8    1   0     public
+My Printer Prints A Photo From Inside My House Each Night |       10      —     2.9    0   0     public
+Tire Tracks in My Driveway, But No Car | True Scary Story         10      —     0.7    1   0     public
 A Wet Handprint Appears on the Inside of My Shower Glass Whi      10      —     0.4    1   0     public
 My Mailbox Keeps Getting Letters Addressed to Me, From Me, P      10      —     0.4    0   0     public
 Every Book on My Shelf Is Dog-Eared on the Same Page. I Neve      10      —     0.3    0   0     public
 A Grey Sedan Has Been in My Grocery Store Lot Every Single V      10      —     0.2    0   0     public
-The Scarecrow Is Getting Closer | True Scary Story                 9     +1     5.3    0   0     public
-Every Laundromat I Use Returns Children's Clothes That Are N       9      —     0.2    0   0     public
+The Scarecrow Is Getting Closer | True Scary Story                 9     +1     4.5    0   0     public
 The Tools on My Garage Workbench Rearrange into Letters Ever       9      —     0.2    0   0     public
+My Car Radio Read My License Plate Out Loud | True Scary Sto       8     +1     2.5    1   0     public
 The Birds on My Lawn Face My Window | True Scary Story             8      —     0.4    0   0     public
 The Hatch That Wasn't There Yesterday | True Scary Story           8      —     0.4    0   0     public
 Every Recipe in My Grandmother's Recipe Box Has Been Altered       8      —     0.2    0   0     public
 Same House. Ten Years. Same Customer. He Gets Younger Every        8      —     0.2    0   0     public
-My Car Radio Read My License Plate Out Loud | True Scary Sto       7      —     2.3    1   0     public
 The Streetlight Outside My Window Has Been Broken Six Months       7      —     0.2    0   0     public
 Wet Footprints Lead Out of My Pool. It Has Been Drained Six        7      —     0.2    0   0     public
 My Building's Fire Escape Ends Three Feet Above the Ground a       7      —     0.1    0   0     public
 My Doctor's Office Has Been Calling About Appointments I Do        7      —     0.1    0   0     public
-The Stall That Was Always Occupied | True Scary Story              6      —     2.7    0   0     public
-My Reflection Walks a Step Behind Me | True Scary Story            6      —     2.4    0   0     public
-Someone Keeps Changing My Porch Light | True Scary Story           6      —     1.7    0   0     public
-The Photos In My Frames Keep Aging | True Scary Story              6      —     1.5    0   0     public
-There Is A Fourth Bedroom In My House | True Scary Story           6      —     0.6    0   0     public
+The Stall That Was Always Occupied | True Scary Story              6      —     2.4    0   0     public
+My Reflection Walks a Step Behind Me | True Scary Story            6      —     2.2    0   0     public
+Someone Keeps Changing My Porch Light | True Scary Story           6      —     1.6    0   0     public
+The Photos In My Frames Keep Aging | True Scary Story              6      —     1.4    0   0     public
+There Is A Fourth Bedroom In My House | True Scary Story           6      —     0.5    0   0     public
 The Same Hitchhiker On My Dashcam Every Night | True Scary S       6      —     0.4    0   0     public
 The Clothes I Never Bought | True Scary Story                      6      —     0.4    0   0     public
 The Wind Chime in My Backyard Rings Only When There Is No Wi       6      —     0.3    0   0     public
 My Welcome Mat Moves Four Feet to the Left Every Tuesday Nig       6      —     0.3    0   0     public
 The Back Left Burner on My Stove Is Warm Every Night. The Ga       6      —     0.2    0   0     public
-I Age Years in Every Photo | True Scary Story                      5      —     1.3    0   0     public
+I Age Years in Every Photo | True Scary Story                      5      —     1.2    0   0     public
 The Glass By My Bed | True Scary Story                             5      —     0.8    0   0     public
 My GPS Says Home Is An Address I Never Lived At | True Scary       5      —     0.5    0   0     public
 The Garden Gnome I Never Bought | True Scary Story                 5      —     0.5    0   0     public
 My Faucet Dripped The Same Word | True Scary Story                 5      —     0.4    0   0     public
-The Hole in My Yard Gets Deeper | True Scary Story                 5      —     0.3    0   0     public
+The Hole in My Yard Gets Deeper | True Scary Story                 5      —     0.2    0   0     public
 A Man Has Been Appearing in My Parents Wedding Photos and Mo       5      —     0.2    0   0     public
 I Wake Up Tucked Into Bed So Tightly I Cannot Move. I Live A       5      —     0.2    1   0     public
 Every Morning My Car Seat Is Adjusted for Someone Taller Tha       5      —     0.2    0   0     public
@@ -149,8 +148,8 @@ Footsteps Above The Top Floor | True Scary Story                   4      —   
 Something Pulls My Blanket | True Scary Story                      4      —     0.2    0   0     public
 There Is a Grocery List on My Fridge in My Handwriting for F       4      —     0.1    0   0     public
 I Keep Finding Receipts in My Jacket Pockets for Places I Ha       4      —     0.1    0   0     public
-A Ring Of Salt Appears Around My Bed Every Morning | True Sc       3      —     1.6    0   0     public
-My Dead Phone Rings Every Night At The Same Minute | True Sc       3      —     0.6    0   0     public
+A Ring Of Salt Appears Around My Bed Every Morning | True Sc       3      —     1.4    0   0     public
+My Dead Phone Rings Every Night At The Same Minute | True Sc       3      —     0.5    0   0     public
 My House Keys Are Warm Every Morning | True Scary Story            3      —     0.4    0   0     public
 My Coat Pockets Fill With Grave Dirt | True Scary Story            3      —     0.3    0   0     public
 Three Knocks Inside My Headboard | True Scary Story                3      —     0.3    0   0     public
@@ -160,7 +159,7 @@ There Is a Passenger in My Rearview Mirror at Every Red Ligh       3      —   
 The Neighbor's Child Waves at My Upstairs Window Every Morni       3      —     0.1    0   0     public
 I Bought a Used Paperback. The Margin Notes Are in My Handwr       3      —     0.1    0   0     public
 My Security Camera Saves 47 Seconds of Footage Every Night a       3      —     0.1    0   0     public
-A Second Toothbrush Kept Appearing | True Scary Story              2      —     1.3    0   0     public
+A Second Toothbrush Kept Appearing | True Scary Story              2      —     1.1    0   0     public
 My Name And A Death Date Painted On My Parking Spot | True S       2      —     0.4    0   0     public
 My Medicine Cabinet Rearranged Itself | True Scary Story           2      —     0.3    0   0     public
 A For Sale Sign Appeared in My Yard | True Scary Story             2      —     0.2    0   0     public
@@ -175,6 +174,8 @@ I Found a Vending Machine Route Binder Signed in My Own Hand       2      —   
 A Grey Sedan Has Been Ahead of Me Every Morning for 8 Months       2      —     0.0    0   0     public
 I Inherited My Grandmother's House and the Neighbors Think I       2      —     0.0    0   0     public
 My Dog Barks at the Exact Same Spot in the Kitchen at Eleven       2      —     0.0    0   0     public
+The Figure In My Side Mirror Gets Closer Each Day | True Sca       1      —     1.0    0   0     public
+A Silhouette Behind My Shower Curtain | True Scary Story           1      —     1.0    0   0     public
 My Shadow Falls the Wrong Way | True Scary Story                   1     +1     1.0    0   0     public
 The Desk With My Name I Never Sat At | True Scary Story            1      —     0.2    0   0     public
 Words Appeared In My Mirror Fog | True Scary Story                 1      —     0.1    0   0     public
@@ -195,8 +196,7 @@ My Garage Door Opens Every Tuesday at 6:14 AM and We Don't H       1      —   
 The Landline in My New House Describes My Day Before It Happ       1      —     0.0    0   0     public
 I Bought a Box of Cassettes at a Yard Sale. Every Tape Plays       1      —     0.0    0   0     public
 My Bedroom Ceiling Has a Water Stain in the Shape of My Own        1      —     0.0    0   0     public
-The Figure In My Side Mirror Gets Closer Each Day | True Sca       0      —     0.0    0   0     public
-A Silhouette Behind My Shower Curtain | True Scary Story           0      —     0.0    0   0     public
+My Skylight Shows The Wrong Sky | True Scary Story                 0      —     0.0    0   0     public
 My Shadow Falls the Wrong Way | True Scary Story                   0      —     0.0    0   0     public
 Every Curtain on My Street Closes at Once | True Scary Story       0      —     0.0    0   0     public
 My Bank Charged Me Nineteen Dollars a Month for Eleven Years       0      —     0.0    0   0     public
